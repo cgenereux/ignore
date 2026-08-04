@@ -1,7 +1,7 @@
 {
   "ticker": "AXSM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:39:24+00:00",
+  "generatedAt": "2026-08-04T03:12:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

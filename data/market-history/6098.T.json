@@ -1,7 +1,7 @@
 {
   "ticker": "6098.T",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:58:56+00:00",
+  "generatedAt": "2026-08-04T03:27:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

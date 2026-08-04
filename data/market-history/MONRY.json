@@ -1,7 +1,7 @@
 {
   "ticker": "MONRY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:01:16+00:00",
+  "generatedAt": "2026-08-04T03:29:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2958,7 +2958,7 @@
     ],
     [
       "2026-08-03",
-      57.459999,
+      57.490002,
       0,
       null
     ]

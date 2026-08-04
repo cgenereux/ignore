@@ -1,7 +1,7 @@
 {
   "ticker": "MPNGY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:59:42+00:00",
+  "generatedAt": "2026-08-04T03:28:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10170,7 +10170,7 @@
     ],
     [
       "2026-08-03",
-      23.780001,
+      23.719999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "HDLMY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:01:07+00:00",
+  "generatedAt": "2026-08-04T03:29:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23742,7 +23742,7 @@
     ],
     [
       "2026-08-03",
-      37.27,
+      37.25,
       0,
       null
     ]

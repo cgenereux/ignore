@@ -1,7 +1,7 @@
 {
   "ticker": "NTR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:35:53+00:00",
+  "generatedAt": "2026-08-04T03:09:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

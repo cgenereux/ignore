@@ -1,7 +1,7 @@
 {
   "ticker": "SOBO",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:42:42+00:00",
+  "generatedAt": "2026-08-04T03:14:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

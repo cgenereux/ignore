@@ -1,7 +1,7 @@
 {
   "ticker": "GSK.L",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:58:55+00:00",
+  "generatedAt": "2026-08-04T03:27:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

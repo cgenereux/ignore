@@ -1,7 +1,7 @@
 {
   "ticker": "IFNNY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:59:22+00:00",
+  "generatedAt": "2026-08-04T03:28:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39828,7 +39828,7 @@
     ],
     [
       "2026-08-03",
-      71.169998,
+      71.199997,
       0,
       null
     ]

@@ -8,6 +8,10 @@ free GitHub Actions minutes.
 
 - `data/market-history/` — one JSON file per ticker: daily close, dividend,
   and market cap since listing (USD).
+- `data/adjusted/` — one JSON file per ticker of bare [date, adjustedClose]
+  pairs (dividend- and split-adjusted, USD) for the portfolio backtester.
+  Rebases whenever a dividend goes ex; the nightly job detects that via the
+  adjusted-overlap check and fully refetches the ticker.
 - `data/registry.json` — tickers, CIKs, and quarterly share observations the
   updater needs. Regenerated from the private repo
   (`node scripts/export-market-registry.mjs`) whenever companies change.

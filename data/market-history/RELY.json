@@ -1,7 +1,7 @@
 {
   "ticker": "RELY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:47:51+00:00",
+  "generatedAt": "2026-08-04T03:18:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

@@ -1,7 +1,7 @@
 {
   "ticker": "ESNT",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:45:11+00:00",
+  "generatedAt": "2026-08-04T03:16:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

@@ -1,7 +1,7 @@
 {
   "ticker": "GEO",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:50:14+00:00",
+  "generatedAt": "2026-08-04T03:20:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

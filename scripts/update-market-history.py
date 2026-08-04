@@ -60,7 +60,11 @@ REGISTRY_PATH = ROOT / "data" / "registry.json"
 # no market caps, so these skip the SEC and shares machinery entirely.
 BACKTEST_PATH = ROOT / "data" / "backtest-tickers.json"
 OUTPUT_DIRECTORY = ROOT / "data" / "market-history"
-DEFAULT_START = "1970-01-01"
+# Dividend-and-split-adjusted closes for the portfolio backtester, one bare
+# [[date, adjClose], ...] file per ticker. Rebases whenever a dividend goes
+# ex, so the incremental path full-refetches on any adjusted-overlap drift.
+ADJUSTED_DIRECTORY = ROOT / "data" / "adjusted"
+DEFAULT_START = "1925-01-01"
 FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}"
 # FRED stalls on browser user agents and answers a plain one immediately.
 FRED_USER_AGENT = "fiscal-dashboard/1.0"
@@ -1042,6 +1046,7 @@ def fetch_market_history(
 
     shares_index = 0
     current_adjusted_shares: float | None = None
+    adjusted_close_rows: list[list] = []
     for timestamp, row in history.sort_index().iterrows():
         trading_date = date_string(timestamp)
         while (
@@ -1060,12 +1065,15 @@ def fetch_market_history(
             dividend -
             KNOWN_SPECIAL_DIVIDENDS.get(ticker, {}).get(trading_date, 0),
         )
+        adjusted_close = finite_number(row.get("Adj Close"))
         if to_usd is not None:
             rate = to_usd(trading_date)
             if rate is None:
                 continue  # no published rate yet for this listing
             close *= rate
             dividend *= rate
+            if adjusted_close is not None:
+                adjusted_close *= rate
         market_cap = (
             close * current_adjusted_shares
             if current_adjusted_shares is not None
@@ -1077,6 +1085,10 @@ def fetch_market_history(
             round_number(dividend, 8),
             round_number(market_cap, 0),
         ]
+        if adjusted_close is not None and adjusted_close > 0:
+            adjusted_close_rows.append(
+                [trading_date, round_number(adjusted_close, 6)]
+            )
 
     payload_source = "Yahoo Finance via yfinance"
     if ticker in RENAMED_TICKER_PREDECESSORS:
@@ -1101,6 +1113,8 @@ def fetch_market_history(
         "schema": ["date", "close", "dividend", "marketCap"],
         "daily": [daily_by_date[key] for key in sorted(daily_by_date)],
         "sharesOutstanding": shares_rows,
+        # Written to ADJUSTED_DIRECTORY by the caller, not into this file.
+        "_adjustedDaily": adjusted_close_rows,
     }
 
 
@@ -1145,6 +1159,9 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
     payload = load_json(path)
     if not isinstance(payload, dict) or not payload.get("daily"):
         raise FullRefetchNeeded("no usable stored history")
+    adjusted_rows = load_json(ADJUSTED_DIRECTORY / f"{ticker}.json")
+    if not isinstance(adjusted_rows, list) or not adjusted_rows:
+        raise FullRefetchNeeded("no stored adjusted series")
     daily = payload["daily"]
     last_date = daily[-1][0]
     end_inclusive = (date.fromisoformat(end) - timedelta(days=1)).isoformat()
@@ -1172,12 +1189,19 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
         raise FullRefetchNeeded("no recent history returned")
 
     stored_by_date = {row[0]: row for row in daily if isinstance(row, list)}
+    stored_adjusted_by_date = {
+        row[0]: finite_number(row[1])
+        for row in adjusted_rows
+        if isinstance(row, list) and len(row) >= 2
+    }
+    last_adjusted_date = adjusted_rows[-1][0]
     shares_rows = payload.get("sharesOutstanding") or []
     current_adjusted_shares = (
         finite_number(shares_rows[-1][2]) if shares_rows else None
     )
 
     appended = []
+    appended_adjusted = []
     for timestamp, row in history.sort_index().iterrows():
         trading_date = date_string(timestamp)
         split_ratio = finite_number(row.get("Stock Splits")) or 0
@@ -1192,12 +1216,15 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
             dividend
             - KNOWN_SPECIAL_DIVIDENDS.get(ticker, {}).get(trading_date, 0),
         )
+        adjusted_close = finite_number(row.get("Adj Close"))
         if to_usd is not None:
             rate = to_usd(trading_date)
             if rate is None:
                 continue  # no published rate yet for this listing
             close *= rate
             dividend *= rate
+            if adjusted_close is not None:
+                adjusted_close *= rate
         stored = stored_by_date.get(trading_date)
         if stored is not None:
             stored_close = finite_number(stored[1])
@@ -1208,6 +1235,18 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
             ):
                 raise FullRefetchNeeded(
                     f"stored close diverged on {trading_date}"
+                )
+            # A dividend going ex rebases every earlier adjusted close, so any
+            # drift in the adjusted overlap means the whole series moved.
+            stored_adjusted = stored_adjusted_by_date.get(trading_date)
+            if (
+                stored_adjusted
+                and adjusted_close
+                and abs(adjusted_close / stored_adjusted - 1)
+                > INCREMENTAL_CLOSE_TOLERANCE
+            ):
+                raise FullRefetchNeeded(
+                    f"adjusted series rebased as of {trading_date}"
                 )
             continue
         if trading_date <= last_date:
@@ -1225,13 +1264,22 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
                 round_number(market_cap, 0),
             ]
         )
+        if (
+            adjusted_close is not None
+            and adjusted_close > 0
+            and trading_date > last_adjusted_date
+        ):
+            appended_adjusted.append(
+                [trading_date, round_number(adjusted_close, 6)]
+            )
 
-    if not appended:
+    if not appended and not appended_adjusted:
         return None
     payload["daily"] = daily + appended
     payload["generatedAt"] = (
         datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     )
+    payload["_adjustedDaily"] = adjusted_rows + appended_adjusted
     return payload
 
 
@@ -1538,7 +1586,12 @@ def main() -> None:
                     successes += 1
                     time.sleep(max(args.sleep_ms, 0) / 1000)
                     continue
+            adjusted_daily = payload.pop("_adjustedDaily", None)
             write_json(OUTPUT_DIRECTORY / f"{ticker}.json", payload)
+            if adjusted_daily:
+                write_json(
+                    ADJUSTED_DIRECTORY / f"{ticker}.json", adjusted_daily
+                )
             first = payload["daily"][0][0]
             last = payload["daily"][-1][0]
             market_cap_rows = sum(row[3] is not None for row in payload["daily"])

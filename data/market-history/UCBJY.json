@@ -1,7 +1,7 @@
 {
   "ticker": "UCBJY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:01:03+00:00",
+  "generatedAt": "2026-08-04T03:29:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21114,7 +21114,7 @@
     ],
     [
       "2026-08-03",
-      127.389999,
+      127.410004,
       0,
       null
     ]

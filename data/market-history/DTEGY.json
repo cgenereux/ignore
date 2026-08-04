@@ -1,7 +1,7 @@
 {
   "ticker": "DTEGY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:59:19+00:00",
+  "generatedAt": "2026-08-04T03:28:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44838,7 +44838,7 @@
     ],
     [
       "2026-08-03",
-      32.439999,
+      32.450001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "EPOAY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:01:20+00:00",
+  "generatedAt": "2026-08-04T03:29:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11760,7 +11760,7 @@
     ],
     [
       "2026-08-03",
-      25.790001,
+      25.780001,
       0,
       null
     ]

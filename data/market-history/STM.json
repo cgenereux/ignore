@@ -1,7 +1,7 @@
 {
   "ticker": "STM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:35:25+00:00",
+  "generatedAt": "2026-08-04T03:08:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

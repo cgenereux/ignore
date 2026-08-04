@@ -1,7 +1,7 @@
 {
   "ticker": "SFTBY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:58:57+00:00",
+  "generatedAt": "2026-08-04T03:27:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23328,7 +23328,7 @@
     ],
     [
       "2026-08-03",
-      16.629999,
+      16.59,
       0,
       null
     ]

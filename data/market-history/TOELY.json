@@ -1,7 +1,7 @@
 {
   "ticker": "TOELY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:59:45+00:00",
+  "generatedAt": "2026-08-04T03:28:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25020,7 +25020,7 @@
     ],
     [
       "2026-08-03",
-      175.089996,
+      175.869995,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "OSCR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:41:01+00:00",
+  "generatedAt": "2026-08-04T03:13:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

@@ -1,7 +1,7 @@
 {
   "ticker": "688825.SS",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:57:23+00:00",
+  "generatedAt": "2026-08-04T03:26:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

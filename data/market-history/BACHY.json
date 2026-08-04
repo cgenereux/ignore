@@ -1,7 +1,7 @@
 {
   "ticker": "BACHY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T01:59:09+00:00",
+  "generatedAt": "2026-08-04T03:27:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25044,7 +25044,7 @@
     ],
     [
       "2026-08-03",
-      17.459999,
+      17.41,
       0,
       null
     ]
