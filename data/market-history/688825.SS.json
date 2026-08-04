@@ -1,0 +1,51 @@
+{
+  "ticker": "688825.SS",
+  "currency": "USD",
+  "generatedAt": "2026-08-04T01:57:23+00:00",
+  "source": "Yahoo Finance via yfinance",
+  "schema": [
+    "date",
+    "close",
+    "dividend",
+    "marketCap"
+  ],
+  "daily": [
+    [
+      "2026-07-27",
+      49.0,
+      0,
+      null
+    ],
+    [
+      "2026-07-28",
+      47.0,
+      0,
+      null
+    ],
+    [
+      "2026-07-29",
+      52.950001,
+      0,
+      null
+    ],
+    [
+      "2026-07-30",
+      52.869999,
+      0,
+      null
+    ],
+    [
+      "2026-07-31",
+      53.970001,
+      0,
+      null
+    ],
+    [
+      "2026-08-03",
+      54.990002,
+      0,
+      null
+    ]
+  ],
+  "sharesOutstanding": []
+}
