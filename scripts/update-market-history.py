@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import io
 import json
 import math
@@ -183,10 +184,14 @@ def is_share_scale_revision(first: float, revision: float) -> bool:
     return power >= 1 and abs(ratio / (1_000**power) - 1) <= 0.05
 
 
-def round_number(value: float | None, digits: int) -> float | None:
+def round_number(value: float | None, digits: int) -> float | int | None:
     if value is None:
         return None
-    return round(value, digits)
+    rounded = round(float(value), digits)
+    # round(x, 0) keeps the float type, and numpy inputs keep numpy types
+    # whose JSON form drifts between environments ("1.0" vs "1"). Whole-number
+    # columns serialize as integers everywhere.
+    return int(rounded) if digits == 0 else rounded
 
 
 def date_string(value) -> str:
@@ -1087,6 +1092,129 @@ def write_json(path: Path, payload: dict) -> None:
     )
 
 
+INCREMENTAL_OVERLAP_DAYS = 10
+INCREMENTAL_REGEN_BUCKETS = 28
+INCREMENTAL_CLOSE_TOLERANCE = 0.002
+FULL_REFETCH = object()
+
+
+class FullRefetchNeeded(RuntimeError):
+    """The append path cannot safely extend the stored history."""
+
+
+def regen_due(ticker: str, on_date: date) -> bool:
+    """Deterministic rolling rebuild: each ticker lands in one of 28 daily
+    buckets by hash, so every file is fully regenerated about once a month
+    without any state to maintain. Days 29-31 revisit the first buckets."""
+    bucket = int.from_bytes(hashlib.sha1(ticker.encode()).digest()[:4], "big")
+    return bucket % INCREMENTAL_REGEN_BUCKETS == (on_date.day - 1) % INCREMENTAL_REGEN_BUCKETS
+
+
+def incremental_market_history(ticker: str, end: str) -> dict | None:
+    """Append recent closes to the stored file, or raise FullRefetchNeeded.
+
+    Returns None when the stored file is already current. The append trusts
+    the stored share basis and split state; any sign either moved -- a split
+    event after the stored end, or an overlap close that no longer matches
+    Yahoo's -- falls back to the full pipeline. Days Yahoo serves inside the
+    stored range that the file lacks are left alone: the file may have
+    dropped them deliberately (no FX rate yet), and the monthly rebuild
+    reconciles them.
+    """
+    path = OUTPUT_DIRECTORY / f"{ticker}.json"
+    payload = load_json(path)
+    if not isinstance(payload, dict) or not payload.get("daily"):
+        raise FullRefetchNeeded("no usable stored history")
+    daily = payload["daily"]
+    last_date = daily[-1][0]
+    end_inclusive = (date.fromisoformat(end) - timedelta(days=1)).isoformat()
+    if last_date >= end_inclusive:
+        return None
+
+    listing = FOREIGN_LISTINGS.get(ticker)
+    symbol = listing["symbol"] if listing else ticker
+    to_usd = (
+        rate_lookup(usd_rates(listing["series"], listing["perUsd"]))
+        if listing
+        else None
+    )
+    overlap_start = (
+        date.fromisoformat(last_date) - timedelta(days=INCREMENTAL_OVERLAP_DAYS)
+    ).isoformat()
+    history = yf.Ticker(symbol).history(
+        start=overlap_start,
+        end=end,
+        auto_adjust=False,
+        actions=True,
+        repair=False,
+    )
+    if history.empty:
+        raise FullRefetchNeeded("no recent history returned")
+
+    stored_by_date = {row[0]: row for row in daily if isinstance(row, list)}
+    shares_rows = payload.get("sharesOutstanding") or []
+    current_adjusted_shares = (
+        finite_number(shares_rows[-1][2]) if shares_rows else None
+    )
+
+    appended = []
+    for timestamp, row in history.sort_index().iterrows():
+        trading_date = date_string(timestamp)
+        split_ratio = finite_number(row.get("Stock Splits")) or 0
+        if split_ratio > 0 and trading_date > last_date:
+            raise FullRefetchNeeded(f"split {split_ratio} on {trading_date}")
+        close = finite_number(row.get("Close"))
+        if close is None:
+            continue
+        dividend = finite_number(row.get("Dividends")) or 0
+        dividend = max(
+            0,
+            dividend
+            - KNOWN_SPECIAL_DIVIDENDS.get(ticker, {}).get(trading_date, 0),
+        )
+        if to_usd is not None:
+            rate = to_usd(trading_date)
+            if rate is None:
+                continue  # no published rate yet for this listing
+            close *= rate
+            dividend *= rate
+        stored = stored_by_date.get(trading_date)
+        if stored is not None:
+            stored_close = finite_number(stored[1])
+            if (
+                stored_close
+                and close
+                and abs(close / stored_close - 1) > INCREMENTAL_CLOSE_TOLERANCE
+            ):
+                raise FullRefetchNeeded(
+                    f"stored close diverged on {trading_date}"
+                )
+            continue
+        if trading_date <= last_date:
+            continue
+        market_cap = (
+            close * current_adjusted_shares
+            if current_adjusted_shares is not None
+            else None
+        )
+        appended.append(
+            [
+                trading_date,
+                round_number(close, 6),
+                round_number(dividend, 8),
+                round_number(market_cap, 0),
+            ]
+        )
+
+    if not appended:
+        return None
+    payload["daily"] = daily + appended
+    payload["generatedAt"] = (
+        datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    )
+    return payload
+
+
 def repair_existing_market_history(ticker: str) -> tuple[dict, int]:
     path = OUTPUT_DIRECTORY / f"{ticker}.json"
     payload = load_json(path)
@@ -1321,6 +1449,16 @@ def parse_args() -> argparse.Namespace:
         help="Update only automatically added lookup-only S&P 500 companies.",
     )
     parser.add_argument(
+        "--incremental",
+        action="store_true",
+        help=(
+            "Append recent closes to existing files instead of refetching "
+            "full history. Each ticker still gets a full rebuild once every "
+            f"{INCREMENTAL_REGEN_BUCKETS} days via a hash bucket, and any "
+            "split or overlap mismatch forces one immediately."
+        ),
+    )
+    parser.add_argument(
         "--repair-existing",
         action="store_true",
         help=(
@@ -1346,19 +1484,33 @@ def main() -> None:
         raise SystemExit("No tickers found.")
 
     ciks = company_ciks()
+    end_bound = fetch_end_date(args.end)
+    today = date.today()
     successes = 0
     for ticker in tickers:
         try:
             if args.repair_existing:
                 payload, changed = repair_existing_market_history(ticker)
             else:
-                payload = fetch_market_history(
-                    ticker,
-                    args.start,
-                    fetch_end_date(args.end),
-                    args.seed_dir,
-                    ciks.get(ticker),
-                )
+                payload = FULL_REFETCH
+                if args.incremental and not regen_due(ticker, today):
+                    try:
+                        payload = incremental_market_history(ticker, end_bound)
+                    except FullRefetchNeeded as reason:
+                        print(f"{ticker}: full refetch ({reason})")
+                if payload is FULL_REFETCH:
+                    payload = fetch_market_history(
+                        ticker,
+                        args.start,
+                        end_bound,
+                        args.seed_dir,
+                        ciks.get(ticker),
+                    )
+                elif payload is None:
+                    print(f"{ticker}: already current")
+                    successes += 1
+                    time.sleep(max(args.sleep_ms, 0) / 1000)
+                    continue
             write_json(OUTPUT_DIRECTORY / f"{ticker}.json", payload)
             first = payload["daily"][0][0]
             last = payload["daily"][-1][0]

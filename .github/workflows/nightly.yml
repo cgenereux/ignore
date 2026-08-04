@@ -11,6 +11,10 @@ on:
         description: "Delay between tickers in milliseconds"
         required: false
         default: "1500"
+      full:
+        description: "Set to true to force full refetch for every ticker"
+        required: false
+        default: "false"
   schedule:
     # Fallback only — cron-job.org dispatches the punctual run. GitHub fires
     # this 45-60 minutes late in practice, which is still the same session.
@@ -52,7 +56,12 @@ jobs:
           # The session has settled by the time this runs (>= 23:15 UTC), so
           # today's close is safe to include. Use the New York calendar date.
           END_DATE="$(TZ=America/New_York date +%F)"
+          INCREMENTAL="--incremental"
+          if [ "${{ github.event.inputs.full || 'false' }}" = "true" ]; then
+            INCREMENTAL=""
+          fi
           python scripts/update-market-history.py \
+            $INCREMENTAL \
             --end "$END_DATE" \
             --sleep-ms "${{ github.event.inputs.sleep-ms || '1500' }}" \
             --tickers "${{ github.event.inputs.tickers || '' }}"

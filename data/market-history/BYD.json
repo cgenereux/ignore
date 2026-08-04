@@ -1,7 +1,7 @@
 {
   "ticker": "BYD",
   "currency": "USD",
-  "generatedAt": "2026-07-30T21:13:26+00:00",
+  "generatedAt": "2026-08-04T01:22:05+00:00",
   "source": "Yahoo Finance via yfinance; 1211.HK quoted in HKD, converted to USD at Federal Reserve DEXHKUS",
   "schema": [
     "date",
@@ -35709,6 +35709,24 @@
       11.935883,
       0.0,
       108821803424
+    ],
+    [
+      "2026-07-30",
+      12.08752,
+      0.0,
+      110204309301
+    ],
+    [
+      "2026-07-31",
+      12.006785,
+      0.0,
+      109468228206
+    ],
+    [
+      "2026-08-03",
+      12.102431,
+      0.0,
+      110340253377
     ]
   ],
   "sharesOutstanding": [
