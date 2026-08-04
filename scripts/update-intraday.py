@@ -22,10 +22,15 @@ import yfinance as yf
 SITE = os.environ.get("MICROTRENDS_SITE", "https://microtrends.org")
 UPLOAD_SECRET = os.environ.get("INTRADAY_UPLOAD_SECRET", "")
 SLEEP_SECONDS = 0.1
+# Cloudflare's edge blocks the default Python-urllib agent outright.
+USER_AGENT = "microtrends-intraday-job/1.0 (github-actions)"
 
 
 def get_json(url: str):
-    request = urllib.request.Request(url, headers={"Accept": "application/json"})
+    request = urllib.request.Request(
+        url,
+        headers={"Accept": "application/json", "User-Agent": USER_AGENT},
+    )
     with urllib.request.urlopen(request, timeout=30) as response:
         return json.load(response)
 
@@ -86,6 +91,7 @@ def main() -> None:
         headers={
             "Content-Type": "application/json",
             "X-Upload-Secret": UPLOAD_SECRET,
+            "User-Agent": USER_AGENT,
         },
     )
     with urllib.request.urlopen(request, timeout=60) as response:
