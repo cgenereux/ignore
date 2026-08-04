@@ -66,12 +66,21 @@ jobs:
             --sleep-ms "${{ github.event.inputs.sleep-ms || '1500' }}" \
             --tickers "${{ github.event.inputs.tickers || '' }}"
 
+      - name: Archive the day's intraday bars
+        if: ${{ !cancelled() }}
+        run: |
+          mkdir -p data/intraday
+          FILE="data/intraday/$(TZ=America/New_York date +%F).json"
+          curl -sf https://microtrends.org/api/intraday-bars -o "$FILE" || rm -f "$FILE"
+          # An empty blob (pre-launch, weekend, holiday) is not worth a commit.
+          if [ -f "$FILE" ] && [ "$(wc -c < "$FILE")" -lt 200 ]; then rm -f "$FILE"; fi
+
       - name: Commit changes (if any)
         if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/market-history
+          git add data/market-history data/intraday
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0

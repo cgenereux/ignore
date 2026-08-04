@@ -1,0 +1,37 @@
+name: Intraday bars
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Fallback only — cron-job.org dispatches the punctual runs. GitHub's
+    # scheduler lands 45-60 minutes late, so this merely keeps data from
+    # going completely stale if the external dispatcher dies. Hours span
+    # US market time in both DST phases.
+    - cron: "*/30 13-21 * * 1-5"
+
+concurrency:
+  group: intraday-bars
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and upload intraday bars
+        env:
+          INTRADAY_UPLOAD_SECRET: ${{ secrets.INTRADAY_UPLOAD_SECRET }}
+        run: python scripts/update-intraday.py
