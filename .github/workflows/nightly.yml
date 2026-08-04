@@ -77,4 +77,7 @@ jobs:
             exit 0
           fi
           git commit -m "Nightly market history update"
+          # main can move during a long run (manual pushes, other jobs);
+          # data commits touch disjoint content, so replay on top.
+          git pull --rebase origin main
           git push

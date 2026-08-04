@@ -56,6 +56,9 @@ SEC_USER_AGENT = os.environ.get(
 # share observations). Regenerated from the private repo by
 # `node scripts/export-market-registry.mjs` whenever companies change.
 REGISTRY_PATH = ROOT / "data" / "registry.json"
+# Extra backtesting universe: closes and dividends only, no share counts and
+# no market caps, so these skip the SEC and shares machinery entirely.
+BACKTEST_PATH = ROOT / "data" / "backtest-tickers.json"
 OUTPUT_DIRECTORY = ROOT / "data" / "market-history"
 DEFAULT_START = "1970-01-01"
 FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}"
@@ -190,8 +193,9 @@ def round_number(value: float | None, digits: int) -> float | int | None:
     rounded = round(float(value), digits)
     # round(x, 0) keeps the float type, and numpy inputs keep numpy types
     # whose JSON form drifts between environments ("1.0" vs "1"). Whole-number
-    # columns serialize as integers everywhere.
-    return int(rounded) if digits == 0 else rounded
+    # columns serialize as integers everywhere, and zero (the usual dividend)
+    # stays the bare 0 the existing files use.
+    return int(rounded) if digits == 0 or rounded == 0 else rounded
 
 
 def date_string(value) -> str:
@@ -229,6 +233,19 @@ def company_tickers() -> list[str]:
         for company in registry_companies()
         if company.get("ticker")
     ]
+
+
+def backtest_tickers() -> list[str]:
+    dataset = load_json(BACKTEST_PATH) or {}
+    return [str(ticker).upper() for ticker in dataset.get("tickers", [])]
+
+
+def stored_has_shares(ticker: str) -> bool:
+    """A backtest-list ticker whose stored file already carries share data
+    (secondary classes like GOOGL or BRK-B) keeps the full pipeline, so a
+    rolling rebuild never downgrades it to a prices-only file."""
+    payload = load_json(OUTPUT_DIRECTORY / f"{ticker}.json")
+    return bool(isinstance(payload, dict) and payload.get("sharesOutstanding"))
 
 def lookup_only_tickers() -> list[str]:
     return [
@@ -853,6 +870,7 @@ def fetch_market_history(
     end: str,
     seed_directory: Path | None,
     sec_ciks: list[str] | None = None,
+    prices_only: bool = False,
 ) -> dict:
     listing = FOREIGN_LISTINGS.get(ticker)
     symbol = listing["symbol"] if listing else ticker
@@ -885,10 +903,12 @@ def fetch_market_history(
     shares_rows: list[list] = []
     adjusted_shares_by_date: list[tuple[str, float]] = []
     reported_by_date: list[tuple[str, float]] = []
-    try:
-        shares = instrument.get_shares_full(start=start)
-    except Exception:
-        shares = None
+    shares = None
+    if not prices_only:
+        try:
+            shares = instrument.get_shares_full(start=start)
+        except Exception:
+            shares = None
 
     if shares is not None:
         deduplicated_shares: dict[str, float] = {}
@@ -1477,9 +1497,12 @@ def main() -> None:
         if ticker.strip()
     ]
     default_tickers = (
-        lookup_only_tickers() if args.sp500_lookup_only else company_tickers()
+        lookup_only_tickers()
+        if args.sp500_lookup_only
+        else company_tickers() + backtest_tickers()
     )
     tickers = list(dict.fromkeys(requested or default_tickers))
+    prices_only_tickers = set(backtest_tickers()) - set(company_tickers())
     if not tickers:
         raise SystemExit("No tickers found.")
 
@@ -1505,6 +1528,10 @@ def main() -> None:
                         end_bound,
                         args.seed_dir,
                         ciks.get(ticker),
+                        prices_only=(
+                            ticker in prices_only_tickers
+                            and not stored_has_shares(ticker)
+                        ),
                     )
                 elif payload is None:
                     print(f"{ticker}: already current")
