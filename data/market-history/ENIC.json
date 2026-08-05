@@ -1,7 +1,7 @@
 {
   "ticker": "ENIC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:18:38+00:00",
+  "generatedAt": "2026-08-05T23:27:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15523,6 +15523,12 @@
     [
       "2026-08-04",
       4.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      4.49,
       0,
       null
     ]

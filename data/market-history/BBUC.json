@@ -1,7 +1,7 @@
 {
   "ticker": "BBUC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:16:58+00:00",
+  "generatedAt": "2026-08-05T23:25:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6649,6 +6649,12 @@
     [
       "2026-08-04",
       31.049999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      30.65,
       0,
       null
     ]

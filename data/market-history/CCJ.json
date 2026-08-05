@@ -1,7 +1,7 @@
 {
   "ticker": "CCJ",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:58:43+00:00",
+  "generatedAt": "2026-08-05T23:07:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45885,6 +45885,12 @@
       93.089996,
       0,
       40543763327
+    ],
+    [
+      "2026-08-05",
+      94.269997,
+      0,
+      41057692374
     ]
   ],
   "sharesOutstanding": [

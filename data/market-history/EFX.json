@@ -1,7 +1,7 @@
 {
   "ticker": "EFX",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:51:37+00:00",
+  "generatedAt": "2026-08-05T22:59:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70149,6 +70149,12 @@
       177.119995,
       0,
       20808924206
+    ],
+    [
+      "2026-08-05",
+      177.369995,
+      0,
+      20838295430
     ]
   ],
   "sharesOutstanding": [

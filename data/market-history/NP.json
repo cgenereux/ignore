@@ -1,7 +1,7 @@
 {
   "ticker": "NP",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:24:53+00:00",
+  "generatedAt": "2026-08-05T23:33:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1273,6 +1273,12 @@
     [
       "2026-08-04",
       31.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      32.810001,
       0,
       null
     ]

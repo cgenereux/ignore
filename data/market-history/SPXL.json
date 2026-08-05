@@ -1,7 +1,7 @@
 {
   "ticker": "SPXL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:38:13+00:00",
+  "generatedAt": "2026-08-05T23:46:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26779,6 +26779,12 @@
     [
       "2026-08-04",
       294.559998,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      292.850006,
       0,
       null
     ]

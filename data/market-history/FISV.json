@@ -1,7 +1,7 @@
 {
   "ticker": "FISV",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:52:18+00:00",
+  "generatedAt": "2026-08-05T23:00:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60243,6 +60243,12 @@
       55.779999,
       0,
       29744906688
+    ],
+    [
+      "2026-08-05",
+      54.110001,
+      0,
+      28854373508
     ]
   ],
   "sharesOutstanding": [

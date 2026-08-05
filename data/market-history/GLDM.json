@@ -1,7 +1,7 @@
 {
   "ticker": "GLDM",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:31:10+00:00",
+  "generatedAt": "2026-08-05T23:39:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12229,6 +12229,12 @@
     [
       "2026-08-04",
       80.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      84.029999,
       0,
       null
     ]

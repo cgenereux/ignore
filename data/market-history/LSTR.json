@@ -1,7 +1,7 @@
 {
   "ticker": "LSTR",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:17:39+00:00",
+  "generatedAt": "2026-08-05T23:26:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50473,6 +50473,12 @@
     [
       "2026-08-04",
       181.619995,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      179.350006,
       0,
       null
     ]

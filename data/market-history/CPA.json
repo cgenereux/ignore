@@ -1,7 +1,7 @@
 {
   "ticker": "CPA",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:19:41+00:00",
+  "generatedAt": "2026-08-05T23:28:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31141,6 +31141,12 @@
     [
       "2026-08-04",
       146.649994,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      150.779999,
       0,
       null
     ]

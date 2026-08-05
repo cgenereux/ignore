@@ -1,7 +1,7 @@
 {
   "ticker": "GPC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:52:39+00:00",
+  "generatedAt": "2026-08-05T23:01:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70149,6 +70149,12 @@
       132.550003,
       0,
       18273311344
+    ],
+    [
+      "2026-08-05",
+      131.320007,
+      0,
+      18103744430
     ]
   ],
   "sharesOutstanding": [

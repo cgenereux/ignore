@@ -1,7 +1,7 @@
 {
   "ticker": "FFIV",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:52:01+00:00",
+  "generatedAt": "2026-08-05T23:00:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41007,6 +41007,12 @@
       412.25,
       0,
       23426518500
+    ],
+    [
+      "2026-08-05",
+      411.320007,
+      0,
+      23373670736
     ]
   ],
   "sharesOutstanding": [

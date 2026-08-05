@@ -1,7 +1,7 @@
 {
   "ticker": "CBRE",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:49:56+00:00",
+  "generatedAt": "2026-08-05T22:58:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33441,6 +33441,12 @@
       151.050003,
       0,
       43740349647
+    ],
+    [
+      "2026-08-05",
+      151.160004,
+      0,
+      43772203106
     ]
   ],
   "sharesOutstanding": [

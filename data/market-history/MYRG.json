@@ -1,7 +1,7 @@
 {
   "ticker": "MYRG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:21:05+00:00",
+  "generatedAt": "2026-08-05T23:29:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27133,6 +27133,12 @@
     [
       "2026-08-04",
       340.329987,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      333.769989,
       0,
       null
     ]

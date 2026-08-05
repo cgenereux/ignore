@@ -1,7 +1,7 @@
 {
   "ticker": "AMG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:10:46+00:00",
+  "generatedAt": "2026-08-05T23:19:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43309,6 +43309,12 @@
     [
       "2026-08-04",
       383.420013,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      375.619995,
       0,
       null
     ]

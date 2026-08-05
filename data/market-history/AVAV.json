@@ -1,7 +1,7 @@
 {
   "ticker": "AVAV",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:59:13+00:00",
+  "generatedAt": "2026-08-05T23:07:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29493,6 +29493,12 @@
       169.020004,
       0,
       8553769447
+    ],
+    [
+      "2026-08-05",
+      168.059998,
+      0,
+      8505185398
     ]
   ],
   "sharesOutstanding": [

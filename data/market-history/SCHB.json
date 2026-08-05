@@ -1,7 +1,7 @@
 {
   "ticker": "SCHB",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:30:13+00:00",
+  "generatedAt": "2026-08-05T23:38:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25279,6 +25279,12 @@
     [
       "2026-08-04",
       29.799999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      29.74,
       0,
       null
     ]

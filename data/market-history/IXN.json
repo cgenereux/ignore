@@ -1,7 +1,7 @@
 {
   "ticker": "IXN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:36:26+00:00",
+  "generatedAt": "2026-08-05T23:44:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37273,6 +37273,12 @@
     [
       "2026-08-04",
       140.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      139.919998,
       0,
       null
     ]

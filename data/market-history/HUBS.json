@@ -1,7 +1,7 @@
 {
   "ticker": "HUBS",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:08:13+00:00",
+  "generatedAt": "2026-08-05T23:16:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17833,6 +17833,12 @@
     [
       "2026-08-04",
       248.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      250.210007,
       0,
       null
     ]

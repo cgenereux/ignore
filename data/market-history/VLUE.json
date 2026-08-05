@@ -1,7 +1,7 @@
 {
   "ticker": "VLUE",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:35:52+00:00",
+  "generatedAt": "2026-08-05T23:44:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20071,6 +20071,12 @@
     [
       "2026-08-04",
       198.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      197.339996,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ASML",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:35:02+00:00",
+  "generatedAt": "2026-08-05T22:43:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47403,6 +47403,12 @@
       1711.890015,
       0,
       657536954626
+    ],
+    [
+      "2026-08-05",
+      1678.219971,
+      0,
+      644604290747
     ]
   ],
   "sharesOutstanding": [

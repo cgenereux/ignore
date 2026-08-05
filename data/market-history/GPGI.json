@@ -1,7 +1,7 @@
 {
   "ticker": "GPGI",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:26:12+00:00",
+  "generatedAt": "2026-08-05T23:34:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8593,6 +8593,12 @@
     [
       "2026-08-04",
       15.62,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      15.22,
       0,
       null
     ]

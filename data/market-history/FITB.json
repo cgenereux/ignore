@@ -1,7 +1,7 @@
 {
   "ticker": "FITB",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:52:13+00:00",
+  "generatedAt": "2026-08-05T23:00:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70149,6 +70149,12 @@
       57.77,
       0,
       52372722625
+    ],
+    [
+      "2026-08-05",
+      57.599998,
+      0,
+      52218603417
     ]
   ],
   "sharesOutstanding": [

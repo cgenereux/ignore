@@ -1,7 +1,7 @@
 {
   "ticker": "GRAB",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:40:37+00:00",
+  "generatedAt": "2026-08-05T22:49:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8553,6 +8553,12 @@
       3.72,
       0,
       15214800117
+    ],
+    [
+      "2026-08-05",
+      3.74,
+      0,
+      15296600039
     ]
   ],
   "sharesOutstanding": [

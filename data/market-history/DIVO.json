@@ -1,7 +1,7 @@
 {
   "ticker": "DIVO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:37:17+00:00",
+  "generatedAt": "2026-08-05T23:45:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14527,6 +14527,12 @@
     [
       "2026-08-04",
       47.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      47.93,
       0,
       null
     ]

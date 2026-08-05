@@ -1,7 +1,7 @@
 {
   "ticker": "ILMN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:02:45+00:00",
+  "generatedAt": "2026-08-05T23:11:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39259,6 +39259,12 @@
     [
       "2026-08-04",
       203.009995,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      199.869995,
       0,
       null
     ]

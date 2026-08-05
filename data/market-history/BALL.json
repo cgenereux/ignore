@@ -1,7 +1,7 @@
 {
   "ticker": "BALL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:49:13+00:00",
+  "generatedAt": "2026-08-05T22:57:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80865,6 +80865,12 @@
       63.75,
       0,
       16973215076
+    ],
+    [
+      "2026-08-05",
+      63.490002,
+      0,
+      16903991430
     ]
   ],
   "sharesOutstanding": [

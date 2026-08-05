@@ -1,7 +1,7 @@
 {
   "ticker": "MKL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:03:09+00:00",
+  "generatedAt": "2026-08-05T23:11:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59917,6 +59917,12 @@
     [
       "2026-08-04",
       1887.650024,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      1878.030029,
       0,
       null
     ]

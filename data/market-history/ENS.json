@@ -1,7 +1,7 @@
 {
   "ticker": "ENS",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:16:36+00:00",
+  "generatedAt": "2026-08-05T23:25:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33229,6 +33229,12 @@
     [
       "2026-08-04",
       193.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      189.869995,
       0,
       null
     ]

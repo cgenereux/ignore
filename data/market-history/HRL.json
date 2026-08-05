@@ -1,7 +1,7 @@
 {
   "ticker": "HRL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:52:59+00:00",
+  "generatedAt": "2026-08-05T23:01:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70149,6 +70149,12 @@
       25.34,
       0,
       13944201889
+    ],
+    [
+      "2026-08-05",
+      25.23,
+      0,
+      13883670291
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "CHT",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:02:26+00:00",
+  "generatedAt": "2026-08-05T23:10:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34795,6 +34795,12 @@
     [
       "2026-08-04",
       41.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      42.02,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PM",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:36:27+00:00",
+  "generatedAt": "2026-08-05T22:44:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27759,6 +27759,12 @@
       186.910004,
       0,
       291320443591
+    ],
+    [
+      "2026-08-05",
+      188.929993,
+      0,
+      294468825615
     ]
   ],
   "sharesOutstanding": [

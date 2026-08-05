@@ -1,7 +1,7 @@
 {
   "ticker": "FTV",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:52:23+00:00",
+  "generatedAt": "2026-08-05T23:00:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15219,6 +15219,12 @@
       60.509998,
       0,
       18447139869
+    ],
+    [
+      "2026-08-05",
+      61.34,
+      0,
+      18700175075
     ]
   ],
   "sharesOutstanding": [

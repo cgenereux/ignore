@@ -1,7 +1,7 @@
 {
   "ticker": "HSBA.L",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:40:10+00:00",
+  "generatedAt": "2026-08-05T23:48:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58591,6 +58591,12 @@
     [
       "2026-08-03",
       1597.400024,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      1584.599976,
       0,
       null
     ]

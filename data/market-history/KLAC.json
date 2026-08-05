@@ -1,7 +1,7 @@
 {
   "ticker": "KLAC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:47:00+00:00",
+  "generatedAt": "2026-08-05T22:55:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69291,6 +69291,12 @@
       195.449997,
       0,
       255311485808
+    ],
+    [
+      "2026-08-05",
+      192.800003,
+      0,
+      251849864474
     ]
   ],
   "sharesOutstanding": [

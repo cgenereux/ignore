@@ -1,7 +1,7 @@
 {
   "ticker": "LVMUY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:43:40+00:00",
+  "generatedAt": "2026-08-05T23:51:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30973,6 +30973,12 @@
     [
       "2026-08-04",
       111.809998,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      110.839996,
       0,
       null
     ]

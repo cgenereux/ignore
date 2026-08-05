@@ -1,7 +1,7 @@
 {
   "ticker": "WELL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:58:11+00:00",
+  "generatedAt": "2026-08-05T23:06:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70137,6 +70137,12 @@
       231.570007,
       0,
       166862865865
+    ],
+    [
+      "2026-08-05",
+      237.25,
+      0,
+      170955709610
     ]
   ],
   "sharesOutstanding": [

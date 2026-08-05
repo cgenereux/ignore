@@ -1,7 +1,7 @@
 {
   "ticker": "AZZ",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:24:56+00:00",
+  "generatedAt": "2026-08-05T23:33:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70147,6 +70147,12 @@
     [
       "2026-08-04",
       152.710007,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      151.960007,
       0,
       null
     ]

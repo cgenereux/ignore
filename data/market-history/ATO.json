@@ -1,7 +1,7 @@
 {
   "ticker": "ATO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:49:01+00:00",
+  "generatedAt": "2026-08-05T22:57:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64407,6 +64407,12 @@
       172.649994,
       0,
       28818706250
+    ],
+    [
+      "2026-08-05",
+      172.199997,
+      0,
+      28743592839
     ]
   ],
   "sharesOutstanding": [

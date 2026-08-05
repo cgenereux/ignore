@@ -1,7 +1,7 @@
 {
   "ticker": "PDBC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:38:05+00:00",
+  "generatedAt": "2026-08-05T23:46:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17707,6 +17707,12 @@
     [
       "2026-08-04",
       16.9,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      16.98,
       0,
       null
     ]

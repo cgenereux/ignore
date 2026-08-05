@@ -1,7 +1,7 @@
 {
   "ticker": "JD",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:44:06+00:00",
+  "generatedAt": "2026-08-05T22:52:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18417,6 +18417,12 @@
       32.970001,
       0,
       44525986649
+    ],
+    [
+      "2026-08-05",
+      32.540001,
+      0,
+      43945271236
     ]
   ],
   "sharesOutstanding": [

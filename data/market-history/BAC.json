@@ -1,7 +1,7 @@
 {
   "ticker": "BAC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:35:45+00:00",
+  "generatedAt": "2026-08-05T22:44:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80865,6 +80865,12 @@
       62.900002,
       0,
       441430163943
+    ],
+    [
+      "2026-08-05",
+      63.25,
+      0,
+      443886441845
     ]
   ],
   "sharesOutstanding": [

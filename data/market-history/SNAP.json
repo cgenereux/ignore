@@ -1,7 +1,7 @@
 {
   "ticker": "SNAP",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:35:03+00:00",
+  "generatedAt": "2026-08-05T22:43:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14223,6 +14223,12 @@
       5.79,
       0,
       9594961745
+    ],
+    [
+      "2026-08-05",
+      5.33,
+      0,
+      8832667652
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "SARO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:10:26+00:00",
+  "generatedAt": "2026-08-05T23:18:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2767,6 +2767,12 @@
     [
       "2026-08-04",
       30.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      31.01,
       0,
       null
     ]

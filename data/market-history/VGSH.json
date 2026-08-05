@@ -1,7 +1,7 @@
 {
   "ticker": "VGSH",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:30:57+00:00",
+  "generatedAt": "2026-08-05T23:39:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25195,6 +25195,12 @@
     [
       "2026-08-04",
       58.029999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      58.040001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FLEX",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:52:19+00:00",
+  "generatedAt": "2026-08-05T23:00:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48897,6 +48897,12 @@
       126.709999,
       0,
       46425220052
+    ],
+    [
+      "2026-08-05",
+      121.879997,
+      0,
+      44655557835
     ]
   ],
   "sharesOutstanding": [

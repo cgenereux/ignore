@@ -1,7 +1,7 @@
 {
   "ticker": "NXST",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:19:12+00:00",
+  "generatedAt": "2026-08-05T23:27:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34249,6 +34249,12 @@
     [
       "2026-08-04",
       196.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      190.029999,
       0,
       null
     ]

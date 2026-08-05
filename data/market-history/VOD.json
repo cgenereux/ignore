@@ -1,7 +1,7 @@
 {
   "ticker": "VOD",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:02:01+00:00",
+  "generatedAt": "2026-08-05T23:10:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -57049,6 +57049,12 @@
     [
       "2026-08-04",
       15.69,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      15.31,
       0,
       null
     ]

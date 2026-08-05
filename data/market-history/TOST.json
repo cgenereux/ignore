@@ -1,7 +1,7 @@
 {
   "ticker": "TOST",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:58:54+00:00",
+  "generatedAt": "2026-08-05T23:07:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7335,6 +7335,12 @@
       33.810001,
       0,
       19609800797
+    ],
+    [
+      "2026-08-05",
+      34.799999,
+      0,
+      20183999557
     ]
   ],
   "sharesOutstanding": [

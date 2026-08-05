@@ -1,7 +1,7 @@
 {
   "ticker": "JHMM",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:38:47+00:00",
+  "generatedAt": "2026-08-05T23:46:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16369,6 +16369,12 @@
     [
       "2026-08-04",
       76.269997,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      75.919998,
       0,
       null
     ]

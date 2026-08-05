@@ -1,7 +1,7 @@
 {
   "ticker": "VYMI",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:32:10+00:00",
+  "generatedAt": "2026-08-05T23:40:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15733,6 +15733,12 @@
     [
       "2026-08-04",
       104.220001,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      104.169998,
       0,
       null
     ]

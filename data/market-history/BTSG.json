@@ -1,7 +1,7 @@
 {
   "ticker": "BTSG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:06:46+00:00",
+  "generatedAt": "2026-08-05T23:15:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3799,6 +3799,12 @@
     [
       "2026-08-04",
       62.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      63.02,
       0,
       null
     ]

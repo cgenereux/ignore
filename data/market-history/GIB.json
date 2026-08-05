@@ -1,7 +1,7 @@
 {
   "ticker": "GIB",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:06:07+00:00",
+  "generatedAt": "2026-08-05T23:14:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41995,6 +41995,12 @@
     [
       "2026-08-04",
       74.410004,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      72.610001,
       0,
       null
     ]

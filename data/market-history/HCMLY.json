@@ -1,7 +1,7 @@
 {
   "ticker": "HCMLY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:44:01+00:00",
+  "generatedAt": "2026-08-05T23:52:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25027,6 +25027,12 @@
     [
       "2026-08-04",
       18.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      17.950001,
       0,
       null
     ]

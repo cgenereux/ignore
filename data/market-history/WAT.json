@@ -1,7 +1,7 @@
 {
   "ticker": "WAT",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:58:07+00:00",
+  "generatedAt": "2026-08-05T23:06:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46365,6 +46365,12 @@
       396.079987,
       0,
       38889452130
+    ],
+    [
+      "2026-08-05",
+      400.0,
+      0,
+      39274342000
     ]
   ],
   "sharesOutstanding": [

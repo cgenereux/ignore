@@ -1,7 +1,7 @@
 {
   "ticker": "SIG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:27:56+00:00",
+  "generatedAt": "2026-08-05T23:36:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -57517,6 +57517,12 @@
     [
       "2026-08-04",
       97.309998,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      96.57,
       0,
       null
     ]

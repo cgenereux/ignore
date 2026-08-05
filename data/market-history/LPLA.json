@@ -1,7 +1,7 @@
 {
   "ticker": "LPLA",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:03:04+00:00",
+  "generatedAt": "2026-08-05T23:11:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23701,6 +23701,12 @@
     [
       "2026-08-04",
       354.23999,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      359.920013,
       0,
       null
     ]

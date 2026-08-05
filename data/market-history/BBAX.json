@@ -1,7 +1,7 @@
 {
   "ticker": "BBAX",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:38:06+00:00",
+  "generatedAt": "2026-08-05T23:46:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12043,6 +12043,12 @@
     [
       "2026-08-04",
       64.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      64.620003,
       0,
       null
     ]

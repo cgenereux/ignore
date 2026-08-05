@@ -1,7 +1,7 @@
 {
   "ticker": "WMT",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:35:12+00:00",
+  "generatedAt": "2026-08-05T22:43:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -81585,6 +81585,12 @@
       111.550003,
       0,
       887723754026
+    ],
+    [
+      "2026-08-05",
+      112.339996,
+      0,
+      894010583129
     ]
   ],
   "sharesOutstanding": [

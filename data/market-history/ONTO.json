@@ -1,7 +1,7 @@
 {
   "ticker": "ONTO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:08:36+00:00",
+  "generatedAt": "2026-08-05T23:16:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10207,6 +10207,12 @@
     [
       "2026-08-04",
       287.600006,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      276.0,
       0,
       null
     ]

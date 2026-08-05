@@ -1,7 +1,7 @@
 {
   "ticker": "RIVN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:36:17+00:00",
+  "generatedAt": "2026-08-05T22:44:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7125,6 +7125,12 @@
       15.76,
       0,
       22818283860
+    ],
+    [
+      "2026-08-05",
+      15.56,
+      0,
+      22528712010
     ]
   ],
   "sharesOutstanding": [

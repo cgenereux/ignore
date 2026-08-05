@@ -1,7 +1,7 @@
 {
   "ticker": "ITX.MC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:40:53+00:00",
+  "generatedAt": "2026-08-05T23:49:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38779,6 +38779,18 @@
     [
       "2026-08-03",
       57.759998,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      58.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      58.5,
       0,
       null
     ]

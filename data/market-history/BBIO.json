@@ -1,7 +1,7 @@
 {
   "ticker": "BBIO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:04:59+00:00",
+  "generatedAt": "2026-08-05T23:13:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10717,6 +10717,12 @@
     [
       "2026-08-04",
       82.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      81.989998,
       0,
       null
     ]

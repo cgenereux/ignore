@@ -1,7 +1,7 @@
 {
   "ticker": "XMTR",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:25:07+00:00",
+  "generatedAt": "2026-08-05T23:33:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7681,6 +7681,12 @@
     [
       "2026-08-04",
       91.660004,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      92.339996,
       0,
       null
     ]

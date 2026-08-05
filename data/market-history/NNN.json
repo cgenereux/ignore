@@ -1,7 +1,7 @@
 {
   "ticker": "NNN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:11:21+00:00",
+  "generatedAt": "2026-08-05T23:19:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63217,6 +63217,12 @@
     [
       "2026-08-04",
       47.169998,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      47.360001,
       0,
       null
     ]

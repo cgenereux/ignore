@@ -1,7 +1,7 @@
 {
   "ticker": "FRCOY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:44:15+00:00",
+  "generatedAt": "2026-08-05T23:52:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25027,6 +25027,12 @@
     [
       "2026-08-04",
       50.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      48.75,
       0,
       null
     ]

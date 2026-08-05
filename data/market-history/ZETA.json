@@ -1,7 +1,7 @@
 {
   "ticker": "ZETA",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:20:29+00:00",
+  "generatedAt": "2026-08-05T23:28:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7765,6 +7765,12 @@
     [
       "2026-08-04",
       24.26,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      27.07,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:27:05+00:00",
+  "generatedAt": "2026-08-05T23:35:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5563,6 +5563,12 @@
     [
       "2026-08-04",
       29.67,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      29.65,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CBOE",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:49:54+00:00",
+  "generatedAt": "2026-08-05T22:58:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24363,6 +24363,12 @@
       288.420013,
       0,
       30184245787
+    ],
+    [
+      "2026-08-05",
+      284.76001,
+      0,
+      29801212554
     ]
   ],
   "sharesOutstanding": [

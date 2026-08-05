@@ -1,7 +1,7 @@
 {
   "ticker": "RUSHB",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:18:45+00:00",
+  "generatedAt": "2026-08-05T23:27:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45529,6 +45529,12 @@
     [
       "2026-08-04",
       81.040001,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      79.300003,
       0,
       null
     ]

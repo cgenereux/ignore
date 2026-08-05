@@ -1,7 +1,7 @@
 {
   "ticker": "VLTO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T01:57:49+00:00",
+  "generatedAt": "2026-08-05T23:06:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4269,6 +4269,12 @@
       96.449997,
       0,
       23513867285
+    ],
+    [
+      "2026-08-05",
+      97.160004,
+      0,
+      23686962196
     ]
   ],
   "sharesOutstanding": [

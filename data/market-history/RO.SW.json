@@ -1,7 +1,7 @@
 {
   "ticker": "RO.SW",
   "currency": "USD",
-  "generatedAt": "2026-08-05T02:40:12+00:00",
+  "generatedAt": "2026-08-05T23:48:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47923,6 +47923,12 @@
     [
       "2026-08-03",
       360.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      363.200012,
       0,
       null
     ]
