@@ -1,7 +1,7 @@
 {
   "ticker": "MSFT",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:35:35+00:00",
+  "generatedAt": "2026-08-05T01:34:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61059,6 +61059,12 @@
       487.649994,
       0,
       3621067213364
+    ],
+    [
+      "2026-08-04",
+      492.809998,
+      0,
+      3659383055291
     ]
   ],
   "sharesOutstanding": [

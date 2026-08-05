@@ -1,7 +1,7 @@
 {
   "ticker": "NCLH",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:03:52+00:00",
+  "generatedAt": "2026-08-05T01:55:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20433,6 +20433,12 @@
       19.76,
       0,
       9072972342
+    ],
+    [
+      "2026-08-04",
+      20.07,
+      0,
+      9215311236
     ]
   ],
   "sharesOutstanding": [

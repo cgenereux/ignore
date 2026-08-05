@@ -1,7 +1,7 @@
 {
   "ticker": "CDNS",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:50:20+00:00",
+  "generatedAt": "2026-08-05T01:49:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59175,6 +59175,12 @@
       336.149994,
       0,
       92573355269
+    ],
+    [
+      "2026-08-04",
+      340.619995,
+      0,
+      93804362315
     ]
   ],
   "sharesOutstanding": [

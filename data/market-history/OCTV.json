@@ -1,7 +1,7 @@
 {
   "ticker": "OCTV",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:19:14+00:00",
+  "generatedAt": "2026-08-05T02:23:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -307,6 +307,12 @@
     [
       "2026-08-03",
       19.129999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      19.65,
       0,
       null
     ]

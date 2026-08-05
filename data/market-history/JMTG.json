@@ -1,7 +1,7 @@
 {
   "ticker": "JMTG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:25:29+00:00",
+  "generatedAt": "2026-08-05T02:37:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1657,6 +1657,12 @@
     [
       "2026-08-03",
       49.919998,
+      0.184,
+      null
+    ],
+    [
+      "2026-08-04",
+      50.110001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PAYC",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:14:50+00:00",
+  "generatedAt": "2026-08-05T02:14:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18565,6 +18565,12 @@
     [
       "2026-08-03",
       168.669998,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      175.300003,
       0,
       null
     ]

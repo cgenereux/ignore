@@ -1,7 +1,7 @@
 {
   "ticker": "CNI",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:40:42+00:00",
+  "generatedAt": "2026-08-05T01:40:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44805,6 +44805,12 @@
       125.809998,
       0,
       76102467523
+    ],
+    [
+      "2026-08-04",
+      127.300003,
+      0,
+      77003771846
     ]
   ],
   "sharesOutstanding": [

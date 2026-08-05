@@ -1,7 +1,7 @@
 {
   "ticker": "CCI",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:53:25+00:00",
+  "generatedAt": "2026-08-05T01:50:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42201,6 +42201,12 @@
       76.739998,
       0,
       33535379066
+    ],
+    [
+      "2026-08-04",
+      77.660004,
+      0,
+      33937421600
     ]
   ],
   "sharesOutstanding": [

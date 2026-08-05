@@ -1,7 +1,7 @@
 {
   "ticker": "CAT",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:37:13+00:00",
+  "generatedAt": "2026-08-05T01:35:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97533,6 +97533,12 @@
       830.030029,
       0,
       382305177143
+    ],
+    [
+      "2026-08-04",
+      876.539978,
+      0,
+      403727286658
     ]
   ],
   "sharesOutstanding": [

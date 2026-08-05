@@ -1,7 +1,7 @@
 {
   "ticker": "WMB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:06:48+00:00",
+  "generatedAt": "2026-08-05T01:58:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67425,6 +67425,12 @@
       70.43,
       0,
       86135768177
+    ],
+    [
+      "2026-08-04",
+      71.510002,
+      0,
+      87456608543
     ]
   ],
   "sharesOutstanding": [

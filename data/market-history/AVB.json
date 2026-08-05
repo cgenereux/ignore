@@ -1,7 +1,7 @@
 {
   "ticker": "AVB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:49:02+00:00",
+  "generatedAt": "2026-08-05T01:49:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48921,6 +48921,12 @@
       188.779999,
       0,
       26957399281
+    ],
+    [
+      "2026-08-04",
+      189.25,
+      0,
+      27024514498
     ]
   ],
   "sharesOutstanding": [

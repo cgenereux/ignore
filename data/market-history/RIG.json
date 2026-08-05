@@ -1,7 +1,7 @@
 {
   "ticker": "RIG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:16:12+00:00",
+  "generatedAt": "2026-08-05T02:17:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50113,6 +50113,12 @@
     [
       "2026-08-03",
       5.15,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      5.22,
       0,
       null
     ]

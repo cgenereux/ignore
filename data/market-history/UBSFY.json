@@ -1,7 +1,7 @@
 {
   "ticker": "UBSFY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:40:20+00:00",
+  "generatedAt": "2026-08-05T01:40:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24963,6 +24963,12 @@
       1.23,
       0,
       836063325
+    ],
+    [
+      "2026-08-04",
+      1.24,
+      0,
+      842860581
     ]
   ],
   "sharesOutstanding": [

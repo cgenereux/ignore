@@ -1,7 +1,7 @@
 {
   "ticker": "ENB.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:27:24+00:00",
+  "generatedAt": "2026-08-05T02:42:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47593,6 +47593,12 @@
     [
       "2026-07-31",
       76.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      75.089996,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DVA",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:53:39+00:00",
+  "generatedAt": "2026-08-05T01:50:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46437,6 +46437,12 @@
       233.679993,
       0,
       14998750330
+    ],
+    [
+      "2026-08-04",
+      227.990005,
+      0,
+      14633538503
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ARES",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:48:35+00:00",
+  "generatedAt": "2026-08-05T01:48:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18495,6 +18495,12 @@
       138.570007,
       0,
       31250076917
+    ],
+    [
+      "2026-08-04",
+      142.910004,
+      0,
+      32228825652
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "IBM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:37:42+00:00",
+  "generatedAt": "2026-08-05T01:35:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97533,6 +97533,12 @@
       226.309998,
       0,
       213214431501
+    ],
+    [
+      "2026-08-04",
+      235.149994,
+      0,
+      221542896058
     ]
   ],
   "sharesOutstanding": [

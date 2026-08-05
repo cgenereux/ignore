@@ -1,7 +1,7 @@
 {
   "ticker": "PHM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:04:39+00:00",
+  "generatedAt": "2026-08-05T01:55:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70143,6 +70143,12 @@
       129.289993,
       0,
       24627979300
+    ],
+    [
+      "2026-08-04",
+      131.679993,
+      0,
+      25083241568
     ]
   ],
   "sharesOutstanding": [

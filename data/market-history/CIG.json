@@ -1,7 +1,7 @@
 {
   "ticker": "CIG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:16:34+00:00",
+  "generatedAt": "2026-08-05T02:17:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44839,6 +44839,12 @@
     [
       "2026-08-03",
       2.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      2.15,
       0,
       null
     ]

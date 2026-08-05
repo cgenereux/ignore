@@ -1,7 +1,7 @@
 {
   "ticker": "MAIR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:10:32+00:00",
+  "generatedAt": "2026-08-05T02:05:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -457,6 +457,12 @@
     [
       "2026-08-03",
       29.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      31.75,
       0,
       null
     ]

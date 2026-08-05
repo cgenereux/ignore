@@ -1,7 +1,7 @@
 {
   "ticker": "PFE",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:38:09+00:00",
+  "generatedAt": "2026-08-05T01:35:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -81939,6 +81939,12 @@
       25.030001,
       0,
       142657091464
+    ],
+    [
+      "2026-08-04",
+      25.41,
+      0,
+      144822875465
     ]
   ],
   "sharesOutstanding": [

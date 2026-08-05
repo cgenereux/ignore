@@ -1,7 +1,7 @@
 {
   "ticker": "EA",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:55:14+00:00",
+  "generatedAt": "2026-08-05T01:51:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55713,6 +55713,12 @@
       209.910004,
       0,
       52635244925
+    ],
+    [
+      "2026-08-04",
+      209.699997,
+      0,
+      52582585430
     ]
   ],
   "sharesOutstanding": [

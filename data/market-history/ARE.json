@@ -1,7 +1,7 @@
 {
   "ticker": "ARE",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:47:17+00:00",
+  "generatedAt": "2026-08-05T01:48:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44055,6 +44055,12 @@
       53.029999,
       0,
       9241510312
+    ],
+    [
+      "2026-08-04",
+      48.869999,
+      0,
+      8516549301
     ]
   ],
   "sharesOutstanding": [

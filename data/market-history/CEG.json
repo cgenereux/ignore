@@ -1,7 +1,7 @@
 {
   "ticker": "CEG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:52:46+00:00",
+  "generatedAt": "2026-08-05T01:50:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6837,6 +6837,12 @@
       273.709991,
       0,
       97742390022
+    ],
+    [
+      "2026-08-04",
+      267.25,
+      0,
+      95435514043
     ]
   ],
   "sharesOutstanding": [

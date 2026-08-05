@@ -1,7 +1,7 @@
 {
   "ticker": "SDVY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:24:06+00:00",
+  "generatedAt": "2026-08-05T02:34:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13183,6 +13183,12 @@
     [
       "2026-08-03",
       44.349998,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      44.939999,
       0,
       null
     ]

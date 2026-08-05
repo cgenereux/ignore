@@ -1,7 +1,7 @@
 {
   "ticker": "PRU",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:04:33+00:00",
+  "generatedAt": "2026-08-05T01:55:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37191,6 +37191,12 @@
       122.980003,
       0,
       42714042825
+    ],
+    [
+      "2026-08-04",
+      123.540001,
+      0,
+      42908544037
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "CIEN",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:51:38+00:00",
+  "generatedAt": "2026-08-05T01:50:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44505,6 +44505,12 @@
       390.76001,
       0,
       55313221183
+    ],
+    [
+      "2026-08-04",
+      411.130005,
+      0,
+      58196653513
     ]
   ],
   "sharesOutstanding": [

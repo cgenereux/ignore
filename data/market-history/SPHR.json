@@ -1,7 +1,7 @@
 {
   "ticker": "SPHR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:18:26+00:00",
+  "generatedAt": "2026-08-05T02:22:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9523,6 +9523,12 @@
     [
       "2026-08-03",
       147.289993,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      158.539993,
       0,
       null
     ]

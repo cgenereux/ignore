@@ -1,7 +1,7 @@
 {
   "ticker": "MP",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:15:09+00:00",
+  "generatedAt": "2026-08-05T02:14:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9223,6 +9223,12 @@
     [
       "2026-08-03",
       43.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      47.470001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DEO",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:08:43+00:00",
+  "generatedAt": "2026-08-05T02:01:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53467,6 +53467,12 @@
     [
       "2026-08-03",
       88.510002,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      87.830002,
       0,
       null
     ]

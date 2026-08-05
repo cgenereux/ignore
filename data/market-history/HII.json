@@ -1,7 +1,7 @@
 {
   "ticker": "HII",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:59:29+00:00",
+  "generatedAt": "2026-08-05T01:53:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23193,6 +23193,12 @@
       325.950012,
       0,
       12843929199
+    ],
+    [
+      "2026-08-04",
+      323.059998,
+      0,
+      12730049334
     ]
   ],
   "sharesOutstanding": [

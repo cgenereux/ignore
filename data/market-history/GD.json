@@ -1,7 +1,7 @@
 {
   "ticker": "GD",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:39:58+00:00",
+  "generatedAt": "2026-08-05T01:37:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97533,6 +97533,12 @@
       382.429993,
       0,
       103469186102
+    ],
+    [
+      "2026-08-04",
+      385.76001,
+      0,
+      104370146185
     ]
   ],
   "sharesOutstanding": [

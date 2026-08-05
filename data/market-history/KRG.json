@@ -1,7 +1,7 @@
 {
   "ticker": "KRG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:17:10+00:00",
+  "generatedAt": "2026-08-05T02:19:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33175,6 +33175,12 @@
     [
       "2026-08-03",
       28.01,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      27.51,
       0,
       null
     ]

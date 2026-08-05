@@ -1,7 +1,7 @@
 {
   "ticker": "SCHP",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:23:25+00:00",
+  "generatedAt": "2026-08-05T02:32:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24139,6 +24139,12 @@
     [
       "2026-08-03",
       25.879999,
+      0.216,
+      null
+    ],
+    [
+      "2026-08-04",
+      25.93,
       0,
       null
     ]

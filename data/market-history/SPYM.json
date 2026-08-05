@@ -1,7 +1,7 @@
 {
   "ticker": "SPYM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:21:28+00:00",
+  "generatedAt": "2026-08-05T02:28:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31261,6 +31261,12 @@
     [
       "2026-08-03",
       89.190002,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      90.790001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "GEV",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:46:17+00:00",
+  "generatedAt": "2026-08-05T01:47:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3543,6 +3543,12 @@
       1006.76001,
       0,
       268133998608
+    ],
+    [
+      "2026-08-04",
+      1018.530029,
+      0,
+      271268750059
     ]
   ],
   "sharesOutstanding": [

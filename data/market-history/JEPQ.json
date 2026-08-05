@@ -1,7 +1,7 @@
 {
   "ticker": "JEPQ",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:22:16+00:00",
+  "generatedAt": "2026-08-05T02:30:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6397,6 +6397,12 @@
     [
       "2026-08-03",
       58.34,
+      0.705,
+      null
+    ],
+    [
+      "2026-08-04",
+      59.560001,
       0,
       null
     ]

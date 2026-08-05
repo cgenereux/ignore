@@ -1,7 +1,7 @@
 {
   "ticker": "CGCB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:25:52+00:00",
+  "generatedAt": "2026-08-05T02:38:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4285,6 +4285,12 @@
     [
       "2026-08-03",
       25.809999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      25.905001,
       0,
       null
     ]

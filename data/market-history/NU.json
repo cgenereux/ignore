@@ -1,7 +1,7 @@
 {
   "ticker": "NU",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:07:02+00:00",
+  "generatedAt": "2026-08-05T01:58:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6999,6 +6999,12 @@
       14.44,
       0,
       69752195164
+    ],
+    [
+      "2026-08-04",
+      14.33,
+      0,
+      69220843520
     ]
   ],
   "sharesOutstanding": [

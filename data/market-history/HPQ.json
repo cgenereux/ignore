@@ -1,7 +1,7 @@
 {
   "ticker": "HPQ",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:39:15+00:00",
+  "generatedAt": "2026-08-05T01:36:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97533,6 +97533,12 @@
       27.120001,
       0,
       24801856120
+    ],
+    [
+      "2026-08-04",
+      28.82,
+      0,
+      26356543647
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "VTI",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:21:22+00:00",
+  "generatedAt": "2026-08-05T02:28:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37921,6 +37921,12 @@
     [
       "2026-08-03",
       373.839996,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      380.820007,
       0,
       null
     ]

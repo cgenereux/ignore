@@ -1,7 +1,7 @@
 {
   "ticker": "SBSW",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:17:05+00:00",
+  "generatedAt": "2026-08-05T02:19:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20341,6 +20341,12 @@
     [
       "2026-08-03",
       8.94,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      9.56,
       0,
       null
     ]

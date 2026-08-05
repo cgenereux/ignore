@@ -1,7 +1,7 @@
 {
   "ticker": "GLNG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:18:37+00:00",
+  "generatedAt": "2026-08-05T02:22:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34807,6 +34807,12 @@
     [
       "2026-08-03",
       49.16,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      49.43,
       0,
       null
     ]

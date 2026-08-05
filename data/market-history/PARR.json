@@ -1,7 +1,7 @@
 {
   "ticker": "PARR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:20:55+00:00",
+  "generatedAt": "2026-08-05T02:27:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20983,6 +20983,12 @@
     [
       "2026-08-03",
       82.870003,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      83.0,
       0,
       null
     ]

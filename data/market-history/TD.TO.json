@@ -1,7 +1,7 @@
 {
   "ticker": "TD.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:26:43+00:00",
+  "generatedAt": "2026-08-05T02:40:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47587,6 +47587,12 @@
     [
       "2026-07-31",
       168.039993,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      167.899994,
       0,
       null
     ]

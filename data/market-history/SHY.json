@@ -1,7 +1,7 @@
 {
   "ticker": "SHY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:22:44+00:00",
+  "generatedAt": "2026-08-05T02:31:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36253,6 +36253,12 @@
     [
       "2026-08-03",
       81.769997,
+      0.251,
+      null
+    ],
+    [
+      "2026-08-04",
+      81.870003,
       0,
       null
     ]

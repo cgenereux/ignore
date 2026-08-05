@@ -1,7 +1,7 @@
 {
   "ticker": "BND",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:21:27+00:00",
+  "generatedAt": "2026-08-05T02:28:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29167,6 +29167,12 @@
     [
       "2026-08-03",
       72.150002,
+      0.252,
+      null
+    ],
+    [
+      "2026-08-04",
+      72.440002,
       0,
       null
     ]

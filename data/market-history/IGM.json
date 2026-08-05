@@ -1,7 +1,7 @@
 {
   "ticker": "IGM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:24:28+00:00",
+  "generatedAt": "2026-08-05T02:35:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38293,6 +38293,12 @@
     [
       "2026-08-03",
       156.880005,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      163.589996,
       0,
       null
     ]

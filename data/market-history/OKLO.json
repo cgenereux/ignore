@@ -1,7 +1,7 @@
 {
   "ticker": "OKLO",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:46:49+00:00",
+  "generatedAt": "2026-08-05T01:48:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7647,6 +7647,12 @@
       41.220001,
       0,
       7171908697
+    ],
+    [
+      "2026-08-04",
+      43.330002,
+      0,
+      7539029785
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "EQT",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:55:31+00:00",
+  "generatedAt": "2026-08-05T01:51:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70143,6 +70143,12 @@
       53.560001,
       0,
       33502637819
+    ],
+    [
+      "2026-08-04",
+      52.77,
+      0,
+      33008479606
     ]
   ],
   "sharesOutstanding": [

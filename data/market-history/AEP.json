@@ -1,7 +1,7 @@
 {
   "ticker": "AEP",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:47:39+00:00",
+  "generatedAt": "2026-08-05T01:48:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97533,6 +97533,12 @@
       128.320007,
       0,
       69857072196
+    ],
+    [
+      "2026-08-04",
+      128.350006,
+      0,
+      69873403452
     ]
   ],
   "sharesOutstanding": [

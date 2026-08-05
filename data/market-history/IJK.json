@@ -1,7 +1,7 @@
 {
   "ticker": "IJK",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:24:14+00:00",
+  "generatedAt": "2026-08-05T02:34:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39253,6 +39253,12 @@
     [
       "2026-08-03",
       113.309998,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      115.879997,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CP",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:40:41+00:00",
+  "generatedAt": "2026-08-05T01:40:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64389,6 +64389,12 @@
       90.650002,
       0,
       79688532997
+    ],
+    [
+      "2026-08-04",
+      90.629997,
+      0,
+      79670947657
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "GLXY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:14:26+00:00",
+  "generatedAt": "2026-08-05T02:13:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1831,6 +1831,12 @@
     [
       "2026-08-03",
       21.879999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      22.139999,
       0,
       null
     ]

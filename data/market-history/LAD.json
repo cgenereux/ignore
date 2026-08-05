@@ -1,7 +1,7 @@
 {
   "ticker": "LAD",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:14:28+00:00",
+  "generatedAt": "2026-08-05T02:13:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44713,6 +44713,12 @@
     [
       "2026-08-03",
       377.910004,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      370.98999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "WY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:06:44+00:00",
+  "generatedAt": "2026-08-05T01:58:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80559,6 +80559,12 @@
       25.23,
       0,
       18191904695
+    ],
+    [
+      "2026-08-04",
+      25.83,
+      0,
+      18624530535
     ]
   ],
   "sharesOutstanding": [

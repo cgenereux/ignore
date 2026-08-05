@@ -1,7 +1,7 @@
 {
   "ticker": "VWOB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:25:42+00:00",
+  "generatedAt": "2026-08-05T02:38:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19873,6 +19873,12 @@
     [
       "2026-08-03",
       65.809998,
+      0.347,
+      null
+    ],
+    [
+      "2026-08-04",
+      66.129997,
       0,
       null
     ]

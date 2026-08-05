@@ -1,7 +1,7 @@
 {
   "ticker": "HYG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:23:28+00:00",
+  "generatedAt": "2026-08-05T02:33:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29161,6 +29161,12 @@
     [
       "2026-08-03",
       79.309998,
+      0.384,
+      null
+    ],
+    [
+      "2026-08-04",
+      79.550003,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "EIX",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:55:07+00:00",
+  "generatedAt": "2026-08-05T01:51:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80559,6 +80559,12 @@
       71.459999,
       0,
       27498806587
+    ],
+    [
+      "2026-08-04",
+      70.690002,
+      0,
+      27202501115
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "WTW",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:06:50+00:00",
+  "generatedAt": "2026-08-05T01:58:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37941,6 +37941,12 @@
       341.630005,
       0,
       31727840291
+    ],
+    [
+      "2026-08-04",
+      339.630005,
+      0,
+      31542096417
     ]
   ],
   "sharesOutstanding": [

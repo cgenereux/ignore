@@ -1,7 +1,7 @@
 {
   "ticker": "SHV",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:23:02+00:00",
+  "generatedAt": "2026-08-05T02:32:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29527,6 +29527,12 @@
     [
       "2026-08-03",
       110.080002,
+      0.34,
+      null
+    ],
+    [
+      "2026-08-04",
+      110.089996,
       0,
       null
     ]

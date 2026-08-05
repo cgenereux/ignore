@@ -1,7 +1,7 @@
 {
   "ticker": "VNOM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:10:56+00:00",
+  "generatedAt": "2026-08-05T02:06:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18301,6 +18301,12 @@
     [
       "2026-08-03",
       43.689999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      42.34,
       0,
       null
     ]

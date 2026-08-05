@@ -1,7 +1,7 @@
 {
   "ticker": "JPM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:37:28+00:00",
+  "generatedAt": "2026-08-05T01:35:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70143,6 +70143,12 @@
       352.640015,
       0,
       937387686938
+    ],
+    [
+      "2026-08-04",
+      357.519989,
+      0,
+      950359634796
     ]
   ],
   "sharesOutstanding": [

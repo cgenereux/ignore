@@ -1,7 +1,7 @@
 {
   "ticker": "APP",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:43:50+00:00",
+  "generatedAt": "2026-08-05T01:46:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7995,6 +7995,12 @@
       406.160004,
       0,
       136445197080
+    ],
+    [
+      "2026-08-04",
+      419.700012,
+      0,
+      140993821065
     ]
   ],
   "sharesOutstanding": [

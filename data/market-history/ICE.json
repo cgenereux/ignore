@@ -1,7 +1,7 @@
 {
   "ticker": "ICE",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:00:02+00:00",
+  "generatedAt": "2026-08-05T01:53:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31257,6 +31257,12 @@
       151.800003,
       0,
       85219684840
+    ],
+    [
+      "2026-08-04",
+      149.199997,
+      0,
+      83760055747
     ]
   ],
   "sharesOutstanding": [

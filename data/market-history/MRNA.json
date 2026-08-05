@@ -1,7 +1,7 @@
 {
   "ticker": "MRNA",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:38:41+00:00",
+  "generatedAt": "2026-08-05T01:36:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11541,6 +11541,12 @@
       55.139999,
       0,
       21878794079
+    ],
+    [
+      "2026-08-04",
+      56.990002,
+      0,
+      22612849566
     ]
   ],
   "sharesOutstanding": [

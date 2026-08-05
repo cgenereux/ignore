@@ -1,7 +1,7 @@
 {
   "ticker": "SCHR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:23:49+00:00",
+  "generatedAt": "2026-08-05T02:33:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24139,6 +24139,12 @@
     [
       "2026-08-03",
       24.360001,
+      0.089,
+      null
+    ],
+    [
+      "2026-08-04",
+      24.43,
       0,
       null
     ]

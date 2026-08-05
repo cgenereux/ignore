@@ -1,7 +1,7 @@
 {
   "ticker": "MPC",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:46:48+00:00",
+  "generatedAt": "2026-08-05T01:47:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22797,6 +22797,12 @@
       307.029999,
       0,
       89633304688
+    ],
+    [
+      "2026-08-04",
+      312.609985,
+      0,
+      91262307191
     ]
   ],
   "sharesOutstanding": [

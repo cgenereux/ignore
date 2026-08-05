@@ -1,7 +1,7 @@
 {
   "ticker": "SPTL",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:24:18+00:00",
+  "generatedAt": "2026-08-05T02:35:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28957,6 +28957,12 @@
     [
       "2026-08-03",
       25.08,
+      0.093,
+      null
+    ],
+    [
+      "2026-08-04",
+      25.290001,
       0,
       null
     ]

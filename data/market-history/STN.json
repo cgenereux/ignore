@@ -1,7 +1,7 @@
 {
   "ticker": "STN",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:14:24+00:00",
+  "generatedAt": "2026-08-05T02:13:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31687,6 +31687,12 @@
     [
       "2026-08-03",
       71.650002,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      72.550003,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BAI",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:23:54+00:00",
+  "generatedAt": "2026-08-05T02:34:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2677,6 +2677,12 @@
     [
       "2026-08-03",
       42.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      45.439999,
       0,
       null
     ]

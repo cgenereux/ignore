@@ -1,7 +1,7 @@
 {
   "ticker": "ABNB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:41:44+00:00",
+  "generatedAt": "2026-08-05T01:46:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8505,6 +8505,12 @@
       150.639999,
       0,
       89405581238
+    ],
+    [
+      "2026-08-04",
+      149.919998,
+      0,
+      88978256969
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "AMCR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:47:34+00:00",
+  "generatedAt": "2026-08-05T01:48:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21453,6 +21453,12 @@
       46.02,
       0,
       21277148865
+    ],
+    [
+      "2026-08-04",
+      47.139999,
+      0,
+      21794975544
     ]
   ],
   "sharesOutstanding": [

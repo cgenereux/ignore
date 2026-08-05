@@ -1,7 +1,7 @@
 {
   "ticker": "TDY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:05:44+00:00",
+  "generatedAt": "2026-08-05T01:57:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40281,6 +40281,12 @@
       670.559998,
       0,
       31066466664
+    ],
+    [
+      "2026-08-04",
+      684.76001,
+      0,
+      31724340989
     ]
   ],
   "sharesOutstanding": [

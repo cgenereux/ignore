@@ -1,7 +1,7 @@
 {
   "ticker": "CGMS",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:26:05+00:00",
+  "generatedAt": "2026-08-05T02:39:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5665,6 +5665,12 @@
     [
       "2026-08-03",
       27.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      27.18,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PFF",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:23:50+00:00",
+  "generatedAt": "2026-08-05T02:34:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29203,6 +29203,12 @@
     [
       "2026-08-03",
       30.620001,
+      0.142,
+      null
+    ],
+    [
+      "2026-08-04",
+      30.73,
       0,
       null
     ]

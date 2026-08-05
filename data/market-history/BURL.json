@@ -1,7 +1,7 @@
 {
   "ticker": "BURL",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:09:42+00:00",
+  "generatedAt": "2026-08-05T02:03:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19369,6 +19369,12 @@
     [
       "2026-08-03",
       368.230011,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      367.820007,
       0,
       null
     ]

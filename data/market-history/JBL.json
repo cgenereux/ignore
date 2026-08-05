@@ -1,7 +1,7 @@
 {
   "ticker": "JBL",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:01:08+00:00",
+  "generatedAt": "2026-08-05T01:53:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50229,6 +50229,12 @@
       318.390015,
       0,
       33363162802
+    ],
+    [
+      "2026-08-04",
+      340.0,
+      0,
+      35627610260
     ]
   ],
   "sharesOutstanding": [

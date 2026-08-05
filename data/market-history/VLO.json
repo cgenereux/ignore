@@ -1,7 +1,7 @@
 {
   "ticker": "VLO",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:06:15+00:00",
+  "generatedAt": "2026-08-05T01:57:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67419,6 +67419,12 @@
       307.540009,
       0,
       88549213816
+    ],
+    [
+      "2026-08-04",
+      308.730011,
+      0,
+      88891848198
     ]
   ],
   "sharesOutstanding": [

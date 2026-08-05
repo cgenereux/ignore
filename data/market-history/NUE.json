@@ -1,7 +1,7 @@
 {
   "ticker": "NUE",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:03:55+00:00",
+  "generatedAt": "2026-08-05T01:55:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70143,6 +70143,12 @@
       261.279999,
       0,
       59504155138
+    ],
+    [
+      "2026-08-04",
+      274.040009,
+      0,
+      62410131884
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "USHY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:22:33+00:00",
+  "generatedAt": "2026-08-05T02:31:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13219,6 +13219,12 @@
     [
       "2026-08-03",
       36.68,
+      0.213,
+      null
+    ],
+    [
+      "2026-08-04",
+      36.799999,
       0,
       null
     ]

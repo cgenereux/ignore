@@ -1,7 +1,7 @@
 {
   "ticker": "IHG",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:09:37+00:00",
+  "generatedAt": "2026-08-05T02:03:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35197,6 +35197,12 @@
     [
       "2026-08-03",
       158.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      157.110001,
       0,
       null
     ]

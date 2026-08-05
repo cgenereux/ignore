@@ -1,7 +1,7 @@
 {
   "ticker": "ASB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:17:14+00:00",
+  "generatedAt": "2026-08-05T02:19:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70141,6 +70141,12 @@
     [
       "2026-08-03",
       31.4,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      31.75,
       0,
       null
     ]

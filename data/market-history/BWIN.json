@@ -1,7 +1,7 @@
 {
   "ticker": "BWIN",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:20:39+00:00",
+  "generatedAt": "2026-08-05T02:26:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10213,6 +10213,12 @@
     [
       "2026-08-03",
       29.48,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      28.860001,
       0,
       null
     ]

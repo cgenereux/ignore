@@ -1,7 +1,7 @@
 {
   "ticker": "DAR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:13:28+00:00",
+  "generatedAt": "2026-08-05T02:11:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48169,6 +48169,12 @@
     [
       "2026-08-03",
       59.759998,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      60.150002,
       0,
       null
     ]

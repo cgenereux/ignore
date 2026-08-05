@@ -1,7 +1,7 @@
 {
   "ticker": "JKHY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:01:11+00:00",
+  "generatedAt": "2026-08-05T01:53:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61521,6 +61521,12 @@
       156.529999,
       0,
       11121578507
+    ],
+    [
+      "2026-08-04",
+      156.630005,
+      0,
+      11128684018
     ]
   ],
   "sharesOutstanding": [

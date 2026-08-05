@@ -1,7 +1,7 @@
 {
   "ticker": "ED",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:52:36+00:00",
+  "generatedAt": "2026-08-05T01:50:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97533,6 +97533,12 @@
       107.949997,
       0,
       39782780530
+    ],
+    [
+      "2026-08-04",
+      108.410004,
+      0,
+      39952306669
     ]
   ],
   "sharesOutstanding": [

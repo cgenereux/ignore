@@ -1,7 +1,7 @@
 {
   "ticker": "HRB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:17:27+00:00",
+  "generatedAt": "2026-08-05T02:19:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80857,6 +80857,12 @@
     [
       "2026-08-03",
       45.189999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      46.07,
       0,
       null
     ]

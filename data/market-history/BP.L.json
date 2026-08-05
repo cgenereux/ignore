@@ -1,7 +1,7 @@
 {
   "ticker": "BP.L",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:27:32+00:00",
+  "generatedAt": "2026-08-05T02:42:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58597,6 +58597,12 @@
     [
       "2026-07-31",
       552.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-03",
+      552.099976,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DNLI",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:21:18+00:00",
+  "generatedAt": "2026-08-05T02:28:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13039,6 +13039,12 @@
     [
       "2026-08-03",
       23.15,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      24.17,
       0,
       null
     ]

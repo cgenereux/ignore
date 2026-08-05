@@ -1,7 +1,7 @@
 {
   "ticker": "HOCPY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:28:28+00:00",
+  "generatedAt": "2026-08-05T02:44:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28669,6 +28669,12 @@
     [
       "2026-08-03",
       159.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      167.119995,
       0,
       null
     ]

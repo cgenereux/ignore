@@ -1,7 +1,7 @@
 {
   "ticker": "SAN.MC",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:26:42+00:00",
+  "generatedAt": "2026-08-05T02:40:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40951,6 +40951,12 @@
     [
       "2026-07-31",
       12.318,
+      0,
+      null
+    ],
+    [
+      "2026-08-03",
+      12.566,
       0,
       null
     ]

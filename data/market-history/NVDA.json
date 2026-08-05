@@ -1,7 +1,7 @@
 {
   "ticker": "NVDA",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:36:30+00:00",
+  "generatedAt": "2026-08-05T01:34:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41553,6 +41553,12 @@
       206.639999,
       0,
       5005027425217
+    ],
+    [
+      "2026-08-04",
+      211.940002,
+      0,
+      5133398799133
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "RELIANCE.NS",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:26:52+00:00",
+  "generatedAt": "2026-08-05T02:41:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46063,6 +46063,18 @@
     [
       "2026-07-31",
       1307.800049,
+      0,
+      null
+    ],
+    [
+      "2026-08-03",
+      1319.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      1290.900024,
       0,
       null
     ]

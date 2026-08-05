@@ -1,7 +1,7 @@
 {
   "ticker": "IQMM",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:23:16+00:00",
+  "generatedAt": "2026-08-05T02:32:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -691,6 +691,12 @@
     [
       "2026-08-03",
       100.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      100.050003,
       0,
       null
     ]

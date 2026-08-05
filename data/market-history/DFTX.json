@@ -1,7 +1,7 @@
 {
   "ticker": "DFTX",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:19:28+00:00",
+  "generatedAt": "2026-08-05T02:24:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14647,6 +14647,12 @@
     [
       "2026-08-03",
       41.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      42.32,
       0,
       null
     ]

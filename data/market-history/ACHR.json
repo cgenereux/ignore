@@ -1,7 +1,7 @@
 {
   "ticker": "ACHR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:07:22+00:00",
+  "generatedAt": "2026-08-05T01:59:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8469,6 +8469,12 @@
       4.84,
       0,
       3692266131
+    ],
+    [
+      "2026-08-04",
+      5.31,
+      0,
+      4050812464
     ]
   ],
   "sharesOutstanding": [

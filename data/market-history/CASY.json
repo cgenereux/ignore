@@ -1,7 +1,7 @@
 {
   "ticker": "CASY",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:50:36+00:00",
+  "generatedAt": "2026-08-05T01:49:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64683,6 +64683,12 @@
       860.369995,
       0,
       31837917677
+    ],
+    [
+      "2026-08-04",
+      850.659973,
+      0,
+      31478599149
     ]
   ],
   "sharesOutstanding": [

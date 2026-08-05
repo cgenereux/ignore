@@ -1,7 +1,7 @@
 {
   "ticker": "MBB",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:22:20+00:00",
+  "generatedAt": "2026-08-05T02:30:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29263,6 +29263,12 @@
     [
       "2026-08-03",
       92.720001,
+      0.341,
+      null
+    ],
+    [
+      "2026-08-04",
+      93.294998,
       0,
       null
     ]

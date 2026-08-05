@@ -1,7 +1,7 @@
 {
   "ticker": "PJT",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:15:41+00:00",
+  "generatedAt": "2026-08-05T02:16:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16393,6 +16393,12 @@
     [
       "2026-08-03",
       170.539993,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      171.240005,
       0,
       null
     ]

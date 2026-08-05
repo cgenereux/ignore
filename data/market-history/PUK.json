@@ -1,7 +1,7 @@
 {
   "ticker": "PUK",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:09:02+00:00",
+  "generatedAt": "2026-08-05T02:02:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39373,6 +39373,12 @@
     [
       "2026-08-03",
       30.049999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      29.51,
       0,
       null
     ]

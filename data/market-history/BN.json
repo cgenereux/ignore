@@ -1,7 +1,7 @@
 {
   "ticker": "BN",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:40:54+00:00",
+  "generatedAt": "2026-08-05T01:44:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64389,6 +64389,12 @@
       43.529999,
       0,
       97228416353
+    ],
+    [
+      "2026-08-04",
+      44.619999,
+      0,
+      99663035963
     ]
   ],
   "sharesOutstanding": [

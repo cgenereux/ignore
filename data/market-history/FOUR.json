@@ -1,7 +1,7 @@
 {
   "ticker": "FOUR",
   "currency": "USD",
-  "generatedAt": "2026-08-04T03:19:57+00:00",
+  "generatedAt": "2026-08-05T02:25:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9289,6 +9289,12 @@
     [
       "2026-08-03",
       54.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-04",
+      55.610001,
       0,
       null
     ]

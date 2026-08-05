@@ -1,7 +1,7 @@
 {
   "ticker": "DIS",
   "currency": "USD",
-  "generatedAt": "2026-08-04T02:41:27+00:00",
+  "generatedAt": "2026-08-05T01:45:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97533,6 +97533,12 @@
       98.139999,
       0,
       170421230091
+    ],
+    [
+      "2026-08-04",
+      98.18,
+      0,
+      170490692138
     ]
   ],
   "sharesOutstanding": [
