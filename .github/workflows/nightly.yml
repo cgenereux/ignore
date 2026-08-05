@@ -80,7 +80,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/market-history data/intraday
+          git add data/market-history data/adjusted data/intraday
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -88,5 +88,7 @@ jobs:
           git commit -m "Nightly market history update"
           # main can move during a long run (manual pushes, other jobs);
           # data commits touch disjoint content, so replay on top.
-          git pull --rebase origin main
+          # --autostash: any stray unstaged file must never strand the
+          # night's commit on the runner again.
+          git pull --rebase --autostash origin main
           git push
