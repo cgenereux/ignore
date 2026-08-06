@@ -11,7 +11,13 @@ on:
 
 concurrency:
   group: intraday-bars
-  cancel-in-progress: true
+  # NOT cancel-in-progress. Dispatches arrive every ~15 minutes and the job
+  # used to take 8-15, so each new run killed the one in flight and the feed
+  # went hours without a single completed run — 2026-08-06 had one success
+  # between 17:15 and 19:15 UTC and eight cancellations. Queueing instead
+  # means a slow run still lands. GitHub keeps only the newest pending run
+  # per group, so this cannot pile up.
+  cancel-in-progress: false
 
 permissions:
   contents: read
