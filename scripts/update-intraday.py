@@ -25,6 +25,24 @@ SLEEP_SECONDS = 0.1
 # Symbols the batch download drops get one individual retry each, up to this
 # many. Beyond it they wait for the next run rather than stretching this one.
 INDIVIDUAL_RETRY_LIMIT = 10
+
+# Every interval the charts can ask for, keyed by the folder name the client
+# uses. The periods mirror the lookbacks in the static-file fetcher
+# (portfolio-tracking/src/scripts/update_stock_prices_intraday_yfinance.py):
+# the client uses live bars *instead of* the file when the feed carries a
+# ticker, so a shorter window here would silently truncate a 1M or 3M chart.
+#
+# The coarse three used to be absent, which is why 1M and 3M ended at the
+# previous session's close all day and spliced a single daily point onto the
+# tail. Now that the fetch is batched, carrying them costs one more request
+# each rather than one per ticker.
+INTERVALS: tuple[tuple[str, str, str], ...] = (
+    ("onemin", "1m", "1d"),
+    ("fivemin", "5m", "5d"),
+    ("quarterhourly", "15m", "1mo"),
+    ("semihourly", "30m", "7d"),
+    ("hourly", "60m", "3mo"),
+)
 # Cloudflare's edge blocks the default Python-urllib agent outright.
 USER_AGENT = "microtrends-intraday-job/1.0 (github-actions)"
 
@@ -99,20 +117,34 @@ def main() -> None:
         return
 
     started = time.time()
-    onemin_frames = download_batch(tickers, period="1d", interval="1m")
-    fivemin_frames = download_batch(tickers, period="5d", interval="5m")
+    frames_by_folder = {
+        folder: download_batch(tickers, period=period, interval=interval)
+        for folder, interval, period in INTERVALS
+    }
+
+    def collect(ticker: str, source) -> dict[str, list]:
+        return {
+            folder: bar_rows(source[folder].get(ticker))
+            for folder, _interval, _period in INTERVALS
+        }
+
+    def latest(series: dict[str, list]) -> list | None:
+        # The finest interval that returned anything carries the freshest price.
+        for folder, _interval, _period in INTERVALS:
+            if series.get(folder):
+                return series[folder][-1]
+        return None
 
     bars: dict[str, dict] = {}
     quotes: dict[str, dict] = {}
     missing: list[str] = []
     for ticker in tickers:
-        onemin = bar_rows(onemin_frames.get(ticker))
-        fivemin = bar_rows(fivemin_frames.get(ticker))
-        if not onemin and not fivemin:
+        series = collect(ticker, frames_by_folder)
+        last = latest(series)
+        if last is None:
             missing.append(ticker)
             continue
-        bars[ticker] = {"onemin": onemin, "fivemin": fivemin}
-        last = (onemin or fivemin)[-1]
+        bars[ticker] = series
         quotes[ticker] = {"price": last[1], "ts": last[0]}
 
     # A batch download can drop individual symbols. Retry those one at a time,
@@ -121,18 +153,18 @@ def main() -> None:
     for ticker in missing[:INDIVIDUAL_RETRY_LIMIT]:
         try:
             instrument = yf.Ticker(ticker)
-            onemin = bar_rows(
-                instrument.history(period="1d", interval="1m", auto_adjust=False)
-            )
-            time.sleep(SLEEP_SECONDS)
-            fivemin = bar_rows(
-                instrument.history(period="5d", interval="5m", auto_adjust=False)
-            )
-            time.sleep(SLEEP_SECONDS)
-            if not onemin and not fivemin:
+            series = {}
+            for folder, interval, period in INTERVALS:
+                series[folder] = bar_rows(
+                    instrument.history(
+                        period=period, interval=interval, auto_adjust=False
+                    )
+                )
+                time.sleep(SLEEP_SECONDS)
+            last = latest(series)
+            if last is None:
                 raise RuntimeError("no intraday bars returned")
-            bars[ticker] = {"onemin": onemin, "fivemin": fivemin}
-            last = (onemin or fivemin)[-1]
+            bars[ticker] = series
             quotes[ticker] = {"price": last[1], "ts": last[0]}
         except Exception as error:
             print(f"{ticker}: failed ({error})")

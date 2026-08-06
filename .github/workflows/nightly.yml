@@ -69,11 +69,21 @@ jobs:
       - name: Archive the day's intraday bars
         if: ${{ !cancelled() }}
         run: |
+          # Gzipped, because this archive is write-only — nothing reads it — and
+          # it grew from ~620 KB to ~2.2 MB a day when the feed started carrying
+          # the 15m/30m/60m intervals. Committed raw that is over half a gigabyte
+          # a year of blobs no reader ever opens, into a repo whose .git is
+          # already ~850 MB. Bars are dense numeric JSON and compress ~8x.
           mkdir -p data/intraday
-          FILE="data/intraday/$(TZ=America/New_York date +%F).json"
-          curl -sf https://microtrends.org/api/intraday-bars -o "$FILE" || rm -f "$FILE"
-          # An empty blob (pre-launch, weekend, holiday) is not worth a commit.
-          if [ -f "$FILE" ] && [ "$(wc -c < "$FILE")" -lt 200 ]; then rm -f "$FILE"; fi
+          FILE="data/intraday/$(TZ=America/New_York date +%F).json.gz"
+          TMP="$(mktemp)"
+          # An empty blob (pre-launch, weekend, holiday) is not worth a commit,
+          # and the size test has to happen before compression to stay meaningful.
+          if curl -sf https://microtrends.org/api/intraday-bars -o "$TMP" \
+            && [ "$(wc -c < "$TMP")" -ge 200 ]; then
+            gzip -9 -c "$TMP" > "$FILE"
+          fi
+          rm -f "$TMP"
 
       - name: Commit changes (if any)
         if: ${{ !cancelled() }}
