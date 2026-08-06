@@ -1,7 +1,7 @@
 {
   "ticker": "MSGS",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:19:26+00:00",
+  "generatedAt": "2026-08-06T23:19:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16423,6 +16423,12 @@
     [
       "2026-08-05",
       391.350006,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      391.559998,
       0,
       null
     ]

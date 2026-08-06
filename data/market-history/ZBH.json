@@ -1,7 +1,7 @@
 {
   "ticker": "ZBH",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:06:47+00:00",
+  "generatedAt": "2026-08-06T23:06:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37773,6 +37773,12 @@
       98.160004,
       0,
       18990277942
+    ],
+    [
+      "2026-08-06",
+      97.190002,
+      0,
+      18802619098
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "PAYP",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:18:24+00:00",
+  "generatedAt": "2026-08-06T23:18:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -613,6 +613,12 @@
     [
       "2026-08-05",
       15.67,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      15.4,
       0,
       null
     ]

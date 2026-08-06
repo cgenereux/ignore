@@ -1,7 +1,7 @@
 {
   "ticker": "ADYEY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:52:46+00:00",
+  "generatedAt": "2026-08-06T23:52:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10315,6 +10315,12 @@
     [
       "2026-08-05",
       10.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      10.67,
       0,
       null
     ]

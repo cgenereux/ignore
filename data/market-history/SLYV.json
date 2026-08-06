@@ -1,7 +1,7 @@
 {
   "ticker": "SLYV",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:47:58+00:00",
+  "generatedAt": "2026-08-06T23:47:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38995,6 +38995,12 @@
     [
       "2026-08-05",
       110.690002,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      110.019997,
       0,
       null
     ]

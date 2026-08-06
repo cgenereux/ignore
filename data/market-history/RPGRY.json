@@ -1,7 +1,7 @@
 {
   "ticker": "RPGRY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:55:29+00:00",
+  "generatedAt": "2026-08-06T23:55:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14737,6 +14737,12 @@
     [
       "2026-08-05",
       29.26,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      30.120001,
       0,
       null
     ]

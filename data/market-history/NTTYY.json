@@ -1,7 +1,7 @@
 {
   "ticker": "NTTYY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T01:13:42+00:00",
+  "generatedAt": "2026-08-06T23:51:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48096,7 +48096,13 @@
     ],
     [
       "2026-08-05",
-      23.83,
+      23.870001,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      24.290001,
       0,
       null
     ]

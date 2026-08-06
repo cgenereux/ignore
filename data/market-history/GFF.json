@@ -1,7 +1,7 @@
 {
   "ticker": "GFF",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:34:10+00:00",
+  "generatedAt": "2026-08-06T23:34:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80569,6 +80569,12 @@
     [
       "2026-08-05",
       102.809998,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      106.300003,
       0,
       null
     ]

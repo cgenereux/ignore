@@ -1,7 +1,7 @@
 {
   "ticker": "EXE",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:00:14+00:00",
+  "generatedAt": "2026-08-06T23:00:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8271,6 +8271,12 @@
       90.82,
       0,
       21726763993
+    ],
+    [
+      "2026-08-06",
+      91.959999,
+      0,
+      21999484735
     ]
   ],
   "sharesOutstanding": [

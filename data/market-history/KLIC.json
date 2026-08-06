@@ -1,7 +1,7 @@
 {
   "ticker": "KLIC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:31:46+00:00",
+  "generatedAt": "2026-08-06T23:31:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80869,6 +80869,12 @@
     [
       "2026-08-05",
       93.839996,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      90.660004,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CNQ",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:49:18+00:00",
+  "generatedAt": "2026-08-06T22:49:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39261,6 +39261,12 @@
       44.75,
       0,
       93335522500
+    ],
+    [
+      "2026-08-06",
+      45.450001,
+      0,
+      94795521091
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "TECL",
   "currency": "USD",
-  "generatedAt": "2026-08-06T01:10:10+00:00",
+  "generatedAt": "2026-08-06T23:47:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26563,6 +26563,12 @@
     [
       "2026-08-05",
       204.990005,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      203.419998,
       0,
       null
     ]

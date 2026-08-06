@@ -1,7 +1,7 @@
 {
   "ticker": "EQNR",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:08:54+00:00",
+  "generatedAt": "2026-08-06T23:09:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37927,6 +37927,12 @@
     [
       "2026-08-05",
       38.130001,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      39.459999,
       0,
       null
     ]

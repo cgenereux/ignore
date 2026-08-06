@@ -1,7 +1,7 @@
 {
   "ticker": "FBND",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:39:37+00:00",
+  "generatedAt": "2026-08-06T23:39:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17839,6 +17839,12 @@
     [
       "2026-08-05",
       45.060001,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      44.919998,
       0,
       null
     ]

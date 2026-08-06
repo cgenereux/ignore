@@ -1,7 +1,7 @@
 {
   "ticker": "VBR",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:39:03+00:00",
+  "generatedAt": "2026-08-06T23:38:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33991,6 +33991,12 @@
     [
       "2026-08-05",
       249.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      248.410004,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "TQQQ",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:39:10+00:00",
+  "generatedAt": "2026-08-06T23:39:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24877,6 +24877,12 @@
     [
       "2026-08-05",
       72.839996,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      72.029999,
       0,
       null
     ]

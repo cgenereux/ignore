@@ -1,7 +1,7 @@
 {
   "ticker": "BATS.L",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:50:02+00:00",
+  "generatedAt": "2026-08-06T23:49:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48433,6 +48433,12 @@
     [
       "2026-08-04",
       4392.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-05",
+      4378.0,
       0,
       null
     ]

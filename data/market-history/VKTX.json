@@ -1,7 +1,7 @@
 {
   "ticker": "VKTX",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:36:06+00:00",
+  "generatedAt": "2026-08-06T23:35:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17017,6 +17017,12 @@
     [
       "2026-08-05",
       33.509998,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      33.299999,
       0,
       null
     ]

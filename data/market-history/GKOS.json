@@ -1,7 +1,7 @@
 {
   "ticker": "GKOS",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:20:29+00:00",
+  "generatedAt": "2026-08-06T23:20:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16771,6 +16771,12 @@
     [
       "2026-08-05",
       170.929993,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      170.990005,
       0,
       null
     ]

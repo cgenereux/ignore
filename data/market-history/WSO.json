@@ -1,7 +1,7 @@
 {
   "ticker": "WSO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:14:40+00:00",
+  "generatedAt": "2026-08-06T23:14:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63739,6 +63739,12 @@
     [
       "2026-08-05",
       333.119995,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      321.019989,
       0,
       null
     ]

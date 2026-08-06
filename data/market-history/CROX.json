@@ -1,7 +1,7 @@
 {
   "ticker": "CROX",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:24:52+00:00",
+  "generatedAt": "2026-08-06T23:24:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30931,6 +30931,12 @@
     [
       "2026-08-05",
       137.320007,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      134.179993,
       0,
       null
     ]

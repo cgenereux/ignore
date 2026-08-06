@@ -1,7 +1,7 @@
 {
   "ticker": "SKYW",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:33:20+00:00",
+  "generatedAt": "2026-08-06T23:33:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60631,6 +60631,12 @@
     [
       "2026-08-05",
       115.940002,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      113.440002,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "HDB",
   "currency": "USD",
-  "generatedAt": "2026-08-06T00:35:19+00:00",
+  "generatedAt": "2026-08-06T23:08:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37789,6 +37789,12 @@
     [
       "2026-08-05",
       23.85,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      23.77,
       0,
       null
     ]

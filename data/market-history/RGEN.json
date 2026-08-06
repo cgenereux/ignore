@@ -1,7 +1,7 @@
 {
   "ticker": "RGEN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:21:45+00:00",
+  "generatedAt": "2026-08-06T23:21:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60877,6 +60877,12 @@
     [
       "2026-08-05",
       158.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      159.440002,
       0,
       null
     ]

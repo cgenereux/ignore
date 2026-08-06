@@ -1,7 +1,7 @@
 {
   "ticker": "USB",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:05:52+00:00",
+  "generatedAt": "2026-08-06T23:06:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80571,6 +80571,12 @@
       64.209999,
       0,
       100021952829
+    ],
+    [
+      "2026-08-06",
+      63.810001,
+      0,
+      99398863703
     ]
   ],
   "sharesOutstanding": [

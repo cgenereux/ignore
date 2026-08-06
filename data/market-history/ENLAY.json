@@ -1,7 +1,7 @@
 {
   "ticker": "ENLAY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T01:16:52+00:00",
+  "generatedAt": "2026-08-06T23:54:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27589,6 +27589,12 @@
     [
       "2026-08-05",
       11.46,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      11.41,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "VOYA",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:20:16+00:00",
+  "generatedAt": "2026-08-06T23:20:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20017,6 +20017,12 @@
     [
       "2026-08-05",
       100.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      101.5,
       0,
       null
     ]

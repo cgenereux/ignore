@@ -1,7 +1,7 @@
 {
   "ticker": "BBUS",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:44:22+00:00",
+  "generatedAt": "2026-08-06T23:44:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11167,6 +11167,12 @@
     [
       "2026-08-05",
       138.770004,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      138.619995,
       0,
       null
     ]

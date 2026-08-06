@@ -1,7 +1,7 @@
 {
   "ticker": "BLDR",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:57:54+00:00",
+  "generatedAt": "2026-08-06T22:58:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31863,6 +31863,12 @@
       75.860001,
       0,
       8162267294
+    ],
+    [
+      "2026-08-06",
+      72.510002,
+      0,
+      7801819327
     ]
   ],
   "sharesOutstanding": [

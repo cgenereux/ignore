@@ -1,7 +1,7 @@
 {
   "ticker": "ADT",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:29:18+00:00",
+  "generatedAt": "2026-08-06T23:29:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12889,6 +12889,12 @@
     [
       "2026-08-05",
       7.7,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      7.65,
       0,
       null
     ]

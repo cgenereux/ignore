@@ -1,7 +1,7 @@
 {
   "ticker": "EME",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:59:51+00:00",
+  "generatedAt": "2026-08-06T22:59:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47679,6 +47679,12 @@
       822.159973,
       0,
       36265395022
+    ],
+    [
+      "2026-08-06",
+      808.429993,
+      0,
+      35659766942
     ]
   ],
   "sharesOutstanding": [

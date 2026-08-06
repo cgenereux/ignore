@@ -1,7 +1,7 @@
 {
   "ticker": "UAL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:05:57+00:00",
+  "generatedAt": "2026-08-06T23:06:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30945,6 +30945,12 @@
       132.759995,
       0,
       43089875306
+    ],
+    [
+      "2026-08-06",
+      129.119995,
+      0,
+      41908441695
     ]
   ],
   "sharesOutstanding": [

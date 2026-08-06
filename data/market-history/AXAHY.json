@@ -1,7 +1,7 @@
 {
   "ticker": "AXAHY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:52:02+00:00",
+  "generatedAt": "2026-08-06T23:51:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45463,6 +45463,12 @@
     [
       "2026-08-05",
       51.66,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      52.110001,
       0,
       null
     ]

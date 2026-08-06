@@ -1,7 +1,7 @@
 {
   "ticker": "LNVGY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:53:56+00:00",
+  "generatedAt": "2026-08-06T23:53:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41749,6 +41749,12 @@
     [
       "2026-08-05",
       67.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      65.300003,
       0,
       null
     ]

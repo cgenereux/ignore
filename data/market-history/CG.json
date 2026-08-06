@@ -1,7 +1,7 @@
 {
   "ticker": "CG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:13:22+00:00",
+  "generatedAt": "2026-08-06T23:13:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21511,6 +21511,12 @@
     [
       "2026-08-05",
       49.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      48.880001,
       0,
       null
     ]

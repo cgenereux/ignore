@@ -1,7 +1,7 @@
 {
   "ticker": "GGG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:15:48+00:00",
+  "generatedAt": "2026-08-06T23:15:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70153,6 +70153,12 @@
     [
       "2026-08-05",
       82.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      83.050003,
       0,
       null
     ]

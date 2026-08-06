@@ -1,7 +1,7 @@
 {
   "ticker": "TWST",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:28:46+00:00",
+  "generatedAt": "2026-08-06T23:28:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11701,6 +11701,12 @@
     [
       "2026-08-05",
       115.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      109.080002,
       0,
       null
     ]

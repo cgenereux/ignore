@@ -1,7 +1,7 @@
 {
   "ticker": "RNMBY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T01:14:07+00:00",
+  "generatedAt": "2026-08-06T23:51:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20664,7 +20664,13 @@
     ],
     [
       "2026-08-05",
-      279.549988,
+      280.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      265.200012,
       0,
       null
     ]

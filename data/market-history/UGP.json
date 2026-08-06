@@ -1,7 +1,7 @@
 {
   "ticker": "UGP",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:24:12+00:00",
+  "generatedAt": "2026-08-06T23:24:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40489,6 +40489,12 @@
     [
       "2026-08-05",
       6.26,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      6.37,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "XPO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:11:50+00:00",
+  "generatedAt": "2026-08-06T23:11:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34465,6 +34465,12 @@
     [
       "2026-08-05",
       200.179993,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      196.350006,
       0,
       null
     ]

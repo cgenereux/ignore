@@ -1,7 +1,7 @@
 {
   "ticker": "CPNG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:07:31+00:00",
+  "generatedAt": "2026-08-06T23:07:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8151,6 +8151,12 @@
       16.0,
       0,
       28721027216
+    ],
+    [
+      "2026-08-06",
+      16.35,
+      0,
+      29349300371
     ]
   ],
   "sharesOutstanding": [

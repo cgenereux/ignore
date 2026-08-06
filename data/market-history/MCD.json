@@ -1,7 +1,7 @@
 {
   "ticker": "MCD",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:43:31+00:00",
+  "generatedAt": "2026-08-06T22:43:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -90735,6 +90735,12 @@
       274.0,
       0,
       194678605366
+    ],
+    [
+      "2026-08-06",
+      276.26001,
+      0,
+      196284355546
     ]
   ],
   "sharesOutstanding": [

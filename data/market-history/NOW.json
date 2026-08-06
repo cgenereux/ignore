@@ -1,7 +1,7 @@
 {
   "ticker": "NOW",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:42:52+00:00",
+  "generatedAt": "2026-08-06T22:43:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21273,6 +21273,12 @@
       117.220001,
       0,
       121189304902
+    ],
+    [
+      "2026-08-06",
+      117.349998,
+      0,
+      121323704122
     ]
   ],
   "sharesOutstanding": [

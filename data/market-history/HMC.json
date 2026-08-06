@@ -1,7 +1,7 @@
 {
   "ticker": "HMC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:10:17+00:00",
+  "generatedAt": "2026-08-06T23:10:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70153,6 +70153,12 @@
     [
       "2026-08-05",
       30.6,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      30.73,
       0,
       null
     ]

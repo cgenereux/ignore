@@ -1,7 +1,7 @@
 {
   "ticker": "HLT",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:44:48+00:00",
+  "generatedAt": "2026-08-06T22:45:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19083,6 +19083,12 @@
       324.559998,
       0,
       73047066640
+    ],
+    [
+      "2026-08-06",
+      321.980011,
+      0,
+      72466402194
     ]
   ],
   "sharesOutstanding": [

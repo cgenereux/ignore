@@ -1,7 +1,7 @@
 {
   "ticker": "PG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:43:34+00:00",
+  "generatedAt": "2026-08-06T22:43:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97545,6 +97545,12 @@
       146.800003,
       0,
       341838337077
+    ],
+    [
+      "2026-08-06",
+      146.970001,
+      0,
+      342234194639
     ]
   ],
   "sharesOutstanding": [

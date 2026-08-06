@@ -1,7 +1,7 @@
 {
   "ticker": "QCOM",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:44:08+00:00",
+  "generatedAt": "2026-08-06T22:44:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52335,6 +52335,12 @@
       157.529999,
       0,
       165406498718
+    ],
+    [
+      "2026-08-06",
+      160.389999,
+      0,
+      168409499359
     ]
   ],
   "sharesOutstanding": [

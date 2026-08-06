@@ -1,7 +1,7 @@
 {
   "ticker": "HWM",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:01:23+00:00",
+  "generatedAt": "2026-08-06T23:01:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14721,6 +14721,12 @@
       291.420013,
       0,
       116599328068
+    ],
+    [
+      "2026-08-06",
+      289.720001,
+      0,
+      115919140463
     ]
   ],
   "sharesOutstanding": [

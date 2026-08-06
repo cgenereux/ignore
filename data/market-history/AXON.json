@@ -1,7 +1,7 @@
 {
   "ticker": "AXON",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:57:30+00:00",
+  "generatedAt": "2026-08-06T22:57:42+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -37923,6 +37923,12 @@
       609.48999,
       0,
       49126159124
+    ],
+    [
+      "2026-08-06",
+      522.460022,
+      0,
+      42111362920
     ]
   ],
   "sharesOutstanding": [

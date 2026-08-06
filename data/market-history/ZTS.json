@@ -1,7 +1,7 @@
 {
   "ticker": "ZTS",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:56:04+00:00",
+  "generatedAt": "2026-08-06T22:56:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20391,6 +20391,12 @@
       74.389999,
       0,
       31186379442
+    ],
+    [
+      "2026-08-06",
+      77.269997,
+      0,
+      32393755271
     ]
   ],
   "sharesOutstanding": [

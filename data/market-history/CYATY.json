@@ -1,7 +1,7 @@
 {
   "ticker": "CYATY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:50:57+00:00",
+  "generatedAt": "2026-08-06T23:50:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -522,7 +522,13 @@
     ],
     [
       "2026-08-05",
-      21.01,
+      20.92,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      20.030001,
       0,
       null
     ]

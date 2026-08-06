@@ -1,7 +1,7 @@
 {
   "ticker": "WFC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:44:14+00:00",
+  "generatedAt": "2026-08-06T22:44:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -81951,6 +81951,12 @@
       89.169998,
       0,
       269650015254
+    ],
+    [
+      "2026-08-06",
+      87.589996,
+      0,
+      264872090766
     ]
   ],
   "sharesOutstanding": [

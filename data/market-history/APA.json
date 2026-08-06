@@ -1,7 +1,7 @@
 {
   "ticker": "APA",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:57:06+00:00",
+  "generatedAt": "2026-08-06T22:57:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -71427,6 +71427,12 @@
       34.66,
       0,
       12251278014
+    ],
+    [
+      "2026-08-06",
+      36.529999,
+      0,
+      12912266961
     ]
   ],
   "sharesOutstanding": [

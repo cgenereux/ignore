@@ -1,7 +1,7 @@
 {
   "ticker": "CAG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:23:14+00:00",
+  "generatedAt": "2026-08-06T23:23:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70153,6 +70153,12 @@
     [
       "2026-08-05",
       15.01,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      14.85,
       0,
       null
     ]

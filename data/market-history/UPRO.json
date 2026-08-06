@@ -1,7 +1,7 @@
 {
   "ticker": "UPRO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:47:46+00:00",
+  "generatedAt": "2026-08-06T23:47:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25831,6 +25831,12 @@
     [
       "2026-08-05",
       153.240005,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      152.429993,
       0,
       null
     ]

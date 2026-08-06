@@ -1,7 +1,7 @@
 {
   "ticker": "ANET",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:57:17+00:00",
+  "generatedAt": "2026-08-06T22:57:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18363,6 +18363,12 @@
       197.309998,
       0,
       248446718738
+    ],
+    [
+      "2026-08-06",
+      192.320007,
+      0,
+      242163475539
     ]
   ],
   "sharesOutstanding": [

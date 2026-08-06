@@ -1,7 +1,7 @@
 {
   "ticker": "RRC",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:20:26+00:00",
+  "generatedAt": "2026-08-06T23:20:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69757,6 +69757,12 @@
     [
       "2026-08-05",
       38.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      38.57,
       0,
       null
     ]

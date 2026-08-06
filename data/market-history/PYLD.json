@@ -1,7 +1,7 @@
 {
   "ticker": "PYLD",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:41:38+00:00",
+  "generatedAt": "2026-08-06T23:41:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4705,6 +4705,12 @@
     [
       "2026-08-05",
       26.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      26.15,
       0,
       null
     ]

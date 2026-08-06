@@ -1,7 +1,7 @@
 {
   "ticker": "CCL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:58:10+00:00",
+  "generatedAt": "2026-08-06T22:58:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59001,6 +59001,12 @@
       29.67,
       0,
       40637489465
+    ],
+    [
+      "2026-08-06",
+      28.790001,
+      0,
+      39432199390
     ]
   ],
   "sharesOutstanding": [

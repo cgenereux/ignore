@@ -1,7 +1,7 @@
 {
   "ticker": "TAL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:28:05+00:00",
+  "generatedAt": "2026-08-06T23:28:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23833,6 +23833,12 @@
     [
       "2026-08-05",
       12.09,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      12.46,
       0,
       null
     ]

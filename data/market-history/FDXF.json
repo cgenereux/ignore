@@ -1,7 +1,7 @@
 {
   "ticker": "FDXF",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:00:30+00:00",
+  "generatedAt": "2026-08-06T23:00:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -303,6 +303,12 @@
       143.029999,
       0,
       21298047740
+    ],
+    [
+      "2026-08-06",
+      146.419998,
+      0,
+      21802839528
     ]
   ],
   "sharesOutstanding": [

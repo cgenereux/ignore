@@ -1,7 +1,7 @@
 {
   "ticker": "BE",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:07:59+00:00",
+  "generatedAt": "2026-08-06T23:08:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12117,6 +12117,12 @@
       234.330002,
       0,
       69016593527
+    ],
+    [
+      "2026-08-06",
+      228.960007,
+      0,
+      67434983118
     ]
   ],
   "sharesOutstanding": [

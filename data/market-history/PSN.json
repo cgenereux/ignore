@@ -1,7 +1,7 @@
 {
   "ticker": "PSN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:25:15+00:00",
+  "generatedAt": "2026-08-06T23:25:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10933,6 +10933,12 @@
     [
       "2026-08-05",
       47.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      47.91,
       0,
       null
     ]

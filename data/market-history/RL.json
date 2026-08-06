@@ -1,7 +1,7 @@
 {
   "ticker": "RL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:04:21+00:00",
+  "generatedAt": "2026-08-06T23:04:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44001,6 +44001,12 @@
       380.779999,
       0,
       22662634157
+    ],
+    [
+      "2026-08-06",
+      395.829987,
+      0,
+      23558354438
     ]
   ],
   "sharesOutstanding": [

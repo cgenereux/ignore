@@ -1,7 +1,7 @@
 {
   "ticker": "ROL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:04:35+00:00",
+  "generatedAt": "2026-08-06T23:04:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70155,6 +70155,12 @@
       37.57,
       0,
       18076632681
+    ],
+    [
+      "2026-08-06",
+      36.830002,
+      0,
+      17720586110
     ]
   ],
   "sharesOutstanding": [

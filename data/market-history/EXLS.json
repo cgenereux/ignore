@@ -1,7 +1,7 @@
 {
   "ticker": "EXLS",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:32:15+00:00",
+  "generatedAt": "2026-08-06T23:32:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29869,6 +29869,12 @@
     [
       "2026-08-05",
       33.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      34.66,
       0,
       null
     ]

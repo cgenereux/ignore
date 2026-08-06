@@ -1,7 +1,7 @@
 {
   "ticker": "BRO",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:57:51+00:00",
+  "generatedAt": "2026-08-06T22:58:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -68781,6 +68781,12 @@
       70.949997,
       0,
       23740603808
+    ],
+    [
+      "2026-08-06",
+      71.18,
+      0,
+      23817565313
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ENSG",
   "currency": "USD",
-  "generatedAt": "2026-08-06T00:43:37+00:00",
+  "generatedAt": "2026-08-06T23:17:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28279,6 +28279,12 @@
     [
       "2026-08-05",
       178.649994,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      181.660004,
       0,
       null
     ]

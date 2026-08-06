@@ -1,7 +1,7 @@
 {
   "ticker": "TNL",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:31:29+00:00",
+  "generatedAt": "2026-08-06T23:31:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30265,6 +30265,12 @@
     [
       "2026-08-05",
       77.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      77.330002,
       0,
       null
     ]

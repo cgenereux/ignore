@@ -1,7 +1,7 @@
 {
   "ticker": "GEN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:00:57+00:00",
+  "generatedAt": "2026-08-06T23:01:06+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -56091,6 +56091,12 @@
       27.950001,
       0,
       16838026679
+    ],
+    [
+      "2026-08-06",
+      28.1,
+      0,
+      16928391527
     ]
   ],
   "sharesOutstanding": [

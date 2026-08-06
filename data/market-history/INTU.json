@@ -1,7 +1,7 @@
 {
   "ticker": "INTU",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:55:15+00:00",
+  "generatedAt": "2026-08-06T22:55:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50451,6 +50451,12 @@
       327.940002,
       0,
       89703724448
+    ],
+    [
+      "2026-08-06",
+      321.910004,
+      0,
+      88054296672
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "SMFG",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:08:24+00:00",
+  "generatedAt": "2026-08-06T23:08:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30979,6 +30979,12 @@
     [
       "2026-08-05",
       25.4,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      25.73,
       0,
       null
     ]

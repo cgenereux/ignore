@@ -1,7 +1,7 @@
 {
   "ticker": "ETR",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:59:53+00:00",
+  "generatedAt": "2026-08-06T23:00:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -81951,6 +81951,12 @@
       106.860001,
       0,
       49864242161
+    ],
+    [
+      "2026-08-06",
+      106.489998,
+      0,
+      49691587225
     ]
   ],
   "sharesOutstanding": [

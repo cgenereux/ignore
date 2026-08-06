@@ -1,7 +1,7 @@
 {
   "ticker": "SXYAY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:52:10+00:00",
+  "generatedAt": "2026-08-06T23:51:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16189,6 +16189,12 @@
     [
       "2026-08-05",
       24.16,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      23.51,
       0,
       null
     ]

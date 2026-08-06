@@ -1,7 +1,7 @@
 {
   "ticker": "SMERY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:52:43+00:00",
+  "generatedAt": "2026-08-06T23:52:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8503,6 +8503,12 @@
     [
       "2026-08-05",
       34.799999,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      35.150002,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "EW",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:59:46+00:00",
+  "generatedAt": "2026-08-06T22:59:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39783,6 +39783,12 @@
       88.970001,
       0,
       51228926703
+    ],
+    [
+      "2026-08-06",
+      89.32,
+      0,
+      51430455824
     ]
   ],
   "sharesOutstanding": [

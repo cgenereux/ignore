@@ -1,7 +1,7 @@
 {
   "ticker": "OEF",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:40:37+00:00",
+  "generatedAt": "2026-08-06T23:40:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38881,6 +38881,12 @@
     [
       "2026-08-05",
       380.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      381.179993,
       0,
       null
     ]

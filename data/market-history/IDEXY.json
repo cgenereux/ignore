@@ -1,7 +1,7 @@
 {
   "ticker": "IDEXY",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:53:41+00:00",
+  "generatedAt": "2026-08-06T23:53:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24973,6 +24973,12 @@
     [
       "2026-08-05",
       16.870001,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      16.91,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DOV",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:59:28+00:00",
+  "generatedAt": "2026-08-06T22:59:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70155,6 +70155,12 @@
       210.399994,
       0,
       28336718518
+    ],
+    [
+      "2026-08-06",
+      210.839996,
+      0,
+      28395978146
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "BABA",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:48:51+00:00",
+  "generatedAt": "2026-08-06T22:49:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17925,6 +17925,12 @@
       128.529999,
       0,
       308069985053
+    ],
+    [
+      "2026-08-06",
+      126.809998,
+      0,
+      303947361888
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "MTB",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:02:37+00:00",
+  "generatedAt": "2026-08-06T23:02:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70155,6 +70155,12 @@
       251.940002,
       0,
       36514420374
+    ],
+    [
+      "2026-08-06",
+      250.139999,
+      0,
+      36253540532
     ]
   ],
   "sharesOutstanding": [

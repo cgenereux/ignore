@@ -1,7 +1,7 @@
 {
   "ticker": "SGI",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:14:26+00:00",
+  "generatedAt": "2026-08-06T23:14:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34159,6 +34159,12 @@
     [
       "2026-08-05",
       69.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      64.870003,
       0,
       null
     ]

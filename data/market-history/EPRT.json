@@ -1,7 +1,7 @@
 {
   "ticker": "EPRT",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:24:24+00:00",
+  "generatedAt": "2026-08-06T23:24:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12253,6 +12253,12 @@
     [
       "2026-08-05",
       30.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      30.629999,
       0,
       null
     ]

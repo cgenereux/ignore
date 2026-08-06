@@ -1,7 +1,7 @@
 {
   "ticker": "ALSN",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:18:48+00:00",
+  "generatedAt": "2026-08-06T23:18:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21715,6 +21715,12 @@
     [
       "2026-08-05",
       118.129997,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      116.239998,
       0,
       null
     ]

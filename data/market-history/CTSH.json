@@ -1,7 +1,7 @@
 {
   "ticker": "CTSH",
   "currency": "USD",
-  "generatedAt": "2026-08-05T22:58:48+00:00",
+  "generatedAt": "2026-08-06T22:58:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42459,6 +42459,12 @@
       55.779999,
       0,
       26383939423
+    ],
+    [
+      "2026-08-06",
+      56.889999,
+      0,
+      26908969711
     ]
   ],
   "sharesOutstanding": [
