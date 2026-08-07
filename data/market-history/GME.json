@@ -1,7 +1,7 @@
 {
   "ticker": "GME",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:08:03+00:00",
+  "generatedAt": "2026-08-07T23:08:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36963,6 +36963,12 @@
       19.23,
       0,
       8628332667
+    ],
+    [
+      "2026-08-07",
+      19.16,
+      0,
+      8596924416
     ]
   ],
   "sharesOutstanding": [

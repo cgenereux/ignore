@@ -1,7 +1,7 @@
 {
   "ticker": "AU",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:10:18+00:00",
+  "generatedAt": "2026-08-07T23:10:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42271,6 +42271,12 @@
     [
       "2026-08-06",
       87.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      96.220001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KBR",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:31:53+00:00",
+  "generatedAt": "2026-08-07T23:32:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29761,6 +29761,12 @@
     [
       "2026-08-06",
       37.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      38.040001,
       0,
       null
     ]

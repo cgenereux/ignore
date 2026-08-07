@@ -1,7 +1,7 @@
 {
   "ticker": "SANM",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:19:58+00:00",
+  "generatedAt": "2026-08-07T23:20:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50323,6 +50323,12 @@
     [
       "2026-08-06",
       205.660004,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      202.729996,
       0,
       null
     ]

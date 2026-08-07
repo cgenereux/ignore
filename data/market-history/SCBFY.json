@@ -1,7 +1,7 @@
 {
   "ticker": "SCBFY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:52:56+00:00",
+  "generatedAt": "2026-08-07T23:54:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10303,6 +10303,12 @@
     [
       "2026-08-06",
       59.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      60.09,
       0,
       null
     ]

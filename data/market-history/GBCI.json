@@ -1,7 +1,7 @@
 {
   "ticker": "GBCI",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:25:49+00:00",
+  "generatedAt": "2026-08-07T23:26:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64063,6 +64063,12 @@
     [
       "2026-08-06",
       48.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      48.75,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DTE.DE",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:49:31+00:00",
+  "generatedAt": "2026-08-07T23:50:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45667,6 +45667,12 @@
     [
       "2026-08-05",
       27.42,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      29.15,
       0,
       null
     ]

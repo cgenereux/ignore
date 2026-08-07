@@ -1,7 +1,7 @@
 {
   "ticker": "MBLY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:23:53+00:00",
+  "generatedAt": "2026-08-07T23:24:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5689,6 +5689,12 @@
     [
       "2026-08-06",
       8.42,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      8.73,
       0,
       null
     ]

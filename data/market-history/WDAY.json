@@ -1,7 +1,7 @@
 {
   "ticker": "WDAY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:44:39+00:00",
+  "generatedAt": "2026-08-07T22:44:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20841,6 +20841,12 @@
       170.240005,
       0,
       42044766422
+    ],
+    [
+      "2026-08-07",
+      179.639999,
+      0,
+      44366315617
     ]
   ],
   "sharesOutstanding": [

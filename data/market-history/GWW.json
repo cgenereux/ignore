@@ -1,7 +1,7 @@
 {
   "ticker": "GWW",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:06:32+00:00",
+  "generatedAt": "2026-08-07T23:06:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80877,6 +80877,12 @@
       1282.579956,
       0,
       60554600092
+    ],
+    [
+      "2026-08-07",
+      1277.550049,
+      0,
+      60317122484
     ]
   ],
   "sharesOutstanding": [

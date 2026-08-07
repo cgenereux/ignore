@@ -1,7 +1,7 @@
 {
   "ticker": "EMN",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:22:26+00:00",
+  "generatedAt": "2026-08-07T23:22:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49303,6 +49303,12 @@
     [
       "2026-08-06",
       73.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      73.639999,
       0,
       null
     ]

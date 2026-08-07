@@ -1,7 +1,7 @@
 {
   "ticker": "SJM",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:05:06+00:00",
+  "generatedAt": "2026-08-07T23:05:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47973,6 +47973,12 @@
       118.800003,
       0,
       12697426298
+    ],
+    [
+      "2026-08-07",
+      120.160004,
+      0,
+      12842784102
     ]
   ],
   "sharesOutstanding": [

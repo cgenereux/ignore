@@ -1,7 +1,7 @@
 {
   "ticker": "WDC",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:55:40+00:00",
+  "generatedAt": "2026-08-07T22:55:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -72243,6 +72243,12 @@
       451.519989,
       0,
       155630872002
+    ],
+    [
+      "2026-08-07",
+      434.299988,
+      0,
+      149695445286
     ]
   ],
   "sharesOutstanding": [

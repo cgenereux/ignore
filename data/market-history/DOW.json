@@ -1,7 +1,7 @@
 {
   "ticker": "DOW",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:59:37+00:00",
+  "generatedAt": "2026-08-07T22:59:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11145,6 +11145,12 @@
       30.299999,
       0,
       21886922992
+    ],
+    [
+      "2026-08-07",
+      29.34,
+      0,
+      21193476571
     ]
   ],
   "sharesOutstanding": [

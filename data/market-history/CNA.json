@@ -1,7 +1,7 @@
 {
   "ticker": "CNA",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:14:38+00:00",
+  "generatedAt": "2026-08-07T23:15:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80875,6 +80875,12 @@
     [
       "2026-08-06",
       52.619999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      52.02,
       0,
       null
     ]

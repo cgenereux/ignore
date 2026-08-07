@@ -1,7 +1,7 @@
 {
   "ticker": "RSHGY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:55:15+00:00",
+  "generatedAt": "2026-08-07T23:56:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1741,6 +1741,12 @@
     [
       "2026-08-06",
       29.559999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      29.41,
       0,
       null
     ]

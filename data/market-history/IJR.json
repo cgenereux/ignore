@@ -1,7 +1,7 @@
 {
   "ticker": "IJR",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:37:19+00:00",
+  "generatedAt": "2026-08-07T23:38:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39529,6 +39529,12 @@
     [
       "2026-08-06",
       147.820007,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      148.929993,
       0,
       null
     ]

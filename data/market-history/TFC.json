@@ -1,7 +1,7 @@
 {
   "ticker": "TFC",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:05:57+00:00",
+  "generatedAt": "2026-08-07T23:06:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70155,6 +70155,12 @@
       52.59,
       0,
       64245311526
+    ],
+    [
+      "2026-08-07",
+      52.349998,
+      0,
+      63952119236
     ]
   ],
   "sharesOutstanding": [

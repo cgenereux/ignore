@@ -1,7 +1,7 @@
 {
   "ticker": "MO",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:45:03+00:00",
+  "generatedAt": "2026-08-07T22:45:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97551,6 +97551,12 @@
       67.75,
       0,
       113125150986
+    ],
+    [
+      "2026-08-07",
+      68.349998,
+      0,
+      114126994794
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "RMBS",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:19:38+00:00",
+  "generatedAt": "2026-08-07T23:20:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44125,6 +44125,12 @@
     [
       "2026-08-06",
       97.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      101.519997,
       0,
       null
     ]

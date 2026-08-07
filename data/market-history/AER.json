@@ -1,7 +1,7 @@
 {
   "ticker": "AER",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:11:26+00:00",
+  "generatedAt": "2026-08-07T23:11:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29743,6 +29743,12 @@
     [
       "2026-08-06",
       155.240005,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      151.720001,
       0,
       null
     ]

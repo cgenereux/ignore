@@ -1,7 +1,7 @@
 {
   "ticker": "PAYX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:03:57+00:00",
+  "generatedAt": "2026-08-07T23:04:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64929,6 +64929,12 @@
       120.129997,
       0,
       42728180995
+    ],
+    [
+      "2026-08-07",
+      120.040001,
+      0,
+      42696170840
     ]
   ],
   "sharesOutstanding": [

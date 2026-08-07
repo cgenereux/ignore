@@ -1,7 +1,7 @@
 {
   "ticker": "SOUN",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:08:01+00:00",
+  "generatedAt": "2026-08-07T23:08:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6441,6 +6441,12 @@
       7.08,
       0,
       3084573161
+    ],
+    [
+      "2026-08-07",
+      8.02,
+      0,
+      3494107123
     ]
   ],
   "sharesOutstanding": [

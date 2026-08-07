@@ -1,7 +1,7 @@
 {
   "ticker": "PSX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:04:02+00:00",
+  "generatedAt": "2026-08-07T23:04:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21609,6 +21609,12 @@
       205.520004,
       0,
       82400167023
+    ],
+    [
+      "2026-08-07",
+      203.910004,
+      0,
+      81754661396
     ]
   ],
   "sharesOutstanding": [

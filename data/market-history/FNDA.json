@@ -1,7 +1,7 @@
 {
   "ticker": "FNDA",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:44:05+00:00",
+  "generatedAt": "2026-08-07T23:45:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19585,6 +19585,12 @@
     [
       "2026-08-06",
       37.759998,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      38.220001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FHN",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:16:32+00:00",
+  "generatedAt": "2026-08-07T23:17:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70159,6 +70159,12 @@
     [
       "2026-08-06",
       25.49,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      25.459999,
       0,
       null
     ]

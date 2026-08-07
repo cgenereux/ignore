@@ -1,7 +1,7 @@
 {
   "ticker": "BNP.PA",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:49:48+00:00",
+  "generatedAt": "2026-08-07T23:50:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50719,6 +50719,12 @@
     [
       "2026-08-05",
       112.120003,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      112.599998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "APGE",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:18:40+00:00",
+  "generatedAt": "2026-08-07T23:19:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4621,6 +4621,12 @@
     [
       "2026-08-06",
       134.490005,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      134.839996,
       0,
       null
     ]

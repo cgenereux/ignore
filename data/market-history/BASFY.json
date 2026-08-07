@@ -1,7 +1,7 @@
 {
   "ticker": "BASFY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:51:28+00:00",
+  "generatedAt": "2026-08-07T23:52:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44850,13 +44850,19 @@
     ],
     [
       "2026-08-05",
-      14.66,
+      14.64,
       0,
       null
     ],
     [
       "2026-08-06",
-      14.74,
+      14.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      14.87,
       0,
       null
     ]

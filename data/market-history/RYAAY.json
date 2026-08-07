@@ -1,7 +1,7 @@
 {
   "ticker": "RYAAY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:10:58+00:00",
+  "generatedAt": "2026-08-07T23:11:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44065,6 +44065,12 @@
     [
       "2026-08-06",
       60.549999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      60.189999,
       0,
       null
     ]

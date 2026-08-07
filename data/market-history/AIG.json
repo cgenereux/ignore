@@ -1,7 +1,7 @@
 {
   "ticker": "AIG",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:57:04+00:00",
+  "generatedAt": "2026-08-07T22:57:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -81081,6 +81081,12 @@
       79.970001,
       0,
       42400592141
+    ],
+    [
+      "2026-08-07",
+      78.779999,
+      0,
+      41769645443
     ]
   ],
   "sharesOutstanding": [

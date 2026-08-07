@@ -1,7 +1,7 @@
 {
   "ticker": "PRF",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:43:46+00:00",
+  "generatedAt": "2026-08-07T23:44:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31135,6 +31135,12 @@
     [
       "2026-08-06",
       55.650002,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      55.919998,
       0,
       null
     ]

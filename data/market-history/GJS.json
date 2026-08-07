@@ -1,7 +1,7 @@
 {
   "ticker": "GJS",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:23:30+00:00",
+  "generatedAt": "2026-08-07T23:24:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30607,6 +30607,12 @@
     [
       "2026-08-06",
       23.120001,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      23.35,
       0,
       null
     ]

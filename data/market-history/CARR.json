@@ -1,7 +1,7 @@
 {
   "ticker": "CARR",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:58:20+00:00",
+  "generatedAt": "2026-08-07T22:58:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9633,6 +9633,12 @@
       63.959999,
       0,
       53123923095
+    ],
+    [
+      "2026-08-07",
+      64.010002,
+      0,
+      53165454651
     ]
   ],
   "sharesOutstanding": [

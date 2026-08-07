@@ -1,7 +1,7 @@
 {
   "ticker": "IRM",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:02:03+00:00",
+  "generatedAt": "2026-08-07T23:02:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46071,6 +46071,12 @@
       121.959999,
       0,
       36286109822
+    ],
+    [
+      "2026-08-07",
+      121.150002,
+      0,
+      36045115557
     ]
   ],
   "sharesOutstanding": [

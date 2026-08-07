@@ -1,7 +1,7 @@
 {
   "ticker": "CSU.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:49:26+00:00",
+  "generatedAt": "2026-08-07T22:49:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28287,6 +28287,12 @@
       3212.659912,
       0,
       68081178907
+    ],
+    [
+      "2026-08-07",
+      3221.600098,
+      0,
+      68270635117
     ]
   ],
   "sharesOutstanding": [

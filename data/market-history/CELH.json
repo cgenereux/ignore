@@ -1,7 +1,7 @@
 {
   "ticker": "CELH",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:07:55+00:00",
+  "generatedAt": "2026-08-07T23:08:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29511,6 +29511,12 @@
       23.77,
       0,
       6076571474
+    ],
+    [
+      "2026-08-07",
+      27.77,
+      0,
+      7099132914
     ]
   ],
   "sharesOutstanding": [

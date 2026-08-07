@@ -1,7 +1,7 @@
 {
   "ticker": "BC",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:29:28+00:00",
+  "generatedAt": "2026-08-07T23:30:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67441,6 +67441,12 @@
     [
       "2026-08-06",
       81.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      81.550003,
       0,
       null
     ]

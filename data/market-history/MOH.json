@@ -1,7 +1,7 @@
 {
   "ticker": "MOH",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:18:12+00:00",
+  "generatedAt": "2026-08-07T23:18:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34873,6 +34873,12 @@
     [
       "2026-08-06",
       191.880005,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      196.449997,
       0,
       null
     ]

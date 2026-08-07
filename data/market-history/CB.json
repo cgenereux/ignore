@@ -1,7 +1,7 @@
 {
   "ticker": "CB",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:58:40+00:00",
+  "generatedAt": "2026-08-07T22:58:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50403,6 +50403,12 @@
       354.029999,
       0,
       136584723611
+    ],
+    [
+      "2026-08-07",
+      350.309998,
+      0,
+      135149547664
     ]
   ],
   "sharesOutstanding": [

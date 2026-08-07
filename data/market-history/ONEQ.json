@@ -1,7 +1,7 @@
 {
   "ticker": "ONEQ",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:43:29+00:00",
+  "generatedAt": "2026-08-07T23:44:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34495,6 +34495,12 @@
     [
       "2026-08-06",
       103.839996,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      105.184402,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "LITE",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:02:45+00:00",
+  "generatedAt": "2026-08-07T23:02:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16665,6 +16665,12 @@
       838.059998,
       0,
       65201067810
+    ],
+    [
+      "2026-08-07",
+      890.169983,
+      0,
+      69255224670
     ]
   ],
   "sharesOutstanding": [

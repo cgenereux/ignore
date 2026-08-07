@@ -1,7 +1,7 @@
 {
   "ticker": "BNPQY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:51:53+00:00",
+  "generatedAt": "2026-08-07T23:53:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34987,6 +34987,12 @@
     [
       "2026-08-06",
       64.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      64.870003,
       0,
       null
     ]

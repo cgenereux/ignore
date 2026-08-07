@@ -1,7 +1,7 @@
 {
   "ticker": "JAZZ",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:13:48+00:00",
+  "generatedAt": "2026-08-07T23:14:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28963,6 +28963,12 @@
     [
       "2026-08-06",
       256.649994,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      256.559998,
       0,
       null
     ]

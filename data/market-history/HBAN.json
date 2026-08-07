@@ -1,7 +1,7 @@
 {
   "ticker": "HBAN",
   "currency": "USD",
-  "generatedAt": "2026-08-07T02:03:24+00:00",
+  "generatedAt": "2026-08-07T23:01:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70161,6 +70161,12 @@
       17.360001,
       0,
       35074402613
+    ],
+    [
+      "2026-08-07",
+      17.549999,
+      0,
+      35458278655
     ]
   ],
   "sharesOutstanding": [

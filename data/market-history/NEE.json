@@ -1,7 +1,7 @@
 {
   "ticker": "NEE",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:45:35+00:00",
+  "generatedAt": "2026-08-07T22:45:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80877,6 +80877,12 @@
       84.599998,
       0,
       176442210104
+    ],
+    [
+      "2026-08-07",
+      84.650002,
+      0,
+      176546496737
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "RTX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:44:51+00:00",
+  "generatedAt": "2026-08-07T22:44:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97173,6 +97173,12 @@
       223.25,
       0,
       300887005648
+    ],
+    [
+      "2026-08-07",
+      223.029999,
+      0,
+      300590497211
     ]
   ],
   "sharesOutstanding": [

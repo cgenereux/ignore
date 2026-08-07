@@ -1,7 +1,7 @@
 {
   "ticker": "DIHP",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:46:35+00:00",
+  "generatedAt": "2026-08-07T23:47:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6583,6 +6583,12 @@
     [
       "2026-08-06",
       35.099998,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      35.619999,
       0,
       null
     ]

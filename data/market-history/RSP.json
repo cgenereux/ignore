@@ -1,7 +1,7 @@
 {
   "ticker": "RSP",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:37:28+00:00",
+  "generatedAt": "2026-08-07T23:38:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35131,6 +35131,12 @@
     [
       "2026-08-06",
       218.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      220.089996,
       0,
       null
     ]

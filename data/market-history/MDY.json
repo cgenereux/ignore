@@ -1,7 +1,7 @@
 {
   "ticker": "MDY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:39:34+00:00",
+  "generatedAt": "2026-08-07T23:40:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47203,6 +47203,12 @@
     [
       "2026-08-06",
       699.570007,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      709.159973,
       0,
       null
     ]

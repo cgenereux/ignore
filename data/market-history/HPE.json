@@ -1,7 +1,7 @@
 {
   "ticker": "HPE",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:55:42+00:00",
+  "generatedAt": "2026-08-07T22:55:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16299,6 +16299,12 @@
       52.43,
       0,
       69427991010
+    ],
+    [
+      "2026-08-07",
+      53.220001,
+      0,
+      70474113004
     ]
   ],
   "sharesOutstanding": [

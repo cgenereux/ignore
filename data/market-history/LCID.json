@@ -1,7 +1,7 @@
 {
   "ticker": "LCID",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:45:19+00:00",
+  "generatedAt": "2026-08-07T22:45:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8871,6 +8871,12 @@
       6.98,
       0,
       2723992527
+    ],
+    [
+      "2026-08-07",
+      7.04,
+      0,
+      2747407913
     ]
   ],
   "sharesOutstanding": [

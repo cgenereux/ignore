@@ -1,7 +1,7 @@
 {
   "ticker": "STLD",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:05:20+00:00",
+  "generatedAt": "2026-08-07T23:05:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44835,6 +44835,12 @@
       261.480011,
       0,
       37477430025
+    ],
+    [
+      "2026-08-07",
+      262.450012,
+      0,
+      37616458445
     ]
   ],
   "sharesOutstanding": [

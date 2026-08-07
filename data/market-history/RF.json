@@ -1,7 +1,7 @@
 {
   "ticker": "RF",
   "currency": "USD",
-  "generatedAt": "2026-08-07T02:06:02+00:00",
+  "generatedAt": "2026-08-07T23:04:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70161,6 +70161,12 @@
       31.389999,
       0,
       26787583177
+    ],
+    [
+      "2026-08-07",
+      31.43,
+      0,
+      26821719140
     ]
   ],
   "sharesOutstanding": [

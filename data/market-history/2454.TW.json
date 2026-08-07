@@ -1,7 +1,7 @@
 {
   "ticker": "2454.TW",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:49:02+00:00",
+  "generatedAt": "2026-08-07T23:50:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37255,6 +37255,12 @@
     [
       "2026-08-06",
       3920.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      3900.0,
       0,
       null
     ]

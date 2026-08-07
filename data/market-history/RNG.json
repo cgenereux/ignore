@@ -1,7 +1,7 @@
 {
   "ticker": "RNG",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:31:48+00:00",
+  "generatedAt": "2026-08-07T23:32:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19405,6 +19405,12 @@
     [
       "2026-08-06",
       61.82,
+      0.125,
+      null
+    ],
+    [
+      "2026-08-07",
+      63.009998,
       0,
       null
     ]

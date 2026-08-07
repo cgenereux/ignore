@@ -1,7 +1,7 @@
 {
   "ticker": "MAA",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:03:09+00:00",
+  "generatedAt": "2026-08-07T23:03:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49113,6 +49113,12 @@
       133.630005,
       0,
       15552501660
+    ],
+    [
+      "2026-08-07",
+      134.960007,
+      0,
+      15707293659
     ]
   ],
   "sharesOutstanding": [

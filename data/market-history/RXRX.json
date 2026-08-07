@@ -1,7 +1,7 @@
 {
   "ticker": "RXRX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:07:34+00:00",
+  "generatedAt": "2026-08-07T23:07:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8007,6 +8007,12 @@
       3.18,
       0,
       1687823825
+    ],
+    [
+      "2026-08-07",
+      3.22,
+      0,
+      1709054293
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ADM",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:57:24+00:00",
+  "generatedAt": "2026-08-07T22:57:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70161,6 +70161,12 @@
       77.510002,
       0,
       37356451437
+    ],
+    [
+      "2026-08-07",
+      76.589996,
+      0,
+      36913048638
     ]
   ],
   "sharesOutstanding": [

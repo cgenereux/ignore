@@ -1,7 +1,7 @@
 {
   "ticker": "BX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T01:47:36+00:00",
+  "generatedAt": "2026-08-07T22:44:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28875,6 +28875,12 @@
       133.449997,
       0,
       106751267126
+    ],
+    [
+      "2026-08-07",
+      137.130005,
+      0,
+      109695032724
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ENVA",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:26:32+00:00",
+  "generatedAt": "2026-08-07T23:27:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17695,6 +17695,12 @@
     [
       "2026-08-06",
       255.960007,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      252.639999,
       0,
       null
     ]

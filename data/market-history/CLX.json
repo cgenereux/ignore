@@ -1,7 +1,7 @@
 {
   "ticker": "CLX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:58:50+00:00",
+  "generatedAt": "2026-08-07T22:58:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80877,6 +80877,12 @@
       105.599998,
       0,
       12769294481
+    ],
+    [
+      "2026-08-07",
+      105.150002,
+      0,
+      12714880242
     ]
   ],
   "sharesOutstanding": [

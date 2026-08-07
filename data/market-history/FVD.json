@@ -1,7 +1,7 @@
 {
   "ticker": "FVD",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:44:46+00:00",
+  "generatedAt": "2026-08-07T23:45:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34639,6 +34639,12 @@
     [
       "2026-08-06",
       50.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      50.84,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KIM",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:02:22+00:00",
+  "generatedAt": "2026-08-07T23:02:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52425,6 +52425,12 @@
       24.43,
       0,
       16387384587
+    ],
+    [
+      "2026-08-07",
+      24.459999,
+      0,
+      16407507449
     ]
   ],
   "sharesOutstanding": [

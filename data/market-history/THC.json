@@ -1,7 +1,7 @@
 {
   "ticker": "THC",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:12:04+00:00",
+  "generatedAt": "2026-08-07T23:12:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70159,6 +70159,12 @@
     [
       "2026-08-06",
       256.640015,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      262.130005,
       0,
       null
     ]

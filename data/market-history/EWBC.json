@@ -1,7 +1,7 @@
 {
   "ticker": "EWBC",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:13:09+00:00",
+  "generatedAt": "2026-08-07T23:13:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41521,6 +41521,12 @@
     [
       "2026-08-06",
       131.880005,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      131.699997,
       0,
       null
     ]

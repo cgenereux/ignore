@@ -1,7 +1,7 @@
 {
   "ticker": "D05.SI",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:49:14+00:00",
+  "generatedAt": "2026-08-07T23:50:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40411,6 +40411,12 @@
     [
       "2026-08-06",
       75.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      76.330002,
       0,
       null
     ]

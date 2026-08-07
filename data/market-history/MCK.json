@@ -1,7 +1,7 @@
 {
   "ticker": "MCK",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:02:57+00:00",
+  "generatedAt": "2026-08-07T23:03:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47925,6 +47925,12 @@
       871.380005,
       0,
       102019206010
+    ],
+    [
+      "2026-08-07",
+      869.580017,
+      0,
+      101808467498
     ]
   ],
   "sharesOutstanding": [

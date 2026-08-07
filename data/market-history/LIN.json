@@ -1,7 +1,7 @@
 {
   "ticker": "LIN",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:02:40+00:00",
+  "generatedAt": "2026-08-07T23:02:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51573,6 +51573,12 @@
       490.109985,
       0,
       226601033331
+    ],
+    [
+      "2026-08-07",
+      489.980011,
+      0,
+      226540940033
     ]
   ],
   "sharesOutstanding": [

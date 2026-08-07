@@ -1,7 +1,7 @@
 {
   "ticker": "601899.SS",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:50:03+00:00",
+  "generatedAt": "2026-08-07T23:51:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26659,6 +26659,12 @@
     [
       "2026-08-06",
       34.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      35.150002,
       0,
       null
     ]

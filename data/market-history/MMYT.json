@@ -1,7 +1,7 @@
 {
   "ticker": "MMYT",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:27:25+00:00",
+  "generatedAt": "2026-08-07T23:28:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24127,6 +24127,12 @@
     [
       "2026-08-06",
       60.049999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      60.009998,
       0,
       null
     ]

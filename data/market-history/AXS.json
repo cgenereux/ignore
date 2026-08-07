@@ -1,7 +1,7 @@
 {
   "ticker": "AXS",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:20:49+00:00",
+  "generatedAt": "2026-08-07T23:21:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34879,6 +34879,12 @@
     [
       "2026-08-06",
       104.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      103.489998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "HEFA",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:45:23+00:00",
+  "generatedAt": "2026-08-07T23:46:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18829,6 +18829,12 @@
     [
       "2026-08-06",
       47.220001,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      47.639999,
       0,
       null
     ]

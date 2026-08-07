@@ -1,7 +1,7 @@
 {
   "ticker": "VRTX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:45:33+00:00",
+  "generatedAt": "2026-08-07T22:45:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52941,6 +52941,12 @@
       484.029999,
       0,
       122849435681
+    ],
+    [
+      "2026-08-07",
+      496.070007,
+      0,
+      125905255070
     ]
   ],
   "sharesOutstanding": [

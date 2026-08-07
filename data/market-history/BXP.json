@@ -1,7 +1,7 @@
 {
   "ticker": "BXP",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:58:08+00:00",
+  "generatedAt": "2026-08-07T22:58:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43983,6 +43983,12 @@
       68.809998,
       0,
       10973638885
+    ],
+    [
+      "2026-08-07",
+      69.709999,
+      0,
+      11117168781
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ROK",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:04:42+00:00",
+  "generatedAt": "2026-08-07T23:04:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67443,6 +67443,12 @@
       441.799988,
       0,
       49160831077
+    ],
+    [
+      "2026-08-07",
+      441.040009,
+      0,
+      49076265182
     ]
   ],
   "sharesOutstanding": [

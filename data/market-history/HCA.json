@@ -1,7 +1,7 @@
 {
   "ticker": "HCA",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:56:09+00:00",
+  "generatedAt": "2026-08-07T22:56:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23259,6 +23259,12 @@
       408.890015,
       0,
       88525301506
+    ],
+    [
+      "2026-08-07",
+      413.359985,
+      0,
+      89493056869
     ]
   ],
   "sharesOutstanding": [

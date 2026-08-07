@@ -1,7 +1,7 @@
 {
   "ticker": "AGCO",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:20:27+00:00",
+  "generatedAt": "2026-08-07T23:20:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51823,6 +51823,12 @@
     [
       "2026-08-06",
       101.629997,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      102.830002,
       0,
       null
     ]

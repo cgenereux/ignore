@@ -1,7 +1,7 @@
 {
   "ticker": "IAUM",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:46:24+00:00",
+  "generatedAt": "2026-08-07T23:47:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7687,6 +7687,12 @@
     [
       "2026-08-06",
       42.330002,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      43.290001,
       0,
       null
     ]

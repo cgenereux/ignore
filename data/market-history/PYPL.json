@@ -1,7 +1,7 @@
 {
   "ticker": "PYPL",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:54:32+00:00",
+  "generatedAt": "2026-08-07T22:54:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16743,6 +16743,12 @@
       59.779999,
       0,
       51139450003
+    ],
+    [
+      "2026-08-07",
+      59.07,
+      0,
+      50532073566
     ]
   ],
   "sharesOutstanding": [

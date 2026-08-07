@@ -1,7 +1,7 @@
 {
   "ticker": "HD",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:43:49+00:00",
+  "generatedAt": "2026-08-07T22:43:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67863,6 +67863,12 @@
       349.519989,
       0,
       348512211738
+    ],
+    [
+      "2026-08-07",
+      355.619995,
+      0,
+      354594629584
     ]
   ],
   "sharesOutstanding": [

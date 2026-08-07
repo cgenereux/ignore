@@ -1,7 +1,7 @@
 {
   "ticker": "HGTY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:34:45+00:00",
+  "generatedAt": "2026-08-07T23:35:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7819,6 +7819,12 @@
     [
       "2026-08-06",
       13.49,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      13.61,
       0,
       null
     ]

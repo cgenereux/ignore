@@ -1,7 +1,7 @@
 {
   "ticker": "CORO",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:45:03+00:00",
+  "generatedAt": "2026-08-07T23:46:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2503,6 +2503,12 @@
     [
       "2026-08-06",
       36.439999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      36.82,
       0,
       null
     ]

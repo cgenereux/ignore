@@ -1,7 +1,7 @@
 {
   "ticker": "GL",
   "currency": "USD",
-  "generatedAt": "2026-08-07T02:03:01+00:00",
+  "generatedAt": "2026-08-07T23:01:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69333,6 +69333,12 @@
       186.020004,
       0,
       14443478773
+    ],
+    [
+      "2026-08-07",
+      183.850006,
+      0,
+      14274989784
     ]
   ],
   "sharesOutstanding": [

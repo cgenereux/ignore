@@ -1,7 +1,7 @@
 {
   "ticker": "CPRT",
   "currency": "USD",
-  "generatedAt": "2026-08-06T22:59:08+00:00",
+  "generatedAt": "2026-08-07T22:59:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48915,6 +48915,12 @@
       29.01,
       0,
       27945576556
+    ],
+    [
+      "2026-08-07",
+      29.66,
+      0,
+      28571726641
     ]
   ],
   "sharesOutstanding": [

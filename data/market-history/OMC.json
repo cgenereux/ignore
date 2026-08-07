@@ -1,7 +1,7 @@
 {
   "ticker": "OMC",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:03:46+00:00",
+  "generatedAt": "2026-08-07T23:03:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70161,6 +70161,12 @@
       82.510002,
       0,
       23515861841
+    ],
+    [
+      "2026-08-07",
+      85.239998,
+      0,
+      24293927538
     ]
   ],
   "sharesOutstanding": [

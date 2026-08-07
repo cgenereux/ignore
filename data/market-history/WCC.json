@@ -1,7 +1,7 @@
 {
   "ticker": "WCC",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:13:51+00:00",
+  "generatedAt": "2026-08-07T23:14:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41113,6 +41113,12 @@
     [
       "2026-08-06",
       371.769989,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      363.73999,
       0,
       null
     ]

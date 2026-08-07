@@ -1,7 +1,7 @@
 {
   "ticker": "SYNA",
   "currency": "USD",
-  "generatedAt": "2026-08-07T02:32:37+00:00",
+  "generatedAt": "2026-08-07T23:35:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37027,6 +37027,12 @@
     [
       "2026-08-06",
       102.099998,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      106.190002,
       0,
       null
     ]

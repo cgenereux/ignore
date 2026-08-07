@@ -1,7 +1,7 @@
 {
   "ticker": "MTZ",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:11:41+00:00",
+  "generatedAt": "2026-08-07T23:12:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80875,6 +80875,12 @@
     [
       "2026-08-06",
       258.630005,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      272.459991,
       0,
       null
     ]

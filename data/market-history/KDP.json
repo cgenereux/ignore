@@ -1,7 +1,7 @@
 {
   "ticker": "KDP",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:02:15+00:00",
+  "generatedAt": "2026-08-07T23:02:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27555,6 +27555,12 @@
       30.370001,
       0,
       41320192276
+    ],
+    [
+      "2026-08-07",
+      30.01,
+      0,
+      40830390036
     ]
   ],
   "sharesOutstanding": [

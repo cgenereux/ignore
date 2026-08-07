@@ -1,7 +1,7 @@
 {
   "ticker": "FHI",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:32:36+00:00",
+  "generatedAt": "2026-08-07T23:33:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42613,6 +42613,12 @@
     [
       "2026-08-06",
       63.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      63.16,
       0,
       null
     ]

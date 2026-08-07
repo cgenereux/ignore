@@ -1,7 +1,7 @@
 {
   "ticker": "VMI",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:19:51+00:00",
+  "generatedAt": "2026-08-07T23:20:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80875,6 +80875,12 @@
     [
       "2026-08-06",
       491.910004,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      493.640015,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KMX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:21:34+00:00",
+  "generatedAt": "2026-08-07T23:22:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44539,6 +44539,12 @@
     [
       "2026-08-06",
       58.060001,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      58.18,
       0,
       null
     ]

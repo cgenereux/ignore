@@ -1,7 +1,7 @@
 {
   "ticker": "TT",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:05:51+00:00",
+  "generatedAt": "2026-08-07T23:06:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70161,6 +70161,12 @@
       478.660004,
       0,
       105316294709
+    ],
+    [
+      "2026-08-07",
+      482.309998,
+      0,
+      106119377962
     ]
   ],
   "sharesOutstanding": [

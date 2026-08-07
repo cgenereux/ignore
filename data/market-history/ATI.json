@@ -1,7 +1,7 @@
 {
   "ticker": "ATI",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:11:34+00:00",
+  "generatedAt": "2026-08-07T23:11:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40279,6 +40279,12 @@
     [
       "2026-08-06",
       223.429993,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      227.839996,
       0,
       null
     ]

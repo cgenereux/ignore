@@ -1,7 +1,7 @@
 {
   "ticker": "SONY",
   "currency": "USD",
-  "generatedAt": "2026-08-07T01:55:19+00:00",
+  "generatedAt": "2026-08-07T22:52:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80877,6 +80877,12 @@
       23.1,
       0,
       135653876057
+    ],
+    [
+      "2026-08-07",
+      23.459999,
+      0,
+      137767954786
     ]
   ],
   "sharesOutstanding": [

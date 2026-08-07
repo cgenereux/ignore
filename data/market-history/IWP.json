@@ -1,7 +1,7 @@
 {
   "ticker": "IWP",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:40:29+00:00",
+  "generatedAt": "2026-08-07T23:41:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37741,6 +37741,12 @@
     [
       "2026-08-06",
       140.660004,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      144.119995,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "TROW",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:05:29+00:00",
+  "generatedAt": "2026-08-07T23:05:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60999,6 +60999,12 @@
       113.620003,
       0,
       24344972362
+    ],
+    [
+      "2026-08-07",
+      114.019997,
+      0,
+      24430677697
     ]
   ],
   "sharesOutstanding": [

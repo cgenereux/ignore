@@ -1,7 +1,7 @@
 {
   "ticker": "HSY",
   "currency": "USD",
-  "generatedAt": "2026-08-06T23:01:25+00:00",
+  "generatedAt": "2026-08-07T23:01:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70161,6 +70161,12 @@
       183.020004,
       0,
       36773414603
+    ],
+    [
+      "2026-08-07",
+      182.350006,
+      0,
+      36638794780
     ]
   ],
   "sharesOutstanding": [
