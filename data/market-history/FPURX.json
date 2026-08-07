@@ -1,7 +1,7 @@
 {
   "ticker": "FPURX",
   "currency": "USD",
-  "generatedAt": "2026-08-06T06:37:54+00:00",
+  "generatedAt": "2026-08-07T02:53:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70465,6 +70465,12 @@
     [
       "2026-08-05",
       28.469999,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      28.42,
       0,
       null
     ]

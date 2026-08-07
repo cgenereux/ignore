@@ -1,7 +1,7 @@
 {
   "ticker": "SIM",
   "currency": "USD",
-  "generatedAt": "2026-08-05T23:33:32+00:00",
+  "generatedAt": "2026-08-07T02:31:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49987,6 +49987,12 @@
     [
       "2026-08-05",
       30.0301,
+      0,
+      null
+    ],
+    [
+      "2026-08-06",
+      30.030001,
       0,
       null
     ]
