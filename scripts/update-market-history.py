@@ -25,9 +25,7 @@ Reserve daily rate, so every series in the dashboard stays comparable.
 from __future__ import annotations
 
 import argparse
-import csv
 import hashlib
-import io
 import json
 import math
 import os
@@ -44,6 +42,8 @@ try:
 except ImportError:
     pass
 import yfinance as yf
+
+from market_currency import FOREIGN_LISTINGS, rate_lookup, usd_rates
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -65,9 +65,6 @@ OUTPUT_DIRECTORY = ROOT / "data" / "market-history"
 # ex, so the incremental path full-refetches on any adjusted-overlap drift.
 ADJUSTED_DIRECTORY = ROOT / "data" / "adjusted"
 DEFAULT_START = "1925-01-01"
-FRED_CSV = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}"
-# FRED stalls on browser user agents and answers a plain one immediately.
-FRED_USER_AGENT = "fiscal-dashboard/1.0"
 MULTI_CLASS_EQUIVALENT_SHARE_CIKS = {"0001067983"}
 
 # Yahoo correctly carries these companies' price histories across a recent
@@ -139,42 +136,6 @@ KNOWN_REPORTED_SHARE_MULTIPLIERS = {
 KNOWN_SPECIAL_DIVIDENDS = {
     "MSFT": {"2004-11-15": 3.0},
 }
-
-# Dashboard ticker -> local listing. "perUsd" says which way the FRED series
-# is quoted: DEXHKUS is HKD per USD, DEXUSEU is USD per EUR.
-FOREIGN_LISTINGS = {
-    "BYD": {
-        "symbol": "1211.HK",
-        "currency": "HKD",
-        "series": "DEXHKUS",
-        "perUsd": True,
-    },
-    "SU.PA": {
-        "symbol": "SU.PA",
-        "currency": "EUR",
-        "series": "DEXUSEU",
-        "perUsd": False,
-    },
-    "RYCEY": {
-        "symbol": "RR.L",
-        "currency": "GBP",
-        "series": "DEXUSUK",
-        "perUsd": False,
-    },
-    "SSNLF": {
-        "symbol": "005930.KS",
-        "currency": "KRW",
-        "series": "DEXKOUS",
-        "perUsd": True,
-    },
-    "000660": {
-        "symbol": "000660.KS",
-        "currency": "KRW",
-        "series": "DEXKOUS",
-        "perUsd": True,
-    },
-}
-
 
 def finite_number(value) -> float | None:
     try:
@@ -418,49 +379,6 @@ def sec_share_observations(cik: str, ticker: str) -> list[tuple[str, float]]:
             for observed_date, value in observations
         ]
     return observations
-
-
-def usd_rates(series: str, per_usd: bool) -> list[tuple[str, float]]:
-    """Daily multipliers converting the local currency into USD, ascending.
-
-    FRED leaves holidays blank, and a local exchange can trade on a day the
-    Federal Reserve did not publish, so callers carry the last rate forward.
-    """
-    request = urllib.request.Request(
-        FRED_CSV.format(series=series), headers={"User-Agent": FRED_USER_AGENT}
-    )
-    with urllib.request.urlopen(request, timeout=90) as response:
-        text = response.read().decode("utf-8")
-
-    rates: list[tuple[str, float]] = []
-    for row in csv.DictReader(io.StringIO(text)):
-        raw = (row.get(series) or "").strip()
-        if raw in ("", "."):
-            continue
-        value = float(raw)
-        if value <= 0:
-            continue
-        rates.append((row["observation_date"], 1 / value if per_usd else value))
-    if not rates:
-        raise RuntimeError(f"no {series} observations returned")
-    rates.sort()
-    return rates
-
-
-def rate_lookup(rates: list[tuple[str, float]]):
-    """Step function over the rate history, holding the last known value."""
-    index = 0
-    current: float | None = None
-
-    def at(observed_date: str) -> float | None:
-        nonlocal index, current
-        while index < len(rates) and rates[index][0] <= observed_date:
-            current = rates[index][1]
-            index += 1
-        # Before the series begins there is nothing to convert with.
-        return current
-
-    return at
 
 
 def load_seed_prices(seed_directory: Path | None, ticker: str) -> dict[str, float]:

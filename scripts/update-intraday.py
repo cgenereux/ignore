@@ -16,8 +16,9 @@ import os
 import sys
 import time
 import urllib.request
-
 import yfinance as yf
+
+from market_currency import FOREIGN_LISTINGS
 
 SITE = os.environ.get("MICROTRENDS_SITE", "https://microtrends.org")
 UPLOAD_SECRET = os.environ.get("INTRADAY_UPLOAD_SECRET", "")
@@ -56,6 +57,11 @@ def get_json(url: str):
         return json.load(response)
 
 
+def resolve_symbol(ticker: str) -> str:
+    listing = FOREIGN_LISTINGS.get(ticker)
+    return listing["symbol"] if listing else ticker
+
+
 def bar_rows(frame) -> list[list]:
     rows = []
     if frame is None:
@@ -79,8 +85,10 @@ def download_batch(tickers: list[str], period: str, interval: str) -> dict:
     """
     if not tickers:
         return {}
+    symbols_by_ticker = {ticker: resolve_symbol(ticker) for ticker in tickers}
+    symbols = list(dict.fromkeys(symbols_by_ticker.values()))
     frame = yf.download(
-        tickers=tickers,
+        tickers=symbols,
         period=period,
         interval=interval,
         group_by="ticker",
@@ -91,19 +99,30 @@ def download_batch(tickers: list[str], period: str, interval: str) -> dict:
     if frame is None or frame.empty:
         return {}
 
-    # A single ticker comes back with flat columns; several come back with a
-    # (ticker, field) MultiIndex.
-    if len(tickers) == 1:
-        return {tickers[0]: frame.dropna(how="all")}
+    # yfinance versions disagree on whether one ticker has flat columns or a
+    # (ticker, field) MultiIndex, so accept both shapes.
+    if len(symbols) == 1:
+        symbol = symbols[0]
+        try:
+            symbol_frame = frame[symbol]
+        except KeyError:
+            symbol_frame = frame
+        per_symbol = {symbol: symbol_frame.dropna(how="all")}
+    else:
+        per_symbol = {}
+        for symbol in symbols:
+            try:
+                symbol_frame = frame[symbol]
+            except KeyError:
+                continue
+            symbol_frame = symbol_frame.dropna(how="all")
+            if not symbol_frame.empty:
+                per_symbol[symbol] = symbol_frame
 
     out = {}
     for ticker in tickers:
-        try:
-            per_ticker = frame[ticker]
-        except KeyError:
-            continue
-        per_ticker = per_ticker.dropna(how="all")
-        if not per_ticker.empty:
+        per_ticker = per_symbol.get(symbols_by_ticker[ticker])
+        if per_ticker is not None:
             out[ticker] = per_ticker
     return out
 
@@ -152,7 +171,7 @@ def main() -> None:
     # drag the run back over the dispatch interval.
     for ticker in missing[:INDIVIDUAL_RETRY_LIMIT]:
         try:
-            instrument = yf.Ticker(ticker)
+            instrument = yf.Ticker(resolve_symbol(ticker))
             series = {}
             for folder, interval, period in INTERVALS:
                 series[folder] = bar_rows(
