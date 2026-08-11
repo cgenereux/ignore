@@ -1,7 +1,7 @@
 {
   "ticker": "TRU",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:17:32+00:00",
+  "generatedAt": "2026-08-11T23:39:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16789,6 +16789,12 @@
     [
       "2026-08-10",
       79.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      80.370003,
       0,
       null
     ]

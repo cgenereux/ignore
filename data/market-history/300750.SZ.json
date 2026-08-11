@@ -1,7 +1,7 @@
 {
   "ticker": "300750.SZ",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:34:06+00:00",
+  "generatedAt": "2026-08-11T22:54:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11888,6 +11888,12 @@
       "2026-08-10",
       393.869995,
       1.411,
+      null
+    ],
+    [
+      "2026-08-11",
+      390.399994,
+      0,
       null
     ]
   ],

@@ -1,7 +1,7 @@
 {
   "ticker": "KXIAY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:00:25+00:00",
+  "generatedAt": "2026-08-11T23:21:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1279,6 +1279,12 @@
     [
       "2026-08-10",
       28.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      30.32,
       0,
       null
     ]

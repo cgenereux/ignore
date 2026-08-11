@@ -1,7 +1,7 @@
 {
   "ticker": "MTUM",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:04:14+00:00",
+  "generatedAt": "2026-08-11T23:25:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20095,6 +20095,12 @@
     [
       "2026-08-10",
       307.320007,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      308.339996,
       0,
       null
     ]

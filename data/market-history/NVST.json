@@ -1,7 +1,7 @@
 {
   "ticker": "NVST",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:05:37+00:00",
+  "generatedAt": "2026-08-11T23:27:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10399,6 +10399,12 @@
     [
       "2026-08-10",
       28.190001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      28.52,
       0,
       null
     ]

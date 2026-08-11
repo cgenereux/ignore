@@ -1,7 +1,7 @@
 {
   "ticker": "FNDX",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:51:24+00:00",
+  "generatedAt": "2026-08-11T23:12:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19597,6 +19597,12 @@
     [
       "2026-08-10",
       32.439999,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      32.41,
       0,
       null
     ]

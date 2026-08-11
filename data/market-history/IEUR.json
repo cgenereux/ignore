@@ -1,7 +1,7 @@
 {
   "ticker": "IEUR",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:56:53+00:00",
+  "generatedAt": "2026-08-11T23:17:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18355,6 +18355,12 @@
     [
       "2026-08-10",
       78.099998,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      78.110001,
       0,
       null
     ]

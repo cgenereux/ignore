@@ -1,7 +1,7 @@
 {
   "ticker": "CART",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:07:15+00:00",
+  "generatedAt": "2026-08-11T22:26:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4359,6 +4359,12 @@
       50.560001,
       0,
       11883107719
+    ],
+    [
+      "2026-08-11",
+      49.389999,
+      0,
+      11608122370
     ]
   ],
   "sharesOutstanding": [

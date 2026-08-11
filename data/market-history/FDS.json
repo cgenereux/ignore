@@ -1,7 +1,7 @@
 {
   "ticker": "FDS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:24:53+00:00",
+  "generatedAt": "2026-08-11T22:44:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45465,6 +45465,12 @@
       284.119995,
       0,
       10104881904
+    ],
+    [
+      "2026-08-11",
+      282.950012,
+      0,
+      10063270826
     ]
   ],
   "sharesOutstanding": [

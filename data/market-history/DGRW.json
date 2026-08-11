@@ -1,7 +1,7 @@
 {
   "ticker": "DGRW",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:46:07+00:00",
+  "generatedAt": "2026-08-11T23:06:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19951,6 +19951,12 @@
     [
       "2026-08-10",
       100.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      99.830002,
       0,
       null
     ]

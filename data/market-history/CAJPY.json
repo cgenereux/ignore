@@ -1,7 +1,7 @@
 {
   "ticker": "CAJPY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:41:55+00:00",
+  "generatedAt": "2026-08-11T23:02:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70171,6 +70171,12 @@
     [
       "2026-08-10",
       29.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      29.17,
       0,
       null
     ]

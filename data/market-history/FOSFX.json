@@ -1,7 +1,7 @@
 {
   "ticker": "FOSFX",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:51:34+00:00",
+  "generatedAt": "2026-08-11T23:12:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63001,6 +63001,12 @@
     [
       "2026-08-07",
       78.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      78.25,
       0,
       null
     ]

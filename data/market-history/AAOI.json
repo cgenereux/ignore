@@ -1,7 +1,7 @@
 {
   "ticker": "AAOI",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:35:03+00:00",
+  "generatedAt": "2026-08-11T22:55:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19423,6 +19423,12 @@
     [
       "2026-08-10",
       132.809998,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      134.330002,
       0,
       null
     ]

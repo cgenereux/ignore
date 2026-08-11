@@ -1,7 +1,7 @@
 {
   "ticker": "NLY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:04:54+00:00",
+  "generatedAt": "2026-08-11T23:26:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43525,6 +43525,12 @@
     [
       "2026-08-10",
       22.91,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      23.139999,
       0,
       null
     ]

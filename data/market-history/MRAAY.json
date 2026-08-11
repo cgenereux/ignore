@@ -1,7 +1,7 @@
 {
   "ticker": "MRAAY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:03:43+00:00",
+  "generatedAt": "2026-08-11T23:25:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24990,7 +24990,13 @@
     ],
     [
       "2026-08-10",
-      22.68,
+      22.6,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      22.870001,
       0,
       null
     ]

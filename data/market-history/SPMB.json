@@ -1,7 +1,7 @@
 {
   "ticker": "SPMB",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:14:30+00:00",
+  "generatedAt": "2026-08-11T23:36:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26455,6 +26455,12 @@
     [
       "2026-08-10",
       21.940001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      21.959999,
       0,
       null
     ]

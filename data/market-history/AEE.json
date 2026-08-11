@@ -1,7 +1,7 @@
 {
   "ticker": "AEE",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:21:11+00:00",
+  "generatedAt": "2026-08-11T22:40:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43173,6 +43173,12 @@
       107.0,
       0,
       29612422912
+    ],
+    [
+      "2026-08-11",
+      107.82,
+      0,
+      29839359153
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "MRCY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:03:44+00:00",
+  "generatedAt": "2026-08-11T23:25:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43057,6 +43057,12 @@
     [
       "2026-08-10",
       108.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      109.150002,
       0,
       null
     ]

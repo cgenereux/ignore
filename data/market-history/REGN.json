@@ -1,7 +1,7 @@
 {
   "ticker": "REGN",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:20:15+00:00",
+  "generatedAt": "2026-08-11T22:39:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53427,6 +53427,12 @@
       808.049988,
       0,
       83192776797
+    ],
+    [
+      "2026-08-11",
+      797.0,
+      0,
+      82055125436
     ]
   ],
   "sharesOutstanding": [

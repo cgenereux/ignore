@@ -1,7 +1,7 @@
 {
   "ticker": "MAS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:27:13+00:00",
+  "generatedAt": "2026-08-11T22:47:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70173,6 +70173,12 @@
       74.720001,
       0,
       14733845010
+    ],
+    [
+      "2026-08-11",
+      76.139999,
+      0,
+      15013850800
     ]
   ],
   "sharesOutstanding": [

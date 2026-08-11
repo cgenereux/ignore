@@ -1,7 +1,7 @@
 {
   "ticker": "ALV.DE",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:36:42+00:00",
+  "generatedAt": "2026-08-11T22:57:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45559,6 +45559,12 @@
     [
       "2026-08-07",
       433.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      437.700012,
       0,
       null
     ]

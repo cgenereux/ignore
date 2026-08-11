@@ -1,7 +1,7 @@
 {
   "ticker": "TXG",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:18:02+00:00",
+  "generatedAt": "2026-08-11T23:39:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10423,6 +10423,12 @@
     [
       "2026-08-10",
       58.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      58.48,
       0,
       null
     ]

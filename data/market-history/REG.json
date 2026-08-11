@@ -1,7 +1,7 @@
 {
   "ticker": "REG",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:28:55+00:00",
+  "generatedAt": "2026-08-11T22:48:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49503,6 +49503,12 @@
       76.110001,
       0,
       13935496799
+    ],
+    [
+      "2026-08-11",
+      75.82,
+      0,
+      13882398562
     ]
   ],
   "sharesOutstanding": [

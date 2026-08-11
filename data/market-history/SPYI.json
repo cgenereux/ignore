@@ -1,7 +1,7 @@
 {
   "ticker": "SPYI",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:14:53+00:00",
+  "generatedAt": "2026-08-11T23:36:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5941,6 +5941,12 @@
     [
       "2026-08-10",
       54.189999,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      54.09,
       0,
       null
     ]

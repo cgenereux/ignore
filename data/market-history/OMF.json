@@ -1,7 +1,7 @@
 {
   "ticker": "OMF",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:06:11+00:00",
+  "generatedAt": "2026-08-11T23:27:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19339,6 +19339,12 @@
     [
       "2026-08-10",
       63.16,
+      1.05,
+      null
+    ],
+    [
+      "2026-08-11",
+      63.669998,
       0,
       null
     ]

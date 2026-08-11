@@ -1,7 +1,7 @@
 {
   "ticker": "GLNCY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:54:00+00:00",
+  "generatedAt": "2026-08-11T23:14:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21895,6 +21895,12 @@
     [
       "2026-08-10",
       15.33,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      15.39,
       0,
       null
     ]

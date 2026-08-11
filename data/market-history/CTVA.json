@@ -1,7 +1,7 @@
 {
   "ticker": "CTVA",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:23:32+00:00",
+  "generatedAt": "2026-08-11T22:43:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10881,6 +10881,12 @@
       76.470001,
       0,
       51020478934
+    ],
+    [
+      "2026-08-11",
+      76.220001,
+      0,
+      50853679934
     ]
   ],
   "sharesOutstanding": [

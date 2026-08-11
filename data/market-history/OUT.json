@@ -1,7 +1,7 @@
 {
   "ticker": "OUT",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:06:39+00:00",
+  "generatedAt": "2026-08-11T23:28:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18667,6 +18667,12 @@
     [
       "2026-08-10",
       30.040001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      29.92,
       0,
       null
     ]

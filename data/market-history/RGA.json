@@ -1,7 +1,7 @@
 {
   "ticker": "RGA",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:09:52+00:00",
+  "generatedAt": "2026-08-11T23:31:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27031,6 +27031,12 @@
     [
       "2026-08-10",
       242.100006,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      244.649994,
       0,
       null
     ]

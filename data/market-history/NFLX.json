@@ -1,7 +1,7 @@
 {
   "ticker": "NFLX",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:07:03+00:00",
+  "generatedAt": "2026-08-11T22:26:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36561,6 +36561,12 @@
       76.290001,
       0,
       317666961694
+    ],
+    [
+      "2026-08-11",
+      74.790001,
+      0,
+      311421052180
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "DFAE",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:45:38+00:00",
+  "generatedAt": "2026-08-11T23:06:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8563,6 +8563,12 @@
     [
       "2026-08-10",
       38.669998,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      38.77,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "JCPB",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:59:04+00:00",
+  "generatedAt": "2026-08-11T23:20:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11191,6 +11191,12 @@
     [
       "2026-08-10",
       46.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      46.16,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ASML.AS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:37:35+00:00",
+  "generatedAt": "2026-08-11T22:58:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43321,6 +43321,12 @@
     [
       "2026-08-07",
       1499.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      1513.800049,
       0,
       null
     ]

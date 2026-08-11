@@ -1,7 +1,7 @@
 {
   "ticker": "XP",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:23:47+00:00",
+  "generatedAt": "2026-08-11T23:45:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10045,6 +10045,12 @@
     [
       "2026-08-10",
       16.200001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      15.51,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BINC",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:40:03+00:00",
+  "generatedAt": "2026-08-11T23:00:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4842,6 +4842,12 @@
     ],
     [
       "2026-08-10",
+      51.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
       51.98,
       0,
       null

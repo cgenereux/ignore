@@ -1,7 +1,7 @@
 {
   "ticker": "PPC",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:08:11+00:00",
+  "generatedAt": "2026-08-11T23:29:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58357,6 +58357,12 @@
     [
       "2026-08-10",
       26.51,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      26.860001,
       0,
       null
     ]

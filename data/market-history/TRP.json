@@ -1,7 +1,7 @@
 {
   "ticker": "TRP",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:17:28+00:00",
+  "generatedAt": "2026-08-11T23:39:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -66367,6 +66367,12 @@
     [
       "2026-08-10",
       63.330002,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      63.639999,
       0,
       null
     ]

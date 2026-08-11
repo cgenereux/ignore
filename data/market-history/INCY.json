@@ -1,7 +1,7 @@
 {
   "ticker": "INCY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:26:05+00:00",
+  "generatedAt": "2026-08-11T22:46:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49479,6 +49479,12 @@
       121.550003,
       0,
       24637911645
+    ],
+    [
+      "2026-08-11",
+      121.07,
+      0,
+      24540616046
     ]
   ],
   "sharesOutstanding": [

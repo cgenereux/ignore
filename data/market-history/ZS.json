@@ -1,7 +1,7 @@
 {
   "ticker": "ZS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:19:39+00:00",
+  "generatedAt": "2026-08-11T22:39:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12675,6 +12675,12 @@
       176.679993,
       0,
       28570837693
+    ],
+    [
+      "2026-08-11",
+      178.550003,
+      0,
+      28873236182
     ]
   ],
   "sharesOutstanding": [

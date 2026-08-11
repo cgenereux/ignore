@@ -1,7 +1,7 @@
 {
   "ticker": "VONV",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:20:52+00:00",
+  "generatedAt": "2026-08-11T23:42:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23971,6 +23971,12 @@
     [
       "2026-08-10",
       113.290001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      113.110001,
       0,
       null
     ]

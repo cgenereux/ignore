@@ -1,7 +1,7 @@
 {
   "ticker": "RLI",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:10:11+00:00",
+  "generatedAt": "2026-08-11T23:31:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70171,6 +70171,12 @@
     [
       "2026-08-10",
       63.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      63.939999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "L.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:00:29+00:00",
+  "generatedAt": "2026-08-11T23:21:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47617,6 +47617,12 @@
     [
       "2026-08-10",
       61.970001,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      62.09,
       0,
       null
     ]

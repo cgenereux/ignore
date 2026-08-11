@@ -1,7 +1,7 @@
 {
   "ticker": "MANE",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:02:03+00:00",
+  "generatedAt": "2026-08-11T23:23:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -781,6 +781,12 @@
     [
       "2026-08-10",
       110.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      108.949997,
       0,
       null
     ]

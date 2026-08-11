@@ -1,7 +1,7 @@
 {
   "ticker": "ESGU",
   "currency": "USD",
-  "generatedAt": "2026-08-11T00:48:49+00:00",
+  "generatedAt": "2026-08-11T23:09:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14593,6 +14593,12 @@
     [
       "2026-08-10",
       169.490005,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      169.020004,
       0,
       null
     ]

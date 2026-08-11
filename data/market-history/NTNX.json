@@ -1,7 +1,7 @@
 {
   "ticker": "NTNX",
   "currency": "USD",
-  "generatedAt": "2026-08-11T01:05:24+00:00",
+  "generatedAt": "2026-08-11T23:26:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14869,6 +14869,12 @@
     [
       "2026-08-10",
       64.459999,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      64.32,
       0,
       null
     ]
