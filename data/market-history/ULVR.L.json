@@ -1,7 +1,7 @@
 {
   "ticker": "ULVR.L",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:51:00+00:00",
+  "generatedAt": "2026-08-11T01:18:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58628,6 +58628,12 @@
       "2026-08-06",
       4709.0,
       39.82,
+      null
+    ],
+    [
+      "2026-08-07",
+      4670.0,
+      0,
       null
     ]
   ],

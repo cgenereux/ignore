@@ -1,7 +1,7 @@
 {
   "ticker": "IEP",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:30:26+00:00",
+  "generatedAt": "2026-08-11T00:56:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59017,6 +59017,12 @@
     [
       "2026-08-07",
       7.455,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      7.43,
       0,
       null
     ]

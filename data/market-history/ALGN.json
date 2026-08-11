@@ -1,7 +1,7 @@
 {
   "ticker": "ALGN",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:56:56+00:00",
+  "generatedAt": "2026-08-11T00:21:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38517,6 +38517,12 @@
       173.660004,
       0,
       12437204197
+    ],
+    [
+      "2026-08-10",
+      176.039993,
+      0,
+      12607654596
     ]
   ],
   "sharesOutstanding": [

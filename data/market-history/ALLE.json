@@ -1,7 +1,7 @@
 {
   "ticker": "ALLE",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:56:57+00:00",
+  "generatedAt": "2026-08-11T00:21:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19197,6 +19197,12 @@
       168.940002,
       0,
       14366114834
+    ],
+    [
+      "2026-08-10",
+      165.529999,
+      0,
+      14076139083
     ]
   ],
   "sharesOutstanding": [

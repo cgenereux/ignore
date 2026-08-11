@@ -1,7 +1,7 @@
 {
   "ticker": "RKLB",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:55:11+00:00",
+  "generatedAt": "2026-08-11T00:19:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8595,6 +8595,12 @@
       82.830002,
       0,
       51753736136
+    ],
+    [
+      "2026-08-10",
+      80.040001,
+      0,
+      50010491321
     ]
   ],
   "sharesOutstanding": [

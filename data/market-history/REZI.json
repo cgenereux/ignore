@@ -1,7 +1,7 @@
 {
   "ticker": "REZI",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:29:23+00:00",
+  "generatedAt": "2026-08-11T01:09:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11725,6 +11725,12 @@
     [
       "2026-08-07",
       26.08,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      24.209999,
       0,
       null
     ]

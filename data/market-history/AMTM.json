@@ -1,7 +1,7 @@
 {
   "ticker": "AMTM",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:28:52+00:00",
+  "generatedAt": "2026-08-11T00:36:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2821,6 +2821,12 @@
     [
       "2026-08-07",
       24.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      24.440001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FICO",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:00:41+00:00",
+  "generatedAt": "2026-08-11T00:24:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59025,6 +59025,12 @@
       1041.400024,
       0,
       22491777616
+    ],
+    [
+      "2026-08-10",
+      1049.73999,
+      0,
+      22671901154
     ]
   ],
   "sharesOutstanding": [

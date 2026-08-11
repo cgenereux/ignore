@@ -1,7 +1,7 @@
 {
   "ticker": "GLD",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:38:05+00:00",
+  "generatedAt": "2026-08-11T00:53:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32785,6 +32785,12 @@
     [
       "2026-08-07",
       398.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      402.540009,
       0,
       null
     ]

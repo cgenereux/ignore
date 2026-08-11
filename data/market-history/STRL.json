@@ -1,7 +1,7 @@
 {
   "ticker": "STRL",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:14:05+00:00",
+  "generatedAt": "2026-08-11T01:15:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52993,6 +52993,12 @@
     [
       "2026-08-07",
       547.059998,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      528.51001,
       0,
       null
     ]

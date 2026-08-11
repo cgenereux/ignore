@@ -1,7 +1,7 @@
 {
   "ticker": "CACI",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:17:57+00:00",
+  "generatedAt": "2026-08-11T00:41:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70165,6 +70165,12 @@
     [
       "2026-08-07",
       644.429993,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      648.23999,
       0,
       null
     ]

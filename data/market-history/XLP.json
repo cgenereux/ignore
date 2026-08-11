@@ -1,7 +1,7 @@
 {
   "ticker": "XLP",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:42:53+00:00",
+  "generatedAt": "2026-08-11T01:23:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41695,6 +41695,12 @@
     [
       "2026-08-07",
       85.120003,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      84.949997,
       0,
       null
     ]

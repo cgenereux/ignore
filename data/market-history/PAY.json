@@ -1,7 +1,7 @@
 {
   "ticker": "PAY",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:34:56+00:00",
+  "generatedAt": "2026-08-11T01:07:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7843,6 +7843,12 @@
     [
       "2026-08-07",
       38.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      38.990002,
       0,
       null
     ]

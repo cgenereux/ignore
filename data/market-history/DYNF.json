@@ -1,7 +1,7 @@
 {
   "ticker": "DYNF",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:39:51+00:00",
+  "generatedAt": "2026-08-11T00:47:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11143,6 +11143,12 @@
     [
       "2026-08-07",
       69.989998,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      69.949997,
       0,
       null
     ]

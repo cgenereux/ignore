@@ -1,7 +1,7 @@
 {
   "ticker": "FSEAX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T02:53:17+00:00",
+  "generatedAt": "2026-08-11T00:52:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50305,6 +50305,12 @@
     [
       "2026-08-06",
       85.290001,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      86.0,
       0,
       null
     ]

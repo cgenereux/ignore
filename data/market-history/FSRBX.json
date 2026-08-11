@@ -1,7 +1,7 @@
 {
   "ticker": "FSRBX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T02:52:26+00:00",
+  "generatedAt": "2026-08-11T00:52:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60625,6 +60625,12 @@
     [
       "2026-08-06",
       38.880001,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      38.869999,
       0,
       null
     ]

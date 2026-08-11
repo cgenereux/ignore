@@ -1,7 +1,7 @@
 {
   "ticker": "DRS",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:16:24+00:00",
+  "generatedAt": "2026-08-11T00:46:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62167,6 +62167,12 @@
     [
       "2026-08-07",
       44.799999,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      45.049999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CGMU",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:47:26+00:00",
+  "generatedAt": "2026-08-11T00:42:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5689,6 +5689,12 @@
     [
       "2026-08-07",
       27.15,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      27.129999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PPG",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:04:21+00:00",
+  "generatedAt": "2026-08-11T00:28:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70167,6 +70167,12 @@
       119.720001,
       0,
       26613756271
+    ],
+    [
+      "2026-08-10",
+      115.480003,
+      0,
+      25671204746
     ]
   ],
   "sharesOutstanding": [

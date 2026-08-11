@@ -1,7 +1,7 @@
 {
   "ticker": "BNY",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:58:00+00:00",
+  "generatedAt": "2026-08-11T00:22:09+00:00",
   "source": "Yahoo Finance via yfinance; price history continued from BK on 2026-05-21; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -80583,6 +80583,12 @@
       157.610001,
       0,
       106939038235
+    ],
+    [
+      "2026-08-10",
+      159.429993,
+      0,
+      108173910390
     ]
   ],
   "sharesOutstanding": [

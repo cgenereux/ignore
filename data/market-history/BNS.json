@@ -1,7 +1,7 @@
 {
   "ticker": "BNS",
   "currency": "USD",
-  "generatedAt": "2026-08-10T22:09:29+00:00",
+  "generatedAt": "2026-08-11T00:13:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36495,6 +36495,12 @@
       88.849998,
       0,
       108316454193.0
+    ],
+    [
+      "2026-08-10",
+      88.559998,
+      0,
+      107962915967
     ]
   ],
   "sharesOutstanding": [

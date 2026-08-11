@@ -1,7 +1,7 @@
 {
   "ticker": "HLI",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:19:18+00:00",
+  "generatedAt": "2026-08-11T00:55:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16579,6 +16579,12 @@
     [
       "2026-08-07",
       129.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      123.389999,
       0,
       null
     ]

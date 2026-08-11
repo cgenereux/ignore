@@ -1,7 +1,7 @@
 {
   "ticker": "MATX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:27:15+00:00",
+  "generatedAt": "2026-08-11T01:02:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80575,12 +80575,18 @@
     [
       "2026-08-06",
       206.259995,
-      0,
+      0.38,
       null
     ],
     [
       "2026-08-07",
       206.770004,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      208.679993,
       0,
       null
     ]

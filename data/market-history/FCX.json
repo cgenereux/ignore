@@ -1,7 +1,7 @@
 {
   "ticker": "FCX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:01:08+00:00",
+  "generatedAt": "2026-08-11T00:25:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46941,6 +46941,12 @@
       69.620003,
       0,
       100082921750
+    ],
+    [
+      "2026-08-10",
+      70.510002,
+      0,
+      101362349152
     ]
   ],
   "sharesOutstanding": [

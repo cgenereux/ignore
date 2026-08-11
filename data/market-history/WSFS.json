@@ -1,7 +1,7 @@
 {
   "ticker": "WSFS",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:35:18+00:00",
+  "generatedAt": "2026-08-11T01:22:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60001,6 +60001,12 @@
     [
       "2026-08-07",
       81.269997,
+      0.2,
+      null
+    ],
+    [
+      "2026-08-10",
+      80.57,
       0,
       null
     ]

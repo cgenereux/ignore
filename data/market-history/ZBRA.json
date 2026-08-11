@@ -1,7 +1,7 @@
 {
   "ticker": "ZBRA",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:07:10+00:00",
+  "generatedAt": "2026-08-11T00:31:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52851,6 +52851,12 @@
       376.48999,
       0,
       17933495289
+    ],
+    [
+      "2026-08-10",
+      378.079987,
+      0,
+      18009232208
     ]
   ],
   "sharesOutstanding": [

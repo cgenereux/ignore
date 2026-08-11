@@ -1,7 +1,7 @@
 {
   "ticker": "GNTX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:30:57+00:00",
+  "generatedAt": "2026-08-11T00:54:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67483,6 +67483,12 @@
     [
       "2026-08-07",
       24.08,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      23.85,
       0,
       null
     ]

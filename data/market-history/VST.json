@@ -1,7 +1,7 @@
 {
   "ticker": "VST",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:06:39+00:00",
+  "generatedAt": "2026-08-11T00:30:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14847,6 +14847,12 @@
       140.589996,
       0,
       47404481941
+    ],
+    [
+      "2026-08-10",
+      142.869995,
+      0,
+      48173257557
     ]
   ],
   "sharesOutstanding": [

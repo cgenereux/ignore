@@ -1,7 +1,7 @@
 {
   "ticker": "TMUS",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:44:31+00:00",
+  "generatedAt": "2026-08-11T00:08:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29151,6 +29151,12 @@
       177.190002,
       0,
       190066685726
+    ],
+    [
+      "2026-08-10",
+      178.199997,
+      0,
+      191150078163
     ]
   ],
   "sharesOutstanding": [

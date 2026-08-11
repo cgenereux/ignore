@@ -1,7 +1,7 @@
 {
   "ticker": "HIMS",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:07:35+00:00",
+  "generatedAt": "2026-08-11T00:31:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10413,6 +10413,12 @@
       31.59,
       0,
       7311748620
+    ],
+    [
+      "2026-08-10",
+      31.77,
+      0,
+      7353411076
     ]
   ],
   "sharesOutstanding": [

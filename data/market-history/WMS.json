@@ -1,7 +1,7 @@
 {
   "ticker": "WMS",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:18:03+00:00",
+  "generatedAt": "2026-08-11T01:22:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18169,6 +18169,12 @@
     [
       "2026-08-07",
       143.949997,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      141.669998,
       0,
       null
     ]

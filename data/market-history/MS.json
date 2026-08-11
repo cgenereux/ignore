@@ -1,7 +1,7 @@
 {
   "ticker": "MS",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:44:40+00:00",
+  "generatedAt": "2026-08-11T00:08:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50541,6 +50541,12 @@
       216.330002,
       0,
       340070762878
+    ],
+    [
+      "2026-08-10",
+      215.330002,
+      0,
+      338498762878
     ]
   ],
   "sharesOutstanding": [

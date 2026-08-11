@@ -1,7 +1,7 @@
 {
   "ticker": "VGK",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:40:15+00:00",
+  "generatedAt": "2026-08-11T01:19:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32329,6 +32329,12 @@
     [
       "2026-08-07",
       92.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      92.260002,
       0,
       null
     ]

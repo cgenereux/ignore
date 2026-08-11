@@ -1,7 +1,7 @@
 {
   "ticker": "RMS.PA",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:49:58+00:00",
+  "generatedAt": "2026-08-11T01:10:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41005,6 +41005,12 @@
     [
       "2026-08-06",
       1626.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      1635.5,
       0,
       null
     ]

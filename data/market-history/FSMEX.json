@@ -1,7 +1,7 @@
 {
   "ticker": "FSMEX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T02:51:53+00:00",
+  "generatedAt": "2026-08-11T00:52:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42685,6 +42685,12 @@
     [
       "2026-08-06",
       49.459999,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      50.77,
       0,
       null
     ]

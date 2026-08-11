@@ -1,7 +1,7 @@
 {
   "ticker": "IPAR",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:36:04+00:00",
+  "generatedAt": "2026-08-11T00:57:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58201,6 +58201,12 @@
     [
       "2026-08-07",
       122.970001,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      119.489998,
       0,
       null
     ]

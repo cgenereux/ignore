@@ -1,7 +1,7 @@
 {
   "ticker": "NOVN.SW",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:49:26+00:00",
+  "generatedAt": "2026-08-11T01:05:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47941,6 +47941,18 @@
     [
       "2026-08-06",
       125.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-07",
+      125.980003,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      126.800003,
       0,
       null
     ]

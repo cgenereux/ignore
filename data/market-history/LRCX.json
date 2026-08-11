@@ -1,7 +1,7 @@
 {
   "ticker": "LRCX",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:54:55+00:00",
+  "generatedAt": "2026-08-11T00:19:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63891,6 +63891,12 @@
       311.350006,
       0,
       389585412937
+    ],
+    [
+      "2026-08-10",
+      306.399994,
+      0,
+      383391571563
     ]
   ],
   "sharesOutstanding": [

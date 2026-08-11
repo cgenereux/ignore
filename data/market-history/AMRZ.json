@@ -1,7 +1,7 @@
 {
   "ticker": "AMRZ",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:11:46+00:00",
+  "generatedAt": "2026-08-11T00:36:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1711,6 +1711,12 @@
     [
       "2026-08-07",
       46.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      46.290001,
       0,
       null
     ]

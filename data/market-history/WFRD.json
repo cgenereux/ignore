@@ -1,7 +1,7 @@
 {
   "ticker": "WFRD",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:27:55+00:00",
+  "generatedAt": "2026-08-11T01:22:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8437,6 +8437,12 @@
     [
       "2026-08-07",
       86.82,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      92.900002,
       0,
       null
     ]

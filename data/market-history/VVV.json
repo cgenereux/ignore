@@ -1,7 +1,7 @@
 {
   "ticker": "VVV",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:31:02+00:00",
+  "generatedAt": "2026-08-11T01:21:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14893,6 +14893,12 @@
     [
       "2026-08-07",
       35.34,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      33.720001,
       0,
       null
     ]

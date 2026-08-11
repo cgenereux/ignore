@@ -1,7 +1,7 @@
 {
   "ticker": "AROC",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:27:08+00:00",
+  "generatedAt": "2026-08-11T00:37:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28633,6 +28633,12 @@
     [
       "2026-08-07",
       33.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      33.130001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ONDS",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:33:53+00:00",
+  "generatedAt": "2026-08-11T01:06:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8551,6 +8551,12 @@
     [
       "2026-08-07",
       9.11,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      9.31,
       0,
       null
     ]

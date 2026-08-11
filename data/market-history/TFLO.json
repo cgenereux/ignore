@@ -1,7 +1,7 @@
 {
   "ticker": "TFLO",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:47:17+00:00",
+  "generatedAt": "2026-08-11T01:16:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18883,6 +18883,12 @@
     [
       "2026-08-07",
       50.549999,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      50.560001,
       0,
       null
     ]

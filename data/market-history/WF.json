@@ -1,7 +1,7 @@
 {
   "ticker": "WF",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:14:26+00:00",
+  "generatedAt": "2026-08-11T01:22:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34501,6 +34501,12 @@
     [
       "2026-08-07",
       72.620003,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      70.190002,
       0,
       null
     ]

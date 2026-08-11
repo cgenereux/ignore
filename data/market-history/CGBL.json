@@ -1,7 +1,7 @@
 {
   "ticker": "CGBL",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:46:37+00:00",
+  "generatedAt": "2026-08-11T00:42:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4309,6 +4309,12 @@
     [
       "2026-08-07",
       38.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      38.310001,
       0,
       null
     ]

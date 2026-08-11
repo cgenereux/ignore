@@ -1,7 +1,7 @@
 {
   "ticker": "EONGY",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:52:54+00:00",
+  "generatedAt": "2026-08-11T00:48:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43519,6 +43519,12 @@
     [
       "2026-08-07",
       21.9,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      21.719999,
       0,
       null
     ]

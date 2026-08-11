@@ -1,7 +1,7 @@
 {
   "ticker": "OSCR",
   "currency": "USD",
-  "generatedAt": "2026-08-10T22:48:53+00:00",
+  "generatedAt": "2026-08-11T00:33:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8199,6 +8199,12 @@
       27.9,
       0,
       8411654585
+    ],
+    [
+      "2026-08-10",
+      27.67,
+      0,
+      8539902804
     ]
   ],
   "sharesOutstanding": [

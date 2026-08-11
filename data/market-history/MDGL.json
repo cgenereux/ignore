@@ -1,7 +1,7 @@
 {
   "ticker": "MDGL",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:16:57+00:00",
+  "generatedAt": "2026-08-11T01:02:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29449,6 +29449,12 @@
     [
       "2026-08-07",
       510.040009,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      515.340027,
       0,
       null
     ]

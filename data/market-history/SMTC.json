@@ -1,7 +1,7 @@
 {
   "ticker": "SMTC",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:18:52+00:00",
+  "generatedAt": "2026-08-11T01:13:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70165,6 +70165,12 @@
     [
       "2026-08-07",
       139.419998,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      131.270004,
       0,
       null
     ]

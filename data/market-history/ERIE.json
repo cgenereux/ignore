@@ -1,7 +1,7 @@
 {
   "ticker": "ERIE",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:00:16+00:00",
+  "generatedAt": "2026-08-11T00:24:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46587,6 +46587,12 @@
       252.580002,
       0,
       13207374955
+    ],
+    [
+      "2026-08-10",
+      252.350006,
+      0,
+      13195348509
     ]
   ],
   "sharesOutstanding": [

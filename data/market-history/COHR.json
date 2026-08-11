@@ -1,7 +1,7 @@
 {
   "ticker": "COHR",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:59:03+00:00",
+  "generatedAt": "2026-08-11T00:23:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58719,6 +58719,12 @@
       379.130005,
       0,
       74172736726
+    ],
+    [
+      "2026-08-10",
+      325.149994,
+      0,
+      63612124029
     ]
   ],
   "sharesOutstanding": [

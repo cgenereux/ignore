@@ -1,7 +1,7 @@
 {
   "ticker": "COP",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:56:16+00:00",
+  "generatedAt": "2026-08-11T00:20:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67449,6 +67449,12 @@
       117.610001,
       0,
       143283558907
+    ],
+    [
+      "2026-08-10",
+      123.029999,
+      0,
+      149886710194
     ]
   ],
   "sharesOutstanding": [

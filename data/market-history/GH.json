@@ -1,7 +1,7 @@
 {
   "ticker": "GH",
   "currency": "USD",
-  "generatedAt": "2026-08-07T23:13:08+00:00",
+  "generatedAt": "2026-08-11T00:53:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11827,6 +11827,12 @@
     [
       "2026-08-07",
       168.479996,
+      0,
+      null
+    ],
+    [
+      "2026-08-10",
+      167.210007,
       0,
       null
     ]

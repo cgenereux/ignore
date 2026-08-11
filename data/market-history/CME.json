@@ -1,7 +1,7 @@
 {
   "ticker": "CME",
   "currency": "USD",
-  "generatedAt": "2026-08-07T22:58:58+00:00",
+  "generatedAt": "2026-08-11T00:23:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35733,6 +35733,12 @@
       263.660004,
       0,
       94806669799
+    ],
+    [
+      "2026-08-10",
+      263.649994,
+      0,
+      94803070495
     ]
   ],
   "sharesOutstanding": [
