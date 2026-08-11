@@ -1476,6 +1476,7 @@ def main() -> None:
     end_bound = fetch_end_date(args.end)
     today = date.today()
     successes = 0
+    failures = []
     for ticker in tickers:
         try:
             if args.repair_existing:
@@ -1525,12 +1526,22 @@ def main() -> None:
             successes += 1
         except Exception as error:
             print(f"{ticker}: failed ({error})")
+            failures.append(ticker)
         if not args.repair_existing:
             time.sleep(max(args.sleep_ms, 0) / 1000)
 
     print(f"Updated {successes}/{len(tickers)} market-history files.")
-    if successes != len(tickers):
-        raise SystemExit(1)
+    if failures:
+        # A few foreign listings time out most nights. Failing the whole run
+        # over them made every night red, which hid real breakage and stopped
+        # anything conclusion-gated (the site deploy) from chaining off this
+        # job. Tolerate up to 1% failures on large runs; small runs (under 100
+        # tickers, e.g. a manual --tickers fetch) stay strict.
+        allowed = len(tickers) // 100
+        print(f"Failed ({len(failures)}/{len(tickers)}): {', '.join(failures)}")
+        if len(failures) > allowed:
+            raise SystemExit(1)
+        print(f"Within the {allowed}-failure tolerance; treating the run as a success.")
 
 
 if __name__ == "__main__":
