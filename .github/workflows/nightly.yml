@@ -18,7 +18,10 @@ on:
   schedule:
     # Fallback only — cron-job.org dispatches the punctual run. GitHub fires
     # this 45-60 minutes late in practice, which is still the same session.
-    - cron: "15 23 * * 1-5"
+    # 21:45 UTC is the earliest hour that stays after the 16:00 New York close
+    # in both DST regimes (17:45 EDT / 16:45 EST); closes are final minutes
+    # after the bell, so there is no reason to sit on them for hours.
+    - cron: "45 21 * * 1-5"
 
 concurrency:
   group: nightly-market-history
@@ -53,8 +56,9 @@ jobs:
 
       - name: Update market history
         run: |
-          # The session has settled by the time this runs (>= 23:15 UTC), so
-          # today's close is safe to include. Use the New York calendar date.
+          # Every trigger (cron-job.org, the 21:45 UTC fallback, manual) fires
+          # after the New York close, so today's close is safe to include. Use
+          # the New York calendar date.
           END_DATE="$(TZ=America/New_York date +%F)"
           INCREMENTAL="--incremental"
           if [ "${{ github.event.inputs.full || 'false' }}" = "true" ]; then
@@ -86,6 +90,7 @@ jobs:
           rm -f "$TMP"
 
       - name: Commit changes (if any)
+        id: commit
         if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
@@ -93,6 +98,7 @@ jobs:
           git add data/market-history data/adjusted data/intraday
           if git diff --cached --quiet; then
             echo "No changes to commit."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "Nightly market history update"
@@ -102,3 +108,22 @@ jobs:
           # night's commit on the runner again.
           git pull --rebase --autostash origin main
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch the site deploy
+        # Fresh data should reach microtrends.org right away instead of
+        # waiting for Stock-Tracker's 02:00 UTC fallback cron. GitHub cannot
+        # chain workflow_run across repositories, so dispatch deploy.yml over
+        # the API. Needs a fine-grained PAT with Actions read/write on
+        # Stock-Tracker, stored here as the DEPLOY_DISPATCH_TOKEN secret;
+        # until that secret exists this step logs and moves on, and the
+        # fallback cron still delivers.
+        if: ${{ !cancelled() && steps.commit.outputs.pushed == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.DEPLOY_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "DEPLOY_DISPATCH_TOKEN not set; skipping the deploy dispatch."
+            exit 0
+          fi
+          gh workflow run deploy.yml -R cgenereux/Stock-Tracker --ref main
