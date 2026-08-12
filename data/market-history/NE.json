@@ -1,7 +1,7 @@
 {
   "ticker": "NE",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:26:06+00:00",
+  "generatedAt": "2026-08-12T23:24:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7799,8 +7799,8 @@
       null
     ],
     [
-      "2026-08-11",
-      44.48,
+      "2026-08-12",
+      44.080002,
       0,
       null
     ]

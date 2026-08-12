@@ -1,7 +1,7 @@
 {
   "ticker": "LNG",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:22:30+00:00",
+  "generatedAt": "2026-08-12T23:20:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48865,6 +48865,12 @@
     [
       "2026-08-11",
       265.429993,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      268.109985,
       0,
       null
     ]

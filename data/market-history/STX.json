@@ -1,7 +1,7 @@
 {
   "ticker": "STX",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:49:21+00:00",
+  "generatedAt": "2026-08-12T22:48:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35727,6 +35727,12 @@
       820.52002,
       0,
       185644390639
+    ],
+    [
+      "2026-08-12",
+      878.210022,
+      0,
+      198696875764
     ]
   ],
   "sharesOutstanding": [

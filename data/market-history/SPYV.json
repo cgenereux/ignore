@@ -1,7 +1,7 @@
 {
   "ticker": "SPYV",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:36:44+00:00",
+  "generatedAt": "2026-08-12T23:34:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39019,6 +39019,12 @@
     [
       "2026-08-11",
       63.299999,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      63.349998,
       0,
       null
     ]

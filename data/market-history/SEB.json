@@ -1,7 +1,7 @@
 {
   "ticker": "SEB",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:33:59+00:00",
+  "generatedAt": "2026-08-12T23:31:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80887,6 +80887,12 @@
     [
       "2026-08-11",
       4169.640137,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      4201.350098,
       0,
       null
     ]

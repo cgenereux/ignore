@@ -1,7 +1,7 @@
 {
   "ticker": "INGM",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:18:43+00:00",
+  "generatedAt": "2026-08-12T23:17:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2699,8 +2699,8 @@
       null
     ],
     [
-      "2026-08-11",
-      27.629999,
+      "2026-08-12",
+      28.040001,
       0,
       null
     ]

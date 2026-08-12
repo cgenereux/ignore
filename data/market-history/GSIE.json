@@ -1,7 +1,7 @@
 {
   "ticker": "GSIE",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:15:27+00:00",
+  "generatedAt": "2026-08-12T23:13:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16219,6 +16219,12 @@
     [
       "2026-08-11",
       48.040001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      48.145,
       0,
       null
     ]

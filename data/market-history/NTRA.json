@@ -1,7 +1,7 @@
 {
   "ticker": "NTRA",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:26:57+00:00",
+  "generatedAt": "2026-08-12T23:24:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16771,6 +16771,12 @@
     [
       "2026-08-11",
       312.720001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      315.959991,
       0,
       null
     ]

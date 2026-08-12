@@ -1,7 +1,7 @@
 {
   "ticker": "EWTX",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:10:00+00:00",
+  "generatedAt": "2026-08-12T23:08:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8105,8 +8105,8 @@
       null
     ],
     [
-      "2026-08-11",
-      44.310001,
+      "2026-08-12",
+      43.560001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CRSP",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:52:02+00:00",
+  "generatedAt": "2026-08-12T22:51:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14799,6 +14799,12 @@
       54.07,
       0,
       5325036771
+    ],
+    [
+      "2026-08-12",
+      53.990002,
+      0,
+      5317158236
     ]
   ],
   "sharesOutstanding": [

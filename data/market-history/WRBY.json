@@ -1,7 +1,7 @@
 {
   "ticker": "WRBY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:53:55+00:00",
+  "generatedAt": "2026-08-12T22:53:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7335,6 +7335,12 @@
       25.040001,
       0,
       3095145785
+    ],
+    [
+      "2026-08-12",
+      25.32,
+      0,
+      3129755890
     ]
   ],
   "sharesOutstanding": [

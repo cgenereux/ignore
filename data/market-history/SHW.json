@@ -1,7 +1,7 @@
 {
   "ticker": "SHW",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:49:24+00:00",
+  "generatedAt": "2026-08-12T22:48:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70179,6 +70179,12 @@
       364.420013,
       0,
       88465928647
+    ],
+    [
+      "2026-08-12",
+      360.200012,
+      0,
+      87441488954
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "VEOEY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:41:34+00:00",
+  "generatedAt": "2026-08-12T23:39:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37513,6 +37513,12 @@
     [
       "2026-08-11",
       19.940001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      19.870001,
       0,
       null
     ]

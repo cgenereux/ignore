@@ -1,7 +1,7 @@
 {
   "ticker": "BURL",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:53:28+00:00",
+  "generatedAt": "2026-08-12T22:52:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19407,6 +19407,12 @@
       358.829987,
       0,
       22545385299
+    ],
+    [
+      "2026-08-12",
+      353.630005,
+      0,
+      22218669041
     ]
   ],
   "sharesOutstanding": [

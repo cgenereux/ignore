@@ -1,7 +1,7 @@
 {
   "ticker": "PINS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:38:13+00:00",
+  "generatedAt": "2026-08-12T22:37:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11037,6 +11037,12 @@
       23.75,
       0,
       13449934391
+    ],
+    [
+      "2026-08-12",
+      22.9,
+      0,
+      12968568102
     ]
   ],
   "sharesOutstanding": [

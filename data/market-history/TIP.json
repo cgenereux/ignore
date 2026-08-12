@@ -1,7 +1,7 @@
 {
   "ticker": "TIP",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:38:48+00:00",
+  "generatedAt": "2026-08-12T23:36:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34237,6 +34237,12 @@
     [
       "2026-08-11",
       106.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      106.919998,
       0,
       null
     ]

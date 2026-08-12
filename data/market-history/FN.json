@@ -1,7 +1,7 @@
 {
   "ticker": "FN",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:12:02+00:00",
+  "generatedAt": "2026-08-12T23:10:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24343,6 +24343,12 @@
     [
       "2026-08-11",
       525.880005,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      571.880005,
       0,
       null
     ]

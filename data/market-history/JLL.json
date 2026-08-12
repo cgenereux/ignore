@@ -1,7 +1,7 @@
 {
   "ticker": "JLL",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:20:30+00:00",
+  "generatedAt": "2026-08-12T23:18:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43879,6 +43879,12 @@
     [
       "2026-08-11",
       363.359985,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      362.73999,
       0,
       null
     ]

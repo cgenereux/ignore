@@ -1,7 +1,7 @@
 {
   "ticker": "EC",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:08:09+00:00",
+  "generatedAt": "2026-08-12T23:06:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27013,6 +27013,12 @@
     [
       "2026-08-11",
       17.01,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      16.959999,
       0,
       null
     ]

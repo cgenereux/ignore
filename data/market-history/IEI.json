@@ -1,7 +1,7 @@
 {
   "ticker": "IEI",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:17:51+00:00",
+  "generatedAt": "2026-08-12T23:16:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29563,6 +29563,12 @@
     [
       "2026-08-11",
       116.349998,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      116.459999,
       0,
       null
     ]

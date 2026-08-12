@@ -1,7 +1,7 @@
 {
   "ticker": "MQBKY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:25:03+00:00",
+  "generatedAt": "2026-08-12T23:23:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30282,7 +30282,13 @@
     ],
     [
       "2026-08-11",
-      185.660004,
+      185.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      184.179993,
       0,
       null
     ]

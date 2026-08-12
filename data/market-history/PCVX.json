@@ -1,7 +1,7 @@
 {
   "ticker": "PCVX",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:28:52+00:00",
+  "generatedAt": "2026-08-12T23:26:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9295,6 +9295,12 @@
     [
       "2026-08-11",
       59.220001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      59.650002,
       0,
       null
     ]

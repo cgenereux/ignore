@@ -1,7 +1,7 @@
 {
   "ticker": "HUBS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:53:18+00:00",
+  "generatedAt": "2026-08-12T22:52:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17865,6 +17865,12 @@
       220.509995,
       0,
       10995995709
+    ],
+    [
+      "2026-08-12",
+      210.119995,
+      0,
+      10477885911
     ]
   ],
   "sharesOutstanding": [

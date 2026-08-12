@@ -1,7 +1,7 @@
 {
   "ticker": "QBTS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:51:54+00:00",
+  "generatedAt": "2026-08-12T22:51:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8535,6 +8535,12 @@
       20.23,
       0,
       7494105620
+    ],
+    [
+      "2026-08-12",
+      20.74,
+      0,
+      7683032741
     ]
   ],
   "sharesOutstanding": [

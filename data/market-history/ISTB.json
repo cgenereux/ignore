@@ -1,7 +1,7 @@
 {
   "ticker": "ISTB",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:19:08+00:00",
+  "generatedAt": "2026-08-12T23:17:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20809,6 +20809,12 @@
     [
       "2026-08-11",
       47.970001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      48.009998,
       0,
       null
     ]

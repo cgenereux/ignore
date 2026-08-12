@@ -1,7 +1,7 @@
 {
   "ticker": "XAW.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:44:54+00:00",
+  "generatedAt": "2026-08-12T23:42:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17281,6 +17281,12 @@
     [
       "2026-08-11",
       59.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      59.419998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "LLYVA",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:22:22+00:00",
+  "generatedAt": "2026-08-12T23:20:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4549,6 +4549,12 @@
     [
       "2026-08-11",
       100.529999,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      102.709999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BG",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:42:10+00:00",
+  "generatedAt": "2026-08-12T22:41:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37761,6 +37761,12 @@
       111.599998,
       0,
       21440493834
+    ],
+    [
+      "2026-08-12",
+      111.75,
+      0,
+      21469311995
     ]
   ],
   "sharesOutstanding": [

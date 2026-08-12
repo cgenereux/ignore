@@ -1,7 +1,7 @@
 {
   "ticker": "DINO",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:06:56+00:00",
+  "generatedAt": "2026-08-12T23:05:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70177,6 +70177,12 @@
     [
       "2026-08-11",
       85.550003,
+      0.525,
+      null
+    ],
+    [
+      "2026-08-12",
+      87.93,
       0,
       null
     ]

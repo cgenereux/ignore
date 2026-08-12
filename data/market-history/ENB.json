@@ -1,7 +1,7 @@
 {
   "ticker": "ENB",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:33:11+00:00",
+  "generatedAt": "2026-08-12T22:32:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64113,6 +64113,12 @@
       51.57,
       0,
       112613223455
+    ],
+    [
+      "2026-08-12",
+      51.439999,
+      0,
+      112329340589
     ]
   ],
   "sharesOutstanding": [

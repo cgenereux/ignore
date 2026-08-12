@@ -1,7 +1,7 @@
 {
   "ticker": "PEG",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:48:39+00:00",
+  "generatedAt": "2026-08-12T22:47:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70491,6 +70491,12 @@
       75.209999,
       0,
       37478752188
+    ],
+    [
+      "2026-08-12",
+      75.870003,
+      0,
+      37807646138
     ]
   ],
   "sharesOutstanding": [

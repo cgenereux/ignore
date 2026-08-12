@@ -1,7 +1,7 @@
 {
   "ticker": "005930.KS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:54:08+00:00",
+  "generatedAt": "2026-08-12T22:53:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39913,6 +39913,12 @@
     [
       "2026-08-11",
       239500.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      255500.0,
       0,
       null
     ]

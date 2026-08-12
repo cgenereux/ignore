@@ -1,7 +1,7 @@
 {
   "ticker": "KHC",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:28:58+00:00",
+  "generatedAt": "2026-08-12T22:28:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16761,6 +16761,12 @@
       24.65,
       0,
       29229418324
+    ],
+    [
+      "2026-08-12",
+      24.530001,
+      0,
+      29087126274
     ]
   ],
   "sharesOutstanding": [

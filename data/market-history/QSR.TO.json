@@ -1,7 +1,7 @@
 {
   "ticker": "QSR.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:30:41+00:00",
+  "generatedAt": "2026-08-12T23:28:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17557,6 +17557,12 @@
     [
       "2026-08-11",
       102.199997,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      104.5,
       0,
       null
     ]

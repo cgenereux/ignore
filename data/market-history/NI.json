@@ -1,7 +1,7 @@
 {
   "ticker": "NI",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:47:50+00:00",
+  "generatedAt": "2026-08-12T22:46:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80895,6 +80895,12 @@
       42.009998,
       0,
       20141241878
+    ],
+    [
+      "2026-08-12",
+      41.990002,
+      0,
+      20131654702
     ]
   ],
   "sharesOutstanding": [

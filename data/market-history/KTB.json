@@ -1,7 +1,7 @@
 {
   "ticker": "KTB",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:21:32+00:00",
+  "generatedAt": "2026-08-12T23:19:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10879,6 +10879,12 @@
     [
       "2026-08-11",
       74.959999,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      81.599998,
       0,
       null
     ]

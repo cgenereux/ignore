@@ -1,7 +1,7 @@
 {
   "ticker": "ASTS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:51:37+00:00",
+  "generatedAt": "2026-08-12T22:50:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10215,6 +10215,12 @@
       71.629997,
       0,
       21399202594
+    ],
+    [
+      "2026-08-12",
+      74.309998,
+      0,
+      22199842991
     ]
   ],
   "sharesOutstanding": [

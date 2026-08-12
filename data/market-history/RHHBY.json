@@ -1,7 +1,7 @@
 {
   "ticker": "RHHBY",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:31:30+00:00",
+  "generatedAt": "2026-08-12T23:29:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34687,6 +34687,12 @@
     [
       "2026-08-11",
       56.630001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      56.509998,
       0,
       null
     ]

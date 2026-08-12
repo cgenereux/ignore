@@ -1,7 +1,7 @@
 {
   "ticker": "BBVA",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:59:40+00:00",
+  "generatedAt": "2026-08-12T22:58:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56898,6 +56898,12 @@
     ],
     [
       "2026-08-11",
+      28.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
       28.5,
       0,
       null

@@ -1,7 +1,7 @@
 {
   "ticker": "BBEU",
   "currency": "USD",
-  "generatedAt": "2026-08-11T22:59:30+00:00",
+  "generatedAt": "2026-08-12T22:58:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12295,6 +12295,12 @@
     [
       "2026-08-11",
       80.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      80.540001,
       0,
       null
     ]

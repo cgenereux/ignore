@@ -1,7 +1,7 @@
 {
   "ticker": "MWH",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:25:52+00:00",
+  "generatedAt": "2026-08-12T23:23:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -751,6 +751,12 @@
     [
       "2026-08-11",
       30.280001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      30.09,
       0,
       null
     ]

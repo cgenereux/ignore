@@ -1,7 +1,7 @@
 {
   "ticker": "SAP.DE",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:33:06+00:00",
+  "generatedAt": "2026-08-12T23:30:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43507,6 +43507,12 @@
     [
       "2026-08-10",
       179.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-11",
+      180.699997,
       0,
       null
     ]

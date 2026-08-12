@@ -1,7 +1,7 @@
 {
   "ticker": "RRR",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:32:13+00:00",
+  "generatedAt": "2026-08-12T23:30:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15529,6 +15529,12 @@
     [
       "2026-08-11",
       63.040001,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      63.09,
       0,
       null
     ]

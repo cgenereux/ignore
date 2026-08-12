@@ -1,7 +1,7 @@
 {
   "ticker": "MAAS",
   "currency": "USD",
-  "generatedAt": "2026-08-11T23:23:14+00:00",
+  "generatedAt": "2026-08-12T23:21:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11119,6 +11119,12 @@
     [
       "2026-08-11",
       20.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      16.42,
       0,
       null
     ]
