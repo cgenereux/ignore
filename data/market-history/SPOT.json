@@ -1,7 +1,7 @@
 {
   "ticker": "SPOT",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:35:57+00:00",
+  "generatedAt": "2026-08-13T22:36:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12621,6 +12621,12 @@
       489.600006,
       0,
       100671583121
+    ],
+    [
+      "2026-08-13",
+      498.23999,
+      0,
+      102448137185
     ]
   ],
   "sharesOutstanding": [

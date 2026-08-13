@@ -1,7 +1,7 @@
 {
   "ticker": "SHEL.L",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:32:11+00:00",
+  "generatedAt": "2026-08-13T23:34:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45871,6 +45871,12 @@
     [
       "2026-08-11",
       3356.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      3322.5,
       0,
       null
     ]

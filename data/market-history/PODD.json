@@ -1,7 +1,7 @@
 {
   "ticker": "PODD",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:45:02+00:00",
+  "generatedAt": "2026-08-13T22:46:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29061,6 +29061,12 @@
       145.059998,
       0,
       10047533441
+    ],
+    [
+      "2026-08-13",
+      146.440002,
+      0,
+      10143119030
     ]
   ],
   "sharesOutstanding": [

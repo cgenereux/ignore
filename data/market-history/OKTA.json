@@ -1,7 +1,7 @@
 {
   "ticker": "OKTA",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:28:17+00:00",
+  "generatedAt": "2026-08-13T22:29:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14103,6 +14103,12 @@
       147.300003,
       0,
       25828531294
+    ],
+    [
+      "2026-08-13",
+      154.949997,
+      0,
+      27169930498
     ]
   ],
   "sharesOutstanding": [

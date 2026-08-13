@@ -1,7 +1,7 @@
 {
   "ticker": "TME",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:36:36+00:00",
+  "generatedAt": "2026-08-13T23:38:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11563,6 +11563,12 @@
     [
       "2026-08-12",
       8.46,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      8.66,
       0,
       null
     ]

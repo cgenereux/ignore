@@ -1,7 +1,7 @@
 {
   "ticker": "AAPL",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:26:04+00:00",
+  "generatedAt": "2026-08-13T22:26:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69057,6 +69057,12 @@
       302.25,
       0,
       4439253351000
+    ],
+    [
+      "2026-08-13",
+      305.26001,
+      0,
+      4483462435991
     ]
   ],
   "sharesOutstanding": [

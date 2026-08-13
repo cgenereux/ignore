@@ -1,7 +1,7 @@
 {
   "ticker": "CGDG",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:01:58+00:00",
+  "generatedAt": "2026-08-13T23:03:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4327,6 +4327,12 @@
     [
       "2026-08-12",
       38.869999,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      39.07,
       0,
       null
     ]

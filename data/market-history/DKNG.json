@@ -1,7 +1,7 @@
 {
   "ticker": "DKNG",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:39:06+00:00",
+  "generatedAt": "2026-08-13T22:40:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10641,6 +10641,12 @@
       25.51,
       0,
       12656246235
+    ],
+    [
+      "2026-08-13",
+      25.42,
+      0,
+      12611594566
     ]
   ],
   "sharesOutstanding": [

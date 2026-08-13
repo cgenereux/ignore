@@ -1,7 +1,7 @@
 {
   "ticker": "YPF",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:43:26+00:00",
+  "generatedAt": "2026-08-13T23:45:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50029,6 +50029,12 @@
     [
       "2026-08-12",
       48.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      49.450001,
       0,
       null
     ]

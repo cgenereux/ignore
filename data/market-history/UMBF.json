@@ -1,7 +1,7 @@
 {
   "ticker": "UMBF",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:38:02+00:00",
+  "generatedAt": "2026-08-13T23:40:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70183,6 +70183,12 @@
     [
       "2026-08-12",
       149.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      150.880005,
       0,
       null
     ]

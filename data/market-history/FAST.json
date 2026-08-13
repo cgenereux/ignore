@@ -1,7 +1,7 @@
 {
   "ticker": "FAST",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:43:48+00:00",
+  "generatedAt": "2026-08-13T22:45:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58917,6 +58917,12 @@
       52.220001,
       0,
       59922324663
+    ],
+    [
+      "2026-08-13",
+      51.34,
+      0,
+      58912525573
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "FOXA",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:44:06+00:00",
+  "generatedAt": "2026-08-13T22:45:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11205,6 +11205,12 @@
       63.049999,
       0,
       26474735788
+    ],
+    [
+      "2026-08-13",
+      65.449997,
+      0,
+      27482496392
     ]
   ],
   "sharesOutstanding": [

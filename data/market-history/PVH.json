@@ -1,7 +1,7 @@
 {
   "ticker": "PVH",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:28:12+00:00",
+  "generatedAt": "2026-08-13T23:30:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70183,6 +70183,12 @@
     [
       "2026-08-12",
       81.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      81.660004,
       0,
       null
     ]

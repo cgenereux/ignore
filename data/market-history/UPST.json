@@ -1,7 +1,7 @@
 {
   "ticker": "UPST",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:52:13+00:00",
+  "generatedAt": "2026-08-13T22:53:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8523,6 +8523,12 @@
       29.1,
       0,
       2831809676
+    ],
+    [
+      "2026-08-13",
+      30.969999,
+      0,
+      3013784968
     ]
   ],
   "sharesOutstanding": [

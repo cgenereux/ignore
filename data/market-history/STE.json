@@ -1,7 +1,7 @@
 {
   "ticker": "STE",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:48:52+00:00",
+  "generatedAt": "2026-08-13T22:50:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51669,6 +51669,12 @@
       236.600006,
       0,
       23068526621
+    ],
+    [
+      "2026-08-13",
+      236.070007,
+      0,
+      23016851682
     ]
   ],
   "sharesOutstanding": [

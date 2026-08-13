@@ -1,7 +1,7 @@
 {
   "ticker": "MANH",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:21:28+00:00",
+  "generatedAt": "2026-08-13T23:23:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42727,6 +42727,12 @@
     [
       "2026-08-12",
       192.630005,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      200.919998,
       0,
       null
     ]

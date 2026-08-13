@@ -1,7 +1,7 @@
 {
   "ticker": "CAMT",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:01:16+00:00",
+  "generatedAt": "2026-08-13T23:02:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39295,6 +39295,12 @@
     [
       "2026-08-12",
       174.199997,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      172.809998,
       0,
       null
     ]

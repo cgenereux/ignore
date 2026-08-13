@@ -1,7 +1,7 @@
 {
   "ticker": "LDOS",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:45:45+00:00",
+  "generatedAt": "2026-08-13T22:47:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29919,6 +29919,12 @@
       140.380005,
       0,
       17616596912
+    ],
+    [
+      "2026-08-13",
+      142.610001,
+      0,
+      17896444002
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "SOLV",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:48:38+00:00",
+  "generatedAt": "2026-08-13T22:49:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3591,6 +3591,12 @@
       85.290001,
       0,
       14770071345
+    ],
+    [
+      "2026-08-13",
+      86.459999,
+      0,
+      14972685441
     ]
   ],
   "sharesOutstanding": [

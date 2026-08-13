@@ -1,7 +1,7 @@
 {
   "ticker": "UNP",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:38:29+00:00",
+  "generatedAt": "2026-08-13T22:39:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70497,6 +70497,12 @@
       293.730011,
       0,
       174497802554
+    ],
+    [
+      "2026-08-13",
+      297.790009,
+      0,
+      176909747626
     ]
   ],
   "sharesOutstanding": [

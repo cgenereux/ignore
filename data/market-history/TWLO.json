@@ -1,7 +1,7 @@
 {
   "ticker": "TWLO",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:28:18+00:00",
+  "generatedAt": "2026-08-13T22:29:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15297,6 +15297,12 @@
       246.619995,
       0,
       37430468612
+    ],
+    [
+      "2026-08-13",
+      249.419998,
+      0,
+      37855435883
     ]
   ],
   "sharesOutstanding": [

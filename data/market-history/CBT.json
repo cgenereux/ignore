@@ -1,7 +1,7 @@
 {
   "ticker": "CBT",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:01:26+00:00",
+  "generatedAt": "2026-08-13T23:02:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69211,6 +69211,12 @@
     [
       "2026-08-12",
       86.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      86.269997,
       0,
       null
     ]

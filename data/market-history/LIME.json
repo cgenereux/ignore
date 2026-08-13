@@ -1,7 +1,7 @@
 {
   "ticker": "LIME",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:26:26+00:00",
+  "generatedAt": "2026-08-13T22:27:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -189,6 +189,12 @@
       37.66,
       0,
       2411216740
+    ],
+    [
+      "2026-08-13",
+      39.799999,
+      0,
+      2548232204
     ]
   ],
   "sharesOutstanding": [

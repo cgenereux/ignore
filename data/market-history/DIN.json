@@ -1,7 +1,7 @@
 {
   "ticker": "DIN",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:52:42+00:00",
+  "generatedAt": "2026-08-13T22:53:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53013,6 +53013,12 @@
       36.470001,
       0,
       461679216
+    ],
+    [
+      "2026-08-13",
+      34.75,
+      0,
+      439905462
     ]
   ],
   "sharesOutstanding": [

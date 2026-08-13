@@ -1,7 +1,7 @@
 {
   "ticker": "THLLY",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:36:14+00:00",
+  "generatedAt": "2026-08-13T23:38:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37147,6 +37147,12 @@
     [
       "2026-08-12",
       62.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      61.939999,
       0,
       null
     ]

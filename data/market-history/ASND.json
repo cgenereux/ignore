@@ -1,7 +1,7 @@
 {
   "ticker": "ASND",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:56:56+00:00",
+  "generatedAt": "2026-08-13T22:58:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17419,6 +17419,12 @@
     [
       "2026-08-12",
       255.460007,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      246.229996,
       0,
       null
     ]

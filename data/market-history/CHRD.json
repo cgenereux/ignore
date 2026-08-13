@@ -1,7 +1,7 @@
 {
   "ticker": "CHRD",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:02:28+00:00",
+  "generatedAt": "2026-08-13T23:03:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24385,6 +24385,12 @@
     [
       "2026-08-12",
       137.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      134.455002,
       0,
       null
     ]

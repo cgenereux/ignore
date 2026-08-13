@@ -1,7 +1,7 @@
 {
   "ticker": "AZN",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:57:48+00:00",
+  "generatedAt": "2026-08-13T22:59:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50227,6 +50227,12 @@
     [
       "2026-08-12",
       158.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      157.240005,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ULS",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:37:58+00:00",
+  "generatedAt": "2026-08-13T23:40:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3517,6 +3517,12 @@
     [
       "2026-08-12",
       76.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      76.809998,
       0,
       null
     ]

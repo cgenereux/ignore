@@ -1,7 +1,7 @@
 {
   "ticker": "LUMN",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:21:10+00:00",
+  "generatedAt": "2026-08-13T23:23:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70183,6 +70183,12 @@
     [
       "2026-08-12",
       6.29,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      6.4,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "EHC",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:06:57+00:00",
+  "generatedAt": "2026-08-13T23:08:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60289,6 +60289,12 @@
     [
       "2026-08-12",
       124.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      123.550003,
       0,
       null
     ]

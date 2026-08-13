@@ -1,7 +1,7 @@
 {
   "ticker": "AGX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:55:23+00:00",
+  "generatedAt": "2026-08-13T22:56:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46783,6 +46783,12 @@
     [
       "2026-08-12",
       572.099976,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      558.890015,
       0,
       null
     ]

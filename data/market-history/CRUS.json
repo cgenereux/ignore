@@ -1,7 +1,7 @@
 {
   "ticker": "CRUS",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:03:47+00:00",
+  "generatedAt": "2026-08-13T23:05:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56179,6 +56179,12 @@
     [
       "2026-08-12",
       121.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      121.220001,
       0,
       null
     ]

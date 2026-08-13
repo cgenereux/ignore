@@ -1,7 +1,7 @@
 {
   "ticker": "MWA",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:23:48+00:00",
+  "generatedAt": "2026-08-13T23:25:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30511,6 +30511,12 @@
     [
       "2026-08-12",
       26.17,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      25.51,
       0,
       null
     ]

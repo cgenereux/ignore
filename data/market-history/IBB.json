@@ -1,7 +1,7 @@
 {
   "ticker": "IBB",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:15:31+00:00",
+  "generatedAt": "2026-08-13T23:17:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38479,6 +38479,12 @@
     [
       "2026-08-12",
       200.720001,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      198.940002,
       0,
       null
     ]

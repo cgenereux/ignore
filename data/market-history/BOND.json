@@ -1,7 +1,7 @@
 {
   "ticker": "BOND",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:00:08+00:00",
+  "generatedAt": "2026-08-13T23:01:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21805,6 +21805,12 @@
     [
       "2026-08-12",
       90.540001,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      90.910004,
       0,
       null
     ]

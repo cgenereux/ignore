@@ -1,7 +1,7 @@
 {
   "ticker": "WING",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:52:27+00:00",
+  "generatedAt": "2026-08-13T22:53:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16857,6 +16857,12 @@
       112.080002,
       0,
       3053344606
+    ],
+    [
+      "2026-08-13",
+      113.900002,
+      0,
+      3102926031
     ]
   ],
   "sharesOutstanding": [

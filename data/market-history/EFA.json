@@ -1,7 +1,7 @@
 {
   "ticker": "EFA",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:06:50+00:00",
+  "generatedAt": "2026-08-13T23:08:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37663,6 +37663,12 @@
     [
       "2026-08-12",
       108.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      108.690002,
       0,
       null
     ]

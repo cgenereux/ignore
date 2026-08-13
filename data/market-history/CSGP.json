@@ -1,7 +1,7 @@
 {
   "ticker": "CSGP",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:42:29+00:00",
+  "generatedAt": "2026-08-13T22:43:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42441,6 +42441,12 @@
       30.5,
       0,
       12358526434
+    ],
+    [
+      "2026-08-13",
+      33.049999,
+      0,
+      13391779974
     ]
   ],
   "sharesOutstanding": [

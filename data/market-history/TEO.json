@@ -1,7 +1,7 @@
 {
   "ticker": "TEO",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:35:50+00:00",
+  "generatedAt": "2026-08-13T23:37:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47827,6 +47827,12 @@
     [
       "2026-08-12",
       13.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      13.36,
       0,
       null
     ]

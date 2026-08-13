@@ -1,7 +1,7 @@
 {
   "ticker": "PRNDY",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:27:48+00:00",
+  "generatedAt": "2026-08-13T23:29:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26071,6 +26071,12 @@
     [
       "2026-08-12",
       15.7,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      15.69,
       0,
       null
     ]

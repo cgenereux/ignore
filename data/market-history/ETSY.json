@@ -1,7 +1,7 @@
 {
   "ticker": "ETSY",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:38:56+00:00",
+  "generatedAt": "2026-08-13T22:40:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17097,6 +17097,12 @@
       79.629997,
       0,
       7556586614
+    ],
+    [
+      "2026-08-13",
+      80.669998,
+      0,
+      7655278781
     ]
   ],
   "sharesOutstanding": [

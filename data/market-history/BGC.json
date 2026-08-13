@@ -1,7 +1,7 @@
 {
   "ticker": "BGC",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:59:08+00:00",
+  "generatedAt": "2026-08-13T23:00:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40249,6 +40249,12 @@
     [
       "2026-08-12",
       10.76,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      10.94,
       0,
       null
     ]

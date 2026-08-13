@@ -1,7 +1,7 @@
 {
   "ticker": "HNGE",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:14:48+00:00",
+  "generatedAt": "2026-08-13T23:16:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1849,6 +1849,12 @@
     [
       "2026-08-12",
       86.32,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      87.419998,
       0,
       null
     ]

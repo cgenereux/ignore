@@ -1,7 +1,7 @@
 {
   "ticker": "BSAC",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:00:27+00:00",
+  "generatedAt": "2026-08-13T23:01:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47995,6 +47995,12 @@
     [
       "2026-08-12",
       34.009998,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      34.279999,
       0,
       null
     ]

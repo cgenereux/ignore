@@ -1,7 +1,7 @@
 {
   "ticker": "TPL",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:49:09+00:00",
+  "generatedAt": "2026-08-13T22:50:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70185,6 +70185,12 @@
       342.769989,
       0,
       23642364271
+    ],
+    [
+      "2026-08-13",
+      347.040009,
+      0,
+      23936886430
     ]
   ],
   "sharesOutstanding": [

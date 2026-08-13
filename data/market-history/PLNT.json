@@ -1,7 +1,7 @@
 {
   "ticker": "PLNT",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:27:12+00:00",
+  "generatedAt": "2026-08-13T23:29:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16627,6 +16627,12 @@
     [
       "2026-08-12",
       48.259998,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      49.099998,
       0,
       null
     ]

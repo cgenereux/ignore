@@ -1,7 +1,7 @@
 {
   "ticker": "HESAY",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:14:28+00:00",
+  "generatedAt": "2026-08-13T23:16:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23461,6 +23461,12 @@
     [
       "2026-08-12",
       184.229996,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      182.210007,
       0,
       null
     ]

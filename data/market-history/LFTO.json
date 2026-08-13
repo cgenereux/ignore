@@ -1,7 +1,7 @@
 {
   "ticker": "LFTO",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:20:14+00:00",
+  "generatedAt": "2026-08-13T23:22:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -295,6 +295,12 @@
     [
       "2026-08-12",
       25.26,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      20.059999,
       0,
       null
     ]

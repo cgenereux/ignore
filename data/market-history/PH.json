@@ -1,7 +1,7 @@
 {
   "ticker": "PH",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:28:48+00:00",
+  "generatedAt": "2026-08-13T22:29:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70185,6 +70185,12 @@
       1069.52002,
       0,
       134851917226
+    ],
+    [
+      "2026-08-13",
+      1058.869995,
+      0,
+      133509094105
     ]
   ],
   "sharesOutstanding": [

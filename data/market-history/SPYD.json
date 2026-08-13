@@ -1,7 +1,7 @@
 {
   "ticker": "SPYD",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:34:18+00:00",
+  "generatedAt": "2026-08-13T23:36:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16303,6 +16303,12 @@
     [
       "2026-08-12",
       49.799999,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      50.400002,
       0,
       null
     ]

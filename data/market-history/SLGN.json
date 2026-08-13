@@ -1,7 +1,7 @@
 {
   "ticker": "SLGN",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:32:55+00:00",
+  "generatedAt": "2026-08-13T23:34:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44515,6 +44515,12 @@
     [
       "2026-08-12",
       40.669998,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      42.169998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "MFG",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:22:06+00:00",
+  "generatedAt": "2026-08-13T23:23:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29821,6 +29821,12 @@
     [
       "2026-08-12",
       10.81,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      10.99,
       0,
       null
     ]

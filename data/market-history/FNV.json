@@ -1,7 +1,7 @@
 {
   "ticker": "FNV",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:10:48+00:00",
+  "generatedAt": "2026-08-13T23:12:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28195,6 +28195,12 @@
     [
       "2026-08-12",
       235.940002,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      231.570007,
       0,
       null
     ]

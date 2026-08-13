@@ -1,7 +1,7 @@
 {
   "ticker": "FWONK",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:12:24+00:00",
+  "generatedAt": "2026-08-13T23:14:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18265,6 +18265,12 @@
     [
       "2026-08-12",
       103.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      103.690002,
       0,
       null
     ]

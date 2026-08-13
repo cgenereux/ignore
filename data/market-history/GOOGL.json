@@ -1,7 +1,7 @@
 {
   "ticker": "GOOGL",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:13:32+00:00",
+  "generatedAt": "2026-08-13T23:15:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33189,6 +33189,12 @@
       343.540009,
       0,
       4201471916346
+    ],
+    [
+      "2026-08-13",
+      346.359985,
+      0,
+      4235960048916
     ]
   ],
   "sharesOutstanding": [

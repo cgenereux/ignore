@@ -1,7 +1,7 @@
 {
   "ticker": "TAP",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:46:22+00:00",
+  "generatedAt": "2026-08-13T22:47:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -77403,6 +77403,12 @@
       41.57,
       0,
       7750889938
+    ],
+    [
+      "2026-08-13",
+      42.119999,
+      0,
+      7853439459
     ]
   ],
   "sharesOutstanding": [

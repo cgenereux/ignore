@@ -1,7 +1,7 @@
 {
   "ticker": "SNOW",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:37:39+00:00",
+  "generatedAt": "2026-08-13T22:38:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8907,6 +8907,12 @@
       332.26001,
       0,
       115161319385
+    ],
+    [
+      "2026-08-13",
+      337.380005,
+      0,
+      116935909692
     ]
   ],
   "sharesOutstanding": [

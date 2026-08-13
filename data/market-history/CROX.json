@@ -1,7 +1,7 @@
 {
   "ticker": "CROX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:52:38+00:00",
+  "generatedAt": "2026-08-13T22:53:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30963,6 +30963,12 @@
       130.610001,
       0,
       6262106275
+    ],
+    [
+      "2026-08-13",
+      132.559998,
+      0,
+      6355599025
     ]
   ],
   "sharesOutstanding": [

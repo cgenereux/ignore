@@ -1,7 +1,7 @@
 {
   "ticker": "CINF",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:42:00+00:00",
+  "generatedAt": "2026-08-13T22:43:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70185,6 +70185,12 @@
       172.470001,
       0,
       26470358609
+    ],
+    [
+      "2026-08-13",
+      172.669998,
+      0,
+      26501053749
     ]
   ],
   "sharesOutstanding": [

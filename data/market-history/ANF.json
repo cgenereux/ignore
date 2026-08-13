@@ -1,7 +1,7 @@
 {
   "ticker": "ANF",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:52:36+00:00",
+  "generatedAt": "2026-08-13T22:53:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45105,6 +45105,12 @@
       112.230003,
       0,
       4986570962
+    ],
+    [
+      "2026-08-13",
+      108.82,
+      0,
+      4835058669
     ]
   ],
   "sharesOutstanding": [

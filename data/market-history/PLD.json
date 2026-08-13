@@ -1,7 +1,7 @@
 {
   "ticker": "PLD",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:47:35+00:00",
+  "generatedAt": "2026-08-13T22:48:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43347,6 +43347,12 @@
       140.729996,
       0,
       131312818955
+    ],
+    [
+      "2026-08-13",
+      141.210007,
+      0,
+      131760709225
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ENTG",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:07:39+00:00",
+  "generatedAt": "2026-08-13T23:09:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39373,6 +39373,12 @@
     [
       "2026-08-12",
       161.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      163.809998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "AKRE",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:55:38+00:00",
+  "generatedAt": "2026-08-13T22:56:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1195,6 +1195,12 @@
     [
       "2026-08-12",
       58.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      60.169998,
       0,
       null
     ]

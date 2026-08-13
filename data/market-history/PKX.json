@@ -1,7 +1,7 @@
 {
   "ticker": "PKX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:27:10+00:00",
+  "generatedAt": "2026-08-13T23:29:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48061,6 +48061,12 @@
     [
       "2026-08-12",
       57.09,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      56.580002,
       0,
       null
     ]

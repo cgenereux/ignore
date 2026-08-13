@@ -1,7 +1,7 @@
 {
   "ticker": "AON",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:40:29+00:00",
+  "generatedAt": "2026-08-13T22:41:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69867,6 +69867,12 @@
       352.359985,
       0,
       74744514817
+    ],
+    [
+      "2026-08-13",
+      357.079987,
+      0,
+      75745747124
     ]
   ],
   "sharesOutstanding": [

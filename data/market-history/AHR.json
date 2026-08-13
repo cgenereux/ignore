@@ -1,7 +1,7 @@
 {
   "ticker": "AHR",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:55:25+00:00",
+  "generatedAt": "2026-08-13T22:56:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3787,6 +3787,12 @@
     [
       "2026-08-12",
       52.59,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      53.599998,
       0,
       null
     ]

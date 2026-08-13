@@ -1,7 +1,7 @@
 {
   "ticker": "ZWS",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:43:51+00:00",
+  "generatedAt": "2026-08-13T23:46:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21685,6 +21685,12 @@
     [
       "2026-08-12",
       51.02,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      50.73,
       0,
       null
     ]

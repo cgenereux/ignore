@@ -1,7 +1,7 @@
 {
   "ticker": "SBUX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:38:10+00:00",
+  "generatedAt": "2026-08-13T22:39:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51555,6 +51555,12 @@
       108.489998,
       0,
       123678597565
+    ],
+    [
+      "2026-08-13",
+      108.550003,
+      0,
+      123747003479
     ]
   ],
   "sharesOutstanding": [

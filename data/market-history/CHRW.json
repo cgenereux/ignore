@@ -1,7 +1,7 @@
 {
   "ticker": "CHRW",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:41:23+00:00",
+  "generatedAt": "2026-08-13T22:42:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43503,6 +43503,12 @@
       146.699997,
       0,
       17291974902
+    ],
+    [
+      "2026-08-13",
+      149.350006,
+      0,
+      17604339542
     ]
   ],
   "sharesOutstanding": [

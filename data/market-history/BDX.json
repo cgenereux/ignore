@@ -1,7 +1,7 @@
 {
   "ticker": "BDX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:41:02+00:00",
+  "generatedAt": "2026-08-13T22:42:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80901,6 +80901,12 @@
       183.580002,
       0,
       50004769243
+    ],
+    [
+      "2026-08-13",
+      181.970001,
+      0,
+      49566226329
     ]
   ],
   "sharesOutstanding": [

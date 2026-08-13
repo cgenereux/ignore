@@ -1,7 +1,7 @@
 {
   "ticker": "SBAC",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:48:21+00:00",
+  "generatedAt": "2026-08-13T22:49:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40995,6 +40995,12 @@
       183.080002,
       0,
       19418017347
+    ],
+    [
+      "2026-08-13",
+      186.190002,
+      0,
+      19747873394
     ]
   ],
   "sharesOutstanding": [

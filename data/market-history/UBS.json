@@ -1,7 +1,7 @@
 {
   "ticker": "UBS",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:37:36+00:00",
+  "generatedAt": "2026-08-13T23:39:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39595,6 +39595,12 @@
     [
       "2026-08-12",
       53.93,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      53.73,
       0,
       null
     ]

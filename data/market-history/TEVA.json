@@ -1,7 +1,7 @@
 {
   "ticker": "TEVA",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:35:51+00:00",
+  "generatedAt": "2026-08-13T23:37:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67279,6 +67279,12 @@
     [
       "2026-08-12",
       36.740002,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      36.52,
       0,
       null
     ]

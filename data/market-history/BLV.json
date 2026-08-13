@@ -1,7 +1,7 @@
 {
   "ticker": "BLV",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:59:40+00:00",
+  "generatedAt": "2026-08-13T23:01:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29209,6 +29209,12 @@
     [
       "2026-08-12",
       65.910004,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      66.279999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "MTD",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:46:13+00:00",
+  "generatedAt": "2026-08-13T22:47:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43377,6 +43377,12 @@
       1438.530029,
       0,
       28823191805
+    ],
+    [
+      "2026-08-13",
+      1430.76001,
+      0,
+      28667507351
     ]
   ],
   "sharesOutstanding": [

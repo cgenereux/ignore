@@ -1,7 +1,7 @@
 {
   "ticker": "FORM",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:10:52+00:00",
+  "generatedAt": "2026-08-13T23:12:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34981,6 +34981,12 @@
     [
       "2026-08-12",
       128.770004,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      131.669998,
       0,
       null
     ]

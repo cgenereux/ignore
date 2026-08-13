@@ -1,7 +1,7 @@
 {
   "ticker": "AIZ",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:40:44+00:00",
+  "generatedAt": "2026-08-13T22:41:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33999,6 +33999,12 @@
       281.119995,
       0,
       13928831472
+    ],
+    [
+      "2026-08-13",
+      280.920013,
+      0,
+      13918922851
     ]
   ],
   "sharesOutstanding": [

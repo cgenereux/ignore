@@ -1,7 +1,7 @@
 {
   "ticker": "STM",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:34:57+00:00",
+  "generatedAt": "2026-08-13T23:37:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47833,6 +47833,12 @@
     [
       "2026-08-12",
       54.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      53.919998,
       0,
       null
     ]

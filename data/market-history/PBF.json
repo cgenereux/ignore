@@ -1,7 +1,7 @@
 {
   "ticker": "PBF",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:26:35+00:00",
+  "generatedAt": "2026-08-13T23:28:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20617,6 +20617,12 @@
     [
       "2026-08-12",
       70.339996,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      74.360001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PCOR",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:53:04+00:00",
+  "generatedAt": "2026-08-13T22:54:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7887,6 +7887,12 @@
       57.98,
       0,
       8810370428
+    ],
+    [
+      "2026-08-13",
+      62.169998,
+      0,
+      9447063085
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "RHP",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:29:21+00:00",
+  "generatedAt": "2026-08-13T23:31:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52573,6 +52573,12 @@
     [
       "2026-08-12",
       123.989998,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      124.699997,
       0,
       null
     ]

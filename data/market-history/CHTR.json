@@ -1,7 +1,7 @@
 {
   "ticker": "CHTR",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:41:52+00:00",
+  "generatedAt": "2026-08-13T22:43:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25065,6 +25065,12 @@
       150.220001,
       0,
       17917865144
+    ],
+    [
+      "2026-08-13",
+      156.529999,
+      0,
+      18670505834
     ]
   ],
   "sharesOutstanding": [

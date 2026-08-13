@@ -1,7 +1,7 @@
 {
   "ticker": "EXC",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:43:34+00:00",
+  "generatedAt": "2026-08-13T22:44:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80607,6 +80607,12 @@
       45.220001,
       0,
       46588085645
+    ],
+    [
+      "2026-08-13",
+      45.599998,
+      0,
+      46979579323
     ]
   ],
   "sharesOutstanding": [

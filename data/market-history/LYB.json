@@ -1,7 +1,7 @@
 {
   "ticker": "LYB",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:45:57+00:00",
+  "generatedAt": "2026-08-13T22:47:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24597,6 +24597,12 @@
       62.799999,
       0,
       20270883498
+    ],
+    [
+      "2026-08-13",
+      62.400002,
+      0,
+      20141770328
     ]
   ],
   "sharesOutstanding": [

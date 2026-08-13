@@ -1,7 +1,7 @@
 {
   "ticker": "IRT",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:17:21+00:00",
+  "generatedAt": "2026-08-13T23:19:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19621,6 +19621,12 @@
     [
       "2026-08-12",
       16.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      17.0,
       0,
       null
     ]

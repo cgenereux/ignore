@@ -1,7 +1,7 @@
 {
   "ticker": "IDXX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:44:57+00:00",
+  "generatedAt": "2026-08-13T22:46:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53097,6 +53097,12 @@
       570.580017,
       0,
       45009061776
+    ],
+    [
+      "2026-08-13",
+      566.929993,
+      0,
+      44721136911
     ]
   ],
   "sharesOutstanding": [

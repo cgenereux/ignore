@@ -1,7 +1,7 @@
 {
   "ticker": "COPX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:03:25+00:00",
+  "generatedAt": "2026-08-13T23:04:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24631,6 +24631,12 @@
     [
       "2026-08-12",
       88.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      85.519997,
       0,
       null
     ]

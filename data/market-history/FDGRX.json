@@ -1,7 +1,7 @@
 {
   "ticker": "FDGRX",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:09:23+00:00",
+  "generatedAt": "2026-08-13T23:10:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65875,6 +65875,12 @@
     [
       "2026-08-11",
       58.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-12",
+      59.23,
       0,
       null
     ]

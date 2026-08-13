@@ -1,7 +1,7 @@
 {
   "ticker": "AYI",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:57:46+00:00",
+  "generatedAt": "2026-08-13T22:59:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37279,6 +37279,12 @@
     [
       "2026-08-12",
       360.329987,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      359.769989,
       0,
       null
     ]

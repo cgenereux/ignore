@@ -1,7 +1,7 @@
 {
   "ticker": "MDB",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:38:41+00:00",
+  "generatedAt": "2026-08-13T22:39:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13293,6 +13293,12 @@
       437.829987,
       0,
       35215509518
+    ],
+    [
+      "2026-08-13",
+      472.290009,
+      0,
+      37987195490
     ]
   ],
   "sharesOutstanding": [

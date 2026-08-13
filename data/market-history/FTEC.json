@@ -1,7 +1,7 @@
 {
   "ticker": "FTEC",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:12:07+00:00",
+  "generatedAt": "2026-08-13T23:13:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19315,6 +19315,12 @@
     [
       "2026-08-12",
       290.200012,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      293.440002,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "IMBBY",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:16:47+00:00",
+  "generatedAt": "2026-08-13T23:18:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41893,6 +41893,12 @@
     [
       "2026-08-12",
       35.169998,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      35.73,
       0,
       null
     ]

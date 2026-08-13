@@ -1,7 +1,7 @@
 {
   "ticker": "CAAP",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:00:57+00:00",
+  "generatedAt": "2026-08-13T23:02:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12865,6 +12865,12 @@
     [
       "2026-08-12",
       24.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      24.84,
       0,
       null
     ]

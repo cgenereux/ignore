@@ -1,7 +1,7 @@
 {
   "ticker": "SFD",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:31:52+00:00",
+  "generatedAt": "2026-08-13T23:33:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2329,6 +2329,12 @@
     [
       "2026-08-12",
       22.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      22.469999,
       0,
       null
     ]

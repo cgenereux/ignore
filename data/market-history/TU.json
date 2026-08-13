@@ -1,7 +1,7 @@
 {
   "ticker": "TU",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:37:23+00:00",
+  "generatedAt": "2026-08-13T23:39:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45553,6 +45553,12 @@
     [
       "2026-08-12",
       9.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      9.68,
       0,
       null
     ]

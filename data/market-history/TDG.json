@@ -1,7 +1,7 @@
 {
   "ticker": "TDG",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:49:20+00:00",
+  "generatedAt": "2026-08-13T22:50:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30819,6 +30819,12 @@
       1235.47998,
       0,
       68293040027
+    ],
+    [
+      "2026-08-13",
+      1246.310059,
+      0,
+      68891689112
     ]
   ],
   "sharesOutstanding": [

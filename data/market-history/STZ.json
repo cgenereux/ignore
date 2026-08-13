@@ -1,7 +1,7 @@
 {
   "ticker": "STZ",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:42:17+00:00",
+  "generatedAt": "2026-08-13T22:43:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51981,6 +51981,12 @@
       133.960007,
       0,
       22877480165
+    ],
+    [
+      "2026-08-13",
+      136.350006,
+      0,
+      23285640518
     ]
   ],
   "sharesOutstanding": [

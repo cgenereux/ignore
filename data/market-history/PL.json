@@ -1,7 +1,7 @@
 {
   "ticker": "PL",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:50:48+00:00",
+  "generatedAt": "2026-08-13T22:51:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7995,6 +7995,12 @@
       24.5,
       0,
       8731861887
+    ],
+    [
+      "2026-08-13",
+      24.75,
+      0,
+      8820962518
     ]
   ],
   "sharesOutstanding": [

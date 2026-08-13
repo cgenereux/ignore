@@ -1,7 +1,7 @@
 {
   "ticker": "CDW",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:41:40+00:00",
+  "generatedAt": "2026-08-13T22:42:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19815,6 +19815,12 @@
       136.669998,
       0,
       17460063914
+    ],
+    [
+      "2026-08-13",
+      142.050003,
+      0,
+      18147378104
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "DJT",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:52:12+00:00",
+  "generatedAt": "2026-08-13T22:53:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7335,6 +7335,12 @@
       8.27,
       0,
       2290408284
+    ],
+    [
+      "2026-08-13",
+      8.3,
+      0,
+      2298716825
     ]
   ],
   "sharesOutstanding": [

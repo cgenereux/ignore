@@ -1,7 +1,7 @@
 {
   "ticker": "AXSM",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:57:43+00:00",
+  "generatedAt": "2026-08-13T22:59:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16183,6 +16183,12 @@
     [
       "2026-08-12",
       214.660004,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      213.679993,
       0,
       null
     ]

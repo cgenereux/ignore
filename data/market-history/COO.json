@@ -1,7 +1,7 @@
 {
   "ticker": "COO",
   "currency": "USD",
-  "generatedAt": "2026-08-12T22:42:21+00:00",
+  "generatedAt": "2026-08-13T22:43:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65859,6 +65859,12 @@
       76.730003,
       0,
       14964700895
+    ],
+    [
+      "2026-08-13",
+      76.599998,
+      0,
+      14939345960
     ]
   ],
   "sharesOutstanding": [
