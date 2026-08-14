@@ -1,7 +1,7 @@
 {
   "ticker": "MSI",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:47:50+00:00",
+  "generatedAt": "2026-08-14T22:22:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97581,6 +97581,12 @@
       465.040009,
       0,
       77194586872
+    ],
+    [
+      "2026-08-14",
+      466.51001,
+      0,
+      77438600580
     ]
   ],
   "sharesOutstanding": [

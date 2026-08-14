@@ -1,7 +1,7 @@
 {
   "ticker": "AJG",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:41:51+00:00",
+  "generatedAt": "2026-08-14T22:16:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63723,6 +63723,12 @@
       253.490005,
       0,
       65132228991
+    ],
+    [
+      "2026-08-14",
+      251.210007,
+      0,
+      64546401545
     ]
   ],
   "sharesOutstanding": [

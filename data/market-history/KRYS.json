@@ -1,7 +1,7 @@
 {
   "ticker": "KRYS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:21:27+00:00",
+  "generatedAt": "2026-08-14T22:55:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13423,6 +13423,12 @@
     [
       "2026-08-13",
       328.339996,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      332.269989,
       0,
       null
     ]

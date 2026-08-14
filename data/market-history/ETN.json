@@ -1,7 +1,7 @@
 {
   "ticker": "ETN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:44:15+00:00",
+  "generatedAt": "2026-08-14T22:18:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -81987,6 +81987,12 @@
       453.329987,
       0,
       176073366785
+    ],
+    [
+      "2026-08-14",
+      451.51001,
+      0,
+      175366487793
     ]
   ],
   "sharesOutstanding": [

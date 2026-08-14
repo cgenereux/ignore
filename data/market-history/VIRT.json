@@ -1,7 +1,7 @@
 {
   "ticker": "VIRT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:41:54+00:00",
+  "generatedAt": "2026-08-14T23:16:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17101,6 +17101,12 @@
     [
       "2026-08-13",
       57.200001,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      60.02,
       0,
       null
     ]

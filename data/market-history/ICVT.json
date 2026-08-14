@@ -1,7 +1,7 @@
 {
   "ticker": "ICVT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:17:39+00:00",
+  "generatedAt": "2026-08-14T22:52:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16897,6 +16897,12 @@
     [
       "2026-08-13",
       118.529999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      119.019997,
       0,
       null
     ]

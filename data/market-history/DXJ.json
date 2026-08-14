@@ -1,7 +1,7 @@
 {
   "ticker": "DXJ",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:07:56+00:00",
+  "generatedAt": "2026-08-14T22:42:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30433,6 +30433,12 @@
     [
       "2026-08-13",
       182.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      182.169998,
       0,
       null
     ]

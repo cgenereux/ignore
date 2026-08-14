@@ -1,7 +1,7 @@
 {
   "ticker": "SPHQ",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:35:48+00:00",
+  "generatedAt": "2026-08-14T23:10:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31225,6 +31225,12 @@
     [
       "2026-08-13",
       87.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      87.599998,
       0,
       null
     ]

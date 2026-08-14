@@ -1,7 +1,7 @@
 {
   "ticker": "0700.HK",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:54:27+00:00",
+  "generatedAt": "2026-08-14T22:28:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32833,6 +32833,12 @@
     [
       "2026-08-13",
       441.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      440.0,
       0,
       null
     ]

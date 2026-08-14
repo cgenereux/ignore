@@ -1,7 +1,7 @@
 {
   "ticker": "TCOM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:37:48+00:00",
+  "generatedAt": "2026-08-14T23:12:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34237,6 +34237,12 @@
     [
       "2026-08-13",
       45.02,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      44.98,
       0,
       null
     ]

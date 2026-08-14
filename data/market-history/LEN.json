@@ -1,7 +1,7 @@
 {
   "ticker": "LEN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:47:07+00:00",
+  "generatedAt": "2026-08-14T22:21:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70191,6 +70191,12 @@
       87.540001,
       0,
       21087960951
+    ],
+    [
+      "2026-08-14",
+      86.830002,
+      0,
+      20916925621
     ]
   ],
   "sharesOutstanding": [

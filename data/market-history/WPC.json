@@ -1,7 +1,7 @@
 {
   "ticker": "WPC",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:44:07+00:00",
+  "generatedAt": "2026-08-14T23:18:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43117,6 +43117,12 @@
     [
       "2026-08-13",
       71.489998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      71.620003,
       0,
       null
     ]

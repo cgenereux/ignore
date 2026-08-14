@@ -1,7 +1,7 @@
 {
   "ticker": "MURGY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:25:37+00:00",
+  "generatedAt": "2026-08-14T23:00:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26899,6 +26899,12 @@
     [
       "2026-08-13",
       11.79,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      11.97,
       0,
       null
     ]

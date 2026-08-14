@@ -1,7 +1,7 @@
 {
   "ticker": "DBEF",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:06:04+00:00",
+  "generatedAt": "2026-08-14T22:40:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22909,6 +22909,12 @@
     [
       "2026-08-13",
       56.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      56.470001,
       0,
       null
     ]

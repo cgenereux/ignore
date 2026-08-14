@@ -1,7 +1,7 @@
 {
   "ticker": "AME",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:41:31+00:00",
+  "generatedAt": "2026-08-14T22:15:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63603,6 +63603,12 @@
       256.220001,
       0,
       58726393452
+    ],
+    [
+      "2026-08-14",
+      254.789993,
+      0,
+      58398631341
     ]
   ],
   "sharesOutstanding": [

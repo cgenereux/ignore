@@ -1,7 +1,7 @@
 {
   "ticker": "TCEHY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:33:01+00:00",
+  "generatedAt": "2026-08-14T22:07:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25071,6 +25071,12 @@
       55.27,
       0,
       497520043096
+    ],
+    [
+      "2026-08-14",
+      56.470001,
+      0,
+      508322004854
     ]
   ],
   "sharesOutstanding": [

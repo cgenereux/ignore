@@ -1,7 +1,7 @@
 {
   "ticker": "GTX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:15:37+00:00",
+  "generatedAt": "2026-08-14T22:50:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11929,6 +11929,12 @@
     [
       "2026-08-13",
       28.690001,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      29.0,
       0,
       null
     ]

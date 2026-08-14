@@ -1,7 +1,7 @@
 {
   "ticker": "WTFC",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:44:23+00:00",
+  "generatedAt": "2026-08-14T23:18:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42763,6 +42763,12 @@
     [
       "2026-08-13",
       162.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      162.470001,
       0,
       null
     ]

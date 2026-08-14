@@ -1,7 +1,7 @@
 {
   "ticker": "WTS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:44:30+00:00",
+  "generatedAt": "2026-08-14T23:18:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60433,6 +60433,12 @@
     [
       "2026-08-13",
       383.049988,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      384.420013,
       0,
       null
     ]

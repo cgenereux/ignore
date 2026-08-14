@@ -1,7 +1,7 @@
 {
   "ticker": "LECO",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:21:58+00:00",
+  "generatedAt": "2026-08-14T22:56:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48859,6 +48859,12 @@
     [
       "2026-08-13",
       284.630005,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      286.869995,
       0,
       null
     ]

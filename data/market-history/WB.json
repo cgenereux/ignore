@@ -1,7 +1,7 @@
 {
   "ticker": "WB",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:32:59+00:00",
+  "generatedAt": "2026-08-14T22:07:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18603,6 +18603,12 @@
       7.64,
       0,
       1876938417
+    ],
+    [
+      "2026-08-14",
+      7.67,
+      0,
+      1884308646
     ]
   ],
   "sharesOutstanding": [

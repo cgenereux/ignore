@@ -1,7 +1,7 @@
 {
   "ticker": "KTOS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:52:29+00:00",
+  "generatedAt": "2026-08-14T22:26:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40401,6 +40401,12 @@
       62.790001,
       0,
       11774379967
+    ],
+    [
+      "2026-08-14",
+      64.580002,
+      0,
+      12110040910
     ]
   ],
   "sharesOutstanding": [

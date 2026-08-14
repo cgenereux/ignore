@@ -1,7 +1,7 @@
 {
   "ticker": "MNST",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:47:45+00:00",
+  "generatedAt": "2026-08-14T22:22:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61491,6 +61491,12 @@
       46.68,
       0,
       91448536941
+    ],
+    [
+      "2026-08-14",
+      46.82,
+      0,
+      91722802993
     ]
   ],
   "sharesOutstanding": [

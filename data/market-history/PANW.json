@@ -1,7 +1,7 @@
 {
   "ticker": "PANW",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:27:11+00:00",
+  "generatedAt": "2026-08-14T22:01:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21225,6 +21225,12 @@
       396.0,
       0,
       322740000000
+    ],
+    [
+      "2026-08-14",
+      384.269989,
+      0,
+      313180041046
     ]
   ],
   "sharesOutstanding": [

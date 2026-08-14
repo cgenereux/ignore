@@ -1,7 +1,7 @@
 {
   "ticker": "CAR",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:02:42+00:00",
+  "generatedAt": "2026-08-14T22:37:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64885,6 +64885,12 @@
     [
       "2026-08-13",
       136.990005,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      137.850006,
       0,
       null
     ]

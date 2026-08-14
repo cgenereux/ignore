@@ -1,7 +1,7 @@
 {
   "ticker": "ABCB",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:55:47+00:00",
+  "generatedAt": "2026-08-14T22:30:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48685,6 +48685,12 @@
     [
       "2026-08-13",
       89.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      89.769997,
       0,
       null
     ]

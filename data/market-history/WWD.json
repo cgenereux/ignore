@@ -1,7 +1,7 @@
 {
   "ticker": "WWD",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:44:32+00:00",
+  "generatedAt": "2026-08-14T23:19:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48877,6 +48877,12 @@
     [
       "2026-08-13",
       358.540009,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      370.559998,
       0,
       null
     ]

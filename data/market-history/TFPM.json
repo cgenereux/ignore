@@ -1,7 +1,7 @@
 {
   "ticker": "TFPM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:38:05+00:00",
+  "generatedAt": "2026-08-14T23:12:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5959,6 +5959,12 @@
     [
       "2026-08-13",
       31.299999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      31.469999,
       0,
       null
     ]

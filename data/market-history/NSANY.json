@@ -1,7 +1,7 @@
 {
   "ticker": "NSANY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:26:35+00:00",
+  "generatedAt": "2026-08-14T23:01:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70159,6 +70159,12 @@
     [
       "2026-08-13",
       4.16,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      4.15,
       0,
       null
     ]

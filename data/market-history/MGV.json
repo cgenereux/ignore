@@ -1,7 +1,7 @@
 {
   "ticker": "MGV",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:24:05+00:00",
+  "generatedAt": "2026-08-14T22:58:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28123,6 +28123,12 @@
     [
       "2026-08-13",
       168.649994,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      168.839996,
       0,
       null
     ]

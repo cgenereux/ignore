@@ -1,7 +1,7 @@
 {
   "ticker": "SMCAY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:35:08+00:00",
+  "generatedAt": "2026-08-14T23:09:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18769,6 +18769,12 @@
     [
       "2026-08-13",
       24.309999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      23.950001,
       0,
       null
     ]

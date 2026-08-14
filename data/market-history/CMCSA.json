@@ -1,7 +1,7 @@
 {
   "ticker": "CMCSA",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:39:35+00:00",
+  "generatedAt": "2026-08-14T22:14:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70188,6 +70188,12 @@
     ],
     [
       "2026-08-13",
+      26.18,
+      0,
+      92903306564
+    ],
+    [
+      "2026-08-14",
       26.18,
       0,
       92903306564

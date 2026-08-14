@@ -1,7 +1,7 @@
 {
   "ticker": "PNGAY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:29:15+00:00",
+  "generatedAt": "2026-08-14T23:03:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27991,6 +27991,12 @@
     [
       "2026-08-13",
       14.1,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      14.03,
       0,
       null
     ]

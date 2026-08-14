@@ -1,7 +1,7 @@
 {
   "ticker": "GWRE",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:15:42+00:00",
+  "generatedAt": "2026-08-14T22:50:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21961,6 +21961,12 @@
     [
       "2026-08-13",
       182.619995,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      175.589996,
       0,
       null
     ]

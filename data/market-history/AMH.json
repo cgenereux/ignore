@@ -1,7 +1,7 @@
 {
   "ticker": "AMH",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:57:28+00:00",
+  "generatedAt": "2026-08-14T22:32:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19675,6 +19675,12 @@
     [
       "2026-08-13",
       34.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      34.080002,
       0,
       null
     ]

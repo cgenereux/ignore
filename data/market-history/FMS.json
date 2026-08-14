@@ -1,7 +1,7 @@
 {
   "ticker": "FMS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:12:03+00:00",
+  "generatedAt": "2026-08-14T22:46:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45151,6 +45151,12 @@
     [
       "2026-08-13",
       23.629999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      23.77,
       0,
       null
     ]

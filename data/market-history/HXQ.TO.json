@@ -1,7 +1,7 @@
 {
   "ticker": "HXQ.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:17:02+00:00",
+  "generatedAt": "2026-08-14T22:51:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15535,6 +15535,12 @@
     [
       "2026-08-13",
       120.495003,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      119.93,
       0,
       null
     ]

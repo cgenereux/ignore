@@ -1,7 +1,7 @@
 {
   "ticker": "COF",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:42:39+00:00",
+  "generatedAt": "2026-08-14T22:17:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47931,6 +47931,12 @@
       223.830002,
       0,
       137319706123
+    ],
+    [
+      "2026-08-14",
+      227.339996,
+      0,
+      139473087753
     ]
   ],
   "sharesOutstanding": [

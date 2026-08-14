@@ -1,7 +1,7 @@
 {
   "ticker": "LTM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:22:59+00:00",
+  "generatedAt": "2026-08-14T22:57:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3097,6 +3097,12 @@
     [
       "2026-08-13",
       52.419998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      52.259998,
       0,
       null
     ]

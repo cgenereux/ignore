@@ -1,7 +1,7 @@
 {
   "ticker": "EQPT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:09:25+00:00",
+  "generatedAt": "2026-08-14T22:43:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -847,6 +847,12 @@
     [
       "2026-08-13",
       21.41,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      20.629999,
       0,
       null
     ]

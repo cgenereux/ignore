@@ -1,7 +1,7 @@
 {
   "ticker": "ATD.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:58:24+00:00",
+  "generatedAt": "2026-08-14T22:32:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45283,6 +45283,12 @@
     [
       "2026-08-13",
       92.650002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      91.959999,
       0,
       null
     ]

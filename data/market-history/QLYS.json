@@ -1,7 +1,7 @@
 {
   "ticker": "QLYS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:30:17+00:00",
+  "generatedAt": "2026-08-14T23:04:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20923,6 +20923,12 @@
     [
       "2026-08-13",
       195.880005,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      186.050003,
       0,
       null
     ]

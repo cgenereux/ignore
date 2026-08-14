@@ -1,7 +1,7 @@
 {
   "ticker": "HST",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:46:00+00:00",
+  "generatedAt": "2026-08-14T22:20:31+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -70191,6 +70191,12 @@
       22.75,
       0,
       15581003643
+    ],
+    [
+      "2026-08-14",
+      22.9,
+      0,
+      15683735274
     ]
   ],
   "sharesOutstanding": [

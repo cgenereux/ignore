@@ -1,7 +1,7 @@
 {
   "ticker": "FCFS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:10:44+00:00",
+  "generatedAt": "2026-08-14T22:45:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53155,6 +53155,12 @@
     [
       "2026-08-13",
       210.820007,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      214.75,
       0,
       null
     ]

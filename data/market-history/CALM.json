@@ -1,7 +1,7 @@
 {
   "ticker": "CALM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:02:39+00:00",
+  "generatedAt": "2026-08-14T22:37:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44785,6 +44785,12 @@
     [
       "2026-08-13",
       82.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      81.089996,
       0,
       null
     ]

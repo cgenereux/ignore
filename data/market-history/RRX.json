@@ -1,7 +1,7 @@
 {
   "ticker": "RRX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:32:02+00:00",
+  "generatedAt": "2026-08-14T23:06:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70189,6 +70189,12 @@
     [
       "2026-08-13",
       170.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      175.490005,
       0,
       null
     ]

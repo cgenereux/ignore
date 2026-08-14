@@ -1,7 +1,7 @@
 {
   "ticker": "CSTM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:05:21+00:00",
+  "generatedAt": "2026-08-14T22:39:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19963,6 +19963,12 @@
     [
       "2026-08-13",
       29.129999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      29.6,
       0,
       null
     ]

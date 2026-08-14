@@ -1,7 +1,7 @@
 {
   "ticker": "MSTR",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:51:42+00:00",
+  "generatedAt": "2026-08-14T22:26:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42531,6 +42531,12 @@
       97.099998,
       0,
       35472535030
+    ],
+    [
+      "2026-08-14",
+      93.040001,
+      0,
+      33989338244
     ]
   ],
   "sharesOutstanding": [

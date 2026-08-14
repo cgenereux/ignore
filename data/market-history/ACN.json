@@ -1,7 +1,7 @@
 {
   "ticker": "ACN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:40:57+00:00",
+  "generatedAt": "2026-08-14T22:15:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37833,6 +37833,12 @@
       178.490005,
       0,
       109225550397
+    ],
+    [
+      "2026-08-14",
+      176.889999,
+      0,
+      108246439288
     ]
   ],
   "sharesOutstanding": [

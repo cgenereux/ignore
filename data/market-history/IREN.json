@@ -1,7 +1,7 @@
 {
   "ticker": "IREN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:53:13+00:00",
+  "generatedAt": "2026-08-14T22:27:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7137,6 +7137,12 @@
       44.759998,
       0,
       15996268848
+    ],
+    [
+      "2026-08-14",
+      44.060001,
+      0,
+      15746104867
     ]
   ],
   "sharesOutstanding": [

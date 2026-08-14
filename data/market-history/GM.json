@@ -1,7 +1,7 @@
 {
   "ticker": "GM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:39:25+00:00",
+  "generatedAt": "2026-08-14T22:13:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23745,6 +23745,12 @@
       86.389999,
       0,
       78135568075
+    ],
+    [
+      "2026-08-14",
+      86.769997,
+      0,
+      78479257176
     ]
   ],
   "sharesOutstanding": [

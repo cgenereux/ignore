@@ -1,7 +1,7 @@
 {
   "ticker": "IXUS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:19:57+00:00",
+  "generatedAt": "2026-08-14T22:54:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20821,6 +20821,12 @@
     [
       "2026-08-13",
       98.019997,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      98.0,
       0,
       null
     ]

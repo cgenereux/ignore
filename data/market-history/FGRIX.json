@@ -1,7 +1,7 @@
 {
   "ticker": "FGRIX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:11:30+00:00",
+  "generatedAt": "2026-08-14T22:46:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61405,6 +61405,12 @@
     [
       "2026-08-12",
       77.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      77.959999,
       0,
       null
     ]

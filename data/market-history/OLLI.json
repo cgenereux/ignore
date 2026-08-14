@@ -1,7 +1,7 @@
 {
   "ticker": "OLLI",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:27:25+00:00",
+  "generatedAt": "2026-08-14T23:01:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16723,6 +16723,12 @@
     [
       "2026-08-13",
       77.690002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      76.489998,
       0,
       null
     ]

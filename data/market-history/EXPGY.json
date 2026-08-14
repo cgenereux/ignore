@@ -1,7 +1,7 @@
 {
   "ticker": "EXPGY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:10:13+00:00",
+  "generatedAt": "2026-08-14T22:44:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27991,6 +27991,12 @@
     [
       "2026-08-13",
       39.009998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      39.27,
       0,
       null
     ]

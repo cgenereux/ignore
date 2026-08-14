@@ -1,7 +1,7 @@
 {
   "ticker": "KMB",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:29:28+00:00",
+  "generatedAt": "2026-08-14T22:03:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70191,6 +70191,12 @@
       110.699997,
       0,
       36744207187
+    ],
+    [
+      "2026-08-14",
+      110.389999,
+      0,
+      36641310937
     ]
   ],
   "sharesOutstanding": [

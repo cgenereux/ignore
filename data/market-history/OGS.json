@@ -1,7 +1,7 @@
 {
   "ticker": "OGS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:27:18+00:00",
+  "generatedAt": "2026-08-14T23:01:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18979,6 +18979,12 @@
     [
       "2026-08-13",
       81.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      80.980003,
       0,
       null
     ]

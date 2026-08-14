@@ -1,7 +1,7 @@
 {
   "ticker": "ICSH",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:17:35+00:00",
+  "generatedAt": "2026-08-14T22:52:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19105,6 +19105,12 @@
     [
       "2026-08-13",
       50.505001,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      50.5,
       0,
       null
     ]

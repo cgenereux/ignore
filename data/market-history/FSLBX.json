@@ -1,7 +1,7 @@
 {
   "ticker": "FSLBX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:13:11+00:00",
+  "generatedAt": "2026-08-14T22:47:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62041,6 +62041,12 @@
     [
       "2026-08-12",
       182.119995,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      186.529999,
       0,
       null
     ]

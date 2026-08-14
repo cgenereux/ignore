@@ -1,7 +1,7 @@
 {
   "ticker": "HEINY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:16:11+00:00",
+  "generatedAt": "2026-08-14T22:50:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44887,6 +44887,12 @@
     [
       "2026-08-13",
       42.759998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      42.59,
       0,
       null
     ]

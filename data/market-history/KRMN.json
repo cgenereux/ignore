@@ -1,7 +1,7 @@
 {
   "ticker": "KRMN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:21:25+00:00",
+  "generatedAt": "2026-08-14T22:55:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2263,6 +2263,12 @@
     [
       "2026-08-13",
       60.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      62.009998,
       0,
       null
     ]

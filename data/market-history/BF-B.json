@@ -1,7 +1,7 @@
 {
   "ticker": "BF-B",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:42:27+00:00",
+  "generatedAt": "2026-08-14T22:16:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70191,6 +70191,12 @@
       28.030001,
       0,
       12861965663
+    ],
+    [
+      "2026-08-14",
+      28.42,
+      0,
+      13040922446
     ]
   ],
   "sharesOutstanding": [

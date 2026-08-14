@@ -1,7 +1,7 @@
 {
   "ticker": "FSELX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:13:04+00:00",
+  "generatedAt": "2026-08-14T22:47:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62041,6 +62041,12 @@
     [
       "2026-08-12",
       64.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      64.440002,
       0,
       null
     ]

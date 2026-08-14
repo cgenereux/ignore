@@ -1,7 +1,7 @@
 {
   "ticker": "ECL",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:44:18+00:00",
+  "generatedAt": "2026-08-14T22:18:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80907,6 +80907,12 @@
       276.26001,
       0,
       77749927051
+    ],
+    [
+      "2026-08-14",
+      276.109985,
+      0,
+      77707704555
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "RNR",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:31:42+00:00",
+  "generatedAt": "2026-08-14T23:06:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46885,6 +46885,12 @@
     [
       "2026-08-13",
       319.859985,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      323.359985,
       0,
       null
     ]

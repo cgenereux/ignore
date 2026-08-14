@@ -1,7 +1,7 @@
 {
   "ticker": "DLB",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:07:07+00:00",
+  "generatedAt": "2026-08-14T22:41:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32437,6 +32437,12 @@
     [
       "2026-08-13",
       62.369999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      62.389999,
       0,
       null
     ]

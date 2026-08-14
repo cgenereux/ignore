@@ -1,7 +1,7 @@
 {
   "ticker": "CYTK",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:05:47+00:00",
+  "generatedAt": "2026-08-14T22:40:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33649,6 +33649,12 @@
     [
       "2026-08-13",
       73.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      74.129997,
       0,
       null
     ]

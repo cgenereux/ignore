@@ -1,7 +1,7 @@
 {
   "ticker": "SPTS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:36:12+00:00",
+  "generatedAt": "2026-08-14T23:10:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22176,6 +22176,12 @@
     ],
     [
       "2026-08-13",
+      28.969999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
       28.969999,
       0,
       null

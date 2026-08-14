@@ -1,7 +1,7 @@
 {
   "ticker": "GBTG",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:14:22+00:00",
+  "generatedAt": "2026-08-14T22:48:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6006,6 +6006,12 @@
     ],
     [
       "2026-08-13",
+      9.46,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
       9.46,
       0,
       null

@@ -1,7 +1,7 @@
 {
   "ticker": "SLM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:34:57+00:00",
+  "generatedAt": "2026-08-14T23:09:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64843,6 +64843,12 @@
     [
       "2026-08-13",
       27.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      28.030001,
       0,
       null
     ]

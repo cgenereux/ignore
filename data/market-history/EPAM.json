@@ -1,7 +1,7 @@
 {
   "ticker": "EPAM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:09:14+00:00",
+  "generatedAt": "2026-08-14T22:43:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21901,6 +21901,12 @@
     [
       "2026-08-13",
       101.550003,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      100.5,
       0,
       null
     ]

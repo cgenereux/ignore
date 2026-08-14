@@ -1,7 +1,7 @@
 {
   "ticker": "SNPS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:50:06+00:00",
+  "generatedAt": "2026-08-14T22:24:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52071,6 +52071,12 @@
       411.75,
       0,
       78841612069
+    ],
+    [
+      "2026-08-14",
+      421.5,
+      0,
+      80708535488
     ]
   ],
   "sharesOutstanding": [

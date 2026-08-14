@@ -1,7 +1,7 @@
 {
   "ticker": "PLUG",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:53:00+00:00",
+  "generatedAt": "2026-08-14T22:27:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40431,6 +40431,12 @@
       2.3,
       0,
       3208658822
+    ],
+    [
+      "2026-08-14",
+      2.32,
+      0,
+      3236560177
     ]
   ],
   "sharesOutstanding": [

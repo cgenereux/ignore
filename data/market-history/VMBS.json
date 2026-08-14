@@ -1,7 +1,7 @@
 {
   "ticker": "VMBS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:42:08+00:00",
+  "generatedAt": "2026-08-14T23:16:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25237,6 +25237,12 @@
     [
       "2026-08-13",
       46.32,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      46.169998,
       0,
       null
     ]

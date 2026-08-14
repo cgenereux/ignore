@@ -1,7 +1,7 @@
 {
   "ticker": "ESS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:44:40+00:00",
+  "generatedAt": "2026-08-14T22:19:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48615,6 +48615,12 @@
       287.390015,
       0,
       18468182113
+    ],
+    [
+      "2026-08-14",
+      287.519989,
+      0,
+      18476534491
     ]
   ],
   "sharesOutstanding": [

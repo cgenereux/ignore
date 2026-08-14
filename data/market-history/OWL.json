@@ -1,7 +1,7 @@
 {
   "ticker": "OWL",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:28:03+00:00",
+  "generatedAt": "2026-08-14T23:02:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8539,6 +8539,12 @@
     [
       "2026-08-13",
       12.66,
+      0.23,
+      null
+    ],
+    [
+      "2026-08-14",
+      12.22,
       0,
       null
     ]

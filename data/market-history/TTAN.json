@@ -1,7 +1,7 @@
 {
   "ticker": "TTAN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:39:14+00:00",
+  "generatedAt": "2026-08-14T23:13:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2497,6 +2497,12 @@
     [
       "2026-08-13",
       93.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      90.400002,
       0,
       null
     ]

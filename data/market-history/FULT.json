@@ -1,7 +1,7 @@
 {
   "ticker": "FULT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:13:56+00:00",
+  "generatedAt": "2026-08-14T22:48:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61897,6 +61897,12 @@
     [
       "2026-08-13",
       24.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      24.639999,
       0,
       null
     ]

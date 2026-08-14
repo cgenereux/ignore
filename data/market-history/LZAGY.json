@@ -1,7 +1,7 @@
 {
   "ticker": "LZAGY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:23:09+00:00",
+  "generatedAt": "2026-08-14T22:57:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25009,6 +25009,12 @@
     [
       "2026-08-13",
       70.400002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      69.080002,
       0,
       null
     ]

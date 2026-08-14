@@ -1,7 +1,7 @@
 {
   "ticker": "FICDX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:11:36+00:00",
+  "generatedAt": "2026-08-14T22:46:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -54583,6 +54583,12 @@
     [
       "2026-08-12",
       89.419998,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      89.800003,
       0,
       null
     ]

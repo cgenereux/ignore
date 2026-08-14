@@ -1,7 +1,7 @@
 {
   "ticker": "META",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:27:04+00:00",
+  "generatedAt": "2026-08-14T22:01:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21483,6 +21483,12 @@
       594.969971,
       0,
       1515689704054
+    ],
+    [
+      "2026-08-14",
+      589.849976,
+      0,
+      1502646484621
     ]
   ],
   "sharesOutstanding": [

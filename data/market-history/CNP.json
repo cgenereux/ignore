@@ -1,7 +1,7 @@
 {
   "ticker": "CNP",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:42:57+00:00",
+  "generatedAt": "2026-08-14T22:17:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97581,6 +97581,12 @@
       40.48,
       0,
       26664996957
+    ],
+    [
+      "2026-08-14",
+      40.830002,
+      0,
+      26895550565
     ]
   ],
   "sharesOutstanding": [

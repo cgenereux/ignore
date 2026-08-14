@@ -1,7 +1,7 @@
 {
   "ticker": "FDIVX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:10:56+00:00",
+  "generatedAt": "2026-08-14T22:45:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52309,6 +52309,12 @@
     [
       "2026-08-12",
       56.560001,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      56.720001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SR",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:36:30+00:00",
+  "generatedAt": "2026-08-14T23:11:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80905,6 +80905,12 @@
     [
       "2026-08-13",
       82.93,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      82.839996,
       0,
       null
     ]

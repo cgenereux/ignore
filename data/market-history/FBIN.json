@@ -1,7 +1,7 @@
 {
   "ticker": "FBIN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:10:30+00:00",
+  "generatedAt": "2026-08-14T22:45:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22495,6 +22495,12 @@
     [
       "2026-08-13",
       48.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      47.84,
       0,
       null
     ]

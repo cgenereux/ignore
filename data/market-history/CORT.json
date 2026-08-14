@@ -1,7 +1,7 @@
 {
   "ticker": "CORT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:04:55+00:00",
+  "generatedAt": "2026-08-14T22:39:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33721,6 +33721,12 @@
     [
       "2026-08-13",
       110.510002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      114.470001,
       0,
       null
     ]

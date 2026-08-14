@@ -1,7 +1,7 @@
 {
   "ticker": "JBHT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:46:34+00:00",
+  "generatedAt": "2026-08-14T22:21:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64593,6 +64593,12 @@
       282.320007,
       0,
       26509848688
+    ],
+    [
+      "2026-08-14",
+      279.709991,
+      0,
+      26264768198
     ]
   ],
   "sharesOutstanding": [

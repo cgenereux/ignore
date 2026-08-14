@@ -1,7 +1,7 @@
 {
   "ticker": "SJNK",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:34:39+00:00",
+  "generatedAt": "2026-08-14T23:09:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21649,6 +21649,12 @@
     [
       "2026-08-13",
       24.91,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      24.9,
       0,
       null
     ]

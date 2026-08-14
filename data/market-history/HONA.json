@@ -1,7 +1,7 @@
 {
   "ticker": "HONA",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:45:56+00:00",
+  "generatedAt": "2026-08-14T22:20:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -261,6 +261,12 @@
       169.809998,
       0,
       53819538174
+    ],
+    [
+      "2026-08-14",
+      166.360001,
+      0,
+      52726097003
     ]
   ],
   "sharesOutstanding": [

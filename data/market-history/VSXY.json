@@ -1,7 +1,7 @@
 {
   "ticker": "VSXY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:42:59+00:00",
+  "generatedAt": "2026-08-14T23:17:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7639,6 +7639,12 @@
     [
       "2026-08-13",
       91.059998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      89.019997,
       0,
       null
     ]

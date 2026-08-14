@@ -1,7 +1,7 @@
 {
   "ticker": "MEOH",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:23:52+00:00",
+  "generatedAt": "2026-08-14T22:58:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51721,6 +51721,12 @@
     [
       "2026-08-13",
       54.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      56.119999,
       0,
       null
     ]

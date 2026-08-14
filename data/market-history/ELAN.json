@@ -1,7 +1,7 @@
 {
   "ticker": "ELAN",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:08:29+00:00",
+  "generatedAt": "2026-08-14T22:43:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11911,6 +11911,12 @@
     [
       "2026-08-13",
       22.51,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      23.67,
       0,
       null
     ]

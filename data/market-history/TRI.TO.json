@@ -1,7 +1,7 @@
 {
   "ticker": "TRI.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:39:00+00:00",
+  "generatedAt": "2026-08-14T23:13:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27397,6 +27397,12 @@
     [
       "2026-08-13",
       147.649994,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      143.550003,
       0,
       null
     ]

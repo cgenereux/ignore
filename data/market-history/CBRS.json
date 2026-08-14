@@ -1,7 +1,7 @@
 {
   "ticker": "CBRS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:52:53+00:00",
+  "generatedAt": "2026-08-14T22:27:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -387,6 +387,12 @@
       231.009995,
       0,
       51480708259
+    ],
+    [
+      "2026-08-14",
+      218.979996,
+      0,
+      48799816210
     ]
   ],
   "sharesOutstanding": [

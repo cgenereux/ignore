@@ -1,7 +1,7 @@
 {
   "ticker": "XLC",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:44:56+00:00",
+  "generatedAt": "2026-08-14T23:19:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12301,6 +12301,12 @@
     [
       "2026-08-13",
       112.550003,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      112.949997,
       0,
       null
     ]

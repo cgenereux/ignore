@@ -1,7 +1,7 @@
 {
   "ticker": "MC",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:23:35+00:00",
+  "generatedAt": "2026-08-14T22:58:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18607,6 +18607,12 @@
     [
       "2026-08-13",
       70.379997,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      68.410004,
       0,
       null
     ]

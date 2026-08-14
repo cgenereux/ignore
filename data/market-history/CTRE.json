@@ -1,7 +1,7 @@
 {
   "ticker": "CTRE",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:05:24+00:00",
+  "generatedAt": "2026-08-14T22:39:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18433,6 +18433,12 @@
     [
       "2026-08-13",
       38.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      38.77,
       0,
       null
     ]

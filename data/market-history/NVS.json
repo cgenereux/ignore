@@ -1,7 +1,7 @@
 {
   "ticker": "NVS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:26:52+00:00",
+  "generatedAt": "2026-08-14T23:01:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44929,6 +44929,12 @@
     [
       "2026-08-13",
       151.720001,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      150.880005,
       0,
       null
     ]

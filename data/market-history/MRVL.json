@@ -1,7 +1,7 @@
 {
   "ticker": "MRVL",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:39:48+00:00",
+  "generatedAt": "2026-08-14T22:14:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39417,6 +39417,12 @@
       222.179993,
       0,
       199416413328
+    ],
+    [
+      "2026-08-14",
+      222.020004,
+      0,
+      199272816629
     ]
   ],
   "sharesOutstanding": [

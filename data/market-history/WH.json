@@ -1,7 +1,7 @@
 {
   "ticker": "WH",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:43:55+00:00",
+  "generatedAt": "2026-08-14T23:18:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12421,6 +12421,12 @@
     [
       "2026-08-13",
       74.309998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      73.629997,
       0,
       null
     ]

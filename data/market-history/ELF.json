@@ -1,7 +1,7 @@
 {
   "ticker": "ELF",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:52:44+00:00",
+  "generatedAt": "2026-08-14T22:27:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14925,6 +14925,12 @@
       92.050003,
       0,
       5425154804
+    ],
+    [
+      "2026-08-14",
+      91.440002,
+      0,
+      5389203173
     ]
   ],
   "sharesOutstanding": [

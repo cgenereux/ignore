@@ -1,7 +1,7 @@
 {
   "ticker": "BBY",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:42:12+00:00",
+  "generatedAt": "2026-08-14T22:16:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62469,6 +62469,12 @@
       85.349998,
       0,
       17988973882
+    ],
+    [
+      "2026-08-14",
+      86.419998,
+      0,
+      18214494643
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "EXR",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:44:56+00:00",
+  "generatedAt": "2026-08-14T22:19:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33213,6 +33213,12 @@
       149.399994,
       0,
       31564196265
+    ],
+    [
+      "2026-08-14",
+      147.899994,
+      0,
+      31247286651
     ]
   ],
   "sharesOutstanding": [

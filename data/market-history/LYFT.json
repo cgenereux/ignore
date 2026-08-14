@@ -1,7 +1,7 @@
 {
   "ticker": "LYFT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:27:19+00:00",
+  "generatedAt": "2026-08-14T22:01:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11133,6 +11133,12 @@
       17.129999,
       0,
       6503961455
+    ],
+    [
+      "2026-08-14",
+      17.48,
+      0,
+      6636850486
     ]
   ],
   "sharesOutstanding": [

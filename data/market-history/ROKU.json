@@ -1,7 +1,7 @@
 {
   "ticker": "ROKU",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:40:09+00:00",
+  "generatedAt": "2026-08-14T22:14:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13389,6 +13389,12 @@
       154.080002,
       0,
       22856561209
+    ],
+    [
+      "2026-08-14",
+      157.679993,
+      0,
+      23390591648
     ]
   ],
   "sharesOutstanding": [

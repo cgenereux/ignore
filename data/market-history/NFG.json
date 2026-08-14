@@ -1,7 +1,7 @@
 {
   "ticker": "NFG",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:25:59+00:00",
+  "generatedAt": "2026-08-14T23:00:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80605,6 +80605,12 @@
     [
       "2026-08-13",
       81.510002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      81.919998,
       0,
       null
     ]

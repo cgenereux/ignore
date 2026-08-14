@@ -1,7 +1,7 @@
 {
   "ticker": "CRH",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:43:44+00:00",
+  "generatedAt": "2026-08-14T22:18:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56049,6 +56049,12 @@
       97.699997,
       0,
       64998294694
+    ],
+    [
+      "2026-08-14",
+      97.150002,
+      0,
+      64632391259
     ]
   ],
   "sharesOutstanding": [

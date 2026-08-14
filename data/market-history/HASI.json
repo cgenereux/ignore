@@ -1,7 +1,7 @@
 {
   "ticker": "HASI",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:15:53+00:00",
+  "generatedAt": "2026-08-14T22:50:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20113,6 +20113,12 @@
     [
       "2026-08-13",
       42.349998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      42.119999,
       0,
       null
     ]

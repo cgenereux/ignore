@@ -1,7 +1,7 @@
 {
   "ticker": "BAP",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:59:27+00:00",
+  "generatedAt": "2026-08-14T22:34:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46507,6 +46507,12 @@
     [
       "2026-08-13",
       375.140015,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      386.359985,
       0,
       null
     ]

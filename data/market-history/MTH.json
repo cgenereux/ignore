@@ -1,7 +1,7 @@
 {
   "ticker": "MTH",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:25:16+00:00",
+  "generatedAt": "2026-08-14T22:59:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -57511,6 +57511,12 @@
     [
       "2026-08-13",
       73.620003,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      73.080002,
       0,
       null
     ]

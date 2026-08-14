@@ -1,7 +1,7 @@
 {
   "ticker": "VB",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:40:43+00:00",
+  "generatedAt": "2026-08-14T23:15:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34027,6 +34027,12 @@
     [
       "2026-08-13",
       308.540009,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      309.290009,
       0,
       null
     ]

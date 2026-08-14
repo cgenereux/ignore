@@ -1,7 +1,7 @@
 {
   "ticker": "SIGI",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:34:27+00:00",
+  "generatedAt": "2026-08-14T23:09:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70189,6 +70189,12 @@
     [
       "2026-08-13",
       93.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      94.370003,
       0,
       null
     ]

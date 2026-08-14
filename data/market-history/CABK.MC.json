@@ -1,7 +1,7 @@
 {
   "ticker": "CABK.MC",
   "currency": "USD",
-  "generatedAt": "2026-08-12T23:00:58+00:00",
+  "generatedAt": "2026-08-14T22:36:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28879,6 +28879,12 @@
     [
       "2026-08-12",
       12.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-13",
+      12.9,
       0,
       null
     ]

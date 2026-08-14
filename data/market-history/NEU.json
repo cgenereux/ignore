@@ -1,7 +1,7 @@
 {
   "ticker": "NEU",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:25:57+00:00",
+  "generatedAt": "2026-08-14T23:00:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70189,6 +70189,12 @@
     [
       "2026-08-13",
       947.710022,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      961.919983,
       0,
       null
     ]

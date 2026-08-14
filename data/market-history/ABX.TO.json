@@ -1,7 +1,7 @@
 {
   "ticker": "ABX.TO",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:55:56+00:00",
+  "generatedAt": "2026-08-14T22:30:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47635,6 +47635,12 @@
     [
       "2026-08-13",
       57.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      57.799999,
       0,
       null
     ]

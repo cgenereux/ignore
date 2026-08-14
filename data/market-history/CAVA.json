@@ -1,7 +1,7 @@
 {
   "ticker": "CAVA",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:52:07+00:00",
+  "generatedAt": "2026-08-14T22:26:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4767,6 +4767,12 @@
       72.18,
       0,
       8407082962
+    ],
+    [
+      "2026-08-14",
+      74.419998,
+      0,
+      8667984150
     ]
   ],
   "sharesOutstanding": [

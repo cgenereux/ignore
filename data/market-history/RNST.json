@@ -1,7 +1,7 @@
 {
   "ticker": "RNST",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:31:44+00:00",
+  "generatedAt": "2026-08-14T23:06:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51823,6 +51823,12 @@
     [
       "2026-08-13",
       43.810001,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      43.549999,
       0,
       null
     ]

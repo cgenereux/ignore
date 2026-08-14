@@ -1,7 +1,7 @@
 {
   "ticker": "ARMK",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:58:00+00:00",
+  "generatedAt": "2026-08-14T22:32:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19117,6 +19117,12 @@
     [
       "2026-08-13",
       61.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      62.389999,
       0,
       null
     ]

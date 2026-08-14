@@ -1,7 +1,7 @@
 {
   "ticker": "HON",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:29:39+00:00",
+  "generatedAt": "2026-08-14T22:04:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97581,6 +97581,12 @@
       233.990005,
       0,
       74160794681
+    ],
+    [
+      "2026-08-14",
+      233.960007,
+      0,
+      74151286867
     ]
   ],
   "sharesOutstanding": [

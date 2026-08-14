@@ -1,7 +1,7 @@
 {
   "ticker": "BAM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:59:24+00:00",
+  "generatedAt": "2026-08-14T22:33:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5569,6 +5569,12 @@
     [
       "2026-08-13",
       55.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      54.310001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CRDO",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:53:07+00:00",
+  "generatedAt": "2026-08-14T22:27:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6849,6 +6849,12 @@
       265.98999,
       0,
       49601254268
+    ],
+    [
+      "2026-08-14",
+      259.899994,
+      0,
+      48465604552
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "BFAM",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:00:27+00:00",
+  "generatedAt": "2026-08-14T22:35:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20455,6 +20455,12 @@
     [
       "2026-08-13",
       73.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      71.309998,
       0,
       null
     ]

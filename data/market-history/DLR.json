@@ -1,7 +1,7 @@
 {
   "ticker": "DLR",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:43:59+00:00",
+  "generatedAt": "2026-08-14T22:18:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32895,6 +32895,12 @@
       197.580002,
       0,
       73099859153
+    ],
+    [
+      "2026-08-14",
+      200.149994,
+      0,
+      74050694542
     ]
   ],
   "sharesOutstanding": [

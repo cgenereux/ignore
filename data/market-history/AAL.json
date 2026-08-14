@@ -1,7 +1,7 @@
 {
   "ticker": "AAL",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:55:38+00:00",
+  "generatedAt": "2026-08-14T22:30:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31519,6 +31519,12 @@
     [
       "2026-08-13",
       15.06,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      14.83,
       0,
       null
     ]

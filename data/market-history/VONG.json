@@ -1,7 +1,7 @@
 {
   "ticker": "VONG",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:42:28+00:00",
+  "generatedAt": "2026-08-14T23:16:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23989,6 +23989,12 @@
     [
       "2026-08-13",
       129.369995,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      129.0,
       0,
       null
     ]

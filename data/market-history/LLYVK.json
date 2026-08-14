@@ -1,7 +1,7 @@
 {
   "ticker": "LLYVK",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:22:24+00:00",
+  "generatedAt": "2026-08-14T22:56:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4561,6 +4561,12 @@
     [
       "2026-08-13",
       107.870003,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      108.860001,
       0,
       null
     ]

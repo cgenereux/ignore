@@ -1,7 +1,7 @@
 {
   "ticker": "IX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:19:53+00:00",
+  "generatedAt": "2026-08-14T22:54:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42127,6 +42127,12 @@
     [
       "2026-08-13",
       40.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      40.16,
       0,
       null
     ]

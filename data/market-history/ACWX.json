@@ -1,7 +1,7 @@
 {
   "ticker": "ACWX",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:56:11+00:00",
+  "generatedAt": "2026-08-14T22:30:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27739,6 +27739,12 @@
     [
       "2026-08-13",
       77.910004,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      77.870003,
       0,
       null
     ]

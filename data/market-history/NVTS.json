@@ -1,7 +1,7 @@
 {
   "ticker": "NVTS",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:53:23+00:00",
+  "generatedAt": "2026-08-14T22:27:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7257,6 +7257,12 @@
       13.66,
       0,
       3566537006
+    ],
+    [
+      "2026-08-14",
+      14.45,
+      0,
+      3772800852
     ]
   ],
   "sharesOutstanding": [

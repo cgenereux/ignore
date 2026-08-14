@@ -1,7 +1,7 @@
 {
   "ticker": "SNA",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:49:50+00:00",
+  "generatedAt": "2026-08-14T22:24:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80907,6 +80907,12 @@
       404.630005,
       0,
       20930346437
+    ],
+    [
+      "2026-08-14",
+      403.559998,
+      0,
+      20874998035
     ]
   ],
   "sharesOutstanding": [

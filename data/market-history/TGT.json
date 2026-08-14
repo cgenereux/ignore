@@ -1,7 +1,7 @@
 {
   "ticker": "TGT",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:28:44+00:00",
+  "generatedAt": "2026-08-14T22:03:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80907,6 +80907,12 @@
       155.509995,
       0,
       70631257332
+    ],
+    [
+      "2026-08-14",
+      154.479996,
+      0,
+      70163441041
     ]
   ],
   "sharesOutstanding": [

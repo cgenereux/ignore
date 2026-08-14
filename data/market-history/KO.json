@@ -1,7 +1,7 @@
 {
   "ticker": "KO",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:27:47+00:00",
+  "generatedAt": "2026-08-14T22:02:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97581,6 +97581,12 @@
       87.419998,
       0,
       376128846945
+    ],
+    [
+      "2026-08-14",
+      87.709999,
+      0,
+      377376590164
     ]
   ],
   "sharesOutstanding": [

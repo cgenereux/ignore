@@ -1,7 +1,7 @@
 {
   "ticker": "AMP",
   "currency": "USD",
-  "generatedAt": "2026-08-13T22:41:29+00:00",
+  "generatedAt": "2026-08-14T22:15:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31569,6 +31569,12 @@
       570.679993,
       0,
       50448111353
+    ],
+    [
+      "2026-08-14",
+      569.539978,
+      0,
+      50347334058
     ]
   ],
   "sharesOutstanding": [

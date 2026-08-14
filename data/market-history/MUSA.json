@@ -1,7 +1,7 @@
 {
   "ticker": "MUSA",
   "currency": "USD",
-  "generatedAt": "2026-08-13T23:25:38+00:00",
+  "generatedAt": "2026-08-14T23:00:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19603,6 +19603,12 @@
     [
       "2026-08-13",
       563.159973,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      569.119995,
       0,
       null
     ]
