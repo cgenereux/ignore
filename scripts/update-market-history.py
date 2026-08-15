@@ -117,6 +117,9 @@ IPO_PUBLIC_SHARE_BASIS_DATES = {
     "RDDT": "2024-03-22",
     "RXRX": "2021-04-17",
     "TOST": "2021-09-23",
+    # Twitter's pre-IPO weighted-average count is not comparable with the
+    # public share basis reported after its November 2013 listing.
+    "TWTR": "2013-12-31",
     "VEEV": "2014-01-31",
 }
 KNOWN_BAD_SHARE_INTERVALS = {
@@ -196,8 +199,21 @@ def company_tickers() -> list[str]:
     return [
         str(company["ticker"]).upper()
         for company in registry_companies()
-        if company.get("ticker")
+        if (
+            company.get("ticker")
+            and company.get("listingStatus") in (None, "active")
+        )
     ]
+
+
+def market_history_end(ticker: str, default_end: str) -> str:
+    """Cap a historical company before a reused ticker can leak into it."""
+    company = registry_company(ticker)
+    listing_end = company.get("listingEndDate") if company else None
+    if not listing_end:
+        return default_end
+    exclusive_end = (date.fromisoformat(listing_end) + timedelta(days=1)).isoformat()
+    return min(default_end, exclusive_end)
 
 
 def backtest_tickers() -> list[str]:
@@ -381,21 +397,29 @@ def sec_share_observations(cik: str, ticker: str) -> list[tuple[str, float]]:
     return observations
 
 
-def load_seed_prices(seed_directory: Path | None, ticker: str) -> dict[str, float]:
+def load_seed_prices(
+    seed_directory: Path | None,
+    ticker: str,
+) -> tuple[dict[str, tuple[float, float, float | None]], str | None, bool]:
     if seed_directory is None:
-        return {}
-    rows = load_json(seed_directory / f"{ticker}.json")
+        return {}, None, False
+    payload = load_json(seed_directory / f"{ticker}.json")
+    source = payload.get("source") if isinstance(payload, dict) else None
+    seed_only = bool(payload.get("seedOnly")) if isinstance(payload, dict) else False
+    rows = payload.get("daily") if isinstance(payload, dict) else payload
     if not isinstance(rows, list):
-        return {}
+        return {}, source, seed_only
 
-    prices: dict[str, float] = {}
+    prices: dict[str, tuple[float, float, float | None]] = {}
     for row in rows:
         if not isinstance(row, list) or len(row) < 2:
             continue
         close = finite_number(row[1])
+        dividend = finite_number(row[2]) if len(row) >= 3 else 0
+        adjusted_close = finite_number(row[3]) if len(row) >= 4 else None
         if isinstance(row[0], str) and close is not None:
-            prices[row[0]] = close
-    return prices
+            prices[row[0]] = (close, dividend or 0, adjusted_close)
+    return prices, source, seed_only
 
 
 def split_factor_after(split_events: list[tuple[str, float]], observed_date: str) -> float:
@@ -794,6 +818,12 @@ def fetch_market_history(
     sec_ciks: list[str] | None = None,
     prices_only: bool = False,
 ) -> dict:
+    seed_prices, seed_source, seed_only = load_seed_prices(seed_directory, ticker)
+    seed_prices = {
+        trading_date: values
+        for trading_date, values in seed_prices.items()
+        if start <= trading_date < end
+    }
     listing = FOREIGN_LISTINGS.get(ticker)
     symbol = listing["symbol"] if listing else ticker
     to_usd = (
@@ -802,22 +832,29 @@ def fetch_market_history(
         else None
     )
     instrument = yf.Ticker(symbol)
-    history = instrument.history(
-        start=start,
-        end=end,
-        auto_adjust=False,
-        actions=True,
-        repair=False,
-    )
+    history = None
+    if not seed_only:
+        try:
+            history = instrument.history(
+                start=start,
+                end=end,
+                auto_adjust=False,
+                actions=True,
+                repair=False,
+            )
+        except Exception:
+            if not seed_prices:
+                raise
 
-    if history.empty:
+    if (history is None or history.empty) and not seed_prices:
         raise RuntimeError("no daily history returned")
 
     split_events: list[tuple[str, float]] = []
-    for timestamp, row in history.iterrows():
-        split_ratio = finite_number(row.get("Stock Splits")) or 0
-        if split_ratio > 0:
-            split_events.append((date_string(timestamp), split_ratio))
+    if history is not None:
+        for timestamp, row in history.iterrows():
+            split_ratio = finite_number(row.get("Stock Splits")) or 0
+            if split_ratio > 0:
+                split_events.append((date_string(timestamp), split_ratio))
     split_events.sort()
     split_events.extend(KNOWN_SPLITS_FOR_REPAIR.get(ticker, []))
     split_events = deduplicate_split_events(split_events)
@@ -826,7 +863,7 @@ def fetch_market_history(
     adjusted_shares_by_date: list[tuple[str, float]] = []
     reported_by_date: list[tuple[str, float]] = []
     shares = None
-    if not prices_only:
+    if not prices_only and not seed_only:
         try:
             shares = instrument.get_shares_full(start=start)
         except Exception:
@@ -948,7 +985,10 @@ def fetch_market_history(
         shares_rows,
         adjusted_shares_by_date,
     )
-    first_trading_date = date_string(history.sort_index().index[0])
+    trading_dates = list(seed_prices)
+    if history is not None and not history.empty:
+        trading_dates.append(date_string(history.sort_index().index[0]))
+    first_trading_date = min(trading_dates)
     shares_rows, adjusted_shares_by_date = align_initial_public_share_basis(
         ticker,
         first_trading_date,
@@ -956,66 +996,86 @@ def fetch_market_history(
         adjusted_shares_by_date,
     )
 
-    seed_prices = load_seed_prices(seed_directory, ticker)
     daily_by_date: dict[str, list] = {
-        seed_date: [seed_date, round_number(seed_close, 6), 0, None]
-        for seed_date, seed_close in seed_prices.items()
+        seed_date: [
+            seed_date,
+            round_number(values[0], 6),
+            round_number(values[1], 8),
+            None,
+        ]
+        for seed_date, values in seed_prices.items()
     }
+
+    adjusted_close_by_date: dict[str, list] = {
+        seed_date: [seed_date, round_number(values[2], 6)]
+        for seed_date, values in seed_prices.items()
+        if values[2] is not None and values[2] > 0
+    }
+    if history is not None:
+        for timestamp, row in history.sort_index().iterrows():
+            trading_date = date_string(timestamp)
+            close = finite_number(row.get("Close"))
+            if close is None:
+                continue
+            dividend = finite_number(row.get("Dividends")) or 0
+            dividend = max(
+                0,
+                dividend -
+                KNOWN_SPECIAL_DIVIDENDS.get(ticker, {}).get(trading_date, 0),
+            )
+            adjusted_close = finite_number(row.get("Adj Close"))
+            if to_usd is not None:
+                rate = to_usd(trading_date)
+                if rate is None:
+                    continue  # no published rate yet for this listing
+                close *= rate
+                dividend *= rate
+                if adjusted_close is not None:
+                    adjusted_close *= rate
+            daily_by_date[trading_date] = [
+                trading_date,
+                round_number(close, 6),
+                round_number(dividend, 8),
+                None,
+            ]
+            if adjusted_close is not None and adjusted_close > 0:
+                adjusted_close_by_date[trading_date] = [
+                    trading_date,
+                    round_number(adjusted_close, 6),
+                ]
 
     shares_index = 0
     current_adjusted_shares: float | None = None
-    adjusted_close_rows: list[list] = []
-    for timestamp, row in history.sort_index().iterrows():
-        trading_date = date_string(timestamp)
+    for trading_date in sorted(daily_by_date):
         while (
             shares_index < len(adjusted_shares_by_date)
             and adjusted_shares_by_date[shares_index][0] <= trading_date
         ):
             current_adjusted_shares = adjusted_shares_by_date[shares_index][1]
             shares_index += 1
-
-        close = finite_number(row.get("Close"))
-        if close is None:
-            continue
-        dividend = finite_number(row.get("Dividends")) or 0
-        dividend = max(
-            0,
-            dividend -
-            KNOWN_SPECIAL_DIVIDENDS.get(ticker, {}).get(trading_date, 0),
-        )
-        adjusted_close = finite_number(row.get("Adj Close"))
-        if to_usd is not None:
-            rate = to_usd(trading_date)
-            if rate is None:
-                continue  # no published rate yet for this listing
-            close *= rate
-            dividend *= rate
-            if adjusted_close is not None:
-                adjusted_close *= rate
-        market_cap = (
+        close = daily_by_date[trading_date][1]
+        daily_by_date[trading_date][3] = round_number(
             close * current_adjusted_shares
             if current_adjusted_shares is not None
-            else None
+            else None,
+            0,
         )
-        daily_by_date[trading_date] = [
-            trading_date,
-            round_number(close, 6),
-            round_number(dividend, 8),
-            round_number(market_cap, 0),
-        ]
-        if adjusted_close is not None and adjusted_close > 0:
-            adjusted_close_rows.append(
-                [trading_date, round_number(adjusted_close, 6)]
-            )
 
-    payload_source = "Yahoo Finance via yfinance"
+    yahoo_returned_history = history is not None and not history.empty
+    payload_source = (
+        "Yahoo Finance via yfinance"
+        if yahoo_returned_history
+        else seed_source or "Archived daily-price seed"
+    )
+    if yahoo_returned_history and seed_source:
+        payload_source += f"; earlier closes from {seed_source}"
     if ticker in RENAMED_TICKER_PREDECESSORS:
         previous, effective = RENAMED_TICKER_PREDECESSORS[ticker]
         payload_source += (
             f"; price history continued from {previous} on {effective}; "
             "shares outstanding from SEC filings"
         )
-    elif ticker in SEC_FULL_HISTORY_SHARE_TICKERS:
+    elif ticker in SEC_FULL_HISTORY_SHARE_TICKERS or (seed_only and sec_ciks):
         payload_source += "; shares outstanding from SEC filings"
     if listing:
         payload_source += (
@@ -1032,7 +1092,10 @@ def fetch_market_history(
         "daily": [daily_by_date[key] for key in sorted(daily_by_date)],
         "sharesOutstanding": shares_rows,
         # Written to ADJUSTED_DIRECTORY by the caller, not into this file.
-        "_adjustedDaily": adjusted_close_rows,
+        "_adjustedDaily": [
+            adjusted_close_by_date[key]
+            for key in sorted(adjusted_close_by_date)
+        ],
     }
 
 
@@ -1455,6 +1518,40 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+# Long enough that a holiday week, a thin foreign listing or a single bad
+# night cannot trip it; short enough that a systematic break surfaces while
+# it is still a few days old rather than a fortnight.
+STALE_AFTER_DAYS = 14
+
+
+def stale_tickers(tickers, max_age_days: int) -> list[tuple[str, str]]:
+    """Active tickers whose stored history has stopped moving.
+
+    Delisted companies are skipped: their series is supposed to end, and
+    registry listingEndDate is what says so.
+    """
+    today = date.today()
+    stale: list[tuple[str, str]] = []
+    for ticker in tickers:
+        company = registry_company(ticker)
+        if company and company.get("listingStatus") not in (None, "active"):
+            continue
+        payload = load_json(OUTPUT_DIRECTORY / f"{ticker}.json")
+        rows = (payload or {}).get("daily") or []
+        if not rows:
+            continue
+        last = rows[-1][0] if isinstance(rows[-1], list) else None
+        if not last:
+            continue
+        try:
+            age = (today - date.fromisoformat(last)).days
+        except ValueError:
+            continue
+        if age > max_age_days:
+            stale.append((ticker, last))
+    return sorted(stale)
+
+
 def main() -> None:
     args = parse_args()
     requested = [
@@ -1479,20 +1576,21 @@ def main() -> None:
     failures = []
     for ticker in tickers:
         try:
+            ticker_end_bound = market_history_end(ticker, end_bound)
             if args.repair_existing:
                 payload, changed = repair_existing_market_history(ticker)
             else:
                 payload = FULL_REFETCH
                 if args.incremental and not regen_due(ticker, today):
                     try:
-                        payload = incremental_market_history(ticker, end_bound)
+                        payload = incremental_market_history(ticker, ticker_end_bound)
                     except FullRefetchNeeded as reason:
                         print(f"{ticker}: full refetch ({reason})")
                 if payload is FULL_REFETCH:
                     payload = fetch_market_history(
                         ticker,
                         args.start,
-                        end_bound,
+                        ticker_end_bound,
                         args.seed_dir,
                         ciks.get(ticker),
                         prices_only=(
@@ -1542,6 +1640,19 @@ def main() -> None:
         if len(failures) > allowed:
             raise SystemExit(1)
         print(f"Within the {allowed}-failure tolerance; treating the run as a success.")
+
+    # The tolerance above forgives a bad night, which is right, but it also
+    # forgave the same five tickers failing every night from 2026-08-03 to
+    # 2026-08-13: BYD, SU.PA, RYCEY, SSNLF and 000660 sat ten days stale while
+    # the job reported success. Counting failures cannot see that; the stored
+    # data can. Anything an active ticker has not refreshed in a fortnight is
+    # broken whether or not tonight's fetch raised.
+    stale = stale_tickers(tickers, STALE_AFTER_DAYS)
+    if stale:
+        print(f"\nStale beyond {STALE_AFTER_DAYS} days ({len(stale)}):")
+        for ticker, last_date in stale:
+            print(f"  {ticker}: last observation {last_date}")
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
