@@ -857,6 +857,33 @@ def fetch_end_date(requested: str) -> str:
     return (date.fromisoformat(requested) + timedelta(days=1)).isoformat()
 
 
+def history_with_retry(instrument, *, attempts: int = 3, backoff_seconds: int = 8, **kwargs):
+    """yf history with retries, because one timeout should not cost a night.
+
+    Yahoo answers requests for foreign exchanges slowly from cloud IPs, and the
+    same five tickers -- SU.PA, 1211.HK, RR.L, 005930.KS, 000660.KS, every
+    FOREIGN_LISTINGS entry and nothing else -- timed out on the runner night
+    after night while succeeding from a laptop. With no retry each timeout
+    skipped that ticker entirely, so SU.PA's file sat at 2026-07-30 for two
+    weeks while every US listing stayed current.
+
+    The last attempt raises, so a symbol that is genuinely gone still fails
+    loudly rather than being silently held back.
+    """
+    for attempt in range(1, attempts + 1):
+        try:
+            return instrument.history(**kwargs)
+        except Exception as error:  # noqa: BLE001 - retried below, raised on the last
+            if attempt == attempts:
+                raise
+            print(
+                f"  retrying after {error} (attempt {attempt}/{attempts})",
+                flush=True,
+            )
+            time.sleep(backoff_seconds * attempt)
+    return None
+
+
 def fetch_market_history(
     ticker: str,
     start: str,
@@ -882,7 +909,8 @@ def fetch_market_history(
     history = None
     if not seed_only:
         try:
-            history = instrument.history(
+            history = history_with_retry(
+                instrument,
                 start=start,
                 end=end,
                 auto_adjust=False,
@@ -1206,7 +1234,8 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
     overlap_start = (
         date.fromisoformat(last_date) - timedelta(days=INCREMENTAL_OVERLAP_DAYS)
     ).isoformat()
-    history = yf.Ticker(symbol).history(
+    history = history_with_retry(
+        yf.Ticker(symbol),
         start=overlap_start,
         end=end,
         auto_adjust=False,
