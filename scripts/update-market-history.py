@@ -59,6 +59,13 @@ REGISTRY_PATH = ROOT / "data" / "registry.json"
 # Extra backtesting universe: closes and dividends only, no share counts and
 # no market caps, so these skip the SEC and shares machinery entirely.
 BACKTEST_PATH = ROOT / "data" / "backtest-tickers.json"
+# Demand-promoted universe: tickers the site served on demand more than once.
+# See promoted_tickers(). Overridable so a fork or a staging Worker can point
+# somewhere else, and so setting it empty disables adoption entirely.
+PROMOTED_TICKERS_URL = os.environ.get(
+    "PROMOTED_TICKERS_URL",
+    "https://microtrends.org/api/promoted-tickers",
+)
 OUTPUT_DIRECTORY = ROOT / "data" / "market-history"
 # Dividend-and-split-adjusted closes for the portfolio backtester, one bare
 # [[date, adjClose], ...] file per ticker. Rebases whenever a dividend goes
@@ -219,6 +226,46 @@ def market_history_end(ticker: str, default_end: str) -> str:
 def backtest_tickers() -> list[str]:
     dataset = load_json(BACKTEST_PATH) or {}
     return [str(ticker).upper() for ticker in dataset.get("tickers", [])]
+
+
+def promoted_tickers() -> list[str]:
+    """Tickers visitors asked for that this job does not yet build.
+
+    The site's Worker serves anything outside the built universe live, caching
+    it in KV, and counts the requests. A ticker asked for more than once has
+    shown real demand, so it graduates here and gets a proper file from then on
+    — after which the Worker stops counting it, because it is no longer a
+    ticker the build has never heard of.
+
+    Pulled from the Worker rather than pushed into this repo on purpose: the job
+    already talks to that host, so a read needs no GitHub token, no write
+    permission and no commit churn. The Worker applies its own demand-ranked
+    cap, so the length of this list is bounded there rather than here.
+
+    Never fatal. Promoted tickers are an addition to the night's work; if the
+    endpoint is unreachable the registry universe is still the point of the run.
+    """
+    request = urllib.request.Request(
+        PROMOTED_TICKERS_URL,
+        headers={
+            "User-Agent": "microtrends-nightly/1.0",
+            "Accept": "application/json",
+        },
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            payload = json.load(response)
+    except Exception as error:  # noqa: BLE001 - see docstring
+        print(f"promoted tickers unavailable ({error}); continuing without them")
+        return []
+    tickers = [str(ticker).upper() for ticker in payload.get("tickers", []) if ticker]
+    if tickers:
+        print(
+            f"{len(tickers)} promoted ticker(s) from demand "
+            f"(threshold {payload.get('threshold')}, "
+            f"{payload.get('total')} over it): " + ", ".join(tickers)
+        )
+    return tickers
 
 
 def stored_has_shares(ticker: str) -> bool:
@@ -1498,6 +1545,14 @@ def parse_args() -> argparse.Namespace:
         help="Update only automatically added lookup-only S&P 500 companies.",
     )
     parser.add_argument(
+        "--no-promoted",
+        action="store_true",
+        help=(
+            "Skip the demand-promoted tickers the site's Worker reports. "
+            "Use to reproduce a run against the registry universe alone."
+        ),
+    )
+    parser.add_argument(
         "--incremental",
         action="store_true",
         help=(
@@ -1559,13 +1614,26 @@ def main() -> None:
         for ticker in args.tickers.split(",")
         if ticker.strip()
     ]
+    # Only a full default run adopts promoted tickers. An explicit --tickers
+    # call is someone fetching a specific thing, and an sp500-lookup run has a
+    # deliberately narrow universe; neither should quietly grow.
+    promoted = (
+        []
+        if args.sp500_lookup_only or requested or args.no_promoted
+        else promoted_tickers()
+    )
     default_tickers = (
         lookup_only_tickers()
         if args.sp500_lookup_only
-        else company_tickers() + backtest_tickers()
+        else company_tickers() + backtest_tickers() + promoted
     )
     tickers = list(dict.fromkeys(requested or default_tickers))
-    prices_only_tickers = set(backtest_tickers()) - set(company_tickers())
+    # Promoted tickers arrive with no CIK and no share observations, so they
+    # ride the same prices-only path as the backtest universe: closes and
+    # dividends, no SEC round trip, no market caps.
+    prices_only_tickers = (
+        set(backtest_tickers()) | set(promoted)
+    ) - set(company_tickers())
     if not tickers:
         raise SystemExit("No tickers found.")
 
