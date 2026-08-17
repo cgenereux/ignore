@@ -62,7 +62,18 @@ def resolve_symbol(ticker: str) -> str:
     return listing["symbol"] if listing else ticker
 
 
-def bar_rows(frame) -> list[list]:
+def price_scale(ticker: str) -> float:
+    """Match the stored daily basis: LSE quotes arrive in pence, the daily
+    files store pounds (see quote_currency in the nightly updater). Without
+    this, RR.L bars would read ~810 against a stored close of ~8.10 and the
+    portfolio intraday line would value the holding a hundredfold."""
+    listing = FOREIGN_LISTINGS.get(ticker)
+    if listing and listing["symbol"].endswith(".L"):
+        return 0.01
+    return 1.0
+
+
+def bar_rows(frame, scale: float = 1.0) -> list[list]:
     rows = []
     if frame is None:
         return rows
@@ -70,7 +81,7 @@ def bar_rows(frame) -> list[list]:
         close = row.get("Close")
         if close is None or (isinstance(close, float) and math.isnan(close)):
             continue
-        rows.append([int(timestamp.timestamp()), round(float(close), 4)])
+        rows.append([int(timestamp.timestamp()), round(float(close) * scale, 4)])
     return rows
 
 
@@ -142,8 +153,9 @@ def main() -> None:
     }
 
     def collect(ticker: str, source) -> dict[str, list]:
+        scale = price_scale(ticker)
         return {
-            folder: bar_rows(source[folder].get(ticker))
+            folder: bar_rows(source[folder].get(ticker), scale)
             for folder, _interval, _period in INTERVALS
         }
 
@@ -177,7 +189,8 @@ def main() -> None:
                 series[folder] = bar_rows(
                     instrument.history(
                         period=period, interval=interval, auto_adjust=False
-                    )
+                    ),
+                    price_scale(ticker),
                 )
                 time.sleep(SLEEP_SECONDS)
             last = latest(series)
