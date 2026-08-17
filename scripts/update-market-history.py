@@ -71,6 +71,10 @@ OUTPUT_DIRECTORY = ROOT / "data" / "market-history"
 # [[date, adjClose], ...] file per ticker. Rebases whenever a dividend goes
 # ex, so the incremental path full-refetches on any adjusted-overlap drift.
 ADJUSTED_DIRECTORY = ROOT / "data" / "adjusted"
+# Hand-assembled closes for stretches no feed carries: Ubisoft's Paris listing
+# from 1996, which Yahoo only has from the 2010 ADR. Merged beneath whatever is
+# fetched, so a rebuild extends the history instead of truncating it.
+SEED_DIRECTORY = ROOT / "data" / "seeds"
 DEFAULT_START = "1925-01-01"
 MULTI_CLASS_EQUIVALENT_SHARE_CIKS = {"0001067983"}
 
@@ -92,6 +96,12 @@ SEC_FULL_HISTORY_SHARE_TICKERS = {
 }
 KNOWN_SPLITS_FOR_REPAIR = {
     "C": [("2011-05-09", 0.1)],
+    # UBI.PA's January 2000 split is missing from Yahoo's split list: 57.75 on
+    # the 14th, 12.62 on the 17th, nothing recorded between. This entry puts
+    # the share counts on today's basis -- the fifth factor behind the 20x the
+    # pre-2000 counts carry, 4 from the two splits Yahoo does report -- and
+    # KNOWN_SPLITS_MISSING_FROM_PRICES below fixes the closes to match.
+    "UBSFY": [("2000-01-17", 5.0)],
     "IBKR": [("2025-06-18", 4.0)],
     "LCID": [("2025-09-02", 0.1)],
     "LDOS": [("2013-09-30", 0.25)],
@@ -135,6 +145,25 @@ KNOWN_BAD_SHARE_INTERVALS = {
     # equivalent corporate action.
     "BMBL": [("2023-04-25", "2023-09-01")],
     "RACE": [("2018-12-17", "2019-05-23")],
+    # Yahoo's XIACY series jumps from ~5.0B to ~6.1B ADR-equivalents and back
+    # with no corporate action (Xiaomi held ~25B ordinaries, 5:1 ADR,
+    # throughout); the two single-day spikes sit alone after observation gaps,
+    # so the isolated-outlier pass cannot see them.
+    "XIACY": [
+        ("2020-10-02", "2020-11-28"),
+        ("2021-06-17", "2021-06-18"),
+        ("2022-03-14", "2022-03-19"),
+    ],
+}
+# Splits absent from Yahoo's prices as well as its split list. Yahoo serves
+# split-adjusted closes for every split it knows about, so a missing one
+# leaves every earlier close, dividend, and adjclose too high by the ratio --
+# UBI.PA opens on a 5x cliff at 2000-01-17 without this. Entries here divide
+# the price columns; the matching KNOWN_SPLITS_FOR_REPAIR entry handles the
+# share counts. Splits Yahoo applies to prices but not shares (C, IBKR) do
+# NOT belong here -- dividing their prices again would double-adjust them.
+KNOWN_SPLITS_MISSING_FROM_PRICES = {
+    "UBSFY": [("2000-01-17", 5.0)],
 }
 KNOWN_REPORTED_SHARE_MULTIPLIERS = {
     # Churchill Capital IV's pre-Lucid SEC facts are returned 100x too large.
@@ -467,6 +496,58 @@ def load_seed_prices(
         if isinstance(row[0], str) and close is not None:
             prices[row[0]] = (close, dividend or 0, adjusted_close)
     return prices, source, seed_only
+
+
+def extend_adjusted_from_seed(
+    seed_prices: dict[str, tuple[float, float, float | None]],
+    first_fetched_adjusted: tuple[str, float, float, float] | None,
+    adjusted_close_by_date: dict[str, list],
+) -> None:
+    """Chain the adjusted series backward through the seed era.
+
+    Raw seed closes must not stand in for adjusted ones: they drop every
+    dividend paid across the span, and the backtester compounds that loss over
+    decades. But the seeds carry their own dividend column, so the adjusted
+    series can be extended honestly -- anchor at the first fetched adjusted
+    close and walk backward, discounting by (1 - dividend/previous close) at
+    each ex-date, exactly the adjustment Yahoo applies. Deriving here rather
+    than storing adjusted values in the seed files matters: Yahoo re-anchors
+    adjclose at today on every ex-div, so any stored value would drift off the
+    fetched series at the seam, while a derived one follows each rebase.
+
+    Seed rows that declare an explicit adjusted close are left as authored.
+    """
+    if first_fetched_adjusted is None:
+        return
+    anchor_date, anchor_adjusted, anchor_close, anchor_dividend = first_fetched_adjusted
+    if not anchor_close or anchor_close <= 0:
+        return
+    rows = [
+        (trading_date, values[0], values[1] or 0)
+        for trading_date, values in sorted(seed_prices.items())
+        if trading_date < anchor_date and values[0] and values[0] > 0
+    ]
+    if not rows:
+        return
+
+    factor = anchor_adjusted / anchor_close
+    # A dividend going ex on the anchor day itself rebases everything before
+    # it, and the fetched adjclose at the anchor does not carry that discount.
+    if anchor_dividend and anchor_dividend > 0:
+        discount = 1 - anchor_dividend / rows[-1][1]
+        if discount > 0:
+            factor *= discount
+    for index in range(len(rows) - 1, -1, -1):
+        trading_date, close, dividend = rows[index]
+        if trading_date not in adjusted_close_by_date:
+            adjusted_close_by_date[trading_date] = [
+                trading_date,
+                round_number(close * factor, 6),
+            ]
+        if dividend > 0 and index > 0:
+            discount = 1 - dividend / rows[index - 1][1]
+            if discount > 0:
+                factor *= discount
 
 
 def split_factor_after(split_events: list[tuple[str, float]], observed_date: str) -> float:
@@ -857,6 +938,24 @@ def fetch_end_date(requested: str) -> str:
     return (date.fromisoformat(requested) + timedelta(days=1)).isoformat()
 
 
+def quote_currency(instrument, listing: dict | None) -> tuple[str, float]:
+    """What the exchange quotes this listing in, and the factor to normalise it.
+
+    Read from the response rather than guessed from the symbol, because the
+    symbol cannot tell you everything that matters: yfinance reports GBp for
+    LSE listings -- pence -- so RR.L closes are a hundred times a pound figure.
+    A suffix table saying ".L means GBP" values that holding at 100x, silently.
+
+    Returns the currency to store and the multiplier to apply to prices, so a
+    pence quote is stored as pounds and nothing downstream has to remember.
+    """
+    metadata = getattr(instrument, "history_metadata", None) or {}
+    reported = str(metadata.get("currency") or (listing or {}).get("currency") or "USD")
+    if reported == "GBp":
+        return "GBP", 0.01
+    return reported.upper(), 1.0
+
+
 def history_with_retry(instrument, *, attempts: int = 3, backoff_seconds: int = 8, **kwargs):
     """yf history with retries, because one timeout should not cost a night.
 
@@ -900,11 +999,6 @@ def fetch_market_history(
     }
     listing = FOREIGN_LISTINGS.get(ticker)
     symbol = listing["symbol"] if listing else ticker
-    to_usd = (
-        rate_lookup(usd_rates(listing["series"], listing["perUsd"]))
-        if listing
-        else None
-    )
     instrument = yf.Ticker(symbol)
     history = None
     if not seed_only:
@@ -920,6 +1014,19 @@ def fetch_market_history(
         except Exception:
             if not seed_prices:
                 raise
+
+    # After the fetch: history_metadata is only populated once a request has
+    # been made. A seed-only build has no response to ask, so it falls back to
+    # the listing's declared currency and then to USD.
+    payload_currency, currency_scale = quote_currency(instrument, listing)
+    # Only for converting the market cap below. Prices are stored as quoted.
+    cap_rates = usd_rates(listing["series"], listing["perUsd"]) if listing else []
+    to_usd = rate_lookup(cap_rates) if listing else None
+    # The euro did not exist before 1999, so DEXUSEU has nothing for Ubisoft's
+    # 1996-1998 seed rows and the lookup returns None there. Holding the
+    # earliest published rate is better than blanking three years of market cap
+    # over an exchange rate that moved a few percent.
+    earliest_cap_rate = cap_rates[0][1] if cap_rates else None
 
     if (history is None or history.empty) and not seed_prices:
         raise RuntimeError("no daily history returned")
@@ -1086,6 +1193,7 @@ def fetch_market_history(
         for seed_date, values in seed_prices.items()
         if values[2] is not None and values[2] > 0
     }
+    first_fetched_adjusted: tuple[str, float, float, float] | None = None
     if history is not None:
         for timestamp, row in history.sort_index().iterrows():
             trading_date = date_string(timestamp)
@@ -1099,14 +1207,19 @@ def fetch_market_history(
                 KNOWN_SPECIAL_DIVIDENDS.get(ticker, {}).get(trading_date, 0),
             )
             adjusted_close = finite_number(row.get("Adj Close"))
-            if to_usd is not None:
-                rate = to_usd(trading_date)
-                if rate is None:
-                    continue  # no published rate yet for this listing
-                close *= rate
-                dividend *= rate
+            if currency_scale != 1.0:
+                close *= currency_scale
+                dividend *= currency_scale
                 if adjusted_close is not None:
-                    adjusted_close *= rate
+                    adjusted_close *= currency_scale
+            for repair_date, repair_ratio in KNOWN_SPLITS_MISSING_FROM_PRICES.get(
+                ticker, []
+            ):
+                if trading_date < repair_date and repair_ratio > 0:
+                    close /= repair_ratio
+                    dividend /= repair_ratio
+                    if adjusted_close is not None:
+                        adjusted_close /= repair_ratio
             daily_by_date[trading_date] = [
                 trading_date,
                 round_number(close, 6),
@@ -1118,6 +1231,19 @@ def fetch_market_history(
                     trading_date,
                     round_number(adjusted_close, 6),
                 ]
+                if first_fetched_adjusted is None:
+                    first_fetched_adjusted = (
+                        trading_date,
+                        adjusted_close,
+                        close,
+                        dividend,
+                    )
+
+    extend_adjusted_from_seed(
+        seed_prices,
+        first_fetched_adjusted,
+        adjusted_close_by_date,
+    )
 
     shares_index = 0
     current_adjusted_shares: float | None = None
@@ -1129,9 +1255,25 @@ def fetch_market_history(
             current_adjusted_shares = adjusted_shares_by_date[shares_index][1]
             shares_index += 1
         close = daily_by_date[trading_date][1]
+        # Market cap stays in USD even though the close beside it is native.
+        # A cap is read against other companies -- ranked, compared, filtered --
+        # so a Paris listing reporting euros and a US one reporting dollars in
+        # the same column would compare two different units under one heading.
+        # Prices are the opposite: they are read against that listing's own
+        # history, where the exchange's own quote is the honest number.
+        cap_rate = (to_usd(trading_date) or earliest_cap_rate) if to_usd else 1.0
+        # Before the first observation, hold the earliest known count rather
+        # than leaving the cap blank. A share count moves in steps at reporting
+        # dates, so the days before the first one are its count too -- and the
+        # alternative is a market-cap chart that starts years after the price
+        # chart for no reason the reader can see. Ubisoft's first observation is
+        # 1999-01-29 while its prices reach 1996, which blanked 31 rows.
+        shares_for_day = current_adjusted_shares
+        if shares_for_day is None and adjusted_shares_by_date:
+            shares_for_day = adjusted_shares_by_date[0][1]
         daily_by_date[trading_date][3] = round_number(
-            close * current_adjusted_shares
-            if current_adjusted_shares is not None
+            close * shares_for_day * cap_rate
+            if shares_for_day is not None and cap_rate
             else None,
             0,
         )
@@ -1153,14 +1295,21 @@ def fetch_market_history(
     elif ticker in SEC_FULL_HISTORY_SHARE_TICKERS or (seed_only and sec_ciks):
         payload_source += "; shares outstanding from SEC filings"
     if listing:
-        payload_source += (
-            f"; {symbol} quoted in {listing['currency']}, "
-            f"converted to USD at Federal Reserve {listing['series']}"
-        )
+        payload_source += f"; {symbol} quoted in {payload_currency}"
+        if currency_scale != 1.0:
+            payload_source += " (reported in pence, stored in pounds)"
 
     return {
         "ticker": ticker,
-        "currency": "USD",
+        # Prices are stored native, as the exchange quotes them. Converting them
+        # here made the file disagree with itself -- dollars under a ".PA"
+        # symbol -- and left every consumer guessing whether a given file had
+        # been through that conversion. Readers convert, using this field.
+        "currency": payload_currency,
+        # The market-cap column is the exception, and says so rather than
+        # leaving the difference to be discovered: caps are read against other
+        # companies, so they are converted to one unit here.
+        "marketCapCurrency": "USD",
         "generatedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         "source": payload_source,
         "schema": ["date", "close", "dividend", "marketCap"],
@@ -1226,16 +1375,12 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
 
     listing = FOREIGN_LISTINGS.get(ticker)
     symbol = listing["symbol"] if listing else ticker
-    to_usd = (
-        rate_lookup(usd_rates(listing["series"], listing["perUsd"]))
-        if listing
-        else None
-    )
     overlap_start = (
         date.fromisoformat(last_date) - timedelta(days=INCREMENTAL_OVERLAP_DAYS)
     ).isoformat()
+    instrument = yf.Ticker(symbol)
     history = history_with_retry(
-        yf.Ticker(symbol),
+        instrument,
         start=overlap_start,
         end=end,
         auto_adjust=False,
@@ -1244,6 +1389,21 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
     )
     if history.empty:
         raise FullRefetchNeeded("no recent history returned")
+
+    # Appending prices in one currency to a file stored in another would put a
+    # step in the series at the join, so a currency that no longer matches the
+    # stored one rebuilds instead. This is also what migrates the previously
+    # USD-converted foreign listings on their first run.
+    payload_currency, currency_scale = quote_currency(instrument, listing)
+    to_usd = (
+        rate_lookup(usd_rates(listing["series"], listing["perUsd"]))
+        if listing
+        else None
+    )
+    if str(payload.get("currency") or "USD").upper() != payload_currency:
+        raise FullRefetchNeeded(
+            f"stored currency {payload.get('currency')} is now {payload_currency}"
+        )
 
     stored_by_date = {row[0]: row for row in daily if isinstance(row, list)}
     stored_adjusted_by_date = {
@@ -1274,14 +1434,11 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
             - KNOWN_SPECIAL_DIVIDENDS.get(ticker, {}).get(trading_date, 0),
         )
         adjusted_close = finite_number(row.get("Adj Close"))
-        if to_usd is not None:
-            rate = to_usd(trading_date)
-            if rate is None:
-                continue  # no published rate yet for this listing
-            close *= rate
-            dividend *= rate
+        if currency_scale != 1.0:
+            close *= currency_scale
+            dividend *= currency_scale
             if adjusted_close is not None:
-                adjusted_close *= rate
+                adjusted_close *= currency_scale
         stored = stored_by_date.get(trading_date)
         if stored is not None:
             stored_close = finite_number(stored[1])
@@ -1308,9 +1465,12 @@ def incremental_market_history(ticker: str, end: str) -> dict | None:
             continue
         if trading_date <= last_date:
             continue
+        # USD, as in the full path: a cap is read against other companies, so it
+        # cannot be denominated in whichever currency this listing quotes in.
+        cap_rate = (to_usd(trading_date) or earliest_cap_rate) if to_usd else 1.0
         market_cap = (
-            close * current_adjusted_shares
-            if current_adjusted_shares is not None
+            close * current_adjusted_shares * cap_rate
+            if current_adjusted_shares is not None and cap_rate
             else None
         )
         appended.append(
@@ -1548,7 +1708,14 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--seed-dir",
         type=Path,
-        help="Optional existing stockPriceHistory directory to merge as a fallback.",
+        # Defaults to the committed seeds, so a rebuild cannot silently drop the
+        # history only they carry. UBSFY's Paris closes back to 1996 lived in a
+        # seed the nightly was never told about: one rebuild replaced 6,880 rows
+        # starting 1996-07-01 with the 4,165 the ADR has from 2010, and nothing
+        # reported a problem because the fetch itself succeeded.
+        default=SEED_DIRECTORY if SEED_DIRECTORY.is_dir() else None,
+        help="Directory of seed price files merged beneath fetched history. "
+             f"Default: {SEED_DIRECTORY} when it exists.",
     )
     parser.add_argument(
         "--end",

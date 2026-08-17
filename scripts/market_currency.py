@@ -60,6 +60,17 @@ FOREIGN_LISTINGS = {
         "series": "DEXHKUS",
         "perUsd": True,
     },
+    # Priced from Paris rather than the UBSFY ADR, which Yahoo only carries from
+    # 2010 and thinly: the ADR gives 4,165 rows, the listing 6,838 back to
+    # 2000-01-03, and the seed carries 1996-2000 beneath that. The ticker stays
+    # UBSFY so existing trades and URLs keep working; only where the prices come
+    # from changes.
+    "UBSFY": {
+        "symbol": "UBI.PA",
+        "currency": "EUR",
+        "series": "DEXUSEU",
+        "perUsd": False,
+    },
     "SU.PA": {
         "symbol": "SU.PA",
         "currency": "EUR",
