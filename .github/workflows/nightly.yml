@@ -37,15 +37,40 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Skip when tonight's data already landed
+        id: freshness
+        run: |
+          # The 21:45 fallback and the cron-job.org dispatch both fire every
+          # night; the concurrency group serializes them, so the second in
+          # line starts moments after the first has pushed. Rebuilding the
+          # same session a second time wasted ~90 minutes nightly and ended
+          # in a same-file rebase conflict every time. A manual run that
+          # names tickers or forces a full refetch still goes through.
+          git fetch origin main
+          TIP_SUBJECT="$(git log -1 --format=%s origin/main)"
+          TIP_DATE="$(TZ=America/New_York git log -1 --format=%cd --date=format-local:%Y-%m-%d origin/main)"
+          TODAY="$(TZ=America/New_York date +%F)"
+          if [ "$TIP_SUBJECT" = "Nightly market history update" ] && [ "$TIP_DATE" = "$TODAY" ] \
+            && [ -z "${{ github.event.inputs.tickers || '' }}" ] \
+            && [ "${{ github.event.inputs.full || 'false' }}" != "true" ]; then
+            echo "Tonight's data is already on main; nothing to rebuild."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: ${{ steps.freshness.outputs.skip != 'true' }}
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
+        if: ${{ steps.freshness.outputs.skip != 'true' }}
         run: pip install -r requirements.txt
 
       - name: Restore SEC company-facts cache
+        if: ${{ steps.freshness.outputs.skip != 'true' }}
         uses: actions/cache@v4
         with:
           path: .cache/sec-shares
@@ -55,6 +80,7 @@ jobs:
           restore-keys: sec-shares-
 
       - name: Update market history
+        if: ${{ steps.freshness.outputs.skip != 'true' }}
         run: |
           # Every trigger (cron-job.org, the 21:45 UTC fallback, manual) fires
           # after the New York close, so today's close is safe to include. Use
@@ -71,7 +97,7 @@ jobs:
             --tickers "${{ github.event.inputs.tickers || '' }}"
 
       - name: Archive the day's intraday bars
-        if: ${{ !cancelled() }}
+        if: ${{ !cancelled() && steps.freshness.outputs.skip != 'true' }}
         run: |
           # Gzipped, because this archive is write-only — nothing reads it — and
           # it grew from ~620 KB to ~2.2 MB a day when the feed started carrying
@@ -91,7 +117,7 @@ jobs:
 
       - name: Commit changes (if any)
         id: commit
-        if: ${{ !cancelled() }}
+        if: ${{ !cancelled() && steps.freshness.outputs.skip != 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -102,13 +128,27 @@ jobs:
             exit 0
           fi
           git commit -m "Nightly market history update"
-          # main can move during a long run (manual pushes, other jobs);
-          # data commits touch disjoint content, so replay on top.
-          # --autostash: any stray unstaged file must never strand the
-          # night's commit on the runner again.
-          git pull --rebase --autostash origin main
-          git push
-          echo "pushed=true" >> "$GITHUB_OUTPUT"
+          # main can move during a long run: manual pushes from a dev session
+          # raced this push twice on 2026-08-17 and cost the whole night's
+          # data to a single rejected attempt. Fetch, replay, push -- three
+          # tries. --autostash: any stray unstaged file must never strand
+          # the night's commit on the runner again. A genuine rebase
+          # conflict aborts loudly rather than guessing.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            if ! git rebase --autostash origin/main; then
+              git rebase --abort
+              echo "Rebase conflict against main; refusing to guess." >&2
+              exit 1
+            fi
+            if git push origin main; then
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep $((attempt * 30))
+          done
+          echo "Push failed after three attempts." >&2
+          exit 1
 
       - name: Dispatch the site deploy
         # Fresh data should reach microtrends.org right away instead of
