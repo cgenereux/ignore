@@ -1913,10 +1913,63 @@ def main() -> None:
     # broken whether or not tonight's fetch raised.
     stale = stale_tickers(tickers, STALE_AFTER_DAYS)
     if stale:
+        # A stale file gets one full refetch on the spot: incremental mode can
+        # carry a broken file forever, and a night that fails over it helps
+        # nobody. What happens next depends on WHY it is stale. A feed that
+        # answers with current data has simply been refreshed. A feed that
+        # answers with nothing, or with only the same old rows, is dead --
+        # FSNGX reached the store through demand promotion two years after
+        # the fund was liquidated -- and a dead ticker leaves the store
+        # rather than failing every future night; demand re-promotes it if
+        # its feed ever returns. A fetch that ERRORS (a timeout, a block) is
+        # the one case that still fails the run, because that is real
+        # breakage on a ticker whose data we want to keep.
         print(f"\nStale beyond {STALE_AFTER_DAYS} days ({len(stale)}):")
+        broken = []
         for ticker, last_date in stale:
             print(f"  {ticker}: last observation {last_date}")
-        raise SystemExit(1)
+            dead = False
+            try:
+                payload = fetch_market_history(
+                    ticker,
+                    args.start,
+                    market_history_end(ticker, end_bound),
+                    args.seed_dir,
+                    ciks.get(ticker),
+                    prices_only=(
+                        ticker in prices_only_tickers
+                        and not stored_has_shares(ticker)
+                    ),
+                )
+                last_fetched = payload["daily"][-1][0]
+                adjusted_daily = payload.pop("_adjustedDaily", None)
+                fresh_cutoff = (
+                    date.today() - timedelta(days=STALE_AFTER_DAYS)
+                ).isoformat()
+                if last_fetched >= fresh_cutoff:
+                    write_json(OUTPUT_DIRECTORY / f"{ticker}.json", payload)
+                    if adjusted_daily:
+                        write_json(
+                            ADJUSTED_DIRECTORY / f"{ticker}.json", adjusted_daily
+                        )
+                    print(f"    refetched through {last_fetched}")
+                else:
+                    # The feed answered, but only with the same old rows.
+                    dead = True
+            except Exception as error:
+                if "no daily history returned" in str(error):
+                    dead = True
+                else:
+                    print(f"    refetch failed ({error})")
+                    broken.append(ticker)
+            if dead:
+                (OUTPUT_DIRECTORY / f"{ticker}.json").unlink(missing_ok=True)
+                (ADJUSTED_DIRECTORY / f"{ticker}.json").unlink(missing_ok=True)
+                print("    feed is dead; expelled from the store")
+            time.sleep(max(args.sleep_ms, 0) / 1000)
+        if broken:
+            print(f"Still broken after refetch: {', '.join(broken)}")
+            raise SystemExit(1)
 
 
 if __name__ == "__main__":
