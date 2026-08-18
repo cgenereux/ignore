@@ -1,7 +1,8 @@
 {
   "ticker": "IMO",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:53:02+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:49:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70195,6 +70196,18 @@
     [
       "2026-08-14",
       133.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      134.880005,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      135.699997,
       0,
       null
     ]

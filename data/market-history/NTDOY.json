@@ -1,7 +1,7 @@
 {
   "ticker": "NTDOY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:07:56+00:00",
+  "generatedAt": "2026-08-18T22:03:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44895,6 +44895,18 @@
       14.0,
       0,
       64560899480
+    ],
+    [
+      "2026-08-17",
+      13.73,
+      0,
+      63315794308
+    ],
+    [
+      "2026-08-18",
+      13.93,
+      0,
+      64238096390
     ]
   ],
   "sharesOutstanding": [

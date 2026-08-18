@@ -1,7 +1,8 @@
 {
   "ticker": "ZSP.TO",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T23:20:28+00:00",
+  "currency": "CAD",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T23:16:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20653,6 +20654,18 @@
     [
       "2026-08-14",
       118.349998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      117.760002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      117.099998,
       0,
       null
     ]

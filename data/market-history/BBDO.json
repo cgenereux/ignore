@@ -1,7 +1,7 @@
 {
   "ticker": "BBDO",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:34:18+00:00",
+  "generatedAt": "2026-08-18T22:30:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21769,6 +21769,18 @@
     [
       "2026-08-14",
       3.02,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      3.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      3.01,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SMPNY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:09:51+00:00",
+  "generatedAt": "2026-08-18T23:05:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2995,6 +2995,18 @@
     [
       "2026-08-14",
       22.73,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      20.99,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      20.879999,
       0,
       null
     ]

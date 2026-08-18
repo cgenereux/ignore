@@ -1,7 +1,7 @@
 {
   "ticker": "BOX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:36:10+00:00",
+  "generatedAt": "2026-08-18T22:32:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17449,6 +17449,18 @@
     [
       "2026-08-14",
       32.650002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      32.290001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      32.439999,
       0,
       null
     ]

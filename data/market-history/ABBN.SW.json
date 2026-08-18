@@ -1,7 +1,8 @@
 {
   "ticker": "ABBN.SW",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T22:30:17+00:00",
+  "currency": "CHF",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:26:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41347,6 +41348,18 @@
     [
       "2026-08-13",
       83.239998,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      82.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      83.0,
       0,
       null
     ]

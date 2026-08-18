@@ -1,7 +1,7 @@
 {
   "ticker": "KNTK",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:55:46+00:00",
+  "generatedAt": "2026-08-18T22:52:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11689,6 +11689,18 @@
     [
       "2026-08-14",
       53.439999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      52.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      54.540001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "UCB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:14:15+00:00",
+  "generatedAt": "2026-08-18T23:10:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36847,6 +36847,18 @@
     [
       "2026-08-14",
       36.740002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      36.630001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      36.549999,
       0,
       null
     ]

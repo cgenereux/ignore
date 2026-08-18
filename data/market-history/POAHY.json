@@ -1,7 +1,8 @@
 {
   "ticker": "POAHY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:03:50+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:59:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25014,7 +25015,19 @@
     ],
     [
       "2026-08-14",
-      3.16,
+      3.14,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      3.11,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      3.1,
       0,
       null
     ]

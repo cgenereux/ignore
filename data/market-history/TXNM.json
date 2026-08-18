@@ -1,7 +1,7 @@
 {
   "ticker": "TXNM",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:14:08+00:00",
+  "generatedAt": "2026-08-18T23:10:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80911,6 +80911,18 @@
     [
       "2026-08-14",
       57.400002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      57.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      57.490002,
       0,
       null
     ]

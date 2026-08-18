@@ -1,7 +1,7 @@
 {
   "ticker": "GBIL",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:48:52+00:00",
+  "generatedAt": "2026-08-18T22:45:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14965,6 +14965,18 @@
     [
       "2026-08-14",
       100.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      100.059998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      100.059998,
       0,
       null
     ]

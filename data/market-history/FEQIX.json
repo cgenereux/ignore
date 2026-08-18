@@ -1,7 +1,7 @@
 {
   "ticker": "FEQIX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:45:47+00:00",
+  "generatedAt": "2026-08-18T22:42:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70501,6 +70501,18 @@
     [
       "2026-08-13",
       96.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      96.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      95.57,
       0,
       null
     ]

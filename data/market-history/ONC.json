@@ -1,7 +1,7 @@
 {
   "ticker": "ONC",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:02:03+00:00",
+  "generatedAt": "2026-08-18T22:58:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15895,6 +15895,18 @@
     [
       "2026-08-14",
       347.480011,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      362.51001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      369.149994,
       0,
       null
     ]

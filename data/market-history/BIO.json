@@ -1,7 +1,7 @@
 {
   "ticker": "BIO",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:35:18+00:00",
+  "generatedAt": "2026-08-18T22:31:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70273,6 +70273,18 @@
     [
       "2026-08-14",
       356.26001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      355.230011,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      352.690002,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ZGN",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:20:23+00:00",
+  "generatedAt": "2026-08-18T23:16:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7009,6 +7009,18 @@
     [
       "2026-08-14",
       13.76,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      13.37,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      13.47,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DASTY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:40:32+00:00",
+  "generatedAt": "2026-08-18T22:36:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45487,6 +45487,18 @@
     [
       "2026-08-14",
       25.049999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      24.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      25.32,
       0,
       null
     ]

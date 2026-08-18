@@ -1,7 +1,7 @@
 {
   "ticker": "VNQ",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:16:45+00:00",
+  "generatedAt": "2026-08-18T23:12:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33031,6 +33031,18 @@
     [
       "2026-08-14",
       98.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      97.980003,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      97.620003,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SPTI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:10:39+00:00",
+  "generatedAt": "2026-08-18T23:06:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29011,6 +29011,18 @@
     [
       "2026-08-14",
       28.120001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      28.1,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      28.110001,
       0,
       null
     ]

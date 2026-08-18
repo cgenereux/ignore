@@ -1,7 +1,8 @@
 {
   "ticker": "ONB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:02:01+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:57:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63727,6 +63728,18 @@
     [
       "2026-08-14",
       27.17,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      27.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      26.66,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "IVV",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:54:00+00:00",
+  "generatedAt": "2026-08-18T22:50:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39595,6 +39595,18 @@
     [
       "2026-08-14",
       780.039978,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      776.289978,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      770.97998,
       0,
       null
     ]

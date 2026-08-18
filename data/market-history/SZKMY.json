@@ -1,7 +1,7 @@
 {
   "ticker": "SZKMY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:12:03+00:00",
+  "generatedAt": "2026-08-18T23:08:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21133,6 +21133,18 @@
     [
       "2026-08-14",
       52.259998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      52.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      51.599998,
       0,
       null
     ]

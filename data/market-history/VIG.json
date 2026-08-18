@@ -1,7 +1,7 @@
 {
   "ticker": "VIG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:16:17+00:00",
+  "generatedAt": "2026-08-18T23:12:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30631,6 +30631,18 @@
     [
       "2026-08-14",
       245.380005,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      244.369995,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      244.479996,
       0,
       null
     ]

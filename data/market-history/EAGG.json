@@ -1,7 +1,7 @@
 {
   "ticker": "EAGG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:42:39+00:00",
+  "generatedAt": "2026-08-18T22:38:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11779,6 +11779,18 @@
     [
       "2026-08-14",
       46.669998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      46.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      46.630001,
       0,
       null
     ]

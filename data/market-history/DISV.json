@@ -1,7 +1,7 @@
 {
   "ticker": "DISV",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:41:34+00:00",
+  "generatedAt": "2026-08-18T22:37:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6619,6 +6619,18 @@
     [
       "2026-08-14",
       44.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      44.16,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      43.709999,
       0,
       null
     ]

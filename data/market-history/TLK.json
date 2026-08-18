@@ -1,7 +1,7 @@
 {
   "ticker": "TLK",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:13:07+00:00",
+  "generatedAt": "2026-08-18T23:09:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46429,6 +46429,18 @@
     [
       "2026-08-14",
       14.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      14.83,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      14.61,
       0,
       null
     ]

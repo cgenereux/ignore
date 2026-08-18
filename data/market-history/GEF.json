@@ -1,7 +1,7 @@
 {
   "ticker": "GEF",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:49:02+00:00",
+  "generatedAt": "2026-08-18T22:45:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45997,6 +45997,18 @@
     [
       "2026-08-14",
       87.349998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      87.360001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      86.809998,
       0,
       null
     ]

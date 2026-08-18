@@ -1,7 +1,7 @@
 {
   "ticker": "SYRE",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:12:01+00:00",
+  "generatedAt": "2026-08-18T23:08:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15631,6 +15631,18 @@
     [
       "2026-08-14",
       103.629997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      104.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      107.82,
       0,
       null
     ]

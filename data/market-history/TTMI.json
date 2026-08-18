@@ -1,7 +1,7 @@
 {
   "ticker": "TTMI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:13:54+00:00",
+  "generatedAt": "2026-08-18T23:10:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39067,6 +39067,18 @@
     [
       "2026-08-14",
       140.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      140.979996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      125.709999,
       0,
       null
     ]

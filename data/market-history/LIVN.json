@@ -1,7 +1,7 @@
 {
   "ticker": "LIVN",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:56:48+00:00",
+  "generatedAt": "2026-08-18T22:53:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16333,6 +16333,18 @@
     [
       "2026-08-14",
       82.220001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      81.480003,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      79.860001,
       0,
       null
     ]

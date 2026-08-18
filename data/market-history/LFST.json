@@ -1,7 +1,7 @@
 {
   "ticker": "LFST",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:56:31+00:00",
+  "generatedAt": "2026-08-18T22:52:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7813,6 +7813,18 @@
     [
       "2026-08-14",
       12.42,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      12.55,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      12.36,
       0,
       null
     ]

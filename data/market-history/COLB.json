@@ -1,7 +1,8 @@
 {
   "ticker": "COLB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:39:19+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:35:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51613,6 +51614,18 @@
     [
       "2026-08-14",
       32.689999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      32.34,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      32.139999,
       0,
       null
     ]

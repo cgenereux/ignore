@@ -1,7 +1,8 @@
 {
   "ticker": "DCI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:40:46+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:37:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70195,6 +70196,18 @@
     [
       "2026-08-14",
       95.949997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      94.68,
+      0.32,
+      null
+    ],
+    [
+      "2026-08-18",
+      93.970001,
       0,
       null
     ]

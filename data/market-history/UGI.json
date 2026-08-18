@@ -1,7 +1,7 @@
 {
   "ticker": "UGI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:14:25+00:00",
+  "generatedAt": "2026-08-18T23:10:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80893,6 +80893,18 @@
     [
       "2026-08-14",
       35.369999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      35.09,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      38.389999,
       0,
       null
     ]

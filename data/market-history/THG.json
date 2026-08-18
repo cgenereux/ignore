@@ -1,7 +1,7 @@
 {
   "ticker": "THG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:12:46+00:00",
+  "generatedAt": "2026-08-18T23:08:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46573,6 +46573,18 @@
     [
       "2026-08-14",
       225.289993,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      222.100006,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      222.169998,
       0,
       null
     ]

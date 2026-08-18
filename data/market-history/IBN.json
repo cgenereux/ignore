@@ -1,7 +1,7 @@
 {
   "ticker": "IBN",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:51:51+00:00",
+  "generatedAt": "2026-08-18T22:48:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39817,6 +39817,18 @@
     [
       "2026-08-14",
       29.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      29.4,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      29.629999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "VCLT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:15:25+00:00",
+  "generatedAt": "2026-08-18T23:11:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25243,6 +25243,18 @@
     [
       "2026-08-14",
       71.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      71.269997,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      71.459999,
       0,
       null
     ]

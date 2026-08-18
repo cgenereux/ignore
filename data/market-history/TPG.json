@@ -1,7 +1,8 @@
 {
   "ticker": "TPG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:13:22+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T23:09:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6907,6 +6908,18 @@
     [
       "2026-08-14",
       53.029999,
+      0.59,
+      null
+    ],
+    [
+      "2026-08-17",
+      51.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      52.02,
       0,
       null
     ]

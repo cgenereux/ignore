@@ -1,7 +1,7 @@
 {
   "ticker": "NOK",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:00:48+00:00",
+  "generatedAt": "2026-08-18T22:56:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48511,6 +48511,18 @@
     [
       "2026-08-14",
       10.76,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      10.78,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      10.39,
       0,
       null
     ]

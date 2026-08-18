@@ -1,7 +1,7 @@
 {
   "ticker": "OLED",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:01:54+00:00",
+  "generatedAt": "2026-08-18T22:57:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45817,6 +45817,18 @@
     [
       "2026-08-14",
       88.919998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      86.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      84.449997,
       0,
       null
     ]

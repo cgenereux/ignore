@@ -1,7 +1,7 @@
 {
   "ticker": "LNC",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:56:57+00:00",
+  "generatedAt": "2026-08-18T22:53:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70195,6 +70195,18 @@
     [
       "2026-08-14",
       45.459999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      44.669998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      45.080002,
       0,
       null
     ]

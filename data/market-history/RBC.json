@@ -1,7 +1,7 @@
 {
   "ticker": "RBC",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:05:16+00:00",
+  "generatedAt": "2026-08-18T23:01:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31723,6 +31723,18 @@
     [
       "2026-08-14",
       560.48999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      557.619995,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      545.650024,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ARXS",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:32:40+00:00",
+  "generatedAt": "2026-08-18T22:28:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -511,6 +511,18 @@
     [
       "2026-08-14",
       57.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      57.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      56.560001,
       0,
       null
     ]

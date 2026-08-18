@@ -1,7 +1,7 @@
 {
   "ticker": "GTLB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:27:01+00:00",
+  "generatedAt": "2026-08-18T22:19:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7287,6 +7287,18 @@
       42.619999,
       0,
       7198517820
+    ],
+    [
+      "2026-08-17",
+      40.52,
+      0,
+      6843828077
+    ],
+    [
+      "2026-08-18",
+      41.5,
+      0,
+      7009350000
     ]
   ],
   "sharesOutstanding": [

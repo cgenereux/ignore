@@ -1,7 +1,8 @@
 {
   "ticker": "XBB.TO",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T23:19:07+00:00",
+  "currency": "CAD",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T23:14:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38767,6 +38768,18 @@
     [
       "2026-08-14",
       27.73,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      27.67,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      27.695,
       0,
       null
     ]

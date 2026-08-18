@@ -1,7 +1,7 @@
 {
   "ticker": "NVT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:01:26+00:00",
+  "generatedAt": "2026-08-18T22:57:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12541,6 +12541,18 @@
     [
       "2026-08-14",
       171.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      177.210007,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      164.630005,
       0,
       null
     ]

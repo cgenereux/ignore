@@ -1,7 +1,7 @@
 {
   "ticker": "BOXX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:36:12+00:00",
+  "generatedAt": "2026-08-18T22:32:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5467,6 +5467,18 @@
     [
       "2026-08-14",
       117.870003,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      117.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      117.900002,
       0,
       null
     ]

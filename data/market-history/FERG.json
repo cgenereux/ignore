@@ -1,7 +1,7 @@
 {
   "ticker": "FERG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:45:50+00:00",
+  "generatedAt": "2026-08-18T22:42:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25075,6 +25075,18 @@
     [
       "2026-08-14",
       244.940002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      244.979996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      244.470001,
       0,
       null
     ]

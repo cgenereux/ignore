@@ -1,7 +1,7 @@
 {
   "ticker": "FTCS",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:48:14+00:00",
+  "generatedAt": "2026-08-18T22:44:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30343,6 +30343,18 @@
     [
       "2026-08-14",
       101.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      100.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      100.910004,
       0,
       null
     ]

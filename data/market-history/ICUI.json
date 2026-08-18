@@ -1,7 +1,7 @@
 {
   "ticker": "ICUI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:52:06+00:00",
+  "generatedAt": "2026-08-18T22:48:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51931,6 +51931,18 @@
     [
       "2026-08-14",
       182.979996,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      182.509995,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      183.759995,
       0,
       null
     ]

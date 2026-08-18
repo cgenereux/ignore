@@ -1,7 +1,7 @@
 {
   "ticker": "MTN",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:59:48+00:00",
+  "generatedAt": "2026-08-18T22:55:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44575,6 +44575,18 @@
     [
       "2026-08-14",
       148.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      146.600006,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      149.779999,
       0,
       null
     ]

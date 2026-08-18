@@ -1,7 +1,7 @@
 {
   "ticker": "FSENX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:47:38+00:00",
+  "generatedAt": "2026-08-18T22:43:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -68185,6 +68185,18 @@
     [
       "2026-08-13",
       89.150002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      90.379997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      91.199997,
       0,
       null
     ]

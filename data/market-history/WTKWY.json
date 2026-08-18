@@ -1,7 +1,7 @@
 {
   "ticker": "WTKWY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:18:53+00:00",
+  "generatedAt": "2026-08-18T23:14:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41215,6 +41215,18 @@
     [
       "2026-08-14",
       80.940002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      79.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      81.18,
       0,
       null
     ]

@@ -1,7 +1,8 @@
 {
   "ticker": "IEP",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:52:27+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:48:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59016,7 +59017,7 @@
     ],
     [
       "2026-08-07",
-      7.455,
+      7.46,
       0,
       null
     ],
@@ -59047,6 +59048,18 @@
     [
       "2026-08-14",
       7.42,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      7.11,
+      0.5,
+      null
+    ],
+    [
+      "2026-08-18",
+      6.83,
       0,
       null
     ]

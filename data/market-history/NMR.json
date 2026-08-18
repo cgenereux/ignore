@@ -1,7 +1,7 @@
 {
   "ticker": "NMR",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:00:41+00:00",
+  "generatedAt": "2026-08-18T22:56:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37213,6 +37213,18 @@
     [
       "2026-08-14",
       9.82,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      9.81,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      9.65,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SCHG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:07:48+00:00",
+  "generatedAt": "2026-08-18T23:03:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25081,6 +25081,18 @@
     [
       "2026-08-14",
       35.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      35.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      35.25,
       0,
       null
     ]

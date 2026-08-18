@@ -1,7 +1,7 @@
 {
   "ticker": "ACT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:30:41+00:00",
+  "generatedAt": "2026-08-18T22:27:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7405,6 +7405,18 @@
     [
       "2026-08-14",
       49.939999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      49.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      50.040001,
       0,
       null
     ]

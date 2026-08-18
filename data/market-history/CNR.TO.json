@@ -1,7 +1,8 @@
 {
   "ticker": "CNR.TO",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T22:39:07+00:00",
+  "currency": "CAD",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:35:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44814,6 +44815,18 @@
     ],
     [
       "2026-08-14",
+      175.869995,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      175.509995,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
       175.869995,
       0,
       null

@@ -1,7 +1,7 @@
 {
   "ticker": "PRMB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:04:18+00:00",
+  "generatedAt": "2026-08-18T23:00:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51613,6 +51613,18 @@
     [
       "2026-08-14",
       24.700001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      24.379999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      23.440001,
       0,
       null
     ]

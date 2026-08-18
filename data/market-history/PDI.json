@@ -1,7 +1,7 @@
 {
   "ticker": "PDI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:03:15+00:00",
+  "generatedAt": "2026-08-18T22:59:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21457,6 +21457,18 @@
     [
       "2026-08-14",
       15.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      15.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      15.14,
       0,
       null
     ]

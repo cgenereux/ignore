@@ -1,7 +1,8 @@
 {
   "ticker": "BHP.AX",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T22:35:11+00:00",
+  "currency": "AUD",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:31:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59305,6 +59306,18 @@
     [
       "2026-08-14",
       61.349998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      62.200001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      63.849998,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "VFV.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T04:41:09+00:00",
+  "generatedAt": "2026-08-18T23:12:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20726,6 +20726,18 @@
     [
       "2026-08-14",
       191.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      190.729996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      189.699997,
       0,
       null
     ]

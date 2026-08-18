@@ -1,7 +1,7 @@
 {
   "ticker": "GVA",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:50:13+00:00",
+  "generatedAt": "2026-08-18T22:46:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -54883,6 +54883,18 @@
     [
       "2026-08-14",
       127.099998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      128.020004,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      124.419998,
       0,
       null
     ]

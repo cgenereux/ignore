@@ -1,7 +1,8 @@
 {
   "ticker": "BP",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:36:14+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:32:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97585,6 +97586,18 @@
     [
       "2026-08-14",
       42.529999,
+      0.52,
+      null
+    ],
+    [
+      "2026-08-17",
+      42.849998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      43.41,
       0,
       null
     ]

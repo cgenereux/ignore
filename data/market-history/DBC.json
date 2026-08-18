@@ -1,7 +1,7 @@
 {
   "ticker": "DBC",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:40:37+00:00",
+  "generatedAt": "2026-08-18T22:36:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30985,6 +30985,18 @@
     [
       "2026-08-14",
       30.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      30.559999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      30.48,
       0,
       null
     ]

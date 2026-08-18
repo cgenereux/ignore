@@ -1,7 +1,7 @@
 {
   "ticker": "RSI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:06:40+00:00",
+  "generatedAt": "2026-08-18T23:02:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9511,6 +9511,18 @@
     [
       "2026-08-14",
       25.58,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      25.450001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      24.549999,
       0,
       null
     ]

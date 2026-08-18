@@ -1,7 +1,7 @@
 {
   "ticker": "NOVT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:00:56+00:00",
+  "generatedAt": "2026-08-18T22:56:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41353,6 +41353,18 @@
     [
       "2026-08-14",
       166.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      168.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      157.110001,
       0,
       null
     ]

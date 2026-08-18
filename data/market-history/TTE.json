@@ -1,7 +1,7 @@
 {
   "ticker": "TTE",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:13:49+00:00",
+  "generatedAt": "2026-08-18T23:09:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52579,6 +52579,18 @@
     [
       "2026-08-14",
       88.330002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      88.629997,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      89.290001,
       0,
       null
     ]

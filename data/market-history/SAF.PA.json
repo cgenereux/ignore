@@ -1,7 +1,8 @@
 {
   "ticker": "SAF.PA",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T23:07:06+00:00",
+  "currency": "EUR",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T23:03:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41035,6 +41036,18 @@
     [
       "2026-08-13",
       358.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      360.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      361.100006,
       0,
       null
     ]

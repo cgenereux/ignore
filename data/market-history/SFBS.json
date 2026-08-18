@@ -1,7 +1,7 @@
 {
   "ticker": "SFBS",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:08:23+00:00",
+  "generatedAt": "2026-08-18T23:04:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18499,6 +18499,18 @@
     [
       "2026-08-14",
       91.330002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      90.529999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      90.019997,
       0,
       null
     ]

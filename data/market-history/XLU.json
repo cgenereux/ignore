@@ -1,7 +1,7 @@
 {
   "ticker": "XLU",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:19:38+00:00",
+  "generatedAt": "2026-08-18T23:15:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41725,6 +41725,18 @@
     [
       "2026-08-14",
       44.310001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      44.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      44.02,
       0,
       null
     ]

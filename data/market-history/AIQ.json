@@ -1,7 +1,7 @@
 {
   "ticker": "AIQ",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:31:21+00:00",
+  "generatedAt": "2026-08-18T22:27:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12445,6 +12445,18 @@
     [
       "2026-08-14",
       64.199997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      64.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      62.529999,
       0,
       null
     ]

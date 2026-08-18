@@ -1,7 +1,8 @@
 {
   "ticker": "SIGI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:09:00+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T23:05:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70195,6 +70196,18 @@
     [
       "2026-08-14",
       94.370003,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      92.099998,
+      0.43,
+      null
+    ],
+    [
+      "2026-08-18",
+      91.300003,
       0,
       null
     ]

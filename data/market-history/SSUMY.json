@@ -1,7 +1,8 @@
 {
   "ticker": "SSUMY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:11:21+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T23:07:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31008,19 +31009,31 @@
     ],
     [
       "2026-08-12",
-      11.26,
+      11.28,
       0,
       null
     ],
     [
       "2026-08-13",
-      11.2,
+      11.19,
       0,
       null
     ],
     [
       "2026-08-14",
-      11.22,
+      11.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      11.01,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      10.9,
       0,
       null
     ]

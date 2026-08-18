@@ -1,7 +1,7 @@
 {
   "ticker": "VSEC",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:17:19+00:00",
+  "generatedAt": "2026-08-18T23:13:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -66247,6 +66247,18 @@
     [
       "2026-08-14",
       241.820007,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      243.479996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      235.529999,
       0,
       null
     ]

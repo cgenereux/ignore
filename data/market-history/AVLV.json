@@ -1,7 +1,7 @@
 {
   "ticker": "AVLV",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:33:20+00:00",
+  "generatedAt": "2026-08-18T22:29:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7375,6 +7375,18 @@
     [
       "2026-08-14",
       95.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      94.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      94.330002,
       0,
       null
     ]

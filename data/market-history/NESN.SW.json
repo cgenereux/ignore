@@ -1,7 +1,8 @@
 {
   "ticker": "NESN.SW",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T23:00:27+00:00",
+  "currency": "CHF",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T22:56:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56179,6 +56180,18 @@
     [
       "2026-08-13",
       81.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      81.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      78.709999,
       0,
       null
     ]
