@@ -1,7 +1,8 @@
 {
   "ticker": "STNG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:11:35+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T18:00:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24721,6 +24722,18 @@
     [
       "2026-08-14",
       79.410004,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      80.330002,
+      0.45,
+      null
+    ],
+    [
+      "2026-08-18",
+      79.815002,
       0,
       null
     ]

@@ -1,7 +1,8 @@
 {
   "ticker": "BMO.TO",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T22:35:44+00:00",
+  "currency": "CAD",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:24:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47641,6 +47642,18 @@
     [
       "2026-08-14",
       257.880005,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      257.049988,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      252.860001,
       0,
       null
     ]

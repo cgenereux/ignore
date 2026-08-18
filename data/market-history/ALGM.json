@@ -1,7 +1,7 @@
 {
   "ticker": "ALGM",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:31:35+00:00",
+  "generatedAt": "2026-08-18T17:20:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8731,6 +8731,18 @@
     [
       "2026-08-14",
       44.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      44.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      40.3325,
       0,
       null
     ]

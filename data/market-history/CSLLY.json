@@ -1,7 +1,7 @@
 {
   "ticker": "CSLLY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:39:54+00:00",
+  "generatedAt": "2026-08-18T17:28:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25099,6 +25099,18 @@
     [
       "2026-08-14",
       24.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      23.950001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      28.01,
       0,
       null
     ]

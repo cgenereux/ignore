@@ -1,7 +1,7 @@
 {
   "ticker": "COLD",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:39:21+00:00",
+  "generatedAt": "2026-08-18T17:28:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12931,6 +12931,18 @@
     [
       "2026-08-14",
       14.88,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      14.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      14.91,
       0,
       null
     ]

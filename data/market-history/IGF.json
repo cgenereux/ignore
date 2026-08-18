@@ -1,7 +1,7 @@
 {
   "ticker": "IGF",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:52:38+00:00",
+  "generatedAt": "2026-08-18T17:41:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28189,6 +28189,18 @@
     [
       "2026-08-14",
       65.919998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      65.620003,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      66.084999,
       0,
       null
     ]

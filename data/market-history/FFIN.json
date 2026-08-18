@@ -1,7 +1,7 @@
 {
   "ticker": "FFIN",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:45:56+00:00",
+  "generatedAt": "2026-08-18T17:34:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49519,6 +49519,18 @@
     [
       "2026-08-14",
       35.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      34.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      34.540001,
       0,
       null
     ]

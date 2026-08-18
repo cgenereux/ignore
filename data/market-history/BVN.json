@@ -1,7 +1,7 @@
 {
   "ticker": "BVN",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:36:43+00:00",
+  "generatedAt": "2026-08-18T17:25:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45673,6 +45673,18 @@
     [
       "2026-08-14",
       33.740002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      33.959999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      33.075001,
       0,
       null
     ]

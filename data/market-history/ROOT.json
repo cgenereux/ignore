@@ -1,7 +1,7 @@
 {
   "ticker": "ROOT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:28:42+00:00",
+  "generatedAt": "2026-08-18T17:17:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8739,6 +8739,18 @@
       51.450001,
       0,
       814262941
+    ],
+    [
+      "2026-08-17",
+      49.700001,
+      0,
+      786566923
+    ],
+    [
+      "2026-08-18",
+      52.369999,
+      0,
+      828823105
     ]
   ],
   "sharesOutstanding": [

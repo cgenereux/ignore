@@ -1,7 +1,7 @@
 {
   "ticker": "VONE",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:16:55+00:00",
+  "generatedAt": "2026-08-18T18:06:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23995,6 +23995,18 @@
     [
       "2026-08-14",
       351.850006,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      350.190002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      347.790009,
       0,
       null
     ]

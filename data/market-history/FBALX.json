@@ -1,7 +1,7 @@
 {
   "ticker": "FBALX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:44:56+00:00",
+  "generatedAt": "2026-08-18T17:33:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60109,6 +60109,18 @@
     [
       "2026-08-13",
       35.91,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      35.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      35.740002,
       0,
       null
     ]

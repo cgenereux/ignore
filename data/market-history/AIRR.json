@@ -1,7 +1,7 @@
 {
   "ticker": "AIRR",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:31:28+00:00",
+  "generatedAt": "2026-08-18T17:20:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18769,6 +18769,18 @@
     [
       "2026-08-14",
       124.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      124.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      121.110001,
       0,
       null
     ]

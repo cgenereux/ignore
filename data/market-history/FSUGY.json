@@ -1,7 +1,7 @@
 {
   "ticker": "FSUGY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:48:03+00:00",
+  "generatedAt": "2026-08-18T17:37:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21763,6 +21763,18 @@
     [
       "2026-08-14",
       24.879999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      24.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      24.98,
       0,
       null
     ]

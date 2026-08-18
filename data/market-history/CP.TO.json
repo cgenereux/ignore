@@ -1,7 +1,8 @@
 {
   "ticker": "CP.TO",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T22:39:34+00:00",
+  "currency": "CAD",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:28:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37639,6 +37640,18 @@
     [
       "2026-08-14",
       129.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      130.190002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      130.119995,
       0,
       null
     ]

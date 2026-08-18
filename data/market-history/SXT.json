@@ -1,7 +1,7 @@
 {
   "ticker": "SXT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:11:56+00:00",
+  "generatedAt": "2026-08-18T18:01:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70195,6 +70195,18 @@
     [
       "2026-08-14",
       133.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      133.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      130.240005,
       0,
       null
     ]

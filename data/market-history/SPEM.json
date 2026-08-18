@@ -1,7 +1,7 @@
 {
   "ticker": "SPEM",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:10:17+00:00",
+  "generatedAt": "2026-08-18T17:59:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29287,6 +29287,18 @@
     [
       "2026-08-14",
       52.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      52.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      51.719898,
       0,
       null
     ]

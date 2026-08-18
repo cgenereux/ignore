@@ -1,7 +1,7 @@
 {
   "ticker": "FRHC",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:47:14+00:00",
+  "generatedAt": "2026-08-18T17:36:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12853,6 +12853,18 @@
     [
       "2026-08-14",
       146.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      150.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      155.729996,
       0,
       null
     ]

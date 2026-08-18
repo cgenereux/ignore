@@ -1,7 +1,7 @@
 {
   "ticker": "IUSV",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:53:57+00:00",
+  "generatedAt": "2026-08-18T17:43:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39259,6 +39259,18 @@
     [
       "2026-08-14",
       115.357498,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      114.690002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      114.900101,
       0,
       null
     ]

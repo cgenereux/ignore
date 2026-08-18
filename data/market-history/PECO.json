@@ -1,7 +1,8 @@
 {
   "ticker": "PECO",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:03:17+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:52:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8251,6 +8252,18 @@
     [
       "2026-08-14",
       40.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      39.950001,
+      0.108,
+      null
+    ],
+    [
+      "2026-08-18",
+      39.830002,
       0,
       null
     ]

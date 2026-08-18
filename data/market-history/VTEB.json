@@ -1,7 +1,7 @@
 {
   "ticker": "VTEB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:17:32+00:00",
+  "generatedAt": "2026-08-18T18:06:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16561,6 +16561,18 @@
     [
       "2026-08-14",
       49.759998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      49.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      49.514999,
       0,
       null
     ]

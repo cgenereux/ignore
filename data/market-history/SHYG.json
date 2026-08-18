@@ -1,7 +1,7 @@
 {
   "ticker": "SHYG",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:08:55+00:00",
+  "generatedAt": "2026-08-18T17:58:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19357,6 +19357,18 @@
     [
       "2026-08-14",
       42.259998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      42.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      42.185001,
       0,
       null
     ]

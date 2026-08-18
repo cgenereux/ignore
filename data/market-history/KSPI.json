@@ -1,7 +1,7 @@
 {
   "ticker": "KSPI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:55:58+00:00",
+  "generatedAt": "2026-08-18T17:45:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3877,6 +3877,18 @@
     [
       "2026-08-14",
       98.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      99.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      97.809998,
       0,
       null
     ]

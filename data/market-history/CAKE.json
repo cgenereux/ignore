@@ -1,7 +1,7 @@
 {
   "ticker": "CAKE",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:37:10+00:00",
+  "generatedAt": "2026-08-18T17:26:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51217,6 +51217,18 @@
     [
       "2026-08-14",
       113.379997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      109.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      106.910004,
       0,
       null
     ]

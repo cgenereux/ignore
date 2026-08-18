@@ -1,7 +1,7 @@
 {
   "ticker": "HHH",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:50:51+00:00",
+  "generatedAt": "2026-08-18T17:39:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23803,6 +23803,18 @@
     [
       "2026-08-14",
       66.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      66.650002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      66.459999,
       0,
       null
     ]

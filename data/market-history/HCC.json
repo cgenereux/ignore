@@ -1,7 +1,7 @@
 {
   "ticker": "HCC",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:50:29+00:00",
+  "generatedAt": "2026-08-18T17:39:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14089,6 +14089,18 @@
     [
       "2026-08-14",
       98.199997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      98.629997,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      97.5,
       0,
       null
     ]

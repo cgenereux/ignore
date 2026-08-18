@@ -1,7 +1,7 @@
 {
   "ticker": "SSO",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:11:18+00:00",
+  "generatedAt": "2026-08-18T18:00:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30421,6 +30421,18 @@
     [
       "2026-08-14",
       72.199997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      71.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      70.549202,
       0,
       null
     ]

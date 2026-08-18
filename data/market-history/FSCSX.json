@@ -1,7 +1,7 @@
 {
   "ticker": "FSCSX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:47:28+00:00",
+  "generatedAt": "2026-08-18T17:36:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62047,6 +62047,18 @@
     [
       "2026-08-13",
       24.219999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      23.83,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      23.27,
       0,
       null
     ]

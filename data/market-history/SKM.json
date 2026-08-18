@@ -1,7 +1,7 @@
 {
   "ticker": "SKM",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:09:16+00:00",
+  "generatedAt": "2026-08-18T17:58:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45493,6 +45493,18 @@
     [
       "2026-08-14",
       38.509998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      39.959999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      38.355099,
       0,
       null
     ]

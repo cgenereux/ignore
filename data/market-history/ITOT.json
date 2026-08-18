@@ -1,7 +1,7 @@
 {
   "ticker": "ITOT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:53:45+00:00",
+  "generatedAt": "2026-08-18T17:43:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34063,6 +34063,18 @@
     [
       "2026-08-14",
       170.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      169.660004,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      168.5401,
       0,
       null
     ]

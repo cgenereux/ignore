@@ -1,7 +1,8 @@
 {
   "ticker": "TRP.TO",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T23:13:34+00:00",
+  "currency": "CAD",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T18:02:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47641,6 +47642,18 @@
     [
       "2026-08-14",
       88.849998,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      87.849998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      88.839996,
       0,
       null
     ]

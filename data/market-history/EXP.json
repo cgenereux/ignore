@@ -1,7 +1,7 @@
 {
   "ticker": "EXP",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:44:44+00:00",
+  "generatedAt": "2026-08-18T17:33:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48847,6 +48847,18 @@
     [
       "2026-08-14",
       208.520004,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      205.509995,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      201.190002,
       0,
       null
     ]

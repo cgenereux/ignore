@@ -1,7 +1,8 @@
 {
   "ticker": "002594.SZ",
-  "currency": "USD",
-  "generatedAt": "2026-08-13T22:54:24+00:00",
+  "currency": "CNY",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:17:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22033,6 +22034,18 @@
     [
       "2026-08-13",
       89.709999,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      88.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      89.879997,
       0,
       null
     ]

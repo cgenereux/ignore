@@ -1,7 +1,7 @@
 {
   "ticker": "TDS",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:12:20+00:00",
+  "generatedAt": "2026-08-18T18:01:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67543,6 +67543,18 @@
     [
       "2026-08-14",
       35.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      34.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      34.150002,
       0,
       null
     ]

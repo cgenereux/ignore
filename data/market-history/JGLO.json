@@ -1,7 +1,7 @@
 {
   "ticker": "JGLO",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:54:52+00:00",
+  "generatedAt": "2026-08-18T17:44:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4399,6 +4399,18 @@
     [
       "2026-08-14",
       74.519997,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      74.290001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      73.650002,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "POOL",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:03:52+00:00",
+  "generatedAt": "2026-08-18T17:52:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46561,6 +46561,18 @@
     [
       "2026-08-14",
       194.839996,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      190.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      188.880005,
       0,
       null
     ]

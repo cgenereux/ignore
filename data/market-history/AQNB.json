@@ -1,7 +1,7 @@
 {
   "ticker": "AQNB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:32:24+00:00",
+  "generatedAt": "2026-08-18T17:21:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10897,6 +10897,18 @@
     [
       "2026-08-14",
       25.65,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      25.615,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      25.629999,
       0,
       null
     ]

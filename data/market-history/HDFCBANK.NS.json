@@ -1,7 +1,8 @@
 {
   "ticker": "HDFCBANK.NS",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T22:50:34+00:00",
+  "currency": "INR",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:39:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46135,6 +46136,24 @@
     [
       "2026-08-13",
       725.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      727.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      729.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      723.0,
       0,
       null
     ]

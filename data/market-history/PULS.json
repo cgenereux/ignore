@@ -1,7 +1,7 @@
 {
   "ticker": "PULS",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:04:42+00:00",
+  "generatedAt": "2026-08-18T17:53:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12601,6 +12601,18 @@
     [
       "2026-08-14",
       49.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      49.630001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      49.645,
       0,
       null
     ]

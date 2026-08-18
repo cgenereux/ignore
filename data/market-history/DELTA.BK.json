@@ -1,7 +1,8 @@
 {
   "ticker": "DELTA.BK",
-  "currency": "USD",
-  "generatedAt": "2026-08-13T23:06:14+00:00",
+  "currency": "THB",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:29:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39569,8 +39570,26 @@
       null
     ],
     [
+      "2026-08-12",
+      269.0,
+      0,
+      null
+    ],
+    [
       "2026-08-13",
       268.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      270.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      277.0,
       0,
       null
     ]

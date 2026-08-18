@@ -1,7 +1,7 @@
 {
   "ticker": "CUBE",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:40:01+00:00",
+  "generatedAt": "2026-08-18T17:28:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32929,6 +32929,18 @@
     [
       "2026-08-14",
       41.48,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      41.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      41.285,
       0,
       null
     ]

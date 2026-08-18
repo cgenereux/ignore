@@ -1,7 +1,7 @@
 {
   "ticker": "IWR",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:54:16+00:00",
+  "generatedAt": "2026-08-18T17:43:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37675,6 +37675,18 @@
     [
       "2026-08-14",
       114.82,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      114.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      113.514999,
       0,
       null
     ]

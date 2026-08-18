@@ -1,7 +1,7 @@
 {
   "ticker": "IOO",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:53:27+00:00",
+  "generatedAt": "2026-08-18T17:42:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38749,6 +38749,18 @@
     [
       "2026-08-14",
       145.100006,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      144.729996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      143.785004,
       0,
       null
     ]

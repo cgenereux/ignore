@@ -1,7 +1,7 @@
 {
   "ticker": "LIF",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:56:43+00:00",
+  "generatedAt": "2026-08-18T17:46:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3301,6 +3301,18 @@
     [
       "2026-08-14",
       51.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      50.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      47.514999,
       0,
       null
     ]

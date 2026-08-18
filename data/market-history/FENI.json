@@ -1,7 +1,7 @@
 {
   "ticker": "FENI",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:45:45+00:00",
+  "generatedAt": "2026-08-18T17:34:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4117,6 +4117,18 @@
     [
       "2026-08-14",
       41.950001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      41.93,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      41.395,
       0,
       null
     ]

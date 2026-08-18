@@ -1,7 +1,7 @@
 {
   "ticker": "FSPCX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:47:48+00:00",
+  "generatedAt": "2026-08-18T17:36:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61465,6 +61465,18 @@
     [
       "2026-08-13",
       97.510002,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      97.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      96.120003,
       0,
       null
     ]

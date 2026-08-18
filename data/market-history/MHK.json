@@ -1,7 +1,7 @@
 {
   "ticker": "MHK",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:58:39+00:00",
+  "generatedAt": "2026-08-18T17:47:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51925,6 +51925,18 @@
     [
       "2026-08-14",
       140.100006,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      135.339996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      133.304993,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "EWJ",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:44:31+00:00",
+  "generatedAt": "2026-08-18T17:33:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45919,6 +45919,18 @@
     [
       "2026-08-14",
       98.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      98.169998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      95.599998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "VRNS",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:17:16+00:00",
+  "generatedAt": "2026-08-18T18:06:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18811,6 +18811,18 @@
     [
       "2026-08-14",
       44.990002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      43.169998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      43.73,
       0,
       null
     ]

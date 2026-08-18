@@ -1,7 +1,7 @@
 {
   "ticker": "HXL",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:51:30+00:00",
+  "generatedAt": "2026-08-18T17:40:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70195,6 +70195,18 @@
     [
       "2026-08-14",
       104.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      103.099998,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      101.205002,
       0,
       null
     ]

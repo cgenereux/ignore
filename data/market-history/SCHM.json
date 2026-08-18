@@ -1,7 +1,7 @@
 {
   "ticker": "SCHM",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:07:55+00:00",
+  "generatedAt": "2026-08-18T17:57:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23521,6 +23521,18 @@
     [
       "2026-08-14",
       36.700001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      36.799999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      36.145,
       0,
       null
     ]

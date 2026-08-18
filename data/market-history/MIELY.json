@@ -1,7 +1,7 @@
 {
   "ticker": "MIELY",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:58:49+00:00",
+  "generatedAt": "2026-08-18T17:48:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44893,6 +44893,18 @@
     [
       "2026-08-14",
       76.910004,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      76.879997,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      74.279999,
       0,
       null
     ]

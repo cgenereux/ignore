@@ -1,7 +1,7 @@
 {
   "ticker": "TLN",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:13:08+00:00",
+  "generatedAt": "2026-08-18T18:02:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4825,6 +4825,18 @@
     [
       "2026-08-14",
       362.73999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      356.920013,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      330.140015,
       0,
       null
     ]

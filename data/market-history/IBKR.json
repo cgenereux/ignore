@@ -1,7 +1,7 @@
 {
   "ticker": "IBKR",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:20:51+00:00",
+  "generatedAt": "2026-08-18T17:05:25+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -29115,6 +29115,18 @@
       92.059998,
       0,
       41007968582
+    ],
+    [
+      "2026-08-17",
+      94.330002,
+      0,
+      42019138106
+    ],
+    [
+      "2026-08-18",
+      90.779999,
+      0,
+      40437795313
     ]
   ],
   "sharesOutstanding": [

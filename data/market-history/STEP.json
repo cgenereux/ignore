@@ -1,7 +1,7 @@
 {
   "ticker": "STEP",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:11:26+00:00",
+  "generatedAt": "2026-08-18T18:00:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8917,6 +8917,18 @@
     [
       "2026-08-14",
       50.400002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      48.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      48.605,
       0,
       null
     ]

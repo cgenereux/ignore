@@ -1,7 +1,7 @@
 {
   "ticker": "DFLV",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:41:13+00:00",
+  "generatedAt": "2026-08-18T17:30:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5551,6 +5551,18 @@
     [
       "2026-08-14",
       42.130001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      42.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      41.93,
       0,
       null
     ]

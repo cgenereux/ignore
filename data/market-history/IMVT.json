@@ -1,7 +1,7 @@
 {
   "ticker": "IMVT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:53:04+00:00",
+  "generatedAt": "2026-08-18T17:42:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10789,6 +10789,18 @@
     [
       "2026-08-14",
       41.82,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      43.709999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      43.529999,
       0,
       null
     ]

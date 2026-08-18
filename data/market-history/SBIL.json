@@ -1,7 +1,7 @@
 {
   "ticker": "SBIL",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:07:29+00:00",
+  "generatedAt": "2026-08-18T17:56:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1651,6 +1651,18 @@
     [
       "2026-08-14",
       100.230003,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      100.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      100.260002,
       0,
       null
     ]

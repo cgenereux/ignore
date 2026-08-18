@@ -1,7 +1,7 @@
 {
   "ticker": "BNT",
   "currency": "USD",
-  "generatedAt": "2026-08-14T22:36:02+00:00",
+  "generatedAt": "2026-08-18T17:25:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7741,6 +7741,18 @@
     [
       "2026-08-14",
       43.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      42.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      41.91,
       0,
       null
     ]

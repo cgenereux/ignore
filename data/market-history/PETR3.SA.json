@@ -1,7 +1,8 @@
 {
   "ticker": "PETR3.SA",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T23:03:23+00:00",
+  "currency": "BRL",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:52:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40099,6 +40100,18 @@
     [
       "2026-08-14",
       46.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      47.459999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      47.57,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "WEX",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:18:15+00:00",
+  "generatedAt": "2026-08-18T18:07:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32449,6 +32449,18 @@
     [
       "2026-08-14",
       191.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      188.869995,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      193.389999,
       0,
       null
     ]

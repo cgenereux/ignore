@@ -1,7 +1,8 @@
 {
   "ticker": "INVE-A.ST",
-  "currency": "USD",
-  "generatedAt": "2026-08-14T22:53:23+00:00",
+  "currency": "SEK",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-18T17:42:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40519,6 +40520,24 @@
     [
       "2026-08-13",
       407.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-14",
+      406.700012,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      406.299988,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      406.399994,
       0,
       null
     ]

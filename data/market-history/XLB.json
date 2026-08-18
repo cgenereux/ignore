@@ -1,7 +1,7 @@
 {
   "ticker": "XLB",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:19:22+00:00",
+  "generatedAt": "2026-08-18T18:08:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41725,6 +41725,18 @@
     [
       "2026-08-14",
       52.540001,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      52.240002,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      51.915001,
       0,
       null
     ]

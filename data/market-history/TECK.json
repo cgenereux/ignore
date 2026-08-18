@@ -1,7 +1,7 @@
 {
   "ticker": "TECK",
   "currency": "USD",
-  "generatedAt": "2026-08-14T23:12:22+00:00",
+  "generatedAt": "2026-08-18T18:01:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36355,6 +36355,18 @@
     [
       "2026-08-14",
       63.529999,
+      0,
+      null
+    ],
+    [
+      "2026-08-17",
+      64.839996,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      63.154999,
       0,
       null
     ]
