@@ -49,8 +49,15 @@ jobs:
           git fetch origin main
           TIP_SUBJECT="$(git log -1 --format=%s origin/main)"
           TIP_DATE="$(TZ=America/New_York git log -1 --format=%cd --date=format-local:%Y-%m-%d origin/main)"
+          TIP_EPOCH="$(git log -1 --format=%ct origin/main)"
           TODAY="$(TZ=America/New_York date +%F)"
+          # Only a commit made after the 16:00 New York close counts as
+          # "tonight's data": a mid-session dispatch once committed partial
+          # prices as closes, and skipping the real run because of it would
+          # have frozen them in.
+          CLOSE_EPOCH="$(TZ=America/New_York date -d "$TODAY 16:00" +%s)"
           if [ "$TIP_SUBJECT" = "Nightly market history update" ] && [ "$TIP_DATE" = "$TODAY" ] \
+            && [ "$TIP_EPOCH" -ge "$CLOSE_EPOCH" ] \
             && [ -z "${{ github.event.inputs.tickers || '' }}" ] \
             && [ "${{ github.event.inputs.full || 'false' }}" != "true" ]; then
             echo "Tonight's data is already on main; nothing to rebuild."
@@ -117,7 +124,12 @@ jobs:
 
       - name: Commit changes (if any)
         id: commit
-        if: ${{ !cancelled() && steps.freshness.outputs.skip != 'true' }}
+        # success() and nothing weaker: a failed update once published its
+        # half-finished state anyway -- !cancelled() is true after a failed
+        # step -- and 2,446 files of mid-session prices reached main as
+        # closes. A run either produces a dataset it stands behind or
+        # publishes nothing.
+        if: ${{ success() && steps.freshness.outputs.skip != 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
