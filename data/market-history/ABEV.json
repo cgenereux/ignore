@@ -1,7 +1,7 @@
 {
   "ticker": "ABEV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:19:15+00:00",
+  "generatedAt": "2026-08-14T22:30:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44454,18 +44454,6 @@
     ],
     [
       "2026-08-14",
-      2.8,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      2.78,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
       2.8,
       0,
       null

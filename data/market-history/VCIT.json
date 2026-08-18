@@ -1,7 +1,7 @@
 {
   "ticker": "VCIT",
   "currency": "USD",
-  "generatedAt": "2026-08-18T18:04:45+00:00",
+  "generatedAt": "2026-08-14T23:15:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25237,18 +25237,6 @@
     [
       "2026-08-14",
       81.230003,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      81.019997,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      81.074997,
       0,
       null
     ]

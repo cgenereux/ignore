@@ -1,7 +1,7 @@
 {
   "ticker": "MTDR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:48:50+00:00",
+  "generatedAt": "2026-08-14T22:59:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21931,18 +21931,6 @@
     [
       "2026-08-14",
       53.689999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      55.939999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      56.955002,
       0,
       null
     ]

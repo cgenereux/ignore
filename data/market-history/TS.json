@@ -1,7 +1,7 @@
 {
   "ticker": "TS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T18:03:00+00:00",
+  "generatedAt": "2026-08-14T23:13:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35725,18 +35725,6 @@
     [
       "2026-08-14",
       53.580002,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      53.439999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      52.955002,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FIDSX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:35:09+00:00",
+  "generatedAt": "2026-08-14T22:46:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67555,18 +67555,6 @@
     [
       "2026-08-13",
       17.93,
-      0,
-      null
-    ],
-    [
-      "2026-08-14",
-      17.98,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      17.75,
       0,
       null
     ]

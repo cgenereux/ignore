@@ -1,7 +1,7 @@
 {
   "ticker": "JOBY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:11:53+00:00",
+  "generatedAt": "2026-08-14T22:26:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8691,18 +8691,6 @@
       7.92,
       0,
       7790451463
-    ],
-    [
-      "2026-08-17",
-      7.91,
-      0,
-      7780614809
-    ],
-    [
-      "2026-08-18",
-      7.6801,
-      0,
-      7554475432
     ]
   ],
   "sharesOutstanding": [

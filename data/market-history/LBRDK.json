@@ -1,7 +1,7 @@
 {
   "ticker": "LBRDK",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:45:43+00:00",
+  "generatedAt": "2026-08-14T22:56:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17761,18 +17761,6 @@
     [
       "2026-08-14",
       36.330002,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      33.959999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      35.669998,
       0,
       null
     ]

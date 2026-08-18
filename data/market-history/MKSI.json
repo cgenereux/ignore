@@ -1,7 +1,7 @@
 {
   "ticker": "MKSI",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:48:14+00:00",
+  "generatedAt": "2026-08-14T22:58:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41329,18 +41329,6 @@
     [
       "2026-08-14",
       310.730011,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      320.73999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      297.654999,
       0,
       null
     ]

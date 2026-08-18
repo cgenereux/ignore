@@ -1,7 +1,7 @@
 {
   "ticker": "SCHC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:56:57+00:00",
+  "generatedAt": "2026-08-14T23:07:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25033,18 +25033,6 @@
     [
       "2026-08-14",
       51.259998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      51.220001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      50.539902,
       0,
       null
     ]

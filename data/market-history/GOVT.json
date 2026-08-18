@@ -1,7 +1,7 @@
 {
   "ticker": "GOVT",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:38:49+00:00",
+  "generatedAt": "2026-08-14T22:49:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21841,18 +21841,6 @@
     [
       "2026-08-14",
       22.459999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      22.43,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      22.448799,
       0,
       null
     ]

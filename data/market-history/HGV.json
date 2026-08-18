@@ -1,7 +1,7 @@
 {
   "ticker": "HGV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:39:51+00:00",
+  "generatedAt": "2026-08-14T22:50:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14503,18 +14503,6 @@
     [
       "2026-08-14",
       45.93,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      44.919998,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      44.029999,
       0,
       null
     ]

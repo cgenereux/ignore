@@ -1,7 +1,7 @@
 {
   "ticker": "MTUAY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:49:04+00:00",
+  "generatedAt": "2026-08-14T22:59:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25015,18 +25015,6 @@
     [
       "2026-08-14",
       221.419998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      220.820007,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      216.550003,
       0,
       null
     ]

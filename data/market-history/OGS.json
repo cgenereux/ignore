@@ -1,8 +1,7 @@
 {
   "ticker": "OGS",
   "currency": "USD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:50:56+00:00",
+  "generatedAt": "2026-08-14T23:01:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18986,18 +18985,6 @@
     [
       "2026-08-14",
       80.980003,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      79.980003,
-      0.68,
-      null
-    ],
-    [
-      "2026-08-18",
-      81.610001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "INSM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:42:34+00:00",
+  "generatedAt": "2026-08-14T22:53:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39547,18 +39547,6 @@
     [
       "2026-08-14",
       123.739998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      128.320007,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      128.600006,
       0,
       null
     ]

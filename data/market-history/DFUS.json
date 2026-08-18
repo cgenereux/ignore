@@ -1,7 +1,7 @@
 {
   "ticker": "DFUS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:30:21+00:00",
+  "generatedAt": "2026-08-14T22:41:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7801,18 +7801,6 @@
     [
       "2026-08-14",
       84.940002,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      84.599998,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      84.029999,
       0,
       null
     ]

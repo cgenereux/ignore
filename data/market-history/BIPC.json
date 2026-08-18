@@ -1,7 +1,7 @@
 {
   "ticker": "BIPC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:24:18+00:00",
+  "generatedAt": "2026-08-14T22:35:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9619,18 +9619,6 @@
     [
       "2026-08-14",
       40.439999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      39.5,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      39.330002,
       0,
       null
     ]

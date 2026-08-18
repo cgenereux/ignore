@@ -1,7 +1,7 @@
 {
   "ticker": "DAVE",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:29:30+00:00",
+  "generatedAt": "2026-08-14T22:40:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8005,18 +8005,6 @@
     [
       "2026-08-14",
       334.570007,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      341.429993,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      343.690002,
       0,
       null
     ]

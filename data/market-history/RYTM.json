@@ -1,7 +1,7 @@
 {
   "ticker": "RYTM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:56:17+00:00",
+  "generatedAt": "2026-08-14T23:07:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13351,18 +13351,6 @@
     [
       "2026-08-14",
       115.480003,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      115.440002,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      116.309998,
       0,
       null
     ]

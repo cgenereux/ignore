@@ -1,7 +1,7 @@
 {
   "ticker": "INFY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:42:25+00:00",
+  "generatedAt": "2026-08-14T22:53:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41407,18 +41407,6 @@
     [
       "2026-08-14",
       12.09,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      11.62,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      11.945,
       0,
       null
     ]

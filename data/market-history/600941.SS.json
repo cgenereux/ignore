@@ -1,8 +1,7 @@
 {
   "ticker": "600941.SS",
-  "currency": "CNY",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:17:56+00:00",
+  "currency": "USD",
+  "generatedAt": "2026-08-14T22:29:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6710,12 +6709,6 @@
     [
       "2026-08-14",
       97.709999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      96.019997,
       0,
       null
     ]

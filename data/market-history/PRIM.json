@@ -1,8 +1,7 @@
 {
   "ticker": "PRIM",
   "currency": "USD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:53:22+00:00",
+  "generatedAt": "2026-08-14T23:04:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27212,18 +27211,6 @@
     [
       "2026-08-14",
       83.300003,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      83.050003,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      80.809097,
       0,
       null
     ]

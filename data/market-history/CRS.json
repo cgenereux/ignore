@@ -1,7 +1,7 @@
 {
   "ticker": "CRS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:28:42+00:00",
+  "generatedAt": "2026-08-14T22:39:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80911,18 +80911,6 @@
     [
       "2026-08-14",
       544.590027,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      542.380005,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      522.445007,
       0,
       null
     ]

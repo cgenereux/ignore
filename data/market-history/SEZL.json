@@ -1,7 +1,7 @@
 {
   "ticker": "SEZL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:57:34+00:00",
+  "generatedAt": "2026-08-14T23:08:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4405,18 +4405,6 @@
     [
       "2026-08-14",
       128.960007,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      122.18,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      118.120003,
       0,
       null
     ]

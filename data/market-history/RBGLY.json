@@ -1,7 +1,7 @@
 {
   "ticker": "RBGLY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:54:30+00:00",
+  "generatedAt": "2026-08-14T23:05:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26917,18 +26917,6 @@
     [
       "2026-08-14",
       13.96,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      13.69,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      13.67,
       0,
       null
     ]

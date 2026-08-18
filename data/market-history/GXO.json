@@ -1,7 +1,7 @@
 {
   "ticker": "GXO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:39:18+00:00",
+  "generatedAt": "2026-08-14T22:50:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7639,18 +7639,6 @@
     [
       "2026-08-14",
       48.580002,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      47.32,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      47.169998,
       0,
       null
     ]

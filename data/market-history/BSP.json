@@ -1,7 +1,7 @@
 {
   "ticker": "BSP",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:25:31+00:00",
+  "generatedAt": "2026-08-14T22:36:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -199,18 +199,6 @@
     [
       "2026-08-14",
       39.310001,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      38.5,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      39.875,
       0,
       null
     ]

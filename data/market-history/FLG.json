@@ -1,7 +1,7 @@
 {
   "ticker": "FLG",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:35:20+00:00",
+  "generatedAt": "2026-08-14T22:46:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49423,18 +49423,6 @@
     [
       "2026-08-14",
       14.25,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      14.0,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      13.8283,
       0,
       null
     ]

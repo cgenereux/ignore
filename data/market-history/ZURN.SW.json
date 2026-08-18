@@ -1,8 +1,7 @@
 {
   "ticker": "ZURN.SW",
-  "currency": "CHF",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T18:09:47+00:00",
+  "currency": "USD",
+  "generatedAt": "2026-08-14T23:20:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42476,24 +42475,6 @@
     [
       "2026-08-13",
       589.799988,
-      0,
-      null
-    ],
-    [
-      "2026-08-14",
-      592.799988,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      592.0,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      593.599976,
       0,
       null
     ]

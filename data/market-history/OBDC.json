@@ -1,7 +1,7 @@
 {
   "ticker": "OBDC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:50:45+00:00",
+  "generatedAt": "2026-08-14T23:01:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10681,18 +10681,6 @@
     [
       "2026-08-14",
       11.72,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      11.5,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      11.445,
       0,
       null
     ]

@@ -1,8 +1,7 @@
 {
   "ticker": "DBX",
   "currency": "USD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:29:42+00:00",
+  "generatedAt": "2026-08-14T22:40:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12668,18 +12667,6 @@
     [
       "2026-08-14",
       34.419998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      33.380001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      34.189999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SDY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:57:29+00:00",
+  "generatedAt": "2026-08-14T23:08:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31315,18 +31315,6 @@
     [
       "2026-08-14",
       158.529999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      156.960007,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      158.269302,
       0,
       null
     ]

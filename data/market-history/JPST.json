@@ -1,7 +1,7 @@
 {
   "ticker": "JPST",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:44:36+00:00",
+  "generatedAt": "2026-08-14T22:55:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13939,18 +13939,6 @@
     [
       "2026-08-14",
       50.5,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      50.509998,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      50.514999,
       0,
       null
     ]

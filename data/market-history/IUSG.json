@@ -1,7 +1,7 @@
 {
   "ticker": "IUSG",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:43:14+00:00",
+  "generatedAt": "2026-08-14T22:53:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39307,18 +39307,6 @@
     [
       "2026-08-14",
       194.259995,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      193.589996,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      191.119995,
       0,
       null
     ]

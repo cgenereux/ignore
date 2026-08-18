@@ -1,8 +1,7 @@
 {
   "ticker": "DKILY",
   "currency": "USD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:30:40+00:00",
+  "generatedAt": "2026-08-14T22:41:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24919,19 +24918,7 @@
     ],
     [
       "2026-08-14",
-      13.3,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      13.39,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      13.06,
+      13.27,
       0,
       null
     ]

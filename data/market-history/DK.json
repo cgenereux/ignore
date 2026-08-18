@@ -1,7 +1,7 @@
 {
   "ticker": "DK",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:30:38+00:00",
+  "generatedAt": "2026-08-14T22:41:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30619,18 +30619,6 @@
     [
       "2026-08-14",
       65.470001,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      67.209999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      67.400002,
       0,
       null
     ]

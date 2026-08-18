@@ -1,7 +1,7 @@
 {
   "ticker": "NPO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:50:07+00:00",
+  "generatedAt": "2026-08-14T23:01:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36559,18 +36559,6 @@
     [
       "2026-08-14",
       343.339996,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      346.329987,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      328.565002,
       0,
       null
     ]

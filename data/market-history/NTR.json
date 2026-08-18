@@ -1,7 +1,7 @@
 {
   "ticker": "NTR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:50:18+00:00",
+  "generatedAt": "2026-08-14T23:01:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13003,18 +13003,6 @@
     [
       "2026-08-14",
       68.239998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      68.290001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      69.269997,
       0,
       null
     ]

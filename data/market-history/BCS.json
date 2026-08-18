@@ -1,7 +1,7 @@
 {
   "ticker": "BCS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:23:42+00:00",
+  "generatedAt": "2026-08-14T22:34:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60367,18 +60367,6 @@
     [
       "2026-08-14",
       28.139999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      27.799999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      27.334999,
       0,
       null
     ]

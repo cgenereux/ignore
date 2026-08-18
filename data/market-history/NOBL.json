@@ -1,7 +1,7 @@
 {
   "ticker": "NOBL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:49:53+00:00",
+  "generatedAt": "2026-08-14T23:00:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19387,18 +19387,6 @@
     [
       "2026-08-14",
       58.52,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      57.950001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      58.365002,
       0,
       null
     ]

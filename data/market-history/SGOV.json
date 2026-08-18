@@ -1,7 +1,7 @@
 {
   "ticker": "SGOV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:57:49+00:00",
+  "generatedAt": "2026-08-14T23:08:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9367,18 +9367,6 @@
     [
       "2026-08-14",
       100.559998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      100.559998,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      100.576698,
       0,
       null
     ]

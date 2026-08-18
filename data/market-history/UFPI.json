@@ -1,8 +1,7 @@
 {
   "ticker": "UFPI",
   "currency": "USD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T18:03:48+00:00",
+  "generatedAt": "2026-08-14T23:14:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49478,18 +49477,6 @@
     [
       "2026-08-14",
       89.870003,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      88.290001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      87.904999,
       0,
       null
     ]

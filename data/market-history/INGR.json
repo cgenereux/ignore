@@ -1,7 +1,7 @@
 {
   "ticker": "INGR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:42:31+00:00",
+  "generatedAt": "2026-08-14T22:53:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43279,18 +43279,6 @@
     [
       "2026-08-14",
       105.199997,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      103.589996,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      105.644997,
       0,
       null
     ]

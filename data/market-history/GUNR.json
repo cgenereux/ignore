@@ -1,7 +1,7 @@
 {
   "ticker": "GUNR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:39:15+00:00",
+  "generatedAt": "2026-08-14T22:50:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22477,18 +22477,6 @@
     [
       "2026-08-14",
       53.490002,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      53.98,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      54.060001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "MIRM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:48:09+00:00",
+  "generatedAt": "2026-08-14T22:58:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10681,18 +10681,6 @@
     [
       "2026-08-14",
       100.639999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      99.830002,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      99.154999,
       0,
       null
     ]

@@ -1,8 +1,7 @@
 {
   "ticker": "2330.TW",
-  "currency": "TWD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:17:40+00:00",
+  "currency": "USD",
+  "generatedAt": "2026-08-13T22:54:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39710,18 +39709,6 @@
     [
       "2026-08-13",
       2435.0,
-      0,
-      null
-    ],
-    [
-      "2026-08-14",
-      2395.0,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      2400.0,
       0,
       null
     ]

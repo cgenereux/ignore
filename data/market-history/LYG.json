@@ -1,8 +1,7 @@
 {
   "ticker": "LYG",
   "currency": "USD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:46:53+00:00",
+  "generatedAt": "2026-08-14T22:57:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37310,18 +37309,6 @@
     [
       "2026-08-14",
       6.21,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      6.15,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      6.085,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "IJS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:42:08+00:00",
+  "generatedAt": "2026-08-14T22:52:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39307,18 +39307,6 @@
     [
       "2026-08-14",
       140.679993,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      139.770004,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      138.490005,
       0,
       null
     ]

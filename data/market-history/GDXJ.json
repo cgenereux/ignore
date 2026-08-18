@@ -1,7 +1,7 @@
 {
   "ticker": "GDXJ",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:38:06+00:00",
+  "generatedAt": "2026-08-14T22:49:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25291,18 +25291,6 @@
     [
       "2026-08-14",
       118.089996,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      120.379997,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      116.029999,
       0,
       null
     ]

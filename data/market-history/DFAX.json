@@ -1,7 +1,7 @@
 {
   "ticker": "DFAX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:30:04+00:00",
+  "generatedAt": "2026-08-14T22:41:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7423,18 +7423,6 @@
     [
       "2026-08-14",
       38.139999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      38.200001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      37.665001,
       0,
       null
     ]

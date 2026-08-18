@@ -2,7 +2,7 @@
   "ticker": "SU.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T16:55:24+00:00",
+  "generatedAt": "2026-08-17T01:36:49+00:00",
   "source": "Yahoo Finance via yfinance; SU.PA quoted in EUR",
   "schema": [
     "date",
@@ -41038,18 +41038,6 @@
       306.399994,
       0,
       198679522416
-    ],
-    [
-      "2026-08-17",
-      308.75,
-      0,
-      200932300061
-    ],
-    [
-      "2026-08-18",
-      295.100006,
-      0,
-      192131925485
     ]
   ],
   "sharesOutstanding": [

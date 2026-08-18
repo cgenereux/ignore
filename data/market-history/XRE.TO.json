@@ -1,8 +1,7 @@
 {
   "ticker": "XRE.TO",
-  "currency": "CAD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T18:09:10+00:00",
+  "currency": "USD",
+  "generatedAt": "2026-08-14T23:19:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35893,19 +35892,7 @@
     ],
     [
       "2026-08-14",
-      16.6,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      16.469999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      16.48,
+      16.594999,
       0,
       null
     ]

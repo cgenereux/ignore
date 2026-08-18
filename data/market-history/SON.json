@@ -1,7 +1,7 @@
 {
   "ticker": "SON",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:59:19+00:00",
+  "generatedAt": "2026-08-14T23:10:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70195,18 +70195,6 @@
     [
       "2026-08-14",
       58.27,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      56.75,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      57.220001,
       0,
       null
     ]

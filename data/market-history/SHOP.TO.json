@@ -1,8 +1,7 @@
 {
   "ticker": "SHOP.TO",
-  "currency": "CAD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:58:01+00:00",
+  "currency": "USD",
+  "generatedAt": "2026-08-14T23:08:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16928,18 +16927,6 @@
     [
       "2026-08-14",
       214.350006,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      206.399994,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      204.130005,
       0,
       null
     ]

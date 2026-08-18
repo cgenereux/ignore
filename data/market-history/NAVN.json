@@ -1,7 +1,7 @@
 {
   "ticker": "NAVN",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:49:25+00:00",
+  "generatedAt": "2026-08-14T23:00:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1195,18 +1195,6 @@
     [
       "2026-08-14",
       29.254999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      28.719999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      29.65,
       0,
       null
     ]

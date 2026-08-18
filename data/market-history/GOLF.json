@@ -1,8 +1,7 @@
 {
   "ticker": "GOLF",
   "currency": "USD",
-  "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T17:38:45+00:00",
+  "generatedAt": "2026-08-14T22:49:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14774,18 +14773,6 @@
     [
       "2026-08-14",
       90.059998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      90.660004,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      90.394997,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DNTH",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:30:49+00:00",
+  "generatedAt": "2026-08-14T22:41:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12295,18 +12295,6 @@
     [
       "2026-08-14",
       115.959999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      114.860001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      115.745003,
       0,
       null
     ]

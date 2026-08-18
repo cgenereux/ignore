@@ -1,7 +1,7 @@
 {
   "ticker": "PVAL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:53:53+00:00",
+  "generatedAt": "2026-08-14T23:04:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7873,18 +7873,6 @@
     [
       "2026-08-14",
       54.580002,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      54.200001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      54.27,
       0,
       null
     ]

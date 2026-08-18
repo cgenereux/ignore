@@ -1,7 +1,7 @@
 {
   "ticker": "ADC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:19:42+00:00",
+  "generatedAt": "2026-08-14T22:30:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48829,18 +48829,6 @@
     [
       "2026-08-14",
       74.739998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      74.540001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      74.530098,
       0,
       null
     ]

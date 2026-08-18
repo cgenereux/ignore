@@ -1,7 +1,7 @@
 {
   "ticker": "LGND",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:45:57+00:00",
+  "generatedAt": "2026-08-14T22:56:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50959,18 +50959,6 @@
     [
       "2026-08-14",
       294.595001,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      291.769989,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      286.890015,
       0,
       null
     ]

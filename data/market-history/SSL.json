@@ -1,7 +1,7 @@
 {
   "ticker": "SSL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T18:00:28+00:00",
+  "generatedAt": "2026-08-14T23:11:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67003,18 +67003,6 @@
     [
       "2026-08-14",
       11.53,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      11.71,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      11.885,
       0,
       null
     ]

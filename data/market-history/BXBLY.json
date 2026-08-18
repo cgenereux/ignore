@@ -1,7 +1,7 @@
 {
   "ticker": "BXBLY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:25:49+00:00",
+  "generatedAt": "2026-08-14T22:36:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25099,18 +25099,6 @@
     [
       "2026-08-14",
       27.67,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      27.639999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      27.41,
       0,
       null
     ]

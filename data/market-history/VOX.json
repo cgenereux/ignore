@@ -1,7 +1,7 @@
 {
   "ticker": "VOX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T18:06:30+00:00",
+  "generatedAt": "2026-08-14T23:17:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33031,18 +33031,6 @@
     [
       "2026-08-14",
       189.179993,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      185.830002,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      185.270004,
       0,
       null
     ]

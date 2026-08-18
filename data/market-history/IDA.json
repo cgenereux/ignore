@@ -1,7 +1,7 @@
 {
   "ticker": "IDA",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:41:19+00:00",
+  "generatedAt": "2026-08-14T22:52:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80911,18 +80911,6 @@
     [
       "2026-08-14",
       142.610001,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      141.470001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      143.460007,
       0,
       null
     ]

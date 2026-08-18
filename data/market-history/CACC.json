@@ -1,7 +1,7 @@
 {
   "ticker": "CACC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:25:58+00:00",
+  "generatedAt": "2026-08-14T22:36:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51655,18 +51655,6 @@
     [
       "2026-08-14",
       587.27002,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      573.090027,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      577.349976,
       0,
       null
     ]

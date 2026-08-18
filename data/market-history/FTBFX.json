@@ -1,7 +1,7 @@
 {
   "ticker": "FTBFX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:37:15+00:00",
+  "generatedAt": "2026-08-14T22:48:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35971,18 +35971,6 @@
     [
       "2026-08-13",
       9.46,
-      0,
-      null
-    ],
-    [
-      "2026-08-14",
-      9.43,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      9.41,
       0,
       null
     ]

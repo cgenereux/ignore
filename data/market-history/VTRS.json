@@ -1,7 +1,7 @@
 {
   "ticker": "VTRS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:10:36+00:00",
+  "generatedAt": "2026-08-14T22:25:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70197,18 +70197,6 @@
       16.23,
       0,
       18900689041
-    ],
-    [
-      "2026-08-17",
-      16.23,
-      0,
-      18900689041
-    ],
-    [
-      "2026-08-18",
-      16.385,
-      0,
-      19081195502
     ]
   ],
   "sharesOutstanding": [

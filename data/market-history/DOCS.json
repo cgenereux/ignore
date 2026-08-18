@@ -1,7 +1,7 @@
 {
   "ticker": "DOCS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:30:52+00:00",
+  "generatedAt": "2026-08-14T22:41:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7753,18 +7753,6 @@
     [
       "2026-08-14",
       24.799999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      24.52,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      25.014999,
       0,
       null
     ]

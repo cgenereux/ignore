@@ -1,7 +1,7 @@
 {
   "ticker": "ATR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:21:59+00:00",
+  "generatedAt": "2026-08-14T22:33:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50317,18 +50317,6 @@
     [
       "2026-08-14",
       132.100006,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      131.740005,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      132.339996,
       0,
       null
     ]

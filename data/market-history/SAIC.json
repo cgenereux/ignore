@@ -1,7 +1,7 @@
 {
   "ticker": "SAIC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:56:27+00:00",
+  "generatedAt": "2026-08-14T23:07:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19495,18 +19495,6 @@
     [
       "2026-08-14",
       126.68,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      124.339996,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      126.434998,
       0,
       null
     ]

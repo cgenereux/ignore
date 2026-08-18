@@ -1,7 +1,7 @@
 {
   "ticker": "RUSHA",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:55:59+00:00",
+  "generatedAt": "2026-08-14T23:06:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34495,18 +34495,6 @@
     [
       "2026-08-14",
       82.230003,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      82.129997,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      80.57,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CORZ",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:28:28+00:00",
+  "generatedAt": "2026-08-14T22:39:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3859,18 +3859,6 @@
     [
       "2026-08-14",
       20.18,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      20.129999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      18.745001,
       0,
       null
     ]

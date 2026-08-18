@@ -1,7 +1,7 @@
 {
   "ticker": "VONOY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T18:06:20+00:00",
+  "generatedAt": "2026-08-14T23:16:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16231,18 +16231,6 @@
     [
       "2026-08-14",
       11.88,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      11.63,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      11.49,
       0,
       null
     ]

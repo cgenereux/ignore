@@ -1,7 +1,7 @@
 {
   "ticker": "VLVLY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T18:05:55+00:00",
+  "generatedAt": "2026-08-14T23:16:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12769,18 +12769,6 @@
     [
       "2026-08-14",
       35.669998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      35.860001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      35.619999,
       0,
       null
     ]

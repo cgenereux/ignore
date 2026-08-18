@@ -1,7 +1,7 @@
 {
   "ticker": "CMCSA",
   "currency": "USD",
-  "generatedAt": "2026-08-18T16:58:07+00:00",
+  "generatedAt": "2026-08-14T22:14:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70197,18 +70197,6 @@
       26.18,
       0,
       92903306564
-    ],
-    [
-      "2026-08-17",
-      25.57,
-      0,
-      90738636089
-    ],
-    [
-      "2026-08-18",
-      26.045,
-      0,
-      92424239815
     ]
   ],
   "sharesOutstanding": [

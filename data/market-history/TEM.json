@@ -1,7 +1,7 @@
 {
   "ticker": "TEM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:12:15+00:00",
+  "generatedAt": "2026-08-14T22:27:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3267,18 +3267,6 @@
       52.099998,
       0,
       9400650512
-    ],
-    [
-      "2026-08-17",
-      51.639999,
-      0,
-      9317650690
-    ],
-    [
-      "2026-08-18",
-      49.68,
-      0,
-      8963998733
     ]
   ],
   "sharesOutstanding": [

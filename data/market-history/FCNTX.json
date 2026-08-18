@@ -1,7 +1,7 @@
 {
   "ticker": "FCNTX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:34:20+00:00",
+  "generatedAt": "2026-08-14T22:45:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70501,18 +70501,6 @@
     [
       "2026-08-13",
       27.34,
-      0,
-      null
-    ],
-    [
-      "2026-08-14",
-      27.23,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      27.190001,
       0,
       null
     ]

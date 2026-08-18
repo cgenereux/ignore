@@ -1,7 +1,7 @@
 {
   "ticker": "EMB",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:32:06+00:00",
+  "generatedAt": "2026-08-14T22:43:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28159,18 +28159,6 @@
     [
       "2026-08-14",
       95.050003,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      94.699997,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      94.705002,
       0,
       null
     ]

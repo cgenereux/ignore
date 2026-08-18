@@ -1,7 +1,7 @@
 {
   "ticker": "SRLN",
   "currency": "USD",
-  "generatedAt": "2026-08-18T18:00:19+00:00",
+  "generatedAt": "2026-08-14T23:11:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20179,18 +20179,6 @@
     [
       "2026-08-14",
       40.57,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      40.540001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      40.52,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "CGXU",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:27:11+00:00",
+  "generatedAt": "2026-08-14T22:38:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6739,18 +6739,6 @@
     [
       "2026-08-14",
       35.209999,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      35.369999,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      34.605,
       0,
       null
     ]

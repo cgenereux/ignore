@@ -1,7 +1,7 @@
 {
   "ticker": "HMY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:40:04+00:00",
+  "generatedAt": "2026-08-14T22:51:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48703,18 +48703,6 @@
     [
       "2026-08-14",
       19.440001,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      20.030001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      19.42,
       0,
       null
     ]

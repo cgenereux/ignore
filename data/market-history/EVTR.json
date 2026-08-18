@@ -1,7 +1,7 @@
 {
   "ticker": "EVTR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:33:23+00:00",
+  "generatedAt": "2026-08-14T22:44:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3607,18 +3607,6 @@
     [
       "2026-08-14",
       50.169998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      50.080002,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      50.125,
       0,
       null
     ]

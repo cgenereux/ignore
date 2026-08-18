@@ -1,7 +1,7 @@
 {
   "ticker": "PI",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:52:39+00:00",
+  "generatedAt": "2026-08-14T23:03:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15193,18 +15193,6 @@
     [
       "2026-08-14",
       172.649994,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      171.710007,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      167.5,
       0,
       null
     ]

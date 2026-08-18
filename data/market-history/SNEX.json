@@ -1,7 +1,7 @@
 {
   "ticker": "SNEX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:59:10+00:00",
+  "generatedAt": "2026-08-14T23:09:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47491,18 +47491,6 @@
     [
       "2026-08-14",
       67.099998,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      68.410004,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      65.830002,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PAM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T17:51:55+00:00",
+  "generatedAt": "2026-08-14T23:02:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25429,18 +25429,6 @@
     [
       "2026-08-14",
       78.93,
-      0,
-      null
-    ],
-    [
-      "2026-08-17",
-      79.860001,
-      0,
-      null
-    ],
-    [
-      "2026-08-18",
-      78.690002,
       0,
       null
     ]
