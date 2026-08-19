@@ -1,7 +1,7 @@
 {
   "ticker": "CVCO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:36:20+00:00",
+  "generatedAt": "2026-08-19T22:45:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34927,6 +34927,12 @@
     [
       "2026-08-18",
       584.77002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      598.849976,
       0,
       null
     ]

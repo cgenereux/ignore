@@ -1,7 +1,7 @@
 {
   "ticker": "QQQM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:00:56+00:00",
+  "generatedAt": "2026-08-19T23:08:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8815,6 +8815,12 @@
     [
       "2026-08-18",
       295.450012,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      294.850006,
       0,
       null
     ]

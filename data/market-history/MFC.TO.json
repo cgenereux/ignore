@@ -2,7 +2,7 @@
   "ticker": "MFC.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:54:34+00:00",
+  "generatedAt": "2026-08-19T23:03:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40502,6 +40502,12 @@
     [
       "2026-08-18",
       61.259998,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      60.060001,
       0,
       null
     ]

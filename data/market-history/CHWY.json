@@ -1,7 +1,7 @@
 {
   "ticker": "CHWY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:21:12+00:00",
+  "generatedAt": "2026-08-19T22:23:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10833,6 +10833,12 @@
       23.040001,
       0,
       9433134104
+    ],
+    [
+      "2026-08-19",
+      23.99,
+      0,
+      9822086632
     ]
   ],
   "sharesOutstanding": [

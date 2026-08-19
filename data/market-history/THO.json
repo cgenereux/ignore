@@ -1,7 +1,7 @@
 {
   "ticker": "THO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:08:58+00:00",
+  "generatedAt": "2026-08-19T22:30:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64417,6 +64417,12 @@
     [
       "2026-08-18",
       77.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      80.07,
       0,
       null
     ]

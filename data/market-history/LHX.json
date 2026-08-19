@@ -1,7 +1,7 @@
 {
   "ticker": "LHX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:13:58+00:00",
+  "generatedAt": "2026-08-19T22:15:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67491,6 +67491,12 @@
       279.540009,
       0,
       52054435348
+    ],
+    [
+      "2026-08-19",
+      277.109985,
+      0,
+      51601929512
     ]
   ],
   "sharesOutstanding": [

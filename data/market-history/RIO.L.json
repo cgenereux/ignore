@@ -2,7 +2,7 @@
   "ticker": "RIO.L",
   "currency": "GBP",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:01:59+00:00",
+  "generatedAt": "2026-08-19T23:09:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58664,6 +58664,12 @@
     [
       "2026-08-17",
       71.26,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      71.19,
       0,
       null
     ]

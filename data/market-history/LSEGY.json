@@ -2,7 +2,7 @@
   "ticker": "LSEGY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:53:35+00:00",
+  "generatedAt": "2026-08-19T23:02:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12782,6 +12782,12 @@
     [
       "2026-08-18",
       28.690001,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      28.860001,
       0,
       null
     ]

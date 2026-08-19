@@ -1,7 +1,8 @@
 {
   "ticker": "YOU",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:16:01+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T23:23:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7667,12 +7668,6 @@
       null
     ],
     [
-      "2026-07-31",
-      55.240002,
-      0,
-      null
-    ],
-    [
       "2026-08-03",
       55.150002,
       0,
@@ -7741,6 +7736,12 @@
     [
       "2026-08-18",
       44.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      44.299999,
       0,
       null
     ]

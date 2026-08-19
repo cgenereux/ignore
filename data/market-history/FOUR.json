@@ -1,7 +1,7 @@
 {
   "ticker": "FOUR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:21:14+00:00",
+  "generatedAt": "2026-08-19T22:23:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9357,6 +9357,12 @@
       46.700001,
       0,
       3687437664
+    ],
+    [
+      "2026-08-19",
+      47.130001,
+      0,
+      3721390540
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "TEAM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:03:25+00:00",
+  "generatedAt": "2026-08-19T22:05:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16131,6 +16131,12 @@
       163.0,
       0,
       41364161506
+    ],
+    [
+      "2026-08-19",
+      174.229996,
+      0,
+      44213973512
     ]
   ],
   "sharesOutstanding": [

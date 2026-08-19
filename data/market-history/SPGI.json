@@ -2,7 +2,7 @@
   "ticker": "SPGI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:16:34+00:00",
+  "generatedAt": "2026-08-19T22:18:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80926,6 +80926,12 @@
       418.040009,
       0,
       123238194653
+    ],
+    [
+      "2026-08-19",
+      426.660004,
+      0,
+      125779369080
     ]
   ],
   "sharesOutstanding": [

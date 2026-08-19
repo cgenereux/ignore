@@ -1,7 +1,7 @@
 {
   "ticker": "MMED",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:55:12+00:00",
+  "generatedAt": "2026-08-19T23:03:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -679,6 +679,12 @@
     [
       "2026-08-18",
       19.360001,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      20.219999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "APTV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:07:51+00:00",
+  "generatedAt": "2026-08-19T22:10:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22251,6 +22251,12 @@
       48.599998,
       0,
       10284757289
+    ],
+    [
+      "2026-08-19",
+      48.919998,
+      0,
+      10352475793
     ]
   ],
   "sharesOutstanding": [

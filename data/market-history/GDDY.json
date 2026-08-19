@@ -1,7 +1,7 @@
 {
   "ticker": "GDDY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:12:33+00:00",
+  "generatedAt": "2026-08-19T22:14:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17187,6 +17187,12 @@
       95.800003,
       0,
       12684863747
+    ],
+    [
+      "2026-08-19",
+      96.839996,
+      0,
+      12822569099
     ]
   ],
   "sharesOutstanding": [

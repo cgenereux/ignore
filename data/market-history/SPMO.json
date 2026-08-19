@@ -1,7 +1,7 @@
 {
   "ticker": "SPMO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:06:34+00:00",
+  "generatedAt": "2026-08-19T23:14:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16375,6 +16375,12 @@
     [
       "2026-08-18",
       150.899994,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      148.350006,
       0,
       null
     ]

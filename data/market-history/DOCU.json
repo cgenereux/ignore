@@ -1,7 +1,7 @@
 {
   "ticker": "DOCU",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:23:23+00:00",
+  "generatedAt": "2026-08-19T22:25:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12537,6 +12537,12 @@
       60.009998,
       0,
       11458585606
+    ],
+    [
+      "2026-08-19",
+      62.110001,
+      0,
+      11859569719
     ]
   ],
   "sharesOutstanding": [

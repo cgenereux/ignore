@@ -1,7 +1,7 @@
 {
   "ticker": "CPAY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:10:20+00:00",
+  "generatedAt": "2026-08-19T22:12:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23655,6 +23655,12 @@
       406.820007,
       0,
       26590536366
+    ],
+    [
+      "2026-08-19",
+      407.079987,
+      0,
+      26607529109
     ]
   ],
   "sharesOutstanding": [

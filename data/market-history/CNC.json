@@ -1,7 +1,7 @@
 {
   "ticker": "CNC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:09:11+00:00",
+  "generatedAt": "2026-08-19T22:11:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37257,6 +37257,12 @@
       65.220001,
       0,
       32218354503
+    ],
+    [
+      "2026-08-19",
+      64.699997,
+      0,
+      31961474992
     ]
   ],
   "sharesOutstanding": [

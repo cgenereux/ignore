@@ -1,7 +1,7 @@
 {
   "ticker": "TXT",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:17:30+00:00",
+  "generatedAt": "2026-08-19T22:19:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80913,6 +80913,12 @@
       87.129997,
       0,
       14985219606
+    ],
+    [
+      "2026-08-19",
+      86.290001,
+      0,
+      14840751225
     ]
   ],
   "sharesOutstanding": [

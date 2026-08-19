@@ -1,7 +1,7 @@
 {
   "ticker": "CMWAY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:35:07+00:00",
+  "generatedAt": "2026-08-19T22:44:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24721,6 +24721,12 @@
     [
       "2026-08-18",
       114.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      115.699997,
       0,
       null
     ]

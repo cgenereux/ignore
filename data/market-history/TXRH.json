@@ -1,7 +1,7 @@
 {
   "ticker": "TXRH",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:21:00+00:00",
+  "generatedAt": "2026-08-19T22:22:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33021,6 +33021,12 @@
       203.389999,
       0,
       13368746355
+    ],
+    [
+      "2026-08-19",
+      202.929993,
+      0,
+      13338510291
     ]
   ],
   "sharesOutstanding": [

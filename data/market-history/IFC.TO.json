@@ -2,7 +2,7 @@
   "ticker": "IFC.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:48:47+00:00",
+  "generatedAt": "2026-08-19T22:57:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32648,6 +32648,12 @@
     [
       "2026-08-18",
       263.399994,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      266.079987,
       0,
       null
     ]

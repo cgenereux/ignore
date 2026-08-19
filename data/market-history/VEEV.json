@@ -1,7 +1,7 @@
 {
   "ticker": "VEEV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:18:06+00:00",
+  "generatedAt": "2026-08-19T22:19:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19377,6 +19377,12 @@
       242.75,
       0,
       39433108890
+    ],
+    [
+      "2026-08-19",
+      251.0,
+      0,
+      40773266041
     ]
   ],
   "sharesOutstanding": [

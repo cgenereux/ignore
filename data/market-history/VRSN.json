@@ -2,7 +2,7 @@
   "ticker": "VRSN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:18:12+00:00",
+  "generatedAt": "2026-08-19T22:20:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43078,6 +43078,12 @@
       276.73999,
       0,
       25017295096
+    ],
+    [
+      "2026-08-19",
+      273.029999,
+      0,
+      24681911890
     ]
   ],
   "sharesOutstanding": [

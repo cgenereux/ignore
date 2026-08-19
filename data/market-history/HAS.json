@@ -1,7 +1,7 @@
 {
   "ticker": "HAS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:12:38+00:00",
+  "generatedAt": "2026-08-19T22:14:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70209,6 +70209,12 @@
       93.989998,
       0,
       13256769152
+    ],
+    [
+      "2026-08-19",
+      93.330002,
+      0,
+      13163680363
     ]
   ],
   "sharesOutstanding": [

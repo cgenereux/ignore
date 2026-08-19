@@ -2,7 +2,7 @@
   "ticker": "CASH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:17:06+00:00",
+  "generatedAt": "2026-08-19T23:24:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49712,6 +49712,12 @@
     [
       "2026-08-18",
       84.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      83.709999,
       0,
       null
     ]

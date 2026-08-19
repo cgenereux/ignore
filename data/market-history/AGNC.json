@@ -1,7 +1,7 @@
 {
   "ticker": "AGNC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:27:35+00:00",
+  "generatedAt": "2026-08-19T22:37:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27565,6 +27565,12 @@
     [
       "2026-08-18",
       10.92,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      11.08,
       0,
       null
     ]

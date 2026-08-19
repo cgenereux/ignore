@@ -1,7 +1,7 @@
 {
   "ticker": "VCTR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:11:39+00:00",
+  "generatedAt": "2026-08-19T23:19:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12859,6 +12859,12 @@
     [
       "2026-08-18",
       117.769997,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      115.809998,
       0,
       null
     ]

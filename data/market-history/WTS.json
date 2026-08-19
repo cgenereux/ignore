@@ -1,7 +1,7 @@
 {
   "ticker": "WTS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:23:32+00:00",
+  "generatedAt": "2026-08-19T22:25:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60453,6 +60453,12 @@
       375.799988,
       0,
       12545349782
+    ],
+    [
+      "2026-08-19",
+      374.720001,
+      0,
+      12509296537
     ]
   ],
   "sharesOutstanding": [

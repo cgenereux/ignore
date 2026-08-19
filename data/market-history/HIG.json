@@ -1,7 +1,7 @@
 {
   "ticker": "HIG",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:12:36+00:00",
+  "generatedAt": "2026-08-19T22:14:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46311,6 +46311,12 @@
       138.960007,
       0,
       38093220588
+    ],
+    [
+      "2026-08-19",
+      137.529999,
+      0,
+      37701211340
     ]
   ],
   "sharesOutstanding": [

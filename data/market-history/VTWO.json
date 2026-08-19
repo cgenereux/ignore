@@ -1,7 +1,8 @@
 {
   "ticker": "VTWO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:13:40+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T23:21:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23933,12 +23934,6 @@
       null
     ],
     [
-      "2026-07-31",
-      117.730003,
-      0,
-      null
-    ],
-    [
       "2026-08-03",
       119.720001,
       0,
@@ -24007,6 +24002,12 @@
     [
       "2026-08-18",
       121.370003,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      122.0,
       0,
       null
     ]

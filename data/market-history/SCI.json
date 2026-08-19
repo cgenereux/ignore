@@ -1,7 +1,7 @@
 {
   "ticker": "SCI",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:23:49+00:00",
+  "generatedAt": "2026-08-19T22:25:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70209,6 +70209,12 @@
       82.360001,
       0,
       11224975189
+    ],
+    [
+      "2026-08-19",
+      83.209999,
+      0,
+      11340822829
     ]
   ],
   "sharesOutstanding": [

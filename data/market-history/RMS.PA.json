@@ -2,7 +2,7 @@
   "ticker": "RMS.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:02:07+00:00",
+  "generatedAt": "2026-08-19T23:10:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41048,6 +41048,12 @@
     [
       "2026-08-17",
       1550.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      1560.5,
       0,
       null
     ]

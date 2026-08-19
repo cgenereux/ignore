@@ -1,7 +1,8 @@
 {
   "ticker": "IEF",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:48:33+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T22:57:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36203,12 +36204,6 @@
       null
     ],
     [
-      "2026-07-22",
-      93.099998,
-      0,
-      null
-    ],
-    [
       "2026-07-23",
       92.849998,
       0,
@@ -36319,6 +36314,12 @@
     [
       "2026-08-18",
       92.93,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      93.379997,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "COST",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:00:50+00:00",
+  "generatedAt": "2026-08-19T22:03:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60639,6 +60639,12 @@
       961.349976,
       0,
       426338337398
+    ],
+    [
+      "2026-08-19",
+      956.98999,
+      0,
+      424404776309
     ]
   ],
   "sharesOutstanding": [

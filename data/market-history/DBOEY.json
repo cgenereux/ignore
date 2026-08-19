@@ -1,7 +1,7 @@
 {
   "ticker": "DBOEY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:36:54+00:00",
+  "generatedAt": "2026-08-19T22:46:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25069,6 +25069,12 @@
     [
       "2026-08-18",
       32.259998,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      32.41,
       0,
       null
     ]

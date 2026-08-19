@@ -1,7 +1,7 @@
 {
   "ticker": "QRVO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:00:58+00:00",
+  "generatedAt": "2026-08-19T22:30:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17545,6 +17545,12 @@
     [
       "2026-08-18",
       95.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      96.809998,
       0,
       null
     ]

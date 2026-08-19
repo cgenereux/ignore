@@ -1,7 +1,7 @@
 {
   "ticker": "KNSL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:52:04+00:00",
+  "generatedAt": "2026-08-19T22:28:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15175,6 +15175,12 @@
     [
       "2026-08-18",
       372.709991,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      379.420013,
       0,
       null
     ]

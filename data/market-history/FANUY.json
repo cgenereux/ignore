@@ -1,7 +1,7 @@
 {
   "ticker": "FANUY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:41:07+00:00",
+  "generatedAt": "2026-08-19T22:50:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25069,6 +25069,12 @@
     [
       "2026-08-18",
       19.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      19.32,
       0,
       null
     ]

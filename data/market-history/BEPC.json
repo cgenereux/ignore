@@ -1,7 +1,7 @@
 {
   "ticker": "BEPC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:31:10+00:00",
+  "generatedAt": "2026-08-19T22:41:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9151,6 +9151,12 @@
     [
       "2026-08-18",
       33.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      34.060001,
       0,
       null
     ]

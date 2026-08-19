@@ -2,7 +2,7 @@
   "ticker": "TGOPY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:08:49+00:00",
+  "generatedAt": "2026-08-19T23:16:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26072,6 +26072,12 @@
     [
       "2026-08-18",
       9.64,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      9.69,
       0,
       null
     ]

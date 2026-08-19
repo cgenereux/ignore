@@ -2,7 +2,7 @@
   "ticker": "BAH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:30:06+00:00",
+  "generatedAt": "2026-08-19T22:40:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23762,6 +23762,12 @@
     [
       "2026-08-18",
       75.760002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      78.839996,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "ZFL.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:16:54+00:00",
+  "generatedAt": "2026-08-19T23:24:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24434,6 +24434,12 @@
     [
       "2026-08-18",
       11.55,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      11.615,
       0,
       null
     ]

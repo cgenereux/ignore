@@ -1,7 +1,7 @@
 {
   "ticker": "CCK",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:23:25+00:00",
+  "generatedAt": "2026-08-19T22:25:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70209,6 +70209,12 @@
       116.860001,
       0,
       12709753382
+    ],
+    [
+      "2026-08-19",
+      116.919998,
+      0,
+      12716278747
     ]
   ],
   "sharesOutstanding": [

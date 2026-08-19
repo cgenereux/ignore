@@ -1,7 +1,7 @@
 {
   "ticker": "VTR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:18:08+00:00",
+  "generatedAt": "2026-08-19T22:19:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44217,6 +44217,12 @@
       91.199997,
       0,
       46780706375
+    ],
+    [
+      "2026-08-19",
+      91.849998,
+      0,
+      47114122291
     ]
   ],
   "sharesOutstanding": [

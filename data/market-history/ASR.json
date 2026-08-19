@@ -1,7 +1,7 @@
 {
   "ticker": "ASR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:29:06+00:00",
+  "generatedAt": "2026-08-19T22:39:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39061,6 +39061,12 @@
     [
       "2026-08-18",
       259.670013,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      259.440002,
       0,
       null
     ]

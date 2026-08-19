@@ -2,7 +2,7 @@
   "ticker": "CF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:09:25+00:00",
+  "generatedAt": "2026-08-19T22:11:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31732,6 +31732,12 @@
       119.720001,
       0,
       18118201075
+    ],
+    [
+      "2026-08-19",
+      119.019997,
+      0,
+      18012263725
     ]
   ],
   "sharesOutstanding": [

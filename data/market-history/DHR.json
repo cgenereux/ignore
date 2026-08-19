@@ -1,7 +1,7 @@
 {
   "ticker": "DHR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:10:33+00:00",
+  "generatedAt": "2026-08-19T22:12:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -72045,6 +72045,12 @@
       199.580002,
       0,
       140301957945
+    ],
+    [
+      "2026-08-19",
+      211.5,
+      0,
+      148681550421
     ]
   ],
   "sharesOutstanding": [

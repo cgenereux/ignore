@@ -2,7 +2,7 @@
   "ticker": "GSK.L",
   "currency": "GBP",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:46:15+00:00",
+  "generatedAt": "2026-08-19T22:55:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58676,6 +58676,12 @@
     [
       "2026-08-18",
       18.88,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      19.16,
       0,
       null
     ]

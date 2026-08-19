@@ -1,7 +1,7 @@
 {
   "ticker": "TER",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:17:26+00:00",
+  "generatedAt": "2026-08-19T22:19:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80925,6 +80925,12 @@
       404.290009,
       0,
       63288432013
+    ],
+    [
+      "2026-08-19",
+      379.649994,
+      0,
+      59431230848
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "TTWO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:17:19+00:00",
+  "generatedAt": "2026-08-19T22:19:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44301,6 +44301,12 @@
       242.399994,
       0,
       45324058242
+    ],
+    [
+      "2026-08-19",
+      237.039993,
+      0,
+      44321842953
     ]
   ],
   "sharesOutstanding": [

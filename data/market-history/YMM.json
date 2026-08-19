@@ -1,7 +1,7 @@
 {
   "ticker": "YMM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:15:59+00:00",
+  "generatedAt": "2026-08-19T23:23:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7771,6 +7771,12 @@
     [
       "2026-08-18",
       8.8,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      8.7,
       0,
       null
     ]

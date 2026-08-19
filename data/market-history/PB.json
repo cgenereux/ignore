@@ -1,7 +1,7 @@
 {
   "ticker": "PB",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:58:54+00:00",
+  "generatedAt": "2026-08-19T23:07:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41899,6 +41899,12 @@
     [
       "2026-08-18",
       74.330002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      72.900002,
       0,
       null
     ]

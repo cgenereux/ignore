@@ -2,7 +2,7 @@
   "ticker": "ONTO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:58:08+00:00",
+  "generatedAt": "2026-08-19T23:06:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10268,6 +10268,12 @@
     [
       "2026-08-18",
       315.420013,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      299.5,
       0,
       null
     ]

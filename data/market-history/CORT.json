@@ -1,7 +1,7 @@
 {
   "ticker": "CORT",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:21:32+00:00",
+  "generatedAt": "2026-08-19T22:23:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33741,6 +33741,12 @@
       118.099998,
       0,
       12766420521
+    ],
+    [
+      "2026-08-19",
+      119.019997,
+      0,
+      12865870848
     ]
   ],
   "sharesOutstanding": [

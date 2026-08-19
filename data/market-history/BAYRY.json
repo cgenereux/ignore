@@ -1,7 +1,7 @@
 {
   "ticker": "BAYRY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:30:20+00:00",
+  "generatedAt": "2026-08-19T22:40:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44905,6 +44905,12 @@
     [
       "2026-08-18",
       14.13,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      14.37,
       0,
       null
     ]

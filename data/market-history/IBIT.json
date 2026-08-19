@@ -1,7 +1,8 @@
 {
   "ticker": "IBIT",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:47:59+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T22:56:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3919,6 +3920,12 @@
     [
       "2026-08-18",
       36.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      38.779999,
       0,
       null
     ]

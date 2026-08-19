@@ -1,7 +1,7 @@
 {
   "ticker": "CFRUY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:34:03+00:00",
+  "generatedAt": "2026-08-19T22:43:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25111,6 +25111,12 @@
     [
       "2026-08-18",
       22.879999,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      23.16,
       0,
       null
     ]

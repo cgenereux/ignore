@@ -1,7 +1,7 @@
 {
   "ticker": "WBD",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:18:29+00:00",
+  "generatedAt": "2026-08-19T22:20:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31875,6 +31875,12 @@
       28.48,
       0,
       71403252125
+    ],
+    [
+      "2026-08-19",
+      28.530001,
+      0,
+      71528611830
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "IONQ",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:19:08+00:00",
+  "generatedAt": "2026-08-19T22:21:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8481,6 +8481,12 @@
       44.119999,
       0,
       17874584710
+    ],
+    [
+      "2026-08-19",
+      43.360001,
+      0,
+      17566682291
     ]
   ],
   "sharesOutstanding": [

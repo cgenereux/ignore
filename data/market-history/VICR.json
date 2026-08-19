@@ -1,7 +1,7 @@
 {
   "ticker": "VICR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:24:16+00:00",
+  "generatedAt": "2026-08-19T22:26:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -54969,6 +54969,12 @@
       242.410004,
       0,
       11176733073
+    ],
+    [
+      "2026-08-19",
+      217.350006,
+      0,
+      10021298482
     ]
   ],
   "sharesOutstanding": [

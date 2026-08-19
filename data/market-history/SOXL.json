@@ -1,7 +1,7 @@
 {
   "ticker": "SOXL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:06:10+00:00",
+  "generatedAt": "2026-08-19T23:13:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24817,6 +24817,12 @@
     [
       "2026-08-18",
       129.100006,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      120.739998,
       0,
       null
     ]

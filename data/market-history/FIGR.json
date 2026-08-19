@@ -1,7 +1,7 @@
 {
   "ticker": "FIGR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:42:27+00:00",
+  "generatedAt": "2026-08-19T22:51:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1417,6 +1417,12 @@
     [
       "2026-08-18",
       35.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      36.849998,
       0,
       null
     ]

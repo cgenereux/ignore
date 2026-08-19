@@ -1,7 +1,7 @@
 {
   "ticker": "GFL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:45:25+00:00",
+  "generatedAt": "2026-08-19T22:54:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9751,6 +9751,12 @@
     [
       "2026-08-18",
       40.490002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      41.52,
       0,
       null
     ]

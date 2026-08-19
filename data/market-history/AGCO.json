@@ -2,7 +2,7 @@
   "ticker": "AGCO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:27:30+00:00",
+  "generatedAt": "2026-08-19T22:26:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51872,6 +51872,12 @@
     [
       "2026-08-18",
       98.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      99.519997,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ALK",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:28:03+00:00",
+  "generatedAt": "2026-08-19T22:27:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70207,6 +70207,12 @@
     [
       "2026-08-18",
       42.41,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      41.23,
       0,
       null
     ]

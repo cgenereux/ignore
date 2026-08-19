@@ -1,7 +1,7 @@
 {
   "ticker": "RPM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:22:55+00:00",
+  "generatedAt": "2026-08-19T22:24:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70209,6 +70209,12 @@
       110.550003,
       0,
       14110934040
+    ],
+    [
+      "2026-08-19",
+      111.660004,
+      0,
+      14252617847
     ]
   ],
   "sharesOutstanding": [

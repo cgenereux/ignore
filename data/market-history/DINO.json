@@ -1,7 +1,7 @@
 {
   "ticker": "DINO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:22:42+00:00",
+  "generatedAt": "2026-08-19T22:24:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70209,6 +70209,12 @@
       95.699997,
       0,
       17013913807
+    ],
+    [
+      "2026-08-19",
+      94.620003,
+      0,
+      16821908281
     ]
   ],
   "sharesOutstanding": [

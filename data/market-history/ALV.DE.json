@@ -2,7 +2,7 @@
   "ticker": "ALV.DE",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:28:14+00:00",
+  "generatedAt": "2026-08-19T22:38:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45584,6 +45584,12 @@
     [
       "2026-08-17",
       438.600006,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      442.0,
       0,
       null
     ]

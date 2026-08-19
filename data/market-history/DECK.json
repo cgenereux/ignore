@@ -1,7 +1,7 @@
 {
   "ticker": "DECK",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:02:32+00:00",
+  "generatedAt": "2026-08-19T22:04:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49599,6 +49599,12 @@
       89.510002,
       0,
       12189638311
+    ],
+    [
+      "2026-08-19",
+      91.57,
+      0,
+      12470172604
     ]
   ],
   "sharesOutstanding": [

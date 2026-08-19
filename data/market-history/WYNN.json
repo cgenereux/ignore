@@ -2,7 +2,7 @@
   "ticker": "WYNN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:18:48+00:00",
+  "generatedAt": "2026-08-19T22:20:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35938,6 +35938,12 @@
       101.290001,
       0,
       10430225522
+    ],
+    [
+      "2026-08-19",
+      100.099998,
+      0,
+      10307686332
     ]
   ],
   "sharesOutstanding": [

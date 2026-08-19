@@ -2,7 +2,7 @@
   "ticker": "PATH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:20:50+00:00",
+  "generatedAt": "2026-08-19T22:22:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8038,6 +8038,12 @@
       15.58,
       0,
       8072313744
+    ],
+    [
+      "2026-08-19",
+      15.78,
+      0,
+      8175937659
     ]
   ],
   "sharesOutstanding": [

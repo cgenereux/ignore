@@ -1,7 +1,7 @@
 {
   "ticker": "ICL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:48:11+00:00",
+  "generatedAt": "2026-08-19T22:57:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32323,6 +32323,12 @@
     [
       "2026-08-18",
       5.41,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      5.5,
       0,
       null
     ]

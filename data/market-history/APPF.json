@@ -1,7 +1,7 @@
 {
   "ticker": "APPF",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:28:37+00:00",
+  "generatedAt": "2026-08-19T22:38:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16819,6 +16819,12 @@
     [
       "2026-08-18",
       203.949997,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      215.220001,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "UCG.MI",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:10:26+00:00",
+  "generatedAt": "2026-08-19T23:17:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40802,6 +40802,12 @@
     [
       "2026-08-17",
       84.660004,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      83.379997,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "CLSK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:24:34+00:00",
+  "generatedAt": "2026-08-19T22:26:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14710,6 +14710,12 @@
       11.73,
       0,
       3012464266
+    ],
+    [
+      "2026-08-19",
+      11.67,
+      0,
+      2997055262
     ]
   ],
   "sharesOutstanding": [

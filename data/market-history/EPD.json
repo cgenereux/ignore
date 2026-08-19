@@ -1,7 +1,7 @@
 {
   "ticker": "EPD",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:39:58+00:00",
+  "generatedAt": "2026-08-19T22:28:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42355,6 +42355,12 @@
     [
       "2026-08-18",
       38.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      38.119999,
       0,
       null
     ]

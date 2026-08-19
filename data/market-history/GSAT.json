@@ -1,7 +1,7 @@
 {
   "ticker": "GSAT",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:24:05+00:00",
+  "generatedAt": "2026-08-19T22:26:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29871,6 +29871,12 @@
       82.889999,
       0,
       10739509318
+    ],
+    [
+      "2026-08-19",
+      82.459999,
+      0,
+      10683797021
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "RO.SW",
   "currency": "CHF",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:02:17+00:00",
+  "generatedAt": "2026-08-19T23:10:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47972,6 +47972,12 @@
     [
       "2026-08-17",
       362.799988,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      366.799988,
       0,
       null
     ]

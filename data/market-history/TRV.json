@@ -1,7 +1,7 @@
 {
   "ticker": "TRV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:17:41+00:00",
+  "generatedAt": "2026-08-19T22:19:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -76767,6 +76767,12 @@
       367.929993,
       0,
       76741006317
+    ],
+    [
+      "2026-08-19",
+      362.220001,
+      0,
+      75550044723
     ]
   ],
   "sharesOutstanding": [

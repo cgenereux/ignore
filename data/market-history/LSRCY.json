@@ -1,7 +1,7 @@
 {
   "ticker": "LSRCY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:53:37+00:00",
+  "generatedAt": "2026-08-19T23:02:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8929,6 +8929,12 @@
     [
       "2026-08-18",
       44.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      44.52,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "VSNT",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:13:26+00:00",
+  "generatedAt": "2026-08-19T23:20:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1021,6 +1021,12 @@
     [
       "2026-08-18",
       39.490002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      39.259998,
       0,
       null
     ]

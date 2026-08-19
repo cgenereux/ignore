@@ -1,7 +1,7 @@
 {
   "ticker": "DAL",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:05:41+00:00",
+  "generatedAt": "2026-08-19T22:08:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29133,6 +29133,12 @@
       85.699997,
       0,
       56358291664
+    ],
+    [
+      "2026-08-19",
+      83.290001,
+      0,
+      54773422771
     ]
   ],
   "sharesOutstanding": [

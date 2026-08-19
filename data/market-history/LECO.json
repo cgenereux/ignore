@@ -1,7 +1,7 @@
 {
   "ticker": "LECO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:22:41+00:00",
+  "generatedAt": "2026-08-19T22:24:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48879,6 +48879,12 @@
       281.970001,
       0,
       15368988368
+    ],
+    [
+      "2026-08-19",
+      279.559998,
+      0,
+      15237629294
     ]
   ],
   "sharesOutstanding": [

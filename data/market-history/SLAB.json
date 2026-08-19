@@ -1,7 +1,8 @@
 {
   "ticker": "SLAB",
   "currency": "USD",
-  "generatedAt": "2026-08-18T23:05:25+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T23:13:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39841,6 +39842,12 @@
     [
       "2026-08-18",
       219.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      218.919998,
       0,
       null
     ]

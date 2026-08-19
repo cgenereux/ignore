@@ -1,7 +1,7 @@
 {
   "ticker": "GE",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:01:05+00:00",
+  "generatedAt": "2026-08-19T22:03:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97599,6 +97599,12 @@
       375.089996,
       0,
       389179319202
+    ],
+    [
+      "2026-08-19",
+      356.230011,
+      0,
+      369610905405
     ]
   ],
   "sharesOutstanding": [

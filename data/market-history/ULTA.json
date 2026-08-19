@@ -1,7 +1,7 @@
 {
   "ticker": "ULTA",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:17:57+00:00",
+  "generatedAt": "2026-08-19T22:19:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28401,6 +28401,12 @@
       516.73999,
       0,
       22214296146
+    ],
+    [
+      "2026-08-19",
+      527.849976,
+      0,
+      22691906762
     ]
   ],
   "sharesOutstanding": [

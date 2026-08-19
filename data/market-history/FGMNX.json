@@ -1,7 +1,7 @@
 {
   "ticker": "FGMNX",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:42:13+00:00",
+  "generatedAt": "2026-08-19T22:51:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61627,6 +61627,12 @@
     [
       "2026-08-17",
       10.22,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      10.23,
       0,
       null
     ]

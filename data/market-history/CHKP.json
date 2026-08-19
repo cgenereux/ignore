@@ -1,7 +1,8 @@
 {
   "ticker": "CHKP",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:34:41+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T22:44:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45499,6 +45500,12 @@
     [
       "2026-08-18",
       130.309998,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      132.350006,
       0,
       null
     ]

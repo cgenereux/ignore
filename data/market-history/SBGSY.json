@@ -2,7 +2,7 @@
   "ticker": "SBGSY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:03:32+00:00",
+  "generatedAt": "2026-08-19T23:11:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25010,6 +25010,12 @@
     [
       "2026-08-18",
       68.339996,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      68.580002,
       0,
       null
     ]

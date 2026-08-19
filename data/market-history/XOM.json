@@ -2,7 +2,7 @@
   "ticker": "XOM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:01:35+00:00",
+  "generatedAt": "2026-08-19T22:03:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97600,6 +97600,12 @@
       165.559998,
       0,
       680768135874
+    ],
+    [
+      "2026-08-19",
+      164.770004,
+      0,
+      677519751217
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ABBV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:05:29+00:00",
+  "generatedAt": "2026-08-19T22:07:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20571,6 +20571,12 @@
       258.920013,
       0,
       457458020937
+    ],
+    [
+      "2026-08-19",
+      265.970001,
+      0,
+      469913888758
     ]
   ],
   "sharesOutstanding": [

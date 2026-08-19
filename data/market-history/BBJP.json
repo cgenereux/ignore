@@ -1,7 +1,7 @@
 {
   "ticker": "BBJP",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:30:38+00:00",
+  "generatedAt": "2026-08-19T22:40:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12325,6 +12325,12 @@
     [
       "2026-08-18",
       76.980003,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      76.510002,
       0,
       null
     ]

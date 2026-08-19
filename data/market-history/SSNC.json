@@ -1,7 +1,7 @@
 {
   "ticker": "SSNC",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:22:11+00:00",
+  "generatedAt": "2026-08-19T22:24:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24735,6 +24735,12 @@
       80.529999,
       0,
       18896766541
+    ],
+    [
+      "2026-08-19",
+      82.279999,
+      0,
+      19307412784
     ]
   ],
   "sharesOutstanding": [

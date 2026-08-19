@@ -1,7 +1,7 @@
 {
   "ticker": "GWRE",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:22:58+00:00",
+  "generatedAt": "2026-08-19T22:24:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21981,6 +21981,12 @@
       177.759995,
       0,
       14799650807
+    ],
+    [
+      "2026-08-19",
+      181.179993,
+      0,
+      15084387420
     ]
   ],
   "sharesOutstanding": [

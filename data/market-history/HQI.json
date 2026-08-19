@@ -2,7 +2,7 @@
   "ticker": "HQI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T23:17:10+00:00",
+  "generatedAt": "2026-08-19T23:24:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34520,6 +34520,12 @@
     [
       "2026-08-18",
       16.719999,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      16.709999,
       0,
       null
     ]

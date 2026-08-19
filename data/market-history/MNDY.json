@@ -1,7 +1,7 @@
 {
   "ticker": "MNDY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:55:17+00:00",
+  "generatedAt": "2026-08-19T23:03:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7825,6 +7825,12 @@
     [
       "2026-08-18",
       88.040001,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      91.010002,
       0,
       null
     ]

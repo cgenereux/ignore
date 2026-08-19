@@ -1,7 +1,7 @@
 {
   "ticker": "FE",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:12:01+00:00",
+  "generatedAt": "2026-08-19T22:14:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43425,6 +43425,12 @@
       47.259998,
       0,
       27336656360
+    ],
+    [
+      "2026-08-19",
+      47.25,
+      0,
+      27330873019
     ]
   ],
   "sharesOutstanding": [

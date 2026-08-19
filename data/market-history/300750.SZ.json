@@ -2,7 +2,7 @@
   "ticker": "300750.SZ",
   "currency": "CNY",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:04:15+00:00",
+  "generatedAt": "2026-08-19T22:06:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11926,6 +11926,12 @@
       396.26001,
       0,
       1833358324469
+    ],
+    [
+      "2026-08-19",
+      389.0,
+      0,
+      1799768763491
     ]
   ],
   "sharesOutstanding": [

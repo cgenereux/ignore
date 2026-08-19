@@ -1,7 +1,7 @@
 {
   "ticker": "ORKA",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:58:19+00:00",
+  "generatedAt": "2026-08-19T23:06:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43813,6 +43813,12 @@
     [
       "2026-08-18",
       113.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      109.690002,
       0,
       null
     ]

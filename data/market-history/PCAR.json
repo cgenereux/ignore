@@ -1,7 +1,7 @@
 {
   "ticker": "PCAR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:15:29+00:00",
+  "generatedAt": "2026-08-19T22:17:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70203,6 +70203,12 @@
       128.020004,
       0,
       67385243532
+    ],
+    [
+      "2026-08-19",
+      127.470001,
+      0,
+      67095741201
     ]
   ],
   "sharesOutstanding": [

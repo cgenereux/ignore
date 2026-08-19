@@ -1,7 +1,7 @@
 {
   "ticker": "U",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:19:48+00:00",
+  "generatedAt": "2026-08-19T22:21:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8919,6 +8919,12 @@
       46.740002,
       0,
       20569757467
+    ],
+    [
+      "2026-08-19",
+      47.110001,
+      0,
+      20732589902
     ]
   ],
   "sharesOutstanding": [

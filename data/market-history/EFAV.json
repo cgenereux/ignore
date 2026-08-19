@@ -1,7 +1,7 @@
 {
   "ticker": "EFAV",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:39:06+00:00",
+  "generatedAt": "2026-08-19T22:48:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22369,6 +22369,12 @@
     [
       "2026-08-18",
       93.059998,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      94.059998,
       0,
       null
     ]

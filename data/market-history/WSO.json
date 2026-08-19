@@ -1,7 +1,7 @@
 {
   "ticker": "WSO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:23:37+00:00",
+  "generatedAt": "2026-08-19T22:25:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63795,6 +63795,12 @@
       313.649994,
       0,
       12938750396
+    ],
+    [
+      "2026-08-19",
+      319.640015,
+      0,
+      13185851894
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "IWO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:50:32+00:00",
+  "generatedAt": "2026-08-19T22:59:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39319,6 +39319,12 @@
     [
       "2026-08-18",
       388.230011,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      390.279999,
       0,
       null
     ]

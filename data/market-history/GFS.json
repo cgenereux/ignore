@@ -1,7 +1,7 @@
 {
   "ticker": "GFS",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:03:27+00:00",
+  "generatedAt": "2026-08-19T22:05:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7239,6 +7239,12 @@
       49.900002,
       0,
       27380172404
+    ],
+    [
+      "2026-08-19",
+      48.580002,
+      0,
+      26655887472
     ]
   ],
   "sharesOutstanding": [

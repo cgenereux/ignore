@@ -1,7 +1,7 @@
 {
   "ticker": "FORM",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:24:28+00:00",
+  "generatedAt": "2026-08-19T22:26:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35007,6 +35007,12 @@
       124.339996,
       0,
       9692896065
+    ],
+    [
+      "2026-08-19",
+      114.949997,
+      0,
+      8960900804
     ]
   ],
   "sharesOutstanding": [

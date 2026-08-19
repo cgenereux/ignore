@@ -1,7 +1,7 @@
 {
   "ticker": "COR",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:09:09+00:00",
+  "generatedAt": "2026-08-19T22:11:32+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -47379,6 +47379,12 @@
       316.130005,
       0,
       61506588848
+    ],
+    [
+      "2026-08-19",
+      317.100006,
+      0,
+      61695313314
     ]
   ],
   "sharesOutstanding": [

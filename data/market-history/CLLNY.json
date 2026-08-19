@@ -1,7 +1,8 @@
 {
   "ticker": "CLLNY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:34:57+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T22:44:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13164,7 +13165,7 @@
     ],
     [
       "2026-08-14",
-      15.9,
+      15.93,
       0,
       null
     ],
@@ -13176,7 +13177,13 @@
     ],
     [
       "2026-08-18",
-      15.33,
+      15.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      15.42,
       0,
       null
     ]

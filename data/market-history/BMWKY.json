@@ -1,7 +1,8 @@
 {
   "ticker": "BMWKY",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:32:04+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-19T22:41:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25080,7 +25081,7 @@
     ],
     [
       "2026-08-14",
-      22.870001,
+      22.84,
       0,
       null
     ],
@@ -25092,7 +25093,13 @@
     ],
     [
       "2026-08-18",
-      22.33,
+      22.379999,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      22.639999,
       0,
       null
     ]

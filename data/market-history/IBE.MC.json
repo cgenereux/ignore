@@ -2,7 +2,7 @@
   "ticker": "IBE.MC",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-18T22:47:57+00:00",
+  "generatedAt": "2026-08-19T22:56:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41018,6 +41018,12 @@
     [
       "2026-08-17",
       20.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-18",
+      20.219999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "TKO",
   "currency": "USD",
-  "generatedAt": "2026-08-18T22:17:32+00:00",
+  "generatedAt": "2026-08-19T22:19:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40497,6 +40497,12 @@
       192.110001,
       0,
       14402039706
+    ],
+    [
+      "2026-08-19",
+      201.690002,
+      0,
+      15120230150
     ]
   ],
   "sharesOutstanding": [
