@@ -1,7 +1,7 @@
 {
   "ticker": "ADSK",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:10:31+00:00",
+  "generatedAt": "2026-08-20T22:14:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62193,6 +62193,12 @@
       251.289993,
       0,
       53058688706
+    ],
+    [
+      "2026-08-20",
+      251.020004,
+      0,
+      53001681808
     ]
   ],
   "sharesOutstanding": [

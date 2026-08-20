@@ -1,7 +1,7 @@
 {
   "ticker": "NSRGY",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:05:36+00:00",
+  "generatedAt": "2026-08-20T23:10:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44929,6 +44929,12 @@
     [
       "2026-08-19",
       99.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      99.32,
       0,
       null
     ]

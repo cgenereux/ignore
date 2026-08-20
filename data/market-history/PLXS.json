@@ -1,7 +1,7 @@
 {
   "ticker": "PLXS",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:07:47+00:00",
+  "generatedAt": "2026-08-20T22:41:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61279,6 +61279,12 @@
     [
       "2026-08-19",
       244.259995,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      241.910004,
       0,
       null
     ]

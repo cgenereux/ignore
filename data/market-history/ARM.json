@@ -1,7 +1,7 @@
 {
   "ticker": "ARM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:05:40+00:00",
+  "generatedAt": "2026-08-20T22:06:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4419,6 +4419,12 @@
       249.339996,
       0,
       266294759283
+    ],
+    [
+      "2026-08-20",
+      250.720001,
+      0,
+      267768602523
     ]
   ],
   "sharesOutstanding": [

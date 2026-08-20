@@ -2,7 +2,7 @@
   "ticker": "CTAS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:11:53+00:00",
+  "generatedAt": "2026-08-20T22:15:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65002,6 +65002,12 @@
       203.080002,
       0,
       81266435181
+    ],
+    [
+      "2026-08-20",
+      203.520004,
+      0,
+      81442510764
     ]
   ],
   "sharesOutstanding": [

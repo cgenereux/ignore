@@ -2,7 +2,7 @@
   "ticker": "NXST",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:06:02+00:00",
+  "generatedAt": "2026-08-20T22:43:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34316,6 +34316,12 @@
     [
       "2026-08-19",
       187.369995,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      187.289993,
       0,
       null
     ]

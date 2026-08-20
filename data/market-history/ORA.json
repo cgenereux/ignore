@@ -1,7 +1,7 @@
 {
   "ticker": "ORA",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:06:39+00:00",
+  "generatedAt": "2026-08-20T22:41:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32863,6 +32863,12 @@
     [
       "2026-08-19",
       110.32,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      108.300003,
       0,
       null
     ]

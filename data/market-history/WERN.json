@@ -2,7 +2,7 @@
   "ticker": "WERN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:31:02+00:00",
+  "generatedAt": "2026-08-20T22:34:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60700,6 +60700,12 @@
       37.959999,
       0,
       2276732782
+    ],
+    [
+      "2026-08-20",
+      38.044998,
+      0,
+      2281830790
     ]
   ],
   "sharesOutstanding": [

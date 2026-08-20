@@ -1,7 +1,7 @@
 {
   "ticker": "GRFS",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:55:15+00:00",
+  "generatedAt": "2026-08-20T23:02:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22963,6 +22963,12 @@
     [
       "2026-08-19",
       8.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      7.99,
       0,
       null
     ]

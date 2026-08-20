@@ -1,7 +1,7 @@
 {
   "ticker": "RBRK",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:24:02+00:00",
+  "generatedAt": "2026-08-20T22:28:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3495,6 +3495,12 @@
       99.779999,
       0,
       20537574064
+    ],
+    [
+      "2026-08-20",
+      97.519997,
+      0,
+      20072401065
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "PRDO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:34:47+00:00",
+  "generatedAt": "2026-08-20T22:37:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43090,6 +43090,12 @@
       32.66,
       0,
       2043766616
+    ],
+    [
+      "2026-08-20",
+      32.48,
+      0,
+      2032502718
     ]
   ],
   "sharesOutstanding": [

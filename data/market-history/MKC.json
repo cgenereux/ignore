@@ -1,7 +1,7 @@
 {
   "ticker": "MKC",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:16:20+00:00",
+  "generatedAt": "2026-08-20T22:20:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80931,6 +80931,12 @@
       56.48,
       0,
       15184735534
+    ],
+    [
+      "2026-08-20",
+      55.220001,
+      0,
+      14845983030
     ]
   ],
   "sharesOutstanding": [

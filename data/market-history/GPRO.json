@@ -2,7 +2,7 @@
   "ticker": "GPRO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:28:35+00:00",
+  "generatedAt": "2026-08-20T22:32:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18340,6 +18340,12 @@
       0.6349,
       0,
       117141849
+    ],
+    [
+      "2026-08-20",
+      0.615,
+      0,
+      113470213
     ]
   ],
   "sharesOutstanding": [

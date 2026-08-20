@@ -1,7 +1,7 @@
 {
   "ticker": "BKNG",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:04:25+00:00",
+  "generatedAt": "2026-08-20T22:05:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41343,6 +41343,12 @@
       213.0,
       0,
       165049106868
+    ],
+    [
+      "2026-08-20",
+      209.869995,
+      0,
+      162623733580
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "TIGO",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:16:31+00:00",
+  "generatedAt": "2026-08-20T23:19:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11485,6 +11485,12 @@
     [
       "2026-08-19",
       88.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      90.470001,
       0,
       null
     ]

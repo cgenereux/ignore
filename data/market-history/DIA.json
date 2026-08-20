@@ -1,7 +1,7 @@
 {
   "ticker": "DIA",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:47:05+00:00",
+  "generatedAt": "2026-08-20T22:55:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43147,6 +43147,12 @@
     [
       "2026-08-19",
       534.27002,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      527.51001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "LSCC",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:02:16+00:00",
+  "generatedAt": "2026-08-20T22:38:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55567,6 +55567,12 @@
     [
       "2026-08-19",
       117.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      117.559998,
       0,
       null
     ]

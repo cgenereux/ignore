@@ -2,7 +2,7 @@
   "ticker": "SSNLF",
   "currency": "KRW",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:06:25+00:00",
+  "generatedAt": "2026-08-20T22:07:17+00:00",
   "source": "Yahoo Finance via yfinance; 005930.KS quoted in KRW",
   "schema": [
     "date",
@@ -39946,6 +39946,12 @@
       247500.0,
       0,
       1171949471603
+    ],
+    [
+      "2026-08-20",
+      271000.0,
+      0,
+      1276551700640
     ]
   ],
   "sharesOutstanding": [

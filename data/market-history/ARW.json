@@ -1,7 +1,7 @@
 {
   "ticker": "ARW",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:26:11+00:00",
+  "generatedAt": "2026-08-20T22:30:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70215,6 +70215,12 @@
       205.559998,
       0,
       10464118628
+    ],
+    [
+      "2026-08-20",
+      206.639999,
+      0,
+      10519096578
     ]
   ],
   "sharesOutstanding": [

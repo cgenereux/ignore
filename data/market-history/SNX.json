@@ -1,7 +1,7 @@
 {
   "ticker": "SNX",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:24:00+00:00",
+  "generatedAt": "2026-08-20T22:28:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34317,6 +34317,12 @@
       251.779999,
       0,
       20132014481
+    ],
+    [
+      "2026-08-20",
+      250.770004,
+      0,
+      20051256581
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "FIX",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:12:07+00:00",
+  "generatedAt": "2026-08-20T22:16:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43995,6 +43995,12 @@
       1696.060059,
       0,
       59691695706
+    ],
+    [
+      "2026-08-20",
+      1672.939941,
+      0,
+      58877998695
     ]
   ],
   "sharesOutstanding": [

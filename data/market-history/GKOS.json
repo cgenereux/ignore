@@ -1,7 +1,7 @@
 {
   "ticker": "GKOS",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:26:01+00:00",
+  "generatedAt": "2026-08-20T22:30:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16827,6 +16827,12 @@
       189.550003,
       0,
       11180405438
+    ],
+    [
+      "2026-08-20",
+      184.889999,
+      0,
+      10905540076
     ]
   ],
   "sharesOutstanding": [

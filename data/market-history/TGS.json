@@ -1,7 +1,7 @@
 {
   "ticker": "TGS",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:16:22+00:00",
+  "generatedAt": "2026-08-20T23:19:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47947,6 +47947,12 @@
     [
       "2026-08-19",
       27.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      28.120001,
       0,
       null
     ]

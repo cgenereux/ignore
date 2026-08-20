@@ -1,7 +1,7 @@
 {
   "ticker": "ESTC",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:22:51+00:00",
+  "generatedAt": "2026-08-20T22:27:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11871,6 +11871,12 @@
       87.339996,
       0,
       9148993006
+    ],
+    [
+      "2026-08-20",
+      85.900002,
+      0,
+      8998151433
     ]
   ],
   "sharesOutstanding": [

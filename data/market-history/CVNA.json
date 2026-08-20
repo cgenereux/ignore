@@ -1,7 +1,7 @@
 {
   "ticker": "CVNA",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:08:46+00:00",
+  "generatedAt": "2026-08-20T22:12:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14049,6 +14049,12 @@
       70.440002,
       0,
       77450543684
+    ],
+    [
+      "2026-08-20",
+      71.519997,
+      0,
+      78638024309
     ]
   ],
   "sharesOutstanding": [

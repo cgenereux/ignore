@@ -2,7 +2,7 @@
   "ticker": "NU",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:20:52+00:00",
+  "generatedAt": "2026-08-20T22:25:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7072,6 +7072,12 @@
       14.61,
       0,
       70576359650
+    ],
+    [
+      "2026-08-20",
+      14.21,
+      0,
+      68644086029
     ]
   ],
   "sharesOutstanding": [

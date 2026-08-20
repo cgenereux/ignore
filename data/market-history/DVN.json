@@ -1,7 +1,7 @@
 {
   "ticker": "DVN",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:12:36+00:00",
+  "generatedAt": "2026-08-20T22:16:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62103,6 +62103,12 @@
       48.189999,
       0,
       55582494142
+    ],
+    [
+      "2026-08-20",
+      49.299999,
+      0,
+      56862772295
     ]
   ],
   "sharesOutstanding": [

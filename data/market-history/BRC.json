@@ -1,7 +1,7 @@
 {
   "ticker": "BRC",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:42:23+00:00",
+  "generatedAt": "2026-08-20T22:51:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60157,6 +60157,12 @@
     [
       "2026-08-19",
       92.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      90.730003,
       0,
       null
     ]

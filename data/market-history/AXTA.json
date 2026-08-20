@@ -1,7 +1,7 @@
 {
   "ticker": "AXTA",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:39:51+00:00",
+  "generatedAt": "2026-08-20T22:41:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17755,6 +17755,12 @@
     [
       "2026-08-19",
       36.27,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      35.5,
       0,
       null
     ]

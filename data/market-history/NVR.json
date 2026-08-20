@@ -1,7 +1,7 @@
 {
   "ticker": "NVR",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:17:11+00:00",
+  "generatedAt": "2026-08-20T22:21:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62085,6 +62085,12 @@
       6418.859863,
       0,
       17105362895
+    ],
+    [
+      "2026-08-20",
+      6300.0,
+      0,
+      16788618000
     ]
   ],
   "sharesOutstanding": [

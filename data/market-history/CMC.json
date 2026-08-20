@@ -1,7 +1,7 @@
 {
   "ticker": "CMC",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:44:35+00:00",
+  "generatedAt": "2026-08-20T22:53:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70213,6 +70213,12 @@
     [
       "2026-08-19",
       68.160004,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      65.279999,
       0,
       null
     ]

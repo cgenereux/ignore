@@ -1,7 +1,7 @@
 {
   "ticker": "MDLZ",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:04:30+00:00",
+  "generatedAt": "2026-08-20T22:05:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38007,6 +38007,12 @@
       64.160004,
       0,
       82358973687
+    ],
+    [
+      "2026-08-20",
+      64.139999,
+      0,
+      82333295208
     ]
   ],
   "sharesOutstanding": [

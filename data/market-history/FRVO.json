@@ -1,7 +1,7 @@
 {
   "ticker": "FRVO",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:22:22+00:00",
+  "generatedAt": "2026-08-20T22:26:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -417,6 +417,12 @@
       17.83,
       0,
       5253519864
+    ],
+    [
+      "2026-08-20",
+      17.0,
+      0,
+      5008964558
     ]
   ],
   "sharesOutstanding": [

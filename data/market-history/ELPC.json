@@ -1,7 +1,7 @@
 {
   "ticker": "ELPC",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:48:29+00:00",
+  "generatedAt": "2026-08-20T22:56:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3973,6 +3973,12 @@
     [
       "2026-08-19",
       10.59,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      10.77,
       0,
       null
     ]

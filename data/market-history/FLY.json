@@ -1,7 +1,7 @@
 {
   "ticker": "FLY",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:22:20+00:00",
+  "generatedAt": "2026-08-20T22:26:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1569,6 +1569,12 @@
       25.299999,
       0,
       4235337391
+    ],
+    [
+      "2026-08-20",
+      23.629999,
+      0,
+      3955771621
     ]
   ],
   "sharesOutstanding": [

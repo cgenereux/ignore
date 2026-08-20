@@ -1,7 +1,7 @@
 {
   "ticker": "RJF",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:18:09+00:00",
+  "generatedAt": "2026-08-20T22:22:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65199,6 +65199,12 @@
       177.929993,
       0,
       34226917829
+    ],
+    [
+      "2026-08-20",
+      172.350006,
+      0,
+      33153542065
     ]
   ],
   "sharesOutstanding": [

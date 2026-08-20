@@ -1,7 +1,7 @@
 {
   "ticker": "BLTE",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:41:43+00:00",
+  "generatedAt": "2026-08-20T22:50:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6469,6 +6469,12 @@
     [
       "2026-08-19",
       168.550003,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      161.940002,
       0,
       null
     ]

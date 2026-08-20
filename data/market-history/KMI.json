@@ -1,7 +1,7 @@
 {
   "ticker": "KMI",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:15:46+00:00",
+  "generatedAt": "2026-08-20T22:19:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23421,6 +23421,12 @@
       32.080002,
       0,
       71435815093
+    ],
+    [
+      "2026-08-20",
+      31.610001,
+      0,
+      70389215392
     ]
   ],
   "sharesOutstanding": [

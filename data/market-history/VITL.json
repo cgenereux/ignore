@@ -2,7 +2,7 @@
   "ticker": "VITL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:35:01+00:00",
+  "generatedAt": "2026-08-20T22:37:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9118,6 +9118,12 @@
       10.87,
       0,
       466665644
+    ],
+    [
+      "2026-08-20",
+      10.62,
+      0,
+      455932759
     ]
   ],
   "sharesOutstanding": [

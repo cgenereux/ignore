@@ -2,7 +2,7 @@
   "ticker": "TD.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:16:00+00:00",
+  "generatedAt": "2026-08-20T23:19:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47660,6 +47660,12 @@
     [
       "2026-08-19",
       163.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      161.419998,
       0,
       null
     ]

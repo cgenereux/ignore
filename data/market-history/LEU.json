@@ -1,7 +1,7 @@
 {
   "ticker": "LEU",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:22:15+00:00",
+  "generatedAt": "2026-08-20T22:26:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42381,6 +42381,12 @@
       183.679993,
       0,
       3664940811
+    ],
+    [
+      "2026-08-20",
+      176.130005,
+      0,
+      3514296977
     ]
   ],
   "sharesOutstanding": [

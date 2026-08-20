@@ -2,7 +2,7 @@
   "ticker": "ET",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:28:19+00:00",
+  "generatedAt": "2026-08-20T22:32:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31012,6 +31012,12 @@
       21.18,
       0,
       72929085549
+    ],
+    [
+      "2026-08-20",
+      21.209999,
+      0,
+      73032381385
     ]
   ],
   "sharesOutstanding": [

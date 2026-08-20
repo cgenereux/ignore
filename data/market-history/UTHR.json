@@ -1,7 +1,7 @@
 {
   "ticker": "UTHR",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:18:33+00:00",
+  "generatedAt": "2026-08-20T22:38:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41017,6 +41017,12 @@
     [
       "2026-08-19",
       529.140015,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      521.0,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "GRID",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:55:17+00:00",
+  "generatedAt": "2026-08-20T23:02:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25285,6 +25285,12 @@
     [
       "2026-08-19",
       182.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      181.160004,
       0,
       null
     ]

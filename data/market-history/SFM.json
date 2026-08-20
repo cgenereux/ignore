@@ -1,7 +1,7 @@
 {
   "ticker": "SFM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:12:06+00:00",
+  "generatedAt": "2026-08-20T22:41:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19699,6 +19699,12 @@
     [
       "2026-08-19",
       79.330002,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      78.379997,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "SHECY",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:12:21+00:00",
+  "generatedAt": "2026-08-20T23:16:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26761,6 +26761,12 @@
     [
       "2026-08-19",
       19.719999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      19.1,
       0,
       null
     ]

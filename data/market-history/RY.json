@@ -1,7 +1,7 @@
 {
   "ticker": "RY",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:05:56+00:00",
+  "generatedAt": "2026-08-20T22:06:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46575,6 +46575,12 @@
       207.619995,
       0,
       288521687207
+    ],
+    [
+      "2026-08-20",
+      205.210007,
+      0,
+      285172617095
     ]
   ],
   "sharesOutstanding": [

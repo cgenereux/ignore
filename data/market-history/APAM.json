@@ -2,7 +2,7 @@
   "ticker": "APAM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:33:29+00:00",
+  "generatedAt": "2026-08-20T22:36:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20296,6 +20296,12 @@
       42.5,
       0,
       3017348402
+    ],
+    [
+      "2026-08-20",
+      42.049999,
+      0,
+      2985399953
     ]
   ],
   "sharesOutstanding": [

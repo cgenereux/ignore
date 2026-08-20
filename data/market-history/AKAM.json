@@ -1,7 +1,7 @@
 {
   "ticker": "AKAM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:09:41+00:00",
+  "generatedAt": "2026-08-20T22:13:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40455,6 +40455,12 @@
       112.839996,
       0,
       16405293758
+    ],
+    [
+      "2026-08-20",
+      110.089996,
+      0,
+      16005483768
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "TTDKY",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:17:21+00:00",
+  "generatedAt": "2026-08-20T23:20:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67117,6 +67117,12 @@
     [
       "2026-08-19",
       19.129999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      18.74,
       0,
       null
     ]

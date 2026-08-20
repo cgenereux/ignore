@@ -2,7 +2,7 @@
   "ticker": "NVO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:03:14+00:00",
+  "generatedAt": "2026-08-20T22:04:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -68518,6 +68518,12 @@
       46.48,
       0,
       205538049739
+    ],
+    [
+      "2026-08-20",
+      46.139999,
+      0,
+      204034543522
     ]
   ],
   "sharesOutstanding": [

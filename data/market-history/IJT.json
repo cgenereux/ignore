@@ -1,7 +1,7 @@
 {
   "ticker": "IJT",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:58:08+00:00",
+  "generatedAt": "2026-08-20T23:04:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39325,6 +39325,12 @@
     [
       "2026-08-19",
       175.119995,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      172.850006,
       0,
       null
     ]

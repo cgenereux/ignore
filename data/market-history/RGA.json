@@ -2,7 +2,7 @@
   "ticker": "RGA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:24:30+00:00",
+  "generatedAt": "2026-08-20T22:28:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27058,6 +27058,12 @@
       240.699997,
       0,
       15718110570
+    ],
+    [
+      "2026-08-20",
+      242.550003,
+      0,
+      15838919045
     ]
   ],
   "sharesOutstanding": [

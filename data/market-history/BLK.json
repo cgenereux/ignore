@@ -1,7 +1,7 @@
 {
   "ticker": "BLK",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:07:52+00:00",
+  "generatedAt": "2026-08-20T22:11:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40575,6 +40575,12 @@
       1158.920044,
       0,
       179627263031
+    ],
+    [
+      "2026-08-20",
+      1139.819946,
+      0,
+      176666835965
     ]
   ],
   "sharesOutstanding": [

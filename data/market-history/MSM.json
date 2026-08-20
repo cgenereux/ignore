@@ -1,7 +1,7 @@
 {
   "ticker": "MSM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:04:18+00:00",
+  "generatedAt": "2026-08-20T22:41:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46315,6 +46315,12 @@
     [
       "2026-08-19",
       120.330002,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      117.699997,
       0,
       null
     ]

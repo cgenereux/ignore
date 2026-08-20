@@ -1,7 +1,7 @@
 {
   "ticker": "FFIDX",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:51:20+00:00",
+  "generatedAt": "2026-08-20T22:59:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70501,6 +70501,12 @@
     [
       "2026-08-18",
       117.760002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      118.480003,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "AXP",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:07:50+00:00",
+  "generatedAt": "2026-08-20T22:11:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82011,6 +82011,12 @@
       339.899994,
       0,
       229537808115
+    ],
+    [
+      "2026-08-20",
+      331.149994,
+      0,
+      223628847076
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "AR",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:38:46+00:00",
+  "generatedAt": "2026-08-20T22:39:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19399,6 +19399,12 @@
     [
       "2026-08-19",
       37.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      37.66,
       0,
       null
     ]

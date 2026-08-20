@@ -1,7 +1,7 @@
 {
   "ticker": "BNL",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:42:01+00:00",
+  "generatedAt": "2026-08-20T22:50:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8929,6 +8929,12 @@
     [
       "2026-08-19",
       21.15,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      21.209999,
       0,
       null
     ]

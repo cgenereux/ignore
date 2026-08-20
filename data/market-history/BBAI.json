@@ -1,7 +1,7 @@
 {
   "ticker": "BBAI",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:22:17+00:00",
+  "generatedAt": "2026-08-20T22:26:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8115,6 +8115,12 @@
       3.17,
       0,
       1519997579
+    ],
+    [
+      "2026-08-20",
+      3.07,
+      0,
+      1472048062
     ]
   ],
   "sharesOutstanding": [

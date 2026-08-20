@@ -2,7 +2,7 @@
   "ticker": "JEF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:00:01+00:00",
+  "generatedAt": "2026-08-20T23:06:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70196,6 +70196,12 @@
     [
       "2026-08-19",
       53.549999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      51.779999,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "RNECY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:10:03+00:00",
+  "generatedAt": "2026-08-20T23:14:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27998,6 +27998,12 @@
     [
       "2026-08-19",
       10.89,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      10.68,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KT",
   "currency": "USD",
-  "generatedAt": "2026-08-19T23:01:11+00:00",
+  "generatedAt": "2026-08-20T23:07:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41107,6 +41107,12 @@
     [
       "2026-08-19",
       19.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      18.67,
       0,
       null
     ]

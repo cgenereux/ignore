@@ -1,7 +1,7 @@
 {
   "ticker": "CHYM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:21:57+00:00",
+  "generatedAt": "2026-08-20T22:26:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1797,6 +1797,12 @@
       33.07,
       0,
       12600302810
+    ],
+    [
+      "2026-08-20",
+      31.950001,
+      0,
+      12173561782
     ]
   ],
   "sharesOutstanding": [

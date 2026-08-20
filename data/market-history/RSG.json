@@ -1,7 +1,7 @@
 {
   "ticker": "RSG",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:09:20+00:00",
+  "generatedAt": "2026-08-20T22:13:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42471,6 +42471,12 @@
       221.039993,
       0,
       68006067725
+    ],
+    [
+      "2026-08-20",
+      219.5,
+      0,
+      67532267096
     ]
   ],
   "sharesOutstanding": [

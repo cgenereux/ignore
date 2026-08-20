@@ -1,7 +1,7 @@
 {
   "ticker": "BIIB",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:10:53+00:00",
+  "generatedAt": "2026-08-20T22:14:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52767,6 +52767,12 @@
       221.559998,
       0,
       32736375436
+    ],
+    [
+      "2026-08-20",
+      214.350006,
+      0,
+      31671070373
     ]
   ],
   "sharesOutstanding": [

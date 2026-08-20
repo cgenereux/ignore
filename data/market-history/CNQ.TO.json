@@ -2,7 +2,7 @@
   "ticker": "CNQ.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:44:48+00:00",
+  "generatedAt": "2026-08-20T22:53:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47660,6 +47660,12 @@
     [
       "2026-08-19",
       68.480003,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      70.440002,
       0,
       null
     ]

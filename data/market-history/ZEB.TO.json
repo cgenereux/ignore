@@ -2,7 +2,7 @@
   "ticker": "ZEB.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:23:31+00:00",
+  "generatedAt": "2026-08-20T23:25:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24590,6 +24590,12 @@
     [
       "2026-08-19",
       74.459999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      73.160004,
       0,
       null
     ]

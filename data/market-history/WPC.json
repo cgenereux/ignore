@@ -2,7 +2,7 @@
   "ticker": "WPC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:24:27+00:00",
+  "generatedAt": "2026-08-20T22:28:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43144,6 +43144,12 @@
       71.949997,
       0,
       16390731014
+    ],
+    [
+      "2026-08-20",
+      72.010002,
+      0,
+      16404400631
     ]
   ],
   "sharesOutstanding": [

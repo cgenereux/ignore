@@ -1,7 +1,7 @@
 {
   "ticker": "ING",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:58:25+00:00",
+  "generatedAt": "2026-08-20T23:05:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48715,6 +48715,12 @@
     [
       "2026-08-19",
       34.689999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      34.5,
       0,
       null
     ]

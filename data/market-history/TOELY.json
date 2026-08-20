@@ -2,7 +2,7 @@
   "ticker": "TOELY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:16:54+00:00",
+  "generatedAt": "2026-08-20T23:20:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25076,6 +25076,12 @@
     [
       "2026-08-19",
       172.320007,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      166.75,
       0,
       null
     ]

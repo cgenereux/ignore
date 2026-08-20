@@ -1,7 +1,7 @@
 {
   "ticker": "AFRM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:21:11+00:00",
+  "generatedAt": "2026-08-20T22:25:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8445,6 +8445,12 @@
       77.330002,
       0,
       25897706645
+    ],
+    [
+      "2026-08-20",
+      75.050003,
+      0,
+      25134138325
     ]
   ],
   "sharesOutstanding": [

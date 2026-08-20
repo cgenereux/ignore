@@ -2,7 +2,7 @@
   "ticker": "CERT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:27:34+00:00",
+  "generatedAt": "2026-08-20T22:31:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8554,6 +8554,12 @@
       8.36,
       0,
       1275224201
+    ],
+    [
+      "2026-08-20",
+      8.73,
+      0,
+      1331663480
     ]
   ],
   "sharesOutstanding": [

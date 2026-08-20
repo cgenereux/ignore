@@ -1,7 +1,7 @@
 {
   "ticker": "HESM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:56:01+00:00",
+  "generatedAt": "2026-08-20T22:40:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14143,6 +14143,12 @@
     [
       "2026-08-19",
       39.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      39.099998,
       0,
       null
     ]

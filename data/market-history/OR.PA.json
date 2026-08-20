@@ -2,7 +2,7 @@
   "ticker": "OR.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:06:38+00:00",
+  "generatedAt": "2026-08-20T23:11:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41054,6 +41054,12 @@
     [
       "2026-08-18",
       375.399994,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      382.549988,
       0,
       null
     ]

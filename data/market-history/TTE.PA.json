@@ -2,7 +2,7 @@
   "ticker": "TTE.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T23:17:25+00:00",
+  "generatedAt": "2026-08-20T23:20:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41054,6 +41054,12 @@
     [
       "2026-08-18",
       76.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      77.660004,
       0,
       null
     ]

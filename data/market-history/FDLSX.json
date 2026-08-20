@@ -1,7 +1,7 @@
 {
   "ticker": "FDLSX",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:50:57+00:00",
+  "generatedAt": "2026-08-20T22:58:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63919,6 +63919,12 @@
     [
       "2026-08-18",
       17.219999,
+      0,
+      null
+    ],
+    [
+      "2026-08-19",
+      17.309999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "GLPI",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:25:38+00:00",
+  "generatedAt": "2026-08-20T22:29:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19389,6 +19389,12 @@
       42.900002,
       0,
       12480470289
+    ],
+    [
+      "2026-08-20",
+      43.709999,
+      0,
+      12716114813
     ]
   ],
   "sharesOutstanding": [

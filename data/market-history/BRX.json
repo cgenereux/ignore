@@ -1,7 +1,7 @@
 {
   "ticker": "BRX",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:27:28+00:00",
+  "generatedAt": "2026-08-20T22:31:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19321,6 +19321,12 @@
     [
       "2026-08-19",
       29.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      29.48,
       0,
       null
     ]

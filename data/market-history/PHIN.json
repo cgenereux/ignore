@@ -2,7 +2,7 @@
   "ticker": "PHIN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:34:36+00:00",
+  "generatedAt": "2026-08-20T22:36:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4726,6 +4726,12 @@
       73.309998,
       0,
       2685938158
+    ],
+    [
+      "2026-08-20",
+      71.629997,
+      0,
+      2624386143
     ]
   ],
   "sharesOutstanding": [

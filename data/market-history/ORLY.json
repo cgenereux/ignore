@@ -1,7 +1,7 @@
 {
   "ticker": "ORLY",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:08:40+00:00",
+  "generatedAt": "2026-08-20T22:12:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50331,6 +50331,12 @@
       91.199997,
       0,
       73777221762
+    ],
+    [
+      "2026-08-20",
+      89.080002,
+      0,
+      72062228833
     ]
   ],
   "sharesOutstanding": [

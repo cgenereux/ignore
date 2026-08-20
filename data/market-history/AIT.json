@@ -1,7 +1,7 @@
 {
   "ticker": "AIT",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:25:27+00:00",
+  "generatedAt": "2026-08-20T22:29:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70215,6 +70215,12 @@
       346.190002,
       0,
       12795023589
+    ],
+    [
+      "2026-08-20",
+      340.339996,
+      0,
+      12578810049
     ]
   ],
   "sharesOutstanding": [

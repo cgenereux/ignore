@@ -1,7 +1,8 @@
 {
   "ticker": "DLO",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:47:19+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-20T22:55:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7781,12 +7782,6 @@
       null
     ],
     [
-      "2026-07-31",
-      15.08,
-      0,
-      null
-    ],
-    [
       "2026-08-03",
       15.31,
       0,
@@ -7861,6 +7856,12 @@
     [
       "2026-08-19",
       14.3,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      14.34,
       0,
       null
     ]

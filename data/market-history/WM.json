@@ -1,7 +1,7 @@
 {
   "ticker": "WM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:09:18+00:00",
+  "generatedAt": "2026-08-20T22:13:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -57675,6 +57675,12 @@
       225.080002,
       0,
       89967894347
+    ],
+    [
+      "2026-08-20",
+      224.919998,
+      0,
+      89903938453
     ]
   ],
   "sharesOutstanding": [

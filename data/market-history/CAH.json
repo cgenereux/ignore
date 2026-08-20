@@ -1,7 +1,7 @@
 {
   "ticker": "CAH",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:11:19+00:00",
+  "generatedAt": "2026-08-20T22:15:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65079,6 +65079,12 @@
       234.850006,
       0,
       55003246476
+    ],
+    [
+      "2026-08-20",
+      228.460007,
+      0,
+      53506671206
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "TSLA",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:02:42+00:00",
+  "generatedAt": "2026-08-20T22:03:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24369,6 +24369,12 @@
       351.119995,
       0,
       1386765061696
+    ],
+    [
+      "2026-08-20",
+      345.130005,
+      0,
+      1363107311376
     ]
   ],
   "sharesOutstanding": [

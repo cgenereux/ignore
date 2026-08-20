@@ -1,7 +1,7 @@
 {
   "ticker": "ALH",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:38:09+00:00",
+  "generatedAt": "2026-08-20T22:47:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1303,6 +1303,12 @@
     [
       "2026-08-19",
       23.940001,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      23.18,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DASH",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:02:38+00:00",
+  "generatedAt": "2026-08-20T22:03:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8583,6 +8583,12 @@
       220.220001,
       0,
       95953977491
+    ],
+    [
+      "2026-08-20",
+      222.360001,
+      0,
+      96886415290
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "EXPE",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:13:39+00:00",
+  "generatedAt": "2026-08-20T22:17:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31827,6 +31827,12 @@
       326.269989,
       0,
       39159601744
+    ],
+    [
+      "2026-08-20",
+      324.170013,
+      0,
+      38907558313
     ]
   ],
   "sharesOutstanding": [

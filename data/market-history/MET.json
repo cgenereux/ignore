@@ -1,7 +1,7 @@
 {
   "ticker": "MET",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:16:26+00:00",
+  "generatedAt": "2026-08-20T22:20:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39801,6 +39801,12 @@
       95.110001,
       0,
       61197272443
+    ],
+    [
+      "2026-08-20",
+      93.459999,
+      0,
+      60135600776
     ]
   ],
   "sharesOutstanding": [

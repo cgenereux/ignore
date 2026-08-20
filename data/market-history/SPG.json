@@ -1,7 +1,7 @@
 {
   "ticker": "SPG",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:18:41+00:00",
+  "generatedAt": "2026-08-20T22:22:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49359,6 +49359,12 @@
       223.179993,
       0,
       72375020185
+    ],
+    [
+      "2026-08-20",
+      219.899994,
+      0,
+      71311349669
     ]
   ],
   "sharesOutstanding": [

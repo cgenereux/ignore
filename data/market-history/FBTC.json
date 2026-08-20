@@ -1,7 +1,7 @@
 {
   "ticker": "FBTC",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:50:38+00:00",
+  "generatedAt": "2026-08-20T22:58:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3925,6 +3925,12 @@
     [
       "2026-08-19",
       59.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      63.27,
       0,
       null
     ]

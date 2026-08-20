@@ -1,7 +1,7 @@
 {
   "ticker": "JCI",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:15:35+00:00",
+  "generatedAt": "2026-08-20T22:19:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58791,6 +58791,12 @@
       144.940002,
       0,
       87796170141
+    ],
+    [
+      "2026-08-20",
+      143.160004,
+      0,
+      86717951063
     ]
   ],
   "sharesOutstanding": [

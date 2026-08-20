@@ -2,7 +2,7 @@
   "ticker": "GSHD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-19T22:28:38+00:00",
+  "generatedAt": "2026-08-20T22:32:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12544,6 +12544,12 @@
       68.389999,
       0,
       2428932707
+    ],
+    [
+      "2026-08-20",
+      70.699997,
+      0,
+      2510974375
     ]
   ],
   "sharesOutstanding": [

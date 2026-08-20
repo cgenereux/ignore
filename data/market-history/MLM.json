@@ -1,7 +1,7 @@
 {
   "ticker": "MLM",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:16:16+00:00",
+  "generatedAt": "2026-08-20T22:20:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49083,6 +49083,12 @@
       535.530029,
       0,
       32167060519
+    ],
+    [
+      "2026-08-20",
+      525.27002,
+      0,
+      31550784425
     ]
   ],
   "sharesOutstanding": [

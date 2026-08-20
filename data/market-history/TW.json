@@ -1,7 +1,7 @@
 {
   "ticker": "TW",
   "currency": "USD",
-  "generatedAt": "2026-08-19T22:23:44+00:00",
+  "generatedAt": "2026-08-20T22:27:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11127,6 +11127,12 @@
       103.300003,
       0,
       21999714155
+    ],
+    [
+      "2026-08-20",
+      106.099998,
+      0,
+      22596026808
     ]
   ],
   "sharesOutstanding": [
