@@ -65,6 +65,21 @@ FOREIGN_LISTINGS = {
     # 2000-01-03, and the seed carries 1996-2000 beneath that. The ticker stays
     # UBSFY so existing trades and URLs keep working; only where the prices come
     # from changes.
+    # Chinese A-shares: prices quoted in CNY; DEXCHUS is CNY per USD. CATL's
+    # absence here is why its market-cap column shipped as raw yuan under the
+    # marketCapCurrency: "USD" label -- a $1.8T CATL on the live site.
+    "300750.SZ": {
+        "symbol": "300750.SZ",
+        "currency": "CNY",
+        "series": "DEXCHUS",
+        "perUsd": True,
+    },
+    "688836.SS": {
+        "symbol": "688836.SS",
+        "currency": "CNY",
+        "series": "DEXCHUS",
+        "perUsd": True,
+    },
     "UBSFY": {
         "symbol": "UBI.PA",
         "currency": "EUR",

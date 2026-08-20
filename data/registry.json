@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T22:10:49.315Z",
+ "generatedAt": "2026-08-20T08:13:43.881Z",
  "companies": [
   {
    "ticker": "GOOG",
@@ -54953,6 +54953,20 @@
      4527884279
     ]
    ]
+  },
+  {
+   "ticker": "688836.SS",
+   "cik": null,
+   "legacyCiks": [],
+   "sp500LookupOnly": false,
+   "shareObservations": [
+    [
+     "2026-08-19",
+     404464000
+    ]
+   ],
+   "companyFactsShareStart": null,
+   "legacyShareObservations": []
   },
   {
    "ticker": "SFTBY",

@@ -1,0 +1,28 @@
+{
+  "ticker": "688836.SS",
+  "currency": "CNY",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-20T08:13:52+00:00",
+  "source": "First two STAR Market sessions from the Yahoo chart API, seeded by hand at listing (2026-08-19 debut close 845 CNY, 2026-08-20 close 687 CNY); yfinance refused the day-old symbol; 688836.SS quoted in CNY",
+  "schema": [
+    "date",
+    "close",
+    "dividend",
+    "marketCap"
+  ],
+  "daily": [
+    [
+      "2026-08-19",
+      845.0,
+      0,
+      50698997211
+    ]
+  ],
+  "sharesOutstanding": [
+    [
+      "2026-08-19",
+      404464000,
+      404464000
+    ]
+  ]
+}
