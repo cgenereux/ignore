@@ -174,6 +174,10 @@ KNOWN_REPORTED_SHARE_MULTIPLIERS = {
 # the same date remains in the series.
 KNOWN_SPECIAL_DIVIDENDS = {
     "MSFT": {"2004-11-15": 3.0},
+    # Spin-offs, not dividends: Yahoo records the distributed shares' value in
+    # the dividend column. Kraft (2007) and Philip Morris International (2008)
+    # put a $52.74 "dividend" and a 358% yield on Altria's 2008.
+    "MO": {"2007-04-02": 21.909, "2008-03-31": 51.06},
 }
 
 def finite_number(value) -> float | None:
