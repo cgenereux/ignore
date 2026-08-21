@@ -2,7 +2,7 @@
   "ticker": "APGE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:48:08+00:00",
+  "generatedAt": "2026-08-21T22:48:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4663,6 +4663,12 @@
     ],
     [
       "2026-08-20",
+      134.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
       134.75,
       0,
       null

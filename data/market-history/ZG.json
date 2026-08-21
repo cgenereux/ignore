@@ -1,7 +1,7 @@
 {
   "ticker": "ZG",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:41:18+00:00",
+  "generatedAt": "2026-08-21T22:41:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22771,6 +22771,12 @@
     [
       "2026-08-20",
       36.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      36.779999,
       0,
       null
     ]

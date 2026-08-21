@@ -2,7 +2,7 @@
   "ticker": "000660",
   "currency": "KRW",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:10:54+00:00",
+  "generatedAt": "2026-08-21T22:09:43+00:00",
   "source": "Yahoo Finance via yfinance; 000660.KS quoted in KRW",
   "schema": [
     "date",
@@ -39952,6 +39952,12 @@
       1691000.0,
       0,
       861081347958
+    ],
+    [
+      "2026-08-21",
+      1730000.0,
+      0,
+      886050997439
     ]
   ],
   "sharesOutstanding": [

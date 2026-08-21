@@ -1,7 +1,7 @@
 {
   "ticker": "NEM",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:20:58+00:00",
+  "generatedAt": "2026-08-21T22:20:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       127.639999,
       0,
       134493280827
+    ],
+    [
+      "2026-08-21",
+      131.580002,
+      0,
+      138644830948
     ]
   ],
   "sharesOutstanding": [

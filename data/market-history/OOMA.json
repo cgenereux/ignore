@@ -2,7 +2,7 @@
   "ticker": "OOMA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:37:39+00:00",
+  "generatedAt": "2026-08-21T22:37:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16726,6 +16726,12 @@
       20.51,
       0,
       563508626
+    ],
+    [
+      "2026-08-21",
+      22.02,
+      0,
+      604995615
     ]
   ],
   "sharesOutstanding": [

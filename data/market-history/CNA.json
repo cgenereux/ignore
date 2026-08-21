@@ -2,7 +2,7 @@
   "ticker": "CNA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:29:17+00:00",
+  "generatedAt": "2026-08-21T22:28:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80938,6 +80938,12 @@
       49.48,
       0,
       13389333794
+    ],
+    [
+      "2026-08-21",
+      48.98,
+      0,
+      13254033330
     ]
   ],
   "sharesOutstanding": [

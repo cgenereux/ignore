@@ -1,7 +1,7 @@
 {
   "ticker": "CR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:29:38+00:00",
+  "generatedAt": "2026-08-21T22:29:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5115,6 +5115,12 @@
       206.5,
       0,
       11935773514
+    ],
+    [
+      "2026-08-21",
+      208.410004,
+      0,
+      12046172406
     ]
   ],
   "sharesOutstanding": [

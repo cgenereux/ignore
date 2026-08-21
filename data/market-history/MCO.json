@@ -2,7 +2,7 @@
   "ticker": "MCO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:20:47+00:00",
+  "generatedAt": "2026-08-21T22:20:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48016,6 +48016,12 @@
       498.769989,
       0,
       86377477487
+    ],
+    [
+      "2026-08-21",
+      503.320007,
+      0,
+      87165454135
     ]
   ],
   "sharesOutstanding": [

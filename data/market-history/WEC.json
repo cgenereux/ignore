@@ -2,7 +2,7 @@
   "ticker": "WEC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:24:38+00:00",
+  "generatedAt": "2026-08-21T22:24:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70222,6 +70222,12 @@
       108.510002,
       0,
       35357917245
+    ],
+    [
+      "2026-08-21",
+      106.010002,
+      0,
+      34543293788
     ]
   ],
   "sharesOutstanding": [

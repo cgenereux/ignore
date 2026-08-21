@@ -2,7 +2,7 @@
   "ticker": "NA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:26:30+00:00",
+  "generatedAt": "2026-08-21T23:28:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6200,6 +6200,12 @@
     [
       "2026-08-20",
       1.92,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      2.0,
       0,
       null
     ]

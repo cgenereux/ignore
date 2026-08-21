@@ -2,7 +2,7 @@
   "ticker": "TRIP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:34:03+00:00",
+  "generatedAt": "2026-08-21T22:33:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22168,6 +22168,12 @@
       10.03,
       0,
       1175509369
+    ],
+    [
+      "2026-08-21",
+      10.0,
+      0,
+      1171993420
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "SPTS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:17:50+00:00",
+  "generatedAt": "2026-08-21T23:19:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22189,6 +22189,12 @@
     ],
     [
       "2026-08-20",
+      28.959999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
       28.959999,
       0,
       null

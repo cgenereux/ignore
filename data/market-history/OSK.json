@@ -1,7 +1,7 @@
 {
   "ticker": "OSK",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:40:09+00:00",
+  "generatedAt": "2026-08-21T22:39:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61807,6 +61807,12 @@
     [
       "2026-08-20",
       152.729996,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      157.089996,
       0,
       null
     ]

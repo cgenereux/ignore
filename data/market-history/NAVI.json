@@ -2,7 +2,7 @@
   "ticker": "NAVI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:36:07+00:00",
+  "generatedAt": "2026-08-21T22:35:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18616,6 +18616,12 @@
       9.1,
       0,
       855303731
+    ],
+    [
+      "2026-08-21",
+      9.45,
+      0,
+      888199973
     ]
   ],
   "sharesOutstanding": [

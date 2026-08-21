@@ -1,7 +1,7 @@
 {
   "ticker": "FNGU",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:59:51+00:00",
+  "generatedAt": "2026-08-21T23:00:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2269,6 +2269,12 @@
     [
       "2026-08-20",
       31.08,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      31.42,
       0,
       null
     ]

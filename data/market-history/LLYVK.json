@@ -2,7 +2,7 @@
   "ticker": "LLYVK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:07:59+00:00",
+  "generatedAt": "2026-08-21T23:09:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4574,6 +4574,12 @@
     [
       "2026-08-20",
       105.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      105.419998,
       0,
       null
     ]

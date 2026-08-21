@@ -1,7 +1,7 @@
 {
   "ticker": "TD",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:06:52+00:00",
+  "generatedAt": "2026-08-21T22:05:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45249,6 +45249,12 @@
       116.849998,
       0,
       193042156829
+    ],
+    [
+      "2026-08-21",
+      117.150002,
+      0,
+      193537777171
     ]
   ],
   "sharesOutstanding": [

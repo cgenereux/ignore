@@ -1,7 +1,7 @@
 {
   "ticker": "FSKAX",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:00:33+00:00",
+  "generatedAt": "2026-08-21T23:01:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22555,6 +22555,12 @@
     [
       "2026-08-19",
       212.770004,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      210.880005,
       0,
       null
     ]

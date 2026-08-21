@@ -1,7 +1,7 @@
 {
   "ticker": "CRM",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:04:39+00:00",
+  "generatedAt": "2026-08-21T22:03:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33465,6 +33465,12 @@
       205.429993,
       0,
       168247164001
+    ],
+    [
+      "2026-08-21",
+      209.169998,
+      0,
+      171310228500
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "CZR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:43:24+00:00",
+  "generatedAt": "2026-08-21T22:43:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17983,6 +17983,12 @@
     [
       "2026-08-20",
       29.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      29.76,
       0,
       null
     ]

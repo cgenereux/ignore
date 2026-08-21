@@ -2,7 +2,7 @@
   "ticker": "TDS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:37:44+00:00",
+  "generatedAt": "2026-08-21T22:37:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67552,6 +67552,12 @@
       34.709999,
       0,
       3995676245
+    ],
+    [
+      "2026-08-21",
+      33.599998,
+      0,
+      3867897424
     ]
   ],
   "sharesOutstanding": [

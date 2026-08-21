@@ -2,7 +2,7 @@
   "ticker": "VVX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:35:31+00:00",
+  "generatedAt": "2026-08-21T22:35:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17992,6 +17992,12 @@
       79.010002,
       0,
       2476596803
+    ],
+    [
+      "2026-08-21",
+      78.5,
+      0,
+      2460610603
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "RDW",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:26:54+00:00",
+  "generatedAt": "2026-08-21T22:26:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8445,6 +8445,12 @@
       11.77,
       0,
       2942413122
+    ],
+    [
+      "2026-08-21",
+      12.02,
+      0,
+      3004911275
     ]
   ],
   "sharesOutstanding": [

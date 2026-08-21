@@ -2,7 +2,7 @@
   "ticker": "UHS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:24:07+00:00",
+  "generatedAt": "2026-08-21T22:23:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -68218,6 +68218,12 @@
       172.869995,
       0,
       10188355053
+    ],
+    [
+      "2026-08-21",
+      177.259995,
+      0,
+      10447086325
     ]
   ],
   "sharesOutstanding": [

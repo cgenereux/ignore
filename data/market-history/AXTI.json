@@ -2,7 +2,7 @@
   "ticker": "AXTI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:42:48+00:00",
+  "generatedAt": "2026-08-21T22:43:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42646,6 +42646,12 @@
       73.120003,
       0,
       4794713458
+    ],
+    [
+      "2026-08-21",
+      70.739998,
+      0,
+      4638648877
     ]
   ],
   "sharesOutstanding": [

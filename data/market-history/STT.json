@@ -1,7 +1,7 @@
 {
   "ticker": "STT",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:23:01+00:00",
+  "generatedAt": "2026-08-21T22:22:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       183.070007,
       0,
       50289654131
+    ],
+    [
+      "2026-08-21",
+      187.130005,
+      0,
+      51404942626
     ]
   ],
   "sharesOutstanding": [

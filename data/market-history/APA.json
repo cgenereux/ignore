@@ -2,7 +2,7 @@
   "ticker": "APA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:14:12+00:00",
+  "generatedAt": "2026-08-21T22:13:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -71494,6 +71494,12 @@
       44.389999,
       0,
       15552103315
+    ],
+    [
+      "2026-08-21",
+      43.389999,
+      0,
+      15201751805
     ]
   ],
   "sharesOutstanding": [

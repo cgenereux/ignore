@@ -1,7 +1,7 @@
 {
   "ticker": "QTUM",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:13:11+00:00",
+  "generatedAt": "2026-08-21T23:14:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12007,6 +12007,12 @@
     [
       "2026-08-20",
       149.195007,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      150.470001,
       0,
       null
     ]

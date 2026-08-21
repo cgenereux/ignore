@@ -1,7 +1,7 @@
 {
   "ticker": "VRT",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:13:10+00:00",
+  "generatedAt": "2026-08-21T22:12:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12147,6 +12147,12 @@
       264.630005,
       0,
       101879422101
+    ],
+    [
+      "2026-08-21",
+      261.950012,
+      0,
+      100847656617
     ]
   ],
   "sharesOutstanding": [

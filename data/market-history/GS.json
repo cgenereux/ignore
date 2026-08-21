@@ -1,7 +1,7 @@
 {
   "ticker": "GS",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:11:43+00:00",
+  "generatedAt": "2026-08-21T22:10:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41211,6 +41211,12 @@
       1001.950012,
       0,
       295582689072
+    ],
+    [
+      "2026-08-21",
+      1039.280029,
+      0,
+      306595321140
     ]
   ],
   "sharesOutstanding": [

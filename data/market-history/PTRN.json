@@ -1,7 +1,7 @@
 {
   "ticker": "PTRN",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:12:48+00:00",
+  "generatedAt": "2026-08-21T23:14:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1393,6 +1393,12 @@
     [
       "2026-08-20",
       20.040001,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      20.870001,
       0,
       null
     ]

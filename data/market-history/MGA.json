@@ -2,7 +2,7 @@
   "ticker": "MGA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:09:00+00:00",
+  "generatedAt": "2026-08-21T23:10:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63302,6 +63302,12 @@
     [
       "2026-08-20",
       70.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      73.050003,
       0,
       null
     ]

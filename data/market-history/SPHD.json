@@ -2,7 +2,7 @@
   "ticker": "SPHD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:17:22+00:00",
+  "generatedAt": "2026-08-21T23:19:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20822,6 +20822,12 @@
     [
       "2026-08-20",
       53.32,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      53.23,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "KKR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:19:54+00:00",
+  "generatedAt": "2026-08-21T22:19:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24309,6 +24309,12 @@
       107.019997,
       0,
       96090359132
+    ],
+    [
+      "2026-08-21",
+      108.480003,
+      0,
+      97401259654
     ]
   ],
   "sharesOutstanding": [

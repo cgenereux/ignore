@@ -2,7 +2,7 @@
   "ticker": "AAON",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:35:17+00:00",
+  "generatedAt": "2026-08-21T22:35:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50854,6 +50854,12 @@
       80.839996,
       0,
       6665551847
+    ],
+    [
+      "2026-08-21",
+      79.440002,
+      0,
+      6550117283
     ]
   ],
   "sharesOutstanding": [

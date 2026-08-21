@@ -1,7 +1,7 @@
 {
   "ticker": "CLH",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:28:29+00:00",
+  "generatedAt": "2026-08-21T22:28:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58551,6 +58551,12 @@
       321.950012,
       0,
       16994855138
+    ],
+    [
+      "2026-08-21",
+      315.980011,
+      0,
+      16679715203
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "ATD.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:48:33+00:00",
+  "generatedAt": "2026-08-21T22:48:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45296,6 +45296,12 @@
     [
       "2026-08-20",
       86.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      85.660004,
       0,
       null
     ]

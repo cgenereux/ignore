@@ -1,7 +1,7 @@
 {
   "ticker": "SPYG",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:17:59+00:00",
+  "generatedAt": "2026-08-21T23:19:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39061,6 +39061,12 @@
     [
       "2026-08-20",
       119.809998,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      120.209999,
       0,
       null
     ]

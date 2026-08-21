@@ -2,7 +2,7 @@
   "ticker": "SAN.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:14:50+00:00",
+  "generatedAt": "2026-08-21T23:16:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41060,6 +41060,12 @@
     [
       "2026-08-19",
       78.559998,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      77.790001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "RAL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:40:55+00:00",
+  "generatedAt": "2026-08-21T22:40:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1753,6 +1753,12 @@
     [
       "2026-08-20",
       63.93,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      63.610001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "WMS",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:30:17+00:00",
+  "generatedAt": "2026-08-21T22:30:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18219,6 +18219,12 @@
       142.440002,
       0,
       10740737099
+    ],
+    [
+      "2026-08-21",
+      143.729996,
+      0,
+      10838009483
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "JLL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:28:31+00:00",
+  "generatedAt": "2026-08-21T22:28:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43923,6 +43923,12 @@
       384.299988,
       0,
       17680759701
+    ],
+    [
+      "2026-08-21",
+      387.369995,
+      0,
+      17822003686
     ]
   ],
   "sharesOutstanding": [

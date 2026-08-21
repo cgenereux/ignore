@@ -1,7 +1,7 @@
 {
   "ticker": "NTAP",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:20:56+00:00",
+  "generatedAt": "2026-08-21T22:20:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46413,6 +46413,12 @@
       192.809998,
       0,
       37835928156
+    ],
+    [
+      "2026-08-21",
+      192.270004,
+      0,
+      37729962970
     ]
   ],
   "sharesOutstanding": [

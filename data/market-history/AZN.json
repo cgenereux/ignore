@@ -1,7 +1,7 @@
 {
   "ticker": "AZN",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:07:26+00:00",
+  "generatedAt": "2026-08-21T22:06:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50265,6 +50265,12 @@
       164.490005,
       0,
       255105220670
+    ],
+    [
+      "2026-08-21",
+      165.979996,
+      0,
+      257416025429
     ]
   ],
   "sharesOutstanding": [

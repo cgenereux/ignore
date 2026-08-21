@@ -1,7 +1,7 @@
 {
   "ticker": "NDAQ",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:20:54+00:00",
+  "generatedAt": "2026-08-21T22:20:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36453,6 +36453,12 @@
       97.550003,
       0,
       54528244344
+    ],
+    [
+      "2026-08-21",
+      98.220001,
+      0,
+      54902758160
     ]
   ],
   "sharesOutstanding": [

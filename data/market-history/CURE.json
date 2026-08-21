@@ -2,7 +2,7 @@
   "ticker": "CURE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:26:10+00:00",
+  "generatedAt": "2026-08-21T23:28:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22916,6 +22916,12 @@
     [
       "2026-08-20",
       140.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      144.690002,
       0,
       null
     ]

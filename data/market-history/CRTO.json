@@ -2,7 +2,7 @@
   "ticker": "CRTO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:31:47+00:00",
+  "generatedAt": "2026-08-21T22:31:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19312,6 +19312,12 @@
       17.485001,
       0,
       856722349
+    ],
+    [
+      "2026-08-21",
+      17.440001,
+      0,
+      854517455
     ]
   ],
   "sharesOutstanding": [

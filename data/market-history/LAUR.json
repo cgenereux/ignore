@@ -1,7 +1,7 @@
 {
   "ticker": "LAUR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:45:07+00:00",
+  "generatedAt": "2026-08-21T22:45:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14413,6 +14413,12 @@
     [
       "2026-08-20",
       37.560001,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      37.459999,
       0,
       null
     ]

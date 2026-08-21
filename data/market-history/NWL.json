@@ -2,7 +2,7 @@
   "ticker": "NWL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:34:55+00:00",
+  "generatedAt": "2026-08-21T22:34:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70222,6 +70222,12 @@
       5.79,
       0,
       2465960984
+    ],
+    [
+      "2026-08-21",
+      6.09,
+      0,
+      2593731065
     ]
   ],
   "sharesOutstanding": [

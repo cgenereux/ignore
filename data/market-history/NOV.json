@@ -1,7 +1,7 @@
 {
   "ticker": "NOV",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:33:06+00:00",
+  "generatedAt": "2026-08-21T22:33:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45001,6 +45001,12 @@
     [
       "2026-08-20",
       20.27,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      20.42,
       0,
       null
     ]

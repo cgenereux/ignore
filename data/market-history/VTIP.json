@@ -2,7 +2,7 @@
   "ticker": "VTIP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:23:32+00:00",
+  "generatedAt": "2026-08-21T23:25:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20870,6 +20870,12 @@
     [
       "2026-08-20",
       49.849998,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      49.790001,
       0,
       null
     ]

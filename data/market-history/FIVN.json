@@ -2,7 +2,7 @@
   "ticker": "FIVN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:37:33+00:00",
+  "generatedAt": "2026-08-21T22:37:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18688,6 +18688,12 @@
       32.299999,
       0,
       2413569994
+    ],
+    [
+      "2026-08-21",
+      32.75,
+      0,
+      2447195640
     ]
   ],
   "sharesOutstanding": [

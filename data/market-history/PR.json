@@ -1,7 +1,7 @@
 {
   "ticker": "PR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:28:20+00:00",
+  "generatedAt": "2026-08-21T22:27:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15615,6 +15615,12 @@
       23.870001,
       0,
       19992486985
+    ],
+    [
+      "2026-08-21",
+      23.75,
+      0,
+      19891979439
     ]
   ],
   "sharesOutstanding": [

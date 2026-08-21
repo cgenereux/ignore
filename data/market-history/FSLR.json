@@ -1,7 +1,7 @@
 {
   "ticker": "FSLR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:18:07+00:00",
+  "generatedAt": "2026-08-21T22:17:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29817,6 +29817,12 @@
       214.059998,
       0,
       23004982557
+    ],
+    [
+      "2026-08-21",
+      214.279999,
+      0,
+      23028626041
     ]
   ],
   "sharesOutstanding": [

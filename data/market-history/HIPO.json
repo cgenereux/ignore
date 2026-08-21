@@ -2,7 +2,7 @@
   "ticker": "HIPO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:32:25+00:00",
+  "generatedAt": "2026-08-21T22:32:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8446,6 +8446,12 @@
       32.689999,
       0,
       862668829
+    ],
+    [
+      "2026-08-21",
+      33.119999,
+      0,
+      874016271
     ]
   ],
   "sharesOutstanding": [

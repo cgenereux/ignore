@@ -1,7 +1,7 @@
 {
   "ticker": "FPE",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:59:58+00:00",
+  "generatedAt": "2026-08-21T23:00:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20413,6 +20413,12 @@
     [
       "2026-08-20",
       17.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      17.66,
       0,
       null
     ]

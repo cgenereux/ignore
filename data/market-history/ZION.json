@@ -1,7 +1,7 @@
 {
   "ticker": "ZION",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:25:54+00:00",
+  "generatedAt": "2026-08-21T23:27:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70201,6 +70201,12 @@
     [
       "2026-08-20",
       67.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      68.139999,
       0,
       null
     ]

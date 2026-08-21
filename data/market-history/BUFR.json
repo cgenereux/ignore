@@ -1,7 +1,7 @@
 {
   "ticker": "BUFR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:51:35+00:00",
+  "generatedAt": "2026-08-21T22:52:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9091,6 +9091,12 @@
     [
       "2026-08-20",
       37.220001,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      37.299999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "LII",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:20:07+00:00",
+  "generatedAt": "2026-08-21T22:19:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40851,6 +40851,12 @@
       406.049988,
       0,
       14033361662
+    ],
+    [
+      "2026-08-21",
+      402.869995,
+      0,
+      13923458968
     ]
   ],
   "sharesOutstanding": [

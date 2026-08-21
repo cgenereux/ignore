@@ -1,7 +1,7 @@
 {
   "ticker": "ENSG",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:30:18+00:00",
+  "generatedAt": "2026-08-21T22:30:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28347,6 +28347,12 @@
       179.850006,
       0,
       10482096111
+    ],
+    [
+      "2026-08-21",
+      179.479996,
+      0,
+      10460531005
     ]
   ],
   "sharesOutstanding": [

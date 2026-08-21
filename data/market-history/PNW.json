@@ -1,7 +1,7 @@
 {
   "ticker": "PNW",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:21:39+00:00",
+  "generatedAt": "2026-08-21T22:21:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80937,6 +80937,12 @@
       99.379997,
       0,
       12044580782
+    ],
+    [
+      "2026-08-21",
+      97.360001,
+      0,
+      11799762776
     ]
   ],
   "sharesOutstanding": [

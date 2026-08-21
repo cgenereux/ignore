@@ -2,7 +2,7 @@
   "ticker": "CVX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:04:23+00:00",
+  "generatedAt": "2026-08-21T22:02:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97612,6 +97612,12 @@
       205.770004,
       0,
       403639113537
+    ],
+    [
+      "2026-08-21",
+      205.270004,
+      0,
+      402658312435
     ]
   ],
   "sharesOutstanding": [

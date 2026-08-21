@@ -2,7 +2,7 @@
   "ticker": "RTO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:14:20+00:00",
+  "generatedAt": "2026-08-21T23:15:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44918,6 +44918,12 @@
     [
       "2026-08-20",
       23.34,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      23.65,
       0,
       null
     ]

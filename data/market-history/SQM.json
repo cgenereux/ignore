@@ -2,7 +2,7 @@
   "ticker": "SQM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:18:07+00:00",
+  "generatedAt": "2026-08-21T23:19:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49700,6 +49700,12 @@
     [
       "2026-08-20",
       78.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      81.959999,
       0,
       null
     ]

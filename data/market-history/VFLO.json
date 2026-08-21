@@ -1,7 +1,7 @@
 {
   "ticker": "VFLO",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:22:02+00:00",
+  "generatedAt": "2026-08-21T23:23:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4771,6 +4771,12 @@
     [
       "2026-08-20",
       55.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      55.450001,
       0,
       null
     ]

@@ -1,7 +1,8 @@
 {
   "ticker": "VUG",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:23:37+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-21T23:25:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34057,6 +34058,12 @@
     [
       "2026-08-20",
       87.169998,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      87.5,
       0,
       null
     ]

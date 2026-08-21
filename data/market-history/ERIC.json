@@ -1,7 +1,8 @@
 {
   "ticker": "ERIC",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:57:25+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-21T22:58:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -68041,6 +68042,12 @@
     [
       "2026-08-20",
       10.11,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      10.22,
       0,
       null
     ]

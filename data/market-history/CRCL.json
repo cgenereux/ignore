@@ -1,7 +1,7 @@
 {
   "ticker": "CRCL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:25:20+00:00",
+  "generatedAt": "2026-08-21T22:24:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1833,6 +1833,12 @@
       83.660004,
       0,
       21239257134
+    ],
+    [
+      "2026-08-21",
+      87.980003,
+      0,
+      22336000863
     ]
   ],
   "sharesOutstanding": [

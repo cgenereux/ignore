@@ -1,7 +1,7 @@
 {
   "ticker": "FTDR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:43:52+00:00",
+  "generatedAt": "2026-08-21T22:44:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11971,6 +11971,12 @@
     [
       "2026-08-20",
       81.940002,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      82.589996,
       0,
       null
     ]

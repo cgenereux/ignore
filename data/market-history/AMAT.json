@@ -1,7 +1,7 @@
 {
   "ticker": "AMAT",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:11:31+00:00",
+  "generatedAt": "2026-08-21T22:10:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       496.209991,
       0,
       393970601976
+    ],
+    [
+      "2026-08-21",
+      492.320007,
+      0,
+      390882112393
     ]
   ],
   "sharesOutstanding": [

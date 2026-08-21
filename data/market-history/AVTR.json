@@ -1,7 +1,7 @@
 {
   "ticker": "AVTR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:31:19+00:00",
+  "generatedAt": "2026-08-21T22:31:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10951,6 +10951,12 @@
     [
       "2026-08-20",
       14.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      14.46,
       0,
       null
     ]

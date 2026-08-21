@@ -2,7 +2,7 @@
   "ticker": "IP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:19:25+00:00",
+  "generatedAt": "2026-08-21T22:18:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97612,6 +97612,12 @@
       40.360001,
       0,
       21373441285
+    ],
+    [
+      "2026-08-21",
+      41.490002,
+      0,
+      21971855832
     ]
   ],
   "sharesOutstanding": [

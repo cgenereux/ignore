@@ -1,7 +1,7 @@
 {
   "ticker": "EVR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:35:58+00:00",
+  "generatedAt": "2026-08-21T22:35:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30223,6 +30223,12 @@
     [
       "2026-08-20",
       287.089996,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      291.890015,
       0,
       null
     ]

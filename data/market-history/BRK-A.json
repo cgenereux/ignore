@@ -1,7 +1,7 @@
 {
   "ticker": "BRK-A",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:04:38+00:00",
+  "generatedAt": "2026-08-21T22:03:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       744600.0,
       0,
       1070662573800
+    ],
+    [
+      "2026-08-21",
+      743500.0,
+      0,
+      1069080880500
     ]
   ],
   "sharesOutstanding": [

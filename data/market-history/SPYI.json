@@ -2,7 +2,7 @@
   "ticker": "SPYI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:18:01+00:00",
+  "generatedAt": "2026-08-21T23:19:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5990,6 +5990,12 @@
     [
       "2026-08-20",
       53.310001,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      53.459999,
       0,
       null
     ]

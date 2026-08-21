@@ -1,7 +1,7 @@
 {
   "ticker": "NXE",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:10:59+00:00",
+  "generatedAt": "2026-08-21T23:12:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19651,6 +19651,12 @@
     [
       "2026-08-20",
       10.22,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      10.86,
       0,
       null
     ]

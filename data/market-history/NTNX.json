@@ -1,7 +1,7 @@
 {
   "ticker": "NTNX",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:28:23+00:00",
+  "generatedAt": "2026-08-21T22:27:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14913,6 +14913,12 @@
       66.330002,
       0,
       17930359857
+    ],
+    [
+      "2026-08-21",
+      67.639999,
+      0,
+      18284479064
     ]
   ],
   "sharesOutstanding": [

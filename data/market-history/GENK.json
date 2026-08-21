@@ -2,7 +2,7 @@
   "ticker": "GENK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:34:35+00:00",
+  "generatedAt": "2026-08-21T22:34:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4738,6 +4738,12 @@
       1.74,
       0,
       9334766
+    ],
+    [
+      "2026-08-21",
+      2.08,
+      0,
+      11158800
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "SWX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:42:18+00:00",
+  "generatedAt": "2026-08-21T22:42:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80936,6 +80936,12 @@
     [
       "2026-08-20",
       91.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      88.870003,
       0,
       null
     ]

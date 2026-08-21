@@ -2,7 +2,7 @@
   "ticker": "OC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:11:04+00:00",
+  "generatedAt": "2026-08-21T23:12:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29870,6 +29870,12 @@
     [
       "2026-08-20",
       147.160004,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      148.059998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BZ",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:51:46+00:00",
+  "generatedAt": "2026-08-21T22:52:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7831,6 +7831,12 @@
     [
       "2026-08-20",
       15.78,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      15.95,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "INDB",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:05:00+00:00",
+  "generatedAt": "2026-08-21T23:06:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60877,6 +60877,12 @@
     [
       "2026-08-20",
       83.510002,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      83.730003,
       0,
       null
     ]

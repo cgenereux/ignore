@@ -1,7 +1,7 @@
 {
   "ticker": "CDP",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:52:19+00:00",
+  "generatedAt": "2026-08-21T22:52:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52333,6 +52333,12 @@
     [
       "2026-08-20",
       37.119999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      37.27,
       0,
       null
     ]

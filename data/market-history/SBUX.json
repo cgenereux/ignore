@@ -2,7 +2,7 @@
   "ticker": "SBUX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:11:37+00:00",
+  "generatedAt": "2026-08-21T22:10:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51592,6 +51592,12 @@
       103.989998,
       0,
       118548597565
+    ],
+    [
+      "2026-08-21",
+      107.080002,
+      0,
+      122071202087
     ]
   ],
   "sharesOutstanding": [

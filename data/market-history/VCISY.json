@@ -2,7 +2,7 @@
   "ticker": "VCISY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:21:31+00:00",
+  "generatedAt": "2026-08-21T23:23:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28022,6 +28022,12 @@
     [
       "2026-08-20",
       34.849998,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      34.82,
       0,
       null
     ]

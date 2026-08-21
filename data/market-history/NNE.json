@@ -1,7 +1,7 @@
 {
   "ticker": "NNE",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:25:32+00:00",
+  "generatedAt": "2026-08-21T22:24:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3447,6 +3447,12 @@
       18.23,
       0,
       978917177
+    ],
+    [
+      "2026-08-21",
+      18.85,
+      0,
+      1012210073
     ]
   ],
   "sharesOutstanding": [

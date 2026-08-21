@@ -1,7 +1,7 @@
 {
   "ticker": "ABT",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:05:54+00:00",
+  "generatedAt": "2026-08-21T22:04:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       114.139999,
       0,
       197505948349
+    ],
+    [
+      "2026-08-21",
+      116.639999,
+      0,
+      201831906589
     ]
   ],
   "sharesOutstanding": [

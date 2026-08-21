@@ -1,7 +1,7 @@
 {
   "ticker": "IEMG",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:04:19+00:00",
+  "generatedAt": "2026-08-21T23:05:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20851,6 +20851,12 @@
     [
       "2026-08-20",
       81.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      81.57,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "UHAL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:29:03+00:00",
+  "generatedAt": "2026-08-21T22:28:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48009,6 +48009,12 @@
       71.550003,
       0,
       13987611537
+    ],
+    [
+      "2026-08-21",
+      71.410004,
+      0,
+      13960242466
     ]
   ],
   "sharesOutstanding": [

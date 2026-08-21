@@ -1,7 +1,7 @@
 {
   "ticker": "CE",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:31:34+00:00",
+  "generatedAt": "2026-08-21T22:31:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32581,6 +32581,12 @@
     [
       "2026-08-20",
       46.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      46.799999,
       0,
       null
     ]

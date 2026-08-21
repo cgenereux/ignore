@@ -1,7 +1,7 @@
 {
   "ticker": "BSX",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:15:00+00:00",
+  "generatedAt": "2026-08-21T22:14:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51753,6 +51753,12 @@
       49.369999,
       0,
       73381353600
+    ],
+    [
+      "2026-08-21",
+      50.369999,
+      0,
+      74867708779
     ]
   ],
   "sharesOutstanding": [

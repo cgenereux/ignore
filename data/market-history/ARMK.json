@@ -2,7 +2,7 @@
   "ticker": "ARMK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:28:39+00:00",
+  "generatedAt": "2026-08-21T22:28:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19138,6 +19138,12 @@
       59.369999,
       0,
       15611552832
+    ],
+    [
+      "2026-08-21",
+      59.77,
+      0,
+      15716734641
     ]
   ],
   "sharesOutstanding": [

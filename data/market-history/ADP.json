@@ -1,7 +1,7 @@
 {
   "ticker": "ADP",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:14:37+00:00",
+  "generatedAt": "2026-08-21T22:13:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       279.209991,
       0,
       110919725403
+    ],
+    [
+      "2026-08-21",
+      280.809998,
+      0,
+      111555348207
     ]
   ],
   "sharesOutstanding": [

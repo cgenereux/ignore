@@ -1,7 +1,7 @@
 {
   "ticker": "AVUS",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:48:54+00:00",
+  "generatedAt": "2026-08-21T22:49:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10411,6 +10411,12 @@
     [
       "2026-08-20",
       129.910004,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      130.589996,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BBAR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:49:28+00:00",
+  "generatedAt": "2026-08-21T22:49:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49441,6 +49441,12 @@
     [
       "2026-08-20",
       14.08,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      14.05,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ZM",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:27:49+00:00",
+  "generatedAt": "2026-08-21T22:27:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11073,6 +11073,12 @@
       106.300003,
       0,
       31170585668
+    ],
+    [
+      "2026-08-21",
+      107.43,
+      0,
+      31501937269
     ]
   ],
   "sharesOutstanding": [

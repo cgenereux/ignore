@@ -2,7 +2,7 @@
   "ticker": "SHEL.L",
   "currency": "GBP",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:16:03+00:00",
+  "generatedAt": "2026-08-21T23:17:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45908,6 +45908,12 @@
     [
       "2026-08-19",
       34.205,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      34.4,
       0,
       null
     ]

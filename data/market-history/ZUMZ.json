@@ -2,7 +2,7 @@
   "ticker": "ZUMZ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:34:41+00:00",
+  "generatedAt": "2026-08-21T22:34:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32128,6 +32128,12 @@
       17.469999,
       0,
       294757584
+    ],
+    [
+      "2026-08-21",
+      18.27,
+      0,
+      308255376
     ]
   ],
   "sharesOutstanding": [

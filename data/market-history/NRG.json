@@ -1,7 +1,7 @@
 {
   "ticker": "NRG",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:21:11+00:00",
+  "generatedAt": "2026-08-21T22:20:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34299,6 +34299,12 @@
       115.360001,
       0,
       24339399308
+    ],
+    [
+      "2026-08-21",
+      113.110001,
+      0,
+      23864679750
     ]
   ],
   "sharesOutstanding": [

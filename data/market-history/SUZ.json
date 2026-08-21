@@ -2,7 +2,7 @@
   "ticker": "SUZ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:18:46+00:00",
+  "generatedAt": "2026-08-21T23:20:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26858,6 +26858,12 @@
     [
       "2026-08-20",
       8.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      8.78,
       0,
       null
     ]

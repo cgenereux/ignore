@@ -1,7 +1,7 @@
 {
   "ticker": "XEL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:24:53+00:00",
+  "generatedAt": "2026-08-21T22:24:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80937,6 +80937,12 @@
       78.709999,
       0,
       49164965653
+    ],
+    [
+      "2026-08-21",
+      76.300003,
+      0,
+      47659599454
     ]
   ],
   "sharesOutstanding": [

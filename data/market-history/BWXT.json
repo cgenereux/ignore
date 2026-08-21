@@ -1,7 +1,7 @@
 {
   "ticker": "BWXT",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:28:41+00:00",
+  "generatedAt": "2026-08-21T22:28:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24237,6 +24237,12 @@
       156.440002,
       0,
       14333342775
+    ],
+    [
+      "2026-08-21",
+      156.779999,
+      0,
+      14364493913
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "RYCEY",
   "currency": "GBP",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:07:11+00:00",
+  "generatedAt": "2026-08-21T22:06:00+00:00",
   "source": "Yahoo Finance via yfinance; RR.L quoted in GBP (reported in pence, stored in pounds)",
   "schema": [
     "date",
@@ -58684,6 +58684,12 @@
       14.994,
       0,
       168881372011
+    ],
+    [
+      "2026-08-21",
+      15.022,
+      0,
+      169358052152
     ]
   ],
   "sharesOutstanding": [

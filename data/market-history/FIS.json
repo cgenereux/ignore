@@ -1,7 +1,7 @@
 {
   "ticker": "FIS",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:18:03+00:00",
+  "generatedAt": "2026-08-21T22:17:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37983,6 +37983,12 @@
       40.580002,
       0,
       20974956894
+    ],
+    [
+      "2026-08-21",
+      41.34,
+      0,
+      21367784181
     ]
   ],
   "sharesOutstanding": [

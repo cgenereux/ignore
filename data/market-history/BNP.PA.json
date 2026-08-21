@@ -2,7 +2,7 @@
   "ticker": "BNP.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:51:01+00:00",
+  "generatedAt": "2026-08-21T22:51:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50780,6 +50780,12 @@
     [
       "2026-08-19",
       106.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      105.959999,
       0,
       null
     ]

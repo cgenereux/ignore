@@ -2,7 +2,7 @@
   "ticker": "CWH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:35:49+00:00",
+  "generatedAt": "2026-08-21T22:35:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14872,6 +14872,12 @@
       6.49,
       0,
       670383981
+    ],
+    [
+      "2026-08-21",
+      6.54,
+      0,
+      675548747
     ]
   ],
   "sharesOutstanding": [

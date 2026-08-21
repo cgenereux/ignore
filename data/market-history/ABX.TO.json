@@ -2,7 +2,7 @@
   "ticker": "ABX.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:47:04+00:00",
+  "generatedAt": "2026-08-21T22:47:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47666,6 +47666,12 @@
     [
       "2026-08-20",
       63.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      65.559998,
       0,
       null
     ]

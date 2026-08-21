@@ -1,7 +1,8 @@
 {
   "ticker": "GIL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:02:01+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-21T23:03:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42523,6 +42524,12 @@
     [
       "2026-08-20",
       55.450001,
+      0.249,
+      null
+    ],
+    [
+      "2026-08-21",
+      56.169998,
       0,
       null
     ]

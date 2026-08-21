@@ -1,7 +1,7 @@
 {
   "ticker": "SSRM",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:42:16+00:00",
+  "generatedAt": "2026-08-21T22:42:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45373,6 +45373,12 @@
     [
       "2026-08-20",
       36.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      37.77,
       0,
       null
     ]

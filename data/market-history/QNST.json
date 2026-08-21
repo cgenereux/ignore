@@ -2,7 +2,7 @@
   "ticker": "QNST",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:37:24+00:00",
+  "generatedAt": "2026-08-21T22:37:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24928,6 +24928,12 @@
       20.370001,
       0,
       1170162235
+    ],
+    [
+      "2026-08-21",
+      20.620001,
+      0,
+      1184523578
     ]
   ],
   "sharesOutstanding": [

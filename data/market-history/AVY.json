@@ -1,7 +1,7 @@
 {
   "ticker": "AVY",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:14:41+00:00",
+  "generatedAt": "2026-08-21T22:13:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80937,6 +80937,12 @@
       182.679993,
       0,
       13973262972
+    ],
+    [
+      "2026-08-21",
+      183.710007,
+      0,
+      14052049142
     ]
   ],
   "sharesOutstanding": [

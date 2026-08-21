@@ -2,7 +2,7 @@
   "ticker": "TBBB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:19:00+00:00",
+  "generatedAt": "2026-08-21T23:20:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3812,6 +3812,12 @@
     [
       "2026-08-20",
       49.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      50.66,
       0,
       null
     ]

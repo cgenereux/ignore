@@ -1,7 +1,7 @@
 {
   "ticker": "MOH",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:30:11+00:00",
+  "generatedAt": "2026-08-21T22:29:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34935,6 +34935,12 @@
       196.940002,
       0,
       10280268127
+    ],
+    [
+      "2026-08-21",
+      200.289993,
+      0,
+      10455137650
     ]
   ],
   "sharesOutstanding": [

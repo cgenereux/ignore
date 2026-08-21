@@ -2,7 +2,7 @@
   "ticker": "MED",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:35:06+00:00",
+  "generatedAt": "2026-08-21T22:34:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49300,6 +49300,12 @@
       11.62,
       0,
       129919768
+    ],
+    [
+      "2026-08-21",
+      11.95,
+      0,
+      133609399
     ]
   ],
   "sharesOutstanding": [

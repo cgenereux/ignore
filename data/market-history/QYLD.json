@@ -1,7 +1,7 @@
 {
   "ticker": "QYLD",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:13:17+00:00",
+  "generatedAt": "2026-08-21T23:14:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19147,6 +19147,12 @@
     [
       "2026-08-20",
       18.23,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      18.32,
       0,
       null
     ]

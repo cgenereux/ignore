@@ -1,7 +1,7 @@
 {
   "ticker": "DLTR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:05:41+00:00",
+  "generatedAt": "2026-08-21T22:04:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47511,6 +47511,12 @@
       128.449997,
       0,
       24684825242
+    ],
+    [
+      "2026-08-21",
+      131.479996,
+      0,
+      25267114009
     ]
   ],
   "sharesOutstanding": [

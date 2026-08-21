@@ -1,7 +1,7 @@
 {
   "ticker": "CL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:12:47+00:00",
+  "generatedAt": "2026-08-21T22:11:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80643,6 +80643,12 @@
       89.699997,
       0,
       71506400329
+    ],
+    [
+      "2026-08-21",
+      91.080002,
+      0,
+      72606502725
     ]
   ],
   "sharesOutstanding": [

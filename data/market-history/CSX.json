@@ -1,7 +1,7 @@
 {
   "ticker": "CSX",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:13:19+00:00",
+  "generatedAt": "2026-08-21T22:12:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69255,6 +69255,12 @@
       50.970001,
       0,
       94420648781
+    ],
+    [
+      "2026-08-21",
+      51.59,
+      0,
+      95569181251
     ]
   ],
   "sharesOutstanding": [

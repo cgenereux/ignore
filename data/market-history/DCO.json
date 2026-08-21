@@ -2,7 +2,7 @@
   "ticker": "DCO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:31:56+00:00",
+  "generatedAt": "2026-08-21T22:31:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80620,6 +80620,12 @@
       189.080002,
       0,
       2855066241
+    ],
+    [
+      "2026-08-21",
+      191.649994,
+      0,
+      2893872553
     ]
   ],
   "sharesOutstanding": [

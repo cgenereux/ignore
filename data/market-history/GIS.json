@@ -1,7 +1,7 @@
 {
   "ticker": "GIS",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:12:45+00:00",
+  "generatedAt": "2026-08-21T22:11:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       39.610001,
       0,
       21140189891
+    ],
+    [
+      "2026-08-21",
+      39.970001,
+      0,
+      21332325240
     ]
   ],
   "sharesOutstanding": [

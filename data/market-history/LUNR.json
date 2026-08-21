@@ -1,7 +1,7 @@
 {
   "ticker": "LUNR",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:25:18+00:00",
+  "generatedAt": "2026-08-21T22:24:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7167,6 +7167,12 @@
       17.93,
       0,
       2876909949
+    ],
+    [
+      "2026-08-21",
+      18.32,
+      0,
+      2939486252
     ]
   ],
   "sharesOutstanding": [

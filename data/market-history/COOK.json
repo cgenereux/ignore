@@ -2,7 +2,7 @@
   "ticker": "COOK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:34:54+00:00",
+  "generatedAt": "2026-08-21T22:34:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7618,6 +7618,12 @@
       53.939999,
       0,
       150936199
+    ],
+    [
+      "2026-08-21",
+      55.450001,
+      0,
+      155161523
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,8 @@
 {
   "ticker": "IONS",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:05:10+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-21T23:06:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53275,6 +53276,12 @@
     [
       "2026-08-20",
       58.759998,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      59.740002,
       0,
       null
     ]

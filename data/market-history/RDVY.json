@@ -1,7 +1,7 @@
 {
   "ticker": "RDVY",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:13:28+00:00",
+  "generatedAt": "2026-08-21T23:14:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19051,6 +19051,12 @@
     [
       "2026-08-20",
       81.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      81.949997,
       0,
       null
     ]

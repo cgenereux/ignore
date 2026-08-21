@@ -2,7 +2,7 @@
   "ticker": "LNVGY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:08:03+00:00",
+  "generatedAt": "2026-08-21T23:09:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41798,6 +41798,12 @@
     [
       "2026-08-20",
       75.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      76.599998,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "AIR.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:47:42+00:00",
+  "generatedAt": "2026-08-21T22:48:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38450,6 +38450,12 @@
     [
       "2026-08-19",
       208.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      204.800003,
       0,
       null
     ]

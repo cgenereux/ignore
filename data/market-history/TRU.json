@@ -1,7 +1,7 @@
 {
   "ticker": "TRU",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:28:52+00:00",
+  "generatedAt": "2026-08-21T22:28:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16833,6 +16833,12 @@
       85.110001,
       0,
       16307076117
+    ],
+    [
+      "2026-08-21",
+      84.610001,
+      0,
+      16211276117
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "EQR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:17:28+00:00",
+  "generatedAt": "2026-08-21T22:16:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49756,6 +49756,12 @@
       63.66,
       0,
       23868961077
+    ],
+    [
+      "2026-08-20",
+      63.66,
+      0,
+      23868961020
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "MCHI",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:08:44+00:00",
+  "generatedAt": "2026-08-21T23:10:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23227,6 +23227,12 @@
     [
       "2026-08-20",
       55.509998,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      55.66,
       0,
       null
     ]

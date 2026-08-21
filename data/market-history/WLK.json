@@ -1,7 +1,7 @@
 {
   "ticker": "WLK",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:30:30+00:00",
+  "generatedAt": "2026-08-21T22:30:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33255,6 +33255,12 @@
       78.849998,
       0,
       10076757615
+    ],
+    [
+      "2026-08-21",
+      78.93,
+      0,
+      10086981573
     ]
   ],
   "sharesOutstanding": [

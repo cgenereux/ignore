@@ -2,7 +2,7 @@
   "ticker": "WGO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:34:15+00:00",
+  "generatedAt": "2026-08-21T22:34:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80920,6 +80920,12 @@
       31.969999,
       0,
       903756490
+    ],
+    [
+      "2026-08-21",
+      31.780001,
+      0,
+      898385439
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "SMP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:36:51+00:00",
+  "generatedAt": "2026-08-21T22:36:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70204,6 +70204,12 @@
       38.220001,
       0,
       853846026
+    ],
+    [
+      "2026-08-21",
+      38.610001,
+      0,
+      862558726
     ]
   ],
   "sharesOutstanding": [

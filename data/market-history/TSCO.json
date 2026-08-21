@@ -1,7 +1,7 @@
 {
   "ticker": "TSCO",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:23:32+00:00",
+  "generatedAt": "2026-08-21T22:23:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49089,6 +49089,12 @@
       35.049999,
       0,
       18381958641
+    ],
+    [
+      "2026-08-21",
+      34.98,
+      0,
+      18345247328
     ]
   ],
   "sharesOutstanding": [

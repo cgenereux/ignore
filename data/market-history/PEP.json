@@ -1,7 +1,7 @@
 {
   "ticker": "PEP",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:12:02+00:00",
+  "generatedAt": "2026-08-21T22:10:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82017,6 +82017,12 @@
       142.080002,
       0,
       193923795060
+    ],
+    [
+      "2026-08-21",
+      143.479996,
+      0,
+      195834634910
     ]
   ],
   "sharesOutstanding": [

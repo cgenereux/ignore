@@ -2,7 +2,7 @@
   "ticker": "JGLO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:06:38+00:00",
+  "generatedAt": "2026-08-21T23:07:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4406,6 +4406,12 @@
     [
       "2026-08-20",
       73.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      73.489998,
       0,
       null
     ]

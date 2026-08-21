@@ -2,7 +2,7 @@
   "ticker": "NOVN.SW",
   "currency": "CHF",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:10:24+00:00",
+  "generatedAt": "2026-08-21T23:11:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47996,6 +47996,12 @@
     [
       "2026-08-19",
       127.120003,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      126.339996,
       0,
       null
     ]

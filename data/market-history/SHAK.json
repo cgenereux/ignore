@@ -1,7 +1,7 @@
 {
   "ticker": "SHAK",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:27:26+00:00",
+  "generatedAt": "2026-08-21T22:26:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17445,6 +17445,12 @@
       73.849998,
       0,
       2984141742
+    ],
+    [
+      "2026-08-21",
+      75.82,
+      0,
+      3063745845
     ]
   ],
   "sharesOutstanding": [

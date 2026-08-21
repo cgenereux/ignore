@@ -1,7 +1,7 @@
 {
   "ticker": "MDT",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:20:30+00:00",
+  "generatedAt": "2026-08-21T22:19:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80643,6 +80643,12 @@
       92.300003,
       0,
       118148174943
+    ],
+    [
+      "2026-08-21",
+      93.349998,
+      0,
+      119492216533
     ]
   ],
   "sharesOutstanding": [

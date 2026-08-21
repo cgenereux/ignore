@@ -1,7 +1,7 @@
 {
   "ticker": "DTE",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:16:55+00:00",
+  "generatedAt": "2026-08-21T22:16:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97611,6 +97611,12 @@
       138.149994,
       0,
       28747365462
+    ],
+    [
+      "2026-08-21",
+      135.220001,
+      0,
+      28137668944
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "CSL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:38:56+00:00",
+  "generatedAt": "2026-08-21T22:38:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80920,6 +80920,12 @@
       357.549988,
       0,
       14199787778
+    ],
+    [
+      "2026-08-21",
+      367.679993,
+      0,
+      14602092131
     ]
   ],
   "sharesOutstanding": [

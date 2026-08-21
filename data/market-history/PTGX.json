@@ -2,7 +2,7 @@
   "ticker": "PTGX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:39:51+00:00",
+  "generatedAt": "2026-08-21T22:39:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15128,6 +15128,12 @@
     [
       "2026-08-20",
       150.690002,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      154.320007,
       0,
       null
     ]

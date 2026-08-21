@@ -1,7 +1,7 @@
 {
   "ticker": "MIDD",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:45:03+00:00",
+  "generatedAt": "2026-08-21T22:45:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58999,6 +58999,12 @@
     [
       "2026-08-20",
       112.519997,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      115.480003,
       0,
       null
     ]

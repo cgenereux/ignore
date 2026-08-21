@@ -1,7 +1,7 @@
 {
   "ticker": "CMI",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:16:32+00:00",
+  "generatedAt": "2026-08-21T22:15:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80937,6 +80937,12 @@
       593.23999,
       0,
       81860632760
+    ],
+    [
+      "2026-08-21",
+      587.679993,
+      0,
+      81093413884
     ]
   ],
   "sharesOutstanding": [

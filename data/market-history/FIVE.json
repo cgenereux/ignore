@@ -1,7 +1,7 @@
 {
   "ticker": "FIVE",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:30:53+00:00",
+  "generatedAt": "2026-08-21T22:30:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21261,6 +21261,12 @@
       236.309998,
       0,
       13066844260
+    ],
+    [
+      "2026-08-21",
+      250.240005,
+      0,
+      13837108938
     ]
   ],
   "sharesOutstanding": [

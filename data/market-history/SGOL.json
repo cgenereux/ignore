@@ -1,7 +1,7 @@
 {
   "ticker": "SGOL",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:15:57+00:00",
+  "generatedAt": "2026-08-21T23:17:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25585,6 +25585,12 @@
     [
       "2026-08-20",
       43.119999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      43.959999,
       0,
       null
     ]

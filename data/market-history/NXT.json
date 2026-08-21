@@ -1,7 +1,7 @@
 {
   "ticker": "NXT",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:28:42+00:00",
+  "generatedAt": "2026-08-21T22:28:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5313,6 +5313,12 @@
       87.860001,
       0,
       13330955720
+    ],
+    [
+      "2026-08-21",
+      86.18,
+      0,
+      13076050080
     ]
   ],
   "sharesOutstanding": [

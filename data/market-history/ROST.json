@@ -1,7 +1,7 @@
 {
   "ticker": "ROST",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:12:31+00:00",
+  "generatedAt": "2026-08-21T22:11:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62019,6 +62019,12 @@
       228.990005,
       0,
       73455660355
+    ],
+    [
+      "2026-08-21",
+      239.039993,
+      0,
+      76679506253
     ]
   ],
   "sharesOutstanding": [

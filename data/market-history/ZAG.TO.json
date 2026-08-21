@@ -2,7 +2,7 @@
   "ticker": "ZAG.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:25:46+00:00",
+  "generatedAt": "2026-08-21T23:27:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24962,6 +24962,12 @@
     [
       "2026-08-20",
       13.53,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      13.515,
       0,
       null
     ]

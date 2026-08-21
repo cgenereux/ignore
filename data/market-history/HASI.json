@@ -2,7 +2,7 @@
   "ticker": "HASI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:44:30+00:00",
+  "generatedAt": "2026-08-21T22:44:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20144,6 +20144,12 @@
     [
       "2026-08-20",
       40.619999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      39.48,
       0,
       null
     ]

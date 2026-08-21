@@ -1,7 +1,7 @@
 {
   "ticker": "ALAB",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:25:55+00:00",
+  "generatedAt": "2026-08-21T22:25:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3651,6 +3651,12 @@
       290.519989,
       0,
       50400890508
+    ],
+    [
+      "2026-08-21",
+      284.970001,
+      0,
+      49438050299
     ]
   ],
   "sharesOutstanding": [

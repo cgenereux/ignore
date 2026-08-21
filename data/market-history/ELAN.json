@@ -1,7 +1,7 @@
 {
   "ticker": "ELAN",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:30:02+00:00",
+  "generatedAt": "2026-08-21T22:29:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11937,6 +11937,12 @@
       23.559999,
       0,
       11767031909
+    ],
+    [
+      "2026-08-21",
+      23.969999,
+      0,
+      11971806162
     ]
   ],
   "sharesOutstanding": [

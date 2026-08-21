@@ -1,7 +1,7 @@
 {
   "ticker": "PCG",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:21:35+00:00",
+  "generatedAt": "2026-08-21T22:20:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82017,6 +82017,12 @@
       17.959999,
       0,
       39554507615
+    ],
+    [
+      "2026-08-21",
+      17.6,
+      0,
+      38761658386
     ]
   ],
   "sharesOutstanding": [

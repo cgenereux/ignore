@@ -2,7 +2,7 @@
   "ticker": "THO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:34:01+00:00",
+  "generatedAt": "2026-08-21T22:33:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64414,6 +64414,12 @@
       78.739998,
       0,
       4098997446
+    ],
+    [
+      "2026-08-21",
+      79.489998,
+      0,
+      4138040469
     ]
   ],
   "sharesOutstanding": [

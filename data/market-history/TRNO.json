@@ -1,7 +1,7 @@
 {
   "ticker": "TRNO",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:20:10+00:00",
+  "generatedAt": "2026-08-21T23:21:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24949,6 +24949,12 @@
     [
       "2026-08-20",
       68.400002,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      68.169998,
       0,
       null
     ]

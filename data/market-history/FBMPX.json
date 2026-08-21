@@ -1,7 +1,8 @@
 {
   "ticker": "FBMPX",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:58:17+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-21T22:58:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60679,6 +60680,12 @@
     [
       "2026-08-19",
       136.309998,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      135.5,
       0,
       null
     ]

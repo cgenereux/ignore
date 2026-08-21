@@ -1,7 +1,7 @@
 {
   "ticker": "TMO",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:12:51+00:00",
+  "generatedAt": "2026-08-21T22:11:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70221,6 +70221,12 @@
       627.549988,
       0,
       233211045824
+    ],
+    [
+      "2026-08-21",
+      629.27002,
+      0,
+      233850246539
     ]
   ],
   "sharesOutstanding": [

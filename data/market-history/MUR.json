@@ -2,7 +2,7 @@
   "ticker": "MUR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:09:58+00:00",
+  "generatedAt": "2026-08-21T23:11:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70220,6 +70220,12 @@
     [
       "2026-08-20",
       38.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      37.41,
       0,
       null
     ]

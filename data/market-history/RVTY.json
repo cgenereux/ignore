@@ -1,7 +1,7 @@
 {
   "ticker": "RVTY",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:22:20+00:00",
+  "generatedAt": "2026-08-21T22:21:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80937,6 +80937,12 @@
       124.129997,
       0,
       13847914316
+    ],
+    [
+      "2026-08-21",
+      124.75,
+      0,
+      13917081682
     ]
   ],
   "sharesOutstanding": [

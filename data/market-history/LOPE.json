@@ -1,7 +1,7 @@
 {
   "ticker": "LOPE",
   "currency": "USD",
-  "generatedAt": "2026-08-20T23:08:05+00:00",
+  "generatedAt": "2026-08-21T23:09:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26785,6 +26785,12 @@
     [
       "2026-08-20",
       146.270004,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      147.460007,
       0,
       null
     ]

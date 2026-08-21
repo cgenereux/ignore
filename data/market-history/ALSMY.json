@@ -1,7 +1,7 @@
 {
   "ticker": "ALSMY",
   "currency": "USD",
-  "generatedAt": "2026-08-20T22:47:53+00:00",
+  "generatedAt": "2026-08-21T22:48:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24715,6 +24715,12 @@
     [
       "2026-08-20",
       1.79,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      1.81,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "BSAC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T22:51:24+00:00",
+  "generatedAt": "2026-08-21T22:51:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48032,6 +48032,12 @@
     [
       "2026-08-20",
       34.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      35.16,
       0,
       null
     ]

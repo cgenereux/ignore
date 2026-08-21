@@ -2,7 +2,7 @@
   "ticker": "NOVO-B.CO",
   "currency": "DKK",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-20T23:10:26+00:00",
+  "generatedAt": "2026-08-21T23:11:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38708,6 +38708,12 @@
     [
       "2026-08-19",
       299.450012,
+      0,
+      null
+    ],
+    [
+      "2026-08-20",
+      296.149994,
       0,
       null
     ]
