@@ -2,7 +2,7 @@
   "ticker": "SIE.DE",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:17:56+00:00",
+  "generatedAt": "2026-08-24T23:19:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45770,6 +45770,12 @@
     [
       "2026-08-20",
       276.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      280.350006,
       0,
       null
     ]

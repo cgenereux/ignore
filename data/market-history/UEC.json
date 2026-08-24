@@ -2,7 +2,7 @@
   "ticker": "UEC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:22:36+00:00",
+  "generatedAt": "2026-08-24T23:24:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29264,6 +29264,12 @@
     [
       "2026-08-21",
       12.76,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      12.51,
       0,
       null
     ]

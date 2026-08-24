@@ -2,7 +2,7 @@
   "ticker": "EEFT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:36:29+00:00",
+  "generatedAt": "2026-08-24T22:40:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44476,6 +44476,12 @@
       70.07,
       0,
       2620869890
+    ],
+    [
+      "2026-08-24",
+      70.199997,
+      0,
+      2625732255
     ]
   ],
   "sharesOutstanding": [

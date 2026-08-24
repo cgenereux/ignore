@@ -1,7 +1,7 @@
 {
   "ticker": "OWL",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:27:43+00:00",
+  "generatedAt": "2026-08-24T22:31:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8577,6 +8577,12 @@
       11.67,
       0,
       18194606361
+    ],
+    [
+      "2026-08-24",
+      11.68,
+      0,
+      18210197640
     ]
   ],
   "sharesOutstanding": [

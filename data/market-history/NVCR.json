@@ -2,7 +2,7 @@
   "ticker": "NVCR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:33:02+00:00",
+  "generatedAt": "2026-08-24T22:36:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16426,6 +16426,12 @@
       17.1,
       0,
       1991223908
+    ],
+    [
+      "2026-08-24",
+      16.76,
+      0,
+      1951632305
     ]
   ],
   "sharesOutstanding": [

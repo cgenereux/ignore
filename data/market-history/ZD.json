@@ -2,7 +2,7 @@
   "ticker": "ZD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:37:16+00:00",
+  "generatedAt": "2026-08-24T22:40:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40864,6 +40864,12 @@
       56.080002,
       0,
       1922826687
+    ],
+    [
+      "2026-08-24",
+      55.73,
+      0,
+      1910826086
     ]
   ],
   "sharesOutstanding": [

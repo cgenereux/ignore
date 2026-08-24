@@ -1,7 +1,7 @@
 {
   "ticker": "SYK",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:11:49+00:00",
+  "generatedAt": "2026-08-24T22:16:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70227,6 +70227,12 @@
       329.450012,
       0,
       126298207721
+    ],
+    [
+      "2026-08-24",
+      327.809998,
+      0,
+      125669490455
     ]
   ],
   "sharesOutstanding": [

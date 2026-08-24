@@ -2,7 +2,7 @@
   "ticker": "CYATY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:54:55+00:00",
+  "generatedAt": "2026-08-24T22:57:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -596,6 +596,12 @@
     [
       "2026-08-21",
       20.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      20.24,
       0,
       null
     ]

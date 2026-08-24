@@ -1,7 +1,7 @@
 {
   "ticker": "URTH",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:23:01+00:00",
+  "generatedAt": "2026-08-24T23:24:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22045,6 +22045,12 @@
     [
       "2026-08-21",
       209.070007,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      208.479996,
       0,
       null
     ]

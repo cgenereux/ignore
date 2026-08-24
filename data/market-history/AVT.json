@@ -1,7 +1,7 @@
 {
   "ticker": "AVT",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:31:04+00:00",
+  "generatedAt": "2026-08-24T22:34:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80641,6 +80641,12 @@
     [
       "2026-08-21",
       88.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      86.260002,
       0,
       null
     ]

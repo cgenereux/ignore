@@ -2,7 +2,7 @@
   "ticker": "NOW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:01:54+00:00",
+  "generatedAt": "2026-08-24T22:06:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21346,6 +21346,12 @@
       128.479996,
       0,
       132830585625
+    ],
+    [
+      "2026-08-24",
+      128.050003,
+      0,
+      132386032255
     ]
   ],
   "sharesOutstanding": [

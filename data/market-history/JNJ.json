@@ -1,7 +1,7 @@
 {
   "ticker": "JNJ",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:02:52+00:00",
+  "generatedAt": "2026-08-24T22:07:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97617,6 +97617,12 @@
       270.23999,
       0,
       651250973319
+    ],
+    [
+      "2026-08-24",
+      273.040009,
+      0,
+      657998733517
     ]
   ],
   "sharesOutstanding": [

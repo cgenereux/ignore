@@ -2,7 +2,7 @@
   "ticker": "CYH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:31:41+00:00",
+  "generatedAt": "2026-08-24T22:35:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39529,6 +39529,12 @@
     ],
     [
       "2026-08-21",
+      3.01,
+      0,
+      424438163
+    ],
+    [
+      "2026-08-24",
       3.01,
       0,
       424438163

@@ -2,7 +2,7 @@
   "ticker": "ZCN.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:27:46+00:00",
+  "generatedAt": "2026-08-24T23:29:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24482,6 +24482,12 @@
     [
       "2026-08-21",
       49.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      49.18,
       0,
       null
     ]

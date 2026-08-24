@@ -2,7 +2,7 @@
   "ticker": "CM.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:53:43+00:00",
+  "generatedAt": "2026-08-24T22:56:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47660,6 +47660,12 @@
     [
       "2026-08-21",
       160.320007,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      159.259995,
       0,
       null
     ]

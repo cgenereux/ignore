@@ -1,7 +1,7 @@
 {
   "ticker": "VOOG",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:25:02+00:00",
+  "generatedAt": "2026-08-24T23:26:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24079,6 +24079,12 @@
     [
       "2026-08-21",
       83.459999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      82.879997,
       0,
       null
     ]

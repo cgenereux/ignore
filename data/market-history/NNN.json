@@ -2,7 +2,7 @@
   "ticker": "NNN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:32:58+00:00",
+  "generatedAt": "2026-08-24T22:36:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63298,6 +63298,12 @@
       45.830002,
       0,
       8719074300
+    ],
+    [
+      "2026-08-24",
+      46.34,
+      0,
+      8816100551
     ]
   ],
   "sharesOutstanding": [

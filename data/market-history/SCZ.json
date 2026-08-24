@@ -1,7 +1,7 @@
 {
   "ticker": "SCZ",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:17:13+00:00",
+  "generatedAt": "2026-08-24T23:19:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28201,6 +28201,12 @@
     [
       "2026-08-21",
       86.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      86.5,
       0,
       null
     ]

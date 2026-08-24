@@ -2,7 +2,7 @@
   "ticker": "VONOY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:24:56+00:00",
+  "generatedAt": "2026-08-24T23:26:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16244,6 +16244,12 @@
     [
       "2026-08-21",
       11.63,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      11.53,
       0,
       null
     ]

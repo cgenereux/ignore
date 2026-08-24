@@ -1,7 +1,7 @@
 {
   "ticker": "CRWD",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:01:56+00:00",
+  "generatedAt": "2026-08-24T22:06:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10863,6 +10863,12 @@
       191.949997,
       0,
       195454865689
+    ],
+    [
+      "2026-08-24",
+      190.679993,
+      0,
+      194161672052
     ]
   ],
   "sharesOutstanding": [

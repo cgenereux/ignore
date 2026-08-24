@@ -2,7 +2,7 @@
   "ticker": "CHD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:14:56+00:00",
+  "generatedAt": "2026-08-24T22:19:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70228,6 +70228,12 @@
       98.800003,
       0,
       23435746735
+    ],
+    [
+      "2026-08-24",
+      102.529999,
+      0,
+      24320516295
     ]
   ],
   "sharesOutstanding": [

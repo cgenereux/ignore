@@ -2,7 +2,7 @@
   "ticker": "ATLKY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:49:00+00:00",
+  "generatedAt": "2026-08-24T22:51:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44924,6 +44924,12 @@
     [
       "2026-08-21",
       21.690001,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      21.48,
       0,
       null
     ]

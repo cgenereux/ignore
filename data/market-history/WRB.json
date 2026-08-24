@@ -1,7 +1,7 @@
 {
   "ticker": "WRB",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:23:50+00:00",
+  "generatedAt": "2026-08-24T22:27:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -79923,6 +79923,12 @@
       68.599998,
       0,
       25454578234
+    ],
+    [
+      "2026-08-24",
+      69.699997,
+      0,
+      25862741468
     ]
   ],
   "sharesOutstanding": [

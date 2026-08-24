@@ -2,7 +2,7 @@
   "ticker": "KFRC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:36:21+00:00",
+  "generatedAt": "2026-08-24T22:39:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46828,6 +46828,12 @@
       58.389999,
       0,
       1045706499
+    ],
+    [
+      "2026-08-24",
+      57.689999,
+      0,
+      1033170185
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,8 @@
 {
   "ticker": "USMV",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:23:09+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-24T23:24:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22387,6 +22388,12 @@
     [
       "2026-08-21",
       101.230003,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      101.57,
       0,
       null
     ]

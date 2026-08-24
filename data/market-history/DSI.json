@@ -1,7 +1,7 @@
 {
   "ticker": "DSI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:56:31+00:00",
+  "generatedAt": "2026-08-24T22:59:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29821,6 +29821,12 @@
     [
       "2026-08-21",
       146.619995,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      145.919998,
       0,
       null
     ]

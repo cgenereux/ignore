@@ -1,7 +1,7 @@
 {
   "ticker": "LGN",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:38:49+00:00",
+  "generatedAt": "2026-08-24T22:42:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1429,6 +1429,12 @@
     [
       "2026-08-21",
       59.369999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      56.380001,
       0,
       null
     ]

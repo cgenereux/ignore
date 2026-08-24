@@ -2,7 +2,7 @@
   "ticker": "MGNI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:32:46+00:00",
+  "generatedAt": "2026-08-24T22:36:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18688,6 +18688,12 @@
       23.5,
       0,
       3370467690
+    ],
+    [
+      "2026-08-24",
+      23.559999,
+      0,
+      3379073062
     ]
   ],
   "sharesOutstanding": [

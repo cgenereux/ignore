@@ -1,7 +1,7 @@
 {
   "ticker": "MARA",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:25:07+00:00",
+  "generatedAt": "2026-08-24T22:29:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21579,6 +21579,12 @@
       11.26,
       0,
       4293105951
+    ],
+    [
+      "2026-08-24",
+      11.18,
+      0,
+      4262604340
     ]
   ],
   "sharesOutstanding": [

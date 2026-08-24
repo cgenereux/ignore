@@ -1,7 +1,7 @@
 {
   "ticker": "BA",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:10:10+00:00",
+  "generatedAt": "2026-08-24T22:14:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97617,6 +97617,12 @@
       214.199997,
       0,
       169297255872
+    ],
+    [
+      "2026-08-24",
+      210.460007,
+      0,
+      166341279716
     ]
   ],
   "sharesOutstanding": [

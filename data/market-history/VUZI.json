@@ -2,7 +2,7 @@
   "ticker": "VUZI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:34:01+00:00",
+  "generatedAt": "2026-08-24T22:37:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24742,6 +24742,12 @@
       2.94,
       0,
       248177841
+    ],
+    [
+      "2026-08-24",
+      2.78,
+      0,
+      234671557
     ]
   ],
   "sharesOutstanding": [

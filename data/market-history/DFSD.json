@@ -2,7 +2,7 @@
   "ticker": "DFSD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:55:42+00:00",
+  "generatedAt": "2026-08-24T22:58:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7178,6 +7178,12 @@
     [
       "2026-08-21",
       47.310001,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      47.314999,
       0,
       null
     ]

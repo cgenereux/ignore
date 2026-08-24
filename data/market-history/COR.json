@@ -2,7 +2,7 @@
   "ticker": "COR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:14:38+00:00",
+  "generatedAt": "2026-08-24T22:19:00+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -47398,6 +47398,12 @@
       318.040009,
       0,
       60690673274
+    ],
+    [
+      "2026-08-24",
+      323.769989,
+      0,
+      61784109116
     ]
   ],
   "sharesOutstanding": [

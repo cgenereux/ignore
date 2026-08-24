@@ -2,7 +2,7 @@
   "ticker": "ADRNY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:47:34+00:00",
+  "generatedAt": "2026-08-24T22:50:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53438,6 +53438,12 @@
     [
       "2026-08-21",
       36.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      36.52,
       0,
       null
     ]

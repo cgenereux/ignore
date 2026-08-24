@@ -2,7 +2,7 @@
   "ticker": "ONC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:37:39+00:00",
+  "generatedAt": "2026-08-24T22:41:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15910,6 +15910,12 @@
       374.470001,
       0,
       42360855768
+    ],
+    [
+      "2026-08-24",
+      371.980011,
+      0,
+      42079182692
     ]
   ],
   "sharesOutstanding": [

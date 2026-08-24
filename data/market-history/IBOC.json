@@ -2,7 +2,7 @@
   "ticker": "IBOC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:05:01+00:00",
+  "generatedAt": "2026-08-24T23:07:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46778,6 +46778,12 @@
     [
       "2026-08-21",
       71.489998,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      71.540001,
       0,
       null
     ]

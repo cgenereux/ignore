@@ -1,7 +1,7 @@
 {
   "ticker": "SMR",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:25:52+00:00",
+  "generatedAt": "2026-08-24T22:29:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6753,6 +6753,12 @@
       9.4,
       0,
       3857661350
+    ],
+    [
+      "2026-08-24",
+      9.05,
+      0,
+      3714025252
     ]
   ],
   "sharesOutstanding": [

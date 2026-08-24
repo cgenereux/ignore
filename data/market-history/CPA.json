@@ -2,7 +2,7 @@
   "ticker": "CPA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:54:24+00:00",
+  "generatedAt": "2026-08-24T22:57:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31220,6 +31220,12 @@
     [
       "2026-08-21",
       129.949997,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      131.5,
       0,
       null
     ]

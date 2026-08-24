@@ -1,7 +1,7 @@
 {
   "ticker": "CVLT",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:54:45+00:00",
+  "generatedAt": "2026-08-24T22:57:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30061,6 +30061,12 @@
     [
       "2026-08-21",
       133.809998,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      131.130005,
       0,
       null
     ]

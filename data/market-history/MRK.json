@@ -1,7 +1,7 @@
 {
   "ticker": "MRK",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:03:28+00:00",
+  "generatedAt": "2026-08-24T22:08:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97617,6 +97617,12 @@
       152.550003,
       0,
       376771722046
+    ],
+    [
+      "2026-08-24",
+      150.660004,
+      0,
+      372103755409
     ]
   ],
   "sharesOutstanding": [

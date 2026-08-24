@@ -1,7 +1,7 @@
 {
   "ticker": "GMED",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:29:42+00:00",
+  "generatedAt": "2026-08-24T22:33:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21195,6 +21195,12 @@
       86.910004,
       0,
       11668703437
+    ],
+    [
+      "2026-08-24",
+      84.080002,
+      0,
+      11288741975
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "FMAGX",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:00:21+00:00",
+  "generatedAt": "2026-08-24T23:02:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70531,6 +70531,12 @@
     [
       "2026-08-20",
       15.4,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      15.48,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "TFSL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:21:11+00:00",
+  "generatedAt": "2026-08-24T23:22:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29180,6 +29180,12 @@
     [
       "2026-08-21",
       17.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      17.65,
       0,
       null
     ]

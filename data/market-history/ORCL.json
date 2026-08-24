@@ -1,7 +1,7 @@
 {
   "ticker": "ORCL",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:02:18+00:00",
+  "generatedAt": "2026-08-24T22:07:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61149,6 +61149,12 @@
       146.470001,
       0,
       421902590886
+    ],
+    [
+      "2026-08-24",
+      142.449997,
+      0,
+      410323085160
     ]
   ],
   "sharesOutstanding": [

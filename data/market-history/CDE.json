@@ -2,7 +2,7 @@
   "ticker": "CDE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:52:44+00:00",
+  "generatedAt": "2026-08-24T22:55:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70226,6 +70226,12 @@
     [
       "2026-08-21",
       20.969999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      20.879999,
       0,
       null
     ]

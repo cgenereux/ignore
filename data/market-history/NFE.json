@@ -2,7 +2,7 @@
   "ticker": "NFE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:37:18+00:00",
+  "generatedAt": "2026-08-24T22:40:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11410,6 +11410,12 @@
       0.275,
       0,
       78549530
+    ],
+    [
+      "2026-08-24",
+      0.2754,
+      0,
+      78663786
     ]
   ],
   "sharesOutstanding": [

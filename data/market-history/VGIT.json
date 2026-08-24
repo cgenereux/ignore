@@ -1,7 +1,8 @@
 {
   "ticker": "VGIT",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:24:01+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-24T23:25:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25272,7 +25273,13 @@
     ],
     [
       "2026-08-21",
-      58.314999,
+      58.32,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      58.369999,
       0,
       null
     ]

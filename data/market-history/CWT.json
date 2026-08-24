@@ -2,7 +2,7 @@
   "ticker": "CWT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:35:21+00:00",
+  "generatedAt": "2026-08-24T22:38:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80926,6 +80926,12 @@
       49.549999,
       0,
       3064127407
+    ],
+    [
+      "2026-08-24",
+      50.849998,
+      0,
+      3144518191
     ]
   ],
   "sharesOutstanding": [

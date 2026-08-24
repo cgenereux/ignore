@@ -2,7 +2,7 @@
   "ticker": "RS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:27:32+00:00",
+  "generatedAt": "2026-08-24T22:31:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48226,6 +48226,12 @@
       387.890015,
       0,
       19803552087
+    ],
+    [
+      "2026-08-24",
+      382.48999,
+      0,
+      19527856243
     ]
   ],
   "sharesOutstanding": [

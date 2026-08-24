@@ -2,7 +2,7 @@
   "ticker": "XLE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:26:59+00:00",
+  "generatedAt": "2026-08-24T23:28:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41756,6 +41756,12 @@
     [
       "2026-08-21",
       63.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      63.110001,
       0,
       null
     ]

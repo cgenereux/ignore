@@ -1,7 +1,7 @@
 {
   "ticker": "MRSH",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:19:38+00:00",
+  "generatedAt": "2026-08-24T22:23:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80943,6 +80943,12 @@
       192.009995,
       0,
       91629332947
+    ],
+    [
+      "2026-08-24",
+      194.669998,
+      0,
+      92898716668
     ]
   ],
   "sharesOutstanding": [

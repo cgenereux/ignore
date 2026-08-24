@@ -1,7 +1,7 @@
 {
   "ticker": "PACS",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:41:58+00:00",
+  "generatedAt": "2026-08-24T22:45:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3546,6 +3546,12 @@
     ],
     [
       "2026-08-21",
+      44.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
       44.25,
       0,
       null

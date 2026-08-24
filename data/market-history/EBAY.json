@@ -1,7 +1,7 @@
 {
   "ticker": "EBAY",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:04:19+00:00",
+  "generatedAt": "2026-08-24T22:08:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42129,6 +42129,12 @@
       104.129997,
       0,
       46233718781
+    ],
+    [
+      "2026-08-24",
+      107.080002,
+      0,
+      47543520813
     ]
   ],
   "sharesOutstanding": [

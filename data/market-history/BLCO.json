@@ -1,7 +1,7 @@
 {
   "ticker": "BLCO",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:43:33+00:00",
+  "generatedAt": "2026-08-24T22:46:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6469,6 +6469,12 @@
     [
       "2026-08-21",
       17.24,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      17.32,
       0,
       null
     ]

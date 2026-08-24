@@ -2,7 +2,7 @@
   "ticker": "SAN.MC",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:16:22+00:00",
+  "generatedAt": "2026-08-24T23:18:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -92,6 +92,12 @@
     [
       "2026-08-20",
       12.226,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      12.55,
       0,
       null
     ]

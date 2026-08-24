@@ -1,7 +1,7 @@
 {
   "ticker": "FLPSX",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:00:17+00:00",
+  "generatedAt": "2026-08-24T23:02:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55363,6 +55363,12 @@
     [
       "2026-08-20",
       47.950001,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      48.279999,
       0,
       null
     ]

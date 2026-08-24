@@ -1,7 +1,8 @@
 {
   "ticker": "FBNDX",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:59:03+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-24T23:01:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70447,7 +70448,7 @@
     [
       "2026-07-31",
       7.1,
-      0,
+      0.024,
       null
     ],
     [
@@ -70531,6 +70532,12 @@
     [
       "2026-08-20",
       7.12,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      7.11,
       0,
       null
     ]

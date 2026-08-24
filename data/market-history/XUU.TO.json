@@ -2,7 +2,7 @@
   "ticker": "XUU.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:27:34+00:00",
+  "generatedAt": "2026-08-24T23:29:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17330,6 +17330,12 @@
     [
       "2026-08-21",
       77.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      77.75,
       0,
       null
     ]

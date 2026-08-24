@@ -1,7 +1,7 @@
 {
   "ticker": "EMBJ",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:57:22+00:00",
+  "generatedAt": "2026-08-24T23:00:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39367,6 +39367,12 @@
     [
       "2026-08-21",
       75.949997,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      76.260002,
       0,
       null
     ]

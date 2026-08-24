@@ -1,7 +1,7 @@
 {
   "ticker": "ADI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:11:12+00:00",
+  "generatedAt": "2026-08-24T22:15:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70227,6 +70227,12 @@
       373.089996,
       0,
       181727301970
+    ],
+    [
+      "2026-08-24",
+      371.170013,
+      0,
+      180792103177
     ]
   ],
   "sharesOutstanding": [
