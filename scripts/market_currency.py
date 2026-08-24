@@ -74,6 +74,12 @@ FOREIGN_LISTINGS = {
         "series": "DEXCHUS",
         "perUsd": True,
     },
+    "300274.SZ": {
+        "symbol": "300274.SZ",
+        "currency": "CNY",
+        "series": "DEXCHUS",
+        "perUsd": True,
+    },
     "688836.SS": {
         "symbol": "688836.SS",
         "currency": "CNY",
