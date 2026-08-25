@@ -2,7 +2,7 @@
   "ticker": "HDV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:04:01+00:00",
+  "generatedAt": "2026-08-24T23:06:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23234,6 +23234,12 @@
     [
       "2026-08-21",
       29.809999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      29.92,
       0,
       null
     ]

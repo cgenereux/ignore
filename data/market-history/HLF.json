@@ -2,7 +2,7 @@
   "ticker": "HLF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:34:59+00:00",
+  "generatedAt": "2026-08-24T22:38:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32716,6 +32716,12 @@
       12.65,
       0,
       1325762717
+    ],
+    [
+      "2026-08-24",
+      12.58,
+      0,
+      1318426512
     ]
   ],
   "sharesOutstanding": [

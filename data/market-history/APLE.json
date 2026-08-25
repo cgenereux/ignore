@@ -1,7 +1,7 @@
 {
   "ticker": "APLE",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:36:06+00:00",
+  "generatedAt": "2026-08-24T22:39:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17005,6 +17005,12 @@
     [
       "2026-08-21",
       16.67,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      16.59,
       0,
       null
     ]

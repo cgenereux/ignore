@@ -1,7 +1,7 @@
 {
   "ticker": "MANH",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:29:00+00:00",
+  "generatedAt": "2026-08-24T22:32:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42771,6 +42771,12 @@
       214.559998,
       0,
       12509914650
+    ],
+    [
+      "2026-08-24",
+      213.179993,
+      0,
+      12429453504
     ]
   ],
   "sharesOutstanding": [

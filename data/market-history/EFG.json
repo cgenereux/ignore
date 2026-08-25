@@ -2,7 +2,7 @@
   "ticker": "EFG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:57:07+00:00",
+  "generatedAt": "2026-08-24T22:59:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31754,6 +31754,12 @@
     [
       "2026-08-21",
       125.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      125.059998,
       0,
       null
     ]

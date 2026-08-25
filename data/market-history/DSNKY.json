@@ -2,7 +2,7 @@
   "ticker": "DSNKY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:56:33+00:00",
+  "generatedAt": "2026-08-24T22:59:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26684,6 +26684,12 @@
     [
       "2026-08-21",
       18.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      17.98,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "EWT",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:58:31+00:00",
+  "generatedAt": "2026-08-24T23:01:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39481,6 +39481,12 @@
     [
       "2026-08-21",
       104.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      103.330002,
       0,
       null
     ]

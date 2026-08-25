@@ -2,7 +2,7 @@
   "ticker": "NTR.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:12:11+00:00",
+  "generatedAt": "2026-08-24T23:14:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13004,6 +13004,12 @@
     [
       "2026-08-21",
       103.709999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      102.870003,
       0,
       null
     ]

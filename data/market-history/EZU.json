@@ -1,7 +1,7 @@
 {
   "ticker": "EZU",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:58:45+00:00",
+  "generatedAt": "2026-08-24T23:01:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39331,6 +39331,12 @@
     [
       "2026-08-21",
       71.489998,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      71.360001,
       0,
       null
     ]

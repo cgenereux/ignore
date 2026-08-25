@@ -2,7 +2,7 @@
   "ticker": "BP.L",
   "currency": "GBP",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:51:45+00:00",
+  "generatedAt": "2026-08-24T22:54:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58688,6 +58688,12 @@
     [
       "2026-08-21",
       5.495,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      5.337,
       0,
       null
     ]

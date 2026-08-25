@@ -2,7 +2,7 @@
   "ticker": "XEQT.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:26:47+00:00",
+  "generatedAt": "2026-08-24T23:28:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10580,6 +10580,12 @@
     [
       "2026-08-21",
       45.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      45.669998,
       0,
       null
     ]

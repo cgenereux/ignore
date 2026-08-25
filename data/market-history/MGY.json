@@ -1,7 +1,7 @@
 {
   "ticker": "MGY",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:42:39+00:00",
+  "generatedAt": "2026-08-24T22:45:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13801,6 +13801,12 @@
     [
       "2026-08-21",
       28.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      27.219999,
       0,
       null
     ]

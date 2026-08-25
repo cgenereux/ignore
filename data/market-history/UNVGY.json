@@ -2,7 +2,7 @@
   "ticker": "UNVGY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:22:55+00:00",
+  "generatedAt": "2026-08-24T23:24:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3044,6 +3044,12 @@
     [
       "2026-08-21",
       8.56,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      8.54,
       0,
       null
     ]

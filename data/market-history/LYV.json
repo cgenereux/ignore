@@ -1,7 +1,7 @@
 {
   "ticker": "LYV",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:19:27+00:00",
+  "generatedAt": "2026-08-24T22:23:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31197,6 +31197,12 @@
       181.820007,
       0,
       42356698905
+    ],
+    [
+      "2026-08-24",
+      184.589996,
+      0,
+      43001994175
     ]
   ],
   "sharesOutstanding": [

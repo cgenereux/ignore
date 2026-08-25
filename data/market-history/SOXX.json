@@ -1,7 +1,7 @@
 {
   "ticker": "SOXX",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:18:58+00:00",
+  "generatedAt": "2026-08-24T23:20:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37891,6 +37891,12 @@
     [
       "2026-08-21",
       520.049988,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      506.179993,
       0,
       null
     ]

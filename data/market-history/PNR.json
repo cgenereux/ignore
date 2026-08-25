@@ -2,7 +2,7 @@
   "ticker": "PNR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:20:57+00:00",
+  "generatedAt": "2026-08-24T22:25:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80644,6 +80644,12 @@
       64.400002,
       0,
       10407397164
+    ],
+    [
+      "2026-08-24",
+      63.310001,
+      0,
+      10231247023
     ]
   ],
   "sharesOutstanding": [

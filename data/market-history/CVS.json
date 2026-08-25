@@ -1,7 +1,7 @@
 {
   "ticker": "CVS",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:03:48+00:00",
+  "generatedAt": "2026-08-24T22:08:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80943,6 +80943,12 @@
       93.019997,
       0,
       118686753814
+    ],
+    [
+      "2026-08-24",
+      94.110001,
+      0,
+      120077519641
     ]
   ],
   "sharesOutstanding": [

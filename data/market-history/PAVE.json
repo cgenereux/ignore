@@ -1,7 +1,8 @@
 {
   "ticker": "PAVE",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:13:15+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-24T23:15:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14275,6 +14276,12 @@
     [
       "2026-08-21",
       56.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      55.919998,
       0,
       null
     ]

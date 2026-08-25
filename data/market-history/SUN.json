@@ -2,7 +2,7 @@
   "ticker": "SUN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:38:44+00:00",
+  "generatedAt": "2026-08-24T22:42:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20986,6 +20986,12 @@
       75.849998,
       0,
       14291190159
+    ],
+    [
+      "2026-08-24",
+      76.110001,
+      0,
+      14340178162
     ]
   ],
   "sharesOutstanding": [

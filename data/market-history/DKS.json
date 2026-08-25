@@ -1,7 +1,7 @@
 {
   "ticker": "DKS",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:27:49+00:00",
+  "generatedAt": "2026-08-24T22:31:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36009,6 +36009,12 @@
       183.229996,
       0,
       16399549472
+    ],
+    [
+      "2026-08-24",
+      179.330002,
+      0,
+      16050490124
     ]
   ],
   "sharesOutstanding": [

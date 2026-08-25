@@ -1,7 +1,7 @@
 {
   "ticker": "NJR",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:44:29+00:00",
+  "generatedAt": "2026-08-24T22:47:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70225,6 +70225,12 @@
     [
       "2026-08-21",
       53.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      53.740002,
       0,
       null
     ]

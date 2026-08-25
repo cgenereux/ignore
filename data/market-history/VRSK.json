@@ -2,7 +2,7 @@
   "ticker": "VRSK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:23:39+00:00",
+  "generatedAt": "2026-08-24T22:27:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25456,6 +25456,12 @@
       187.5,
       0,
       24404252250
+    ],
+    [
+      "2026-08-24",
+      189.550003,
+      0,
+      24671072472
     ]
   ],
   "sharesOutstanding": [

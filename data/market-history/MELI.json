@@ -1,7 +1,7 @@
 {
   "ticker": "MELI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:24:30+00:00",
+  "generatedAt": "2026-08-24T22:28:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28737,6 +28737,12 @@
       1922.72998,
       0,
       97476991757
+    ],
+    [
+      "2026-08-24",
+      1947.900024,
+      0,
+      98753042056
     ]
   ],
   "sharesOutstanding": [

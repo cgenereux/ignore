@@ -1,7 +1,7 @@
 {
   "ticker": "UBSI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:22:28+00:00",
+  "generatedAt": "2026-08-24T23:24:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59281,6 +59281,12 @@
     [
       "2026-08-21",
       47.810001,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      47.799999,
       0,
       null
     ]

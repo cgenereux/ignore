@@ -1,7 +1,7 @@
 {
   "ticker": "LAMR",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:28:16+00:00",
+  "generatedAt": "2026-08-24T22:32:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45375,6 +45375,12 @@
       150.770004,
       0,
       15310646291
+    ],
+    [
+      "2026-08-24",
+      152.679993,
+      0,
+      15504605009
     ]
   ],
   "sharesOutstanding": [

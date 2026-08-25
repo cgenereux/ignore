@@ -2,7 +2,7 @@
   "ticker": "GOLD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:32:12+00:00",
+  "generatedAt": "2026-08-24T22:35:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18778,6 +18778,12 @@
       46.209999,
       0,
       1340292094
+    ],
+    [
+      "2026-08-24",
+      45.799999,
+      0,
+      1328400307
     ]
   ],
   "sharesOutstanding": [

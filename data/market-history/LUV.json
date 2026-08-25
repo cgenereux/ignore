@@ -1,7 +1,7 @@
 {
   "ticker": "LUV",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:22:28+00:00",
+  "generatedAt": "2026-08-24T22:26:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70539,6 +70539,12 @@
       40.380001,
       0,
       19754227679
+    ],
+    [
+      "2026-08-24",
+      40.709999,
+      0,
+      19915665415
     ]
   ],
   "sharesOutstanding": [

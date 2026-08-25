@@ -1,7 +1,7 @@
 {
   "ticker": "BAESY",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:49:33+00:00",
+  "generatedAt": "2026-08-24T22:52:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34465,6 +34465,12 @@
     [
       "2026-08-21",
       116.040001,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      114.139999,
       0,
       null
     ]

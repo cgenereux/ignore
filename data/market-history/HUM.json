@@ -1,7 +1,7 @@
 {
   "ticker": "HUM",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:18:14+00:00",
+  "generatedAt": "2026-08-24T22:22:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67509,6 +67509,12 @@
       378.880005,
       0,
       45496027681
+    ],
+    [
+      "2026-08-24",
+      386.609985,
+      0,
+      46424246117
     ]
   ],
   "sharesOutstanding": [

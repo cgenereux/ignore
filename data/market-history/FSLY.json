@@ -1,7 +1,7 @@
 {
   "ticker": "FSLY",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:26:58+00:00",
+  "generatedAt": "2026-08-24T22:30:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10965,6 +10965,12 @@
       24.950001,
       0,
       3974535122
+    ],
+    [
+      "2026-08-24",
+      22.940001,
+      0,
+      3654342085
     ]
   ],
   "sharesOutstanding": [

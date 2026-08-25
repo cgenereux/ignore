@@ -1,7 +1,8 @@
 {
   "ticker": "PRI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:14:05+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-24T23:16:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24745,6 +24746,12 @@
     [
       "2026-08-21",
       295.820007,
+      1.2,
+      null
+    ],
+    [
+      "2026-08-24",
+      299.980011,
       0,
       null
     ]

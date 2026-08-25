@@ -2,7 +2,7 @@
   "ticker": "MSGE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:32:52+00:00",
+  "generatedAt": "2026-08-24T22:36:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5038,6 +5038,12 @@
       79.889999,
       0,
       3779215115
+    ],
+    [
+      "2026-08-24",
+      79.589996,
+      0,
+      3765023401
     ]
   ],
   "sharesOutstanding": [

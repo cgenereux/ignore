@@ -2,7 +2,7 @@
   "ticker": "PFGC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:27:56+00:00",
+  "generatedAt": "2026-08-24T22:31:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16444,6 +16444,12 @@
       104.980003,
       0,
       16489467273
+    ],
+    [
+      "2026-08-24",
+      105.779999,
+      0,
+      16615124521
     ]
   ],
   "sharesOutstanding": [

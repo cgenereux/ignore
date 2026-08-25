@@ -1,7 +1,7 @@
 {
   "ticker": "FBP",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:59:05+00:00",
+  "generatedAt": "2026-08-24T23:01:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59875,6 +59875,12 @@
     [
       "2026-08-21",
       28.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      28.23,
       0,
       null
     ]

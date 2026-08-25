@@ -2,7 +2,7 @@
   "ticker": "ADBE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:02:27+00:00",
+  "generatedAt": "2026-08-24T22:07:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60508,6 +60508,12 @@
       275.299988,
       0,
       109431745148
+    ],
+    [
+      "2026-08-24",
+      276.269989,
+      0,
+      109817320633
     ]
   ],
   "sharesOutstanding": [

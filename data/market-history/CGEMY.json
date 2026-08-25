@@ -2,7 +2,7 @@
   "ticker": "CGEMY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:53:09+00:00",
+  "generatedAt": "2026-08-24T22:55:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28010,6 +28010,12 @@
     [
       "2026-08-21",
       25.879999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      25.99,
       0,
       null
     ]

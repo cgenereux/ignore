@@ -1,7 +1,7 @@
 {
   "ticker": "SRE",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:22:08+00:00",
+  "generatedAt": "2026-08-24T22:26:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42495,6 +42495,12 @@
       82.889999,
       0,
       54185806070
+    ],
+    [
+      "2026-08-24",
+      84.57,
+      0,
+      55284034703
     ]
   ],
   "sharesOutstanding": [

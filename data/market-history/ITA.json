@@ -1,7 +1,7 @@
 {
   "ticker": "ITA",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:06:41+00:00",
+  "generatedAt": "2026-08-24T23:08:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30643,6 +30643,12 @@
     [
       "2026-08-21",
       237.339996,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      233.399994,
       0,
       null
     ]

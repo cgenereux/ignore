@@ -2,7 +2,7 @@
   "ticker": "AHT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:36:08+00:00",
+  "generatedAt": "2026-08-24T22:39:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34693,6 +34693,12 @@
     ],
     [
       "2026-08-21",
+      3.33,
+      0,
+      21544480
+    ],
+    [
+      "2026-08-24",
       3.33,
       0,
       21544480

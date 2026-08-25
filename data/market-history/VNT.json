@@ -2,7 +2,7 @@
   "ticker": "VNT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:24:45+00:00",
+  "generatedAt": "2026-08-24T23:26:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8894,6 +8894,12 @@
     [
       "2026-08-21",
       32.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      33.240002,
       0,
       null
     ]

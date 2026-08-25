@@ -2,7 +2,7 @@
   "ticker": "PNTG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:36:12+00:00",
+  "generatedAt": "2026-08-24T22:39:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10384,6 +10384,12 @@
       38.880001,
       0,
       1358042434
+    ],
+    [
+      "2026-08-24",
+      38.889999,
+      0,
+      1358391667
     ]
   ],
   "sharesOutstanding": [

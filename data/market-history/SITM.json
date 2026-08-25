@@ -1,7 +1,7 @@
 {
   "ticker": "SITM",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:27:37+00:00",
+  "generatedAt": "2026-08-24T22:31:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10179,6 +10179,12 @@
       614.830017,
       0,
       18488575578
+    ],
+    [
+      "2026-08-24",
+      580.969971,
+      0,
+      17470368904
     ]
   ],
   "sharesOutstanding": [

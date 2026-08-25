@@ -2,7 +2,7 @@
   "ticker": "UBSG.SW",
   "currency": "CHF",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T23:22:26+00:00",
+  "generatedAt": "2026-08-24T23:24:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47468,6 +47468,12 @@
     [
       "2026-08-20",
       42.720001,
+      0,
+      null
+    ],
+    [
+      "2026-08-21",
+      42.5,
       0,
       null
     ]

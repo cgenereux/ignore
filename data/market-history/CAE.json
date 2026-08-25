@@ -1,7 +1,7 @@
 {
   "ticker": "CAE",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:52:19+00:00",
+  "generatedAt": "2026-08-24T22:55:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36343,6 +36343,12 @@
     [
       "2026-08-21",
       24.91,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      24.74,
       0,
       null
     ]

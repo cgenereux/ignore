@@ -1,7 +1,7 @@
 {
   "ticker": "ALIZY",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:48:12+00:00",
+  "generatedAt": "2026-08-24T22:51:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38917,6 +38917,12 @@
     [
       "2026-08-21",
       51.360001,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      51.810001,
       0,
       null
     ]

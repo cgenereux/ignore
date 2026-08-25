@@ -1,7 +1,7 @@
 {
   "ticker": "BIRK",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:50:56+00:00",
+  "generatedAt": "2026-08-24T22:53:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4315,6 +4315,12 @@
     [
       "2026-08-21",
       35.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      35.299999,
       0,
       null
     ]

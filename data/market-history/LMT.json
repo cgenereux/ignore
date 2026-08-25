@@ -1,7 +1,7 @@
 {
   "ticker": "LMT",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:03:34+00:00",
+  "generatedAt": "2026-08-24T22:08:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97611,6 +97611,12 @@
       563.570007,
       0,
       130066746359
+    ],
+    [
+      "2026-08-24",
+      564.140015,
+      0,
+      130198298778
     ]
   ],
   "sharesOutstanding": [

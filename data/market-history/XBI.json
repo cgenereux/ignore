@@ -1,7 +1,7 @@
 {
   "ticker": "XBI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:26:45+00:00",
+  "generatedAt": "2026-08-24T23:28:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31015,6 +31015,12 @@
     [
       "2026-08-21",
       165.729996,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      164.169998,
       0,
       null
     ]

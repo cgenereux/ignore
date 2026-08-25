@@ -1,7 +1,7 @@
 {
   "ticker": "STLA",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:20:14+00:00",
+  "generatedAt": "2026-08-24T23:21:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24463,6 +24463,12 @@
     [
       "2026-08-21",
       5.41,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      5.22,
       0,
       null
     ]

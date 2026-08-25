@@ -1,7 +1,8 @@
 {
   "ticker": "GBTG",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:02:41+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-24T23:04:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6043,6 +6044,12 @@
     [
       "2026-08-21",
       9.45,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      9.48,
       0,
       null
     ]

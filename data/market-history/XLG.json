@@ -1,7 +1,8 @@
 {
   "ticker": "XLG",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:27:02+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-24T23:28:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32137,6 +32138,12 @@
     [
       "2026-08-21",
       62.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      61.82,
       0,
       null
     ]

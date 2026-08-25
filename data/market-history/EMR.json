@@ -2,7 +2,7 @@
   "ticker": "EMR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:04:51+00:00",
+  "generatedAt": "2026-08-24T22:09:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82024,6 +82024,12 @@
       157.259995,
       0,
       87719624936
+    ],
+    [
+      "2026-08-24",
+      157.570007,
+      0,
+      87892550085
     ]
   ],
   "sharesOutstanding": [

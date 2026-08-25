@@ -1,7 +1,7 @@
 {
   "ticker": "AMD",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:02:23+00:00",
+  "generatedAt": "2026-08-24T22:07:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70227,6 +70227,12 @@
       473.25,
       0,
       771681752407
+    ],
+    [
+      "2026-08-24",
+      456.744995,
+      0,
+      744768680898
     ]
   ],
   "sharesOutstanding": [

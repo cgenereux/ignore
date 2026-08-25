@@ -2,7 +2,7 @@
   "ticker": "CEVA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:31:26+00:00",
+  "generatedAt": "2026-08-24T22:35:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35938,6 +35938,12 @@
       27.99,
       0,
       788032469
+    ],
+    [
+      "2026-08-24",
+      26.68,
+      0,
+      751150650
     ]
   ],
   "sharesOutstanding": [

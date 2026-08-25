@@ -1,7 +1,7 @@
 {
   "ticker": "VNOM",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:28:25+00:00",
+  "generatedAt": "2026-08-24T22:32:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18381,6 +18381,12 @@
       45.27,
       0,
       16297435071
+    ],
+    [
+      "2026-08-24",
+      44.709999,
+      0,
+      16095831671
     ]
   ],
   "sharesOutstanding": [

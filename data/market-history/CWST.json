@@ -1,7 +1,7 @@
 {
   "ticker": "CWST",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:54:51+00:00",
+  "generatedAt": "2026-08-24T22:57:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43489,6 +43489,12 @@
     [
       "2026-08-21",
       92.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      94.779999,
       0,
       null
     ]

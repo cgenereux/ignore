@@ -2,7 +2,7 @@
   "ticker": "AEM.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:47:42+00:00",
+  "generatedAt": "2026-08-24T22:50:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47672,6 +47672,12 @@
     [
       "2026-08-21",
       297.820007,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      301.170013,
       0,
       null
     ]

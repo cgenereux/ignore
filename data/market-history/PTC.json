@@ -1,7 +1,7 @@
 {
   "ticker": "PTC",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:21:21+00:00",
+  "generatedAt": "2026-08-24T22:25:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55461,6 +55461,12 @@
       154.679993,
       0,
       17866434906
+    ],
+    [
+      "2026-08-24",
+      154.309998,
+      0,
+      17823698327
     ]
   ],
   "sharesOutstanding": [

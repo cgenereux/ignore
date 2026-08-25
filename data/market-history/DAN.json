@@ -2,7 +2,7 @@
   "ticker": "DAN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:36:43+00:00",
+  "generatedAt": "2026-08-24T22:40:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28126,6 +28126,12 @@
       31.719999,
       0,
       3412332184
+    ],
+    [
+      "2026-08-24",
+      30.15,
+      0,
+      3243436831
     ]
   ],
   "sharesOutstanding": [

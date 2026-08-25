@@ -1,7 +1,7 @@
 {
   "ticker": "EAI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:56:54+00:00",
+  "generatedAt": "2026-08-24T22:59:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -865,6 +865,12 @@
     [
       "2026-08-21",
       19.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      19.844999,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "ABVX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:47:23+00:00",
+  "generatedAt": "2026-08-24T22:50:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4268,6 +4268,12 @@
     [
       "2026-08-21",
       114.949997,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      116.150002,
       0,
       null
     ]

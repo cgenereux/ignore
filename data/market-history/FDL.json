@@ -1,7 +1,7 @@
 {
   "ticker": "FDL",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:59:26+00:00",
+  "generatedAt": "2026-08-24T23:01:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30859,6 +30859,12 @@
     [
       "2026-08-21",
       53.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      53.459999,
       0,
       null
     ]

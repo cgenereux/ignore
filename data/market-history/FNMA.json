@@ -2,7 +2,7 @@
   "ticker": "FNMA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:42:02+00:00",
+  "generatedAt": "2026-08-24T22:45:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -75064,6 +75064,12 @@
       6.3,
       0,
       7295951893
+    ],
+    [
+      "2026-08-24",
+      6.27,
+      0,
+      7261209023
     ]
   ],
   "sharesOutstanding": [

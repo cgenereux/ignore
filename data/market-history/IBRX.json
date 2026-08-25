@@ -1,7 +1,7 @@
 {
   "ticker": "IBRX",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:40:42+00:00",
+  "generatedAt": "2026-08-24T22:44:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16711,6 +16711,12 @@
     [
       "2026-08-21",
       7.79,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      7.58,
       0,
       null
     ]

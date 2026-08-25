@@ -1,7 +1,7 @@
 {
   "ticker": "LVHI",
   "currency": "USD",
-  "generatedAt": "2026-08-21T23:09:38+00:00",
+  "generatedAt": "2026-08-24T23:11:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15193,6 +15193,12 @@
     [
       "2026-08-21",
       42.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      43.080002,
       0,
       null
     ]

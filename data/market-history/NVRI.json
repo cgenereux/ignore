@@ -2,7 +2,7 @@
   "ticker": "NVRI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:36:49+00:00",
+  "generatedAt": "2026-08-24T22:40:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70210,6 +70210,12 @@
       20.65,
       0,
       582125947
+    ],
+    [
+      "2026-08-24",
+      21.120001,
+      0,
+      595375337
     ]
   ],
   "sharesOutstanding": [

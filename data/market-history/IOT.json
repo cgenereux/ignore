@@ -1,7 +1,7 @@
 {
   "ticker": "IOT",
   "currency": "USD",
-  "generatedAt": "2026-08-21T22:25:21+00:00",
+  "generatedAt": "2026-08-24T22:29:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7053,6 +7053,12 @@
       39.939999,
       0,
       23273439875
+    ],
+    [
+      "2026-08-24",
+      40.330002,
+      0,
+      23500698674
     ]
   ],
   "sharesOutstanding": [
