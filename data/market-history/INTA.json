@@ -2,7 +2,7 @@
   "ticker": "INTA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:38:17+00:00",
+  "generatedAt": "2026-08-25T22:38:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7750,6 +7750,12 @@
       40.919998,
       0,
       3130836036
+    ],
+    [
+      "2026-08-25",
+      40.709999,
+      0,
+      3114768765
     ]
   ],
   "sharesOutstanding": [

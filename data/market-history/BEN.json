@@ -1,7 +1,7 @@
 {
   "ticker": "BEN",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:21:48+00:00",
+  "generatedAt": "2026-08-25T22:20:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64887,6 +64887,12 @@
       34.619999,
       0,
       17989837993
+    ],
+    [
+      "2026-08-25",
+      35.029999,
+      0,
+      18202889151
     ]
   ],
   "sharesOutstanding": [

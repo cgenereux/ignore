@@ -1,7 +1,7 @@
 {
   "ticker": "COGT",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:45:37+00:00",
+  "generatedAt": "2026-08-25T22:46:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12679,6 +12679,12 @@
     [
       "2026-08-24",
       36.23,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      36.799999,
       0,
       null
     ]

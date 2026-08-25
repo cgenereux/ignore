@@ -1,7 +1,7 @@
 {
   "ticker": "VEON",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:25:21+00:00",
+  "generatedAt": "2026-08-25T23:28:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44935,6 +44935,12 @@
     [
       "2026-08-24",
       61.150002,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      62.34,
       0,
       null
     ]

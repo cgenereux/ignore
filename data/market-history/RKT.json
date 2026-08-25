@@ -1,7 +1,7 @@
 {
   "ticker": "RKT",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:31:09+00:00",
+  "generatedAt": "2026-08-25T22:30:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9123,6 +9123,12 @@
       14.09,
       0,
       39897842144
+    ],
+    [
+      "2026-08-25",
+      14.3,
+      0,
+      40492487160
     ]
   ],
   "sharesOutstanding": [

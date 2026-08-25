@@ -1,7 +1,7 @@
 {
   "ticker": "SMMT",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:43:07+00:00",
+  "generatedAt": "2026-08-25T22:43:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17317,6 +17317,12 @@
     [
       "2026-08-24",
       12.73,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      13.36,
       0,
       null
     ]

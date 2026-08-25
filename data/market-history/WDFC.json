@@ -2,7 +2,7 @@
   "ticker": "WDFC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:38:26+00:00",
+  "generatedAt": "2026-08-25T22:38:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80650,6 +80650,12 @@
       215.889999,
       0,
       2897480407
+    ],
+    [
+      "2026-08-25",
+      214.149994,
+      0,
+      2874127626
     ]
   ],
   "sharesOutstanding": [

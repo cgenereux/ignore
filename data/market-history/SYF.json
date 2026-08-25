@@ -1,7 +1,7 @@
 {
   "ticker": "SYF",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:26:40+00:00",
+  "generatedAt": "2026-08-25T22:25:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18213,6 +18213,12 @@
       80.019997,
       0,
       26036173525
+    ],
+    [
+      "2026-08-25",
+      80.769997,
+      0,
+      26280201655
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "ACT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:45:19+00:00",
+  "generatedAt": "2026-08-25T22:45:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7444,6 +7444,12 @@
       49.720001,
       0,
       6835688290
+    ],
+    [
+      "2026-08-25",
+      49.57,
+      0,
+      6815065530
     ]
   ],
   "sharesOutstanding": [

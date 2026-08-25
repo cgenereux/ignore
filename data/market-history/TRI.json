@@ -2,7 +2,7 @@
   "ticker": "TRI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:23:33+00:00",
+  "generatedAt": "2026-08-25T23:26:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36530,6 +36530,12 @@
     [
       "2026-08-24",
       108.620003,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      104.379997,
       0,
       null
     ]

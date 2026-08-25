@@ -2,7 +2,7 @@
   "ticker": "NUS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:38:28+00:00",
+  "generatedAt": "2026-08-25T22:38:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44890,6 +44890,12 @@
       4.77,
       0,
       232187543
+    ],
+    [
+      "2026-08-25",
+      4.85,
+      0,
+      236081670
     ]
   ],
   "sharesOutstanding": [

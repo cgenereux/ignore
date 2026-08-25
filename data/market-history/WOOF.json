@@ -2,7 +2,7 @@
   "ticker": "WOOF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:38:11+00:00",
+  "generatedAt": "2026-08-25T22:38:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8446,6 +8446,12 @@
       2.88,
       0,
       822427961
+    ],
+    [
+      "2026-08-25",
+      2.76,
+      0,
+      788160096
     ]
   ],
   "sharesOutstanding": [

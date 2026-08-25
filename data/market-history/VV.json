@@ -1,7 +1,8 @@
 {
   "ticker": "VV",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:27:08+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T23:30:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34069,6 +34070,12 @@
     [
       "2026-08-24",
       351.649994,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      352.720001,
       0,
       null
     ]

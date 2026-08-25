@@ -2,7 +2,7 @@
   "ticker": "DLX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:40:02+00:00",
+  "generatedAt": "2026-08-25T22:40:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70234,6 +70234,12 @@
       24.08,
       0,
       1104219460
+    ],
+    [
+      "2026-08-25",
+      23.93,
+      0,
+      1097341034
     ]
   ],
   "sharesOutstanding": [

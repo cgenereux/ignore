@@ -2,7 +2,7 @@
   "ticker": "CHEOY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-21T22:53:24+00:00",
+  "generatedAt": "2026-08-25T22:57:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24722,6 +24722,18 @@
     [
       "2026-08-21",
       48.509998,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      48.299999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      49.445,
       0,
       null
     ]

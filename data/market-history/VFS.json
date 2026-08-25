@@ -1,7 +1,7 @@
 {
   "ticker": "VFS",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:25:31+00:00",
+  "generatedAt": "2026-08-25T23:28:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7483,6 +7483,12 @@
     [
       "2026-08-24",
       3.09,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      3.13,
       0,
       null
     ]

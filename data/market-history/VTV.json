@@ -1,7 +1,7 @@
 {
   "ticker": "VTV",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:26:59+00:00",
+  "generatedAt": "2026-08-25T23:30:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34069,6 +34069,12 @@
     [
       "2026-08-24",
       226.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      226.789993,
       0,
       null
     ]

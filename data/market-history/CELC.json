@@ -1,7 +1,7 @@
 {
   "ticker": "CELC",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:55:39+00:00",
+  "generatedAt": "2026-08-25T22:56:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13465,6 +13465,12 @@
     [
       "2026-08-24",
       90.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      92.269997,
       0,
       null
     ]

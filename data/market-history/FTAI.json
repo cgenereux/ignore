@@ -1,7 +1,7 @@
 {
   "ticker": "FTAI",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:41:30+00:00",
+  "generatedAt": "2026-08-25T22:41:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17023,6 +17023,12 @@
     [
       "2026-08-24",
       198.419998,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      200.470001,
       0,
       null
     ]

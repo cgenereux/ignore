@@ -1,7 +1,7 @@
 {
   "ticker": "FEMKX",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:02:11+00:00",
+  "generatedAt": "2026-08-25T23:03:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -54103,6 +54103,12 @@
     [
       "2026-08-21",
       61.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
+      59.68,
       0,
       null
     ]

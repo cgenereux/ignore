@@ -1,7 +1,7 @@
 {
   "ticker": "AEIS",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:50:32+00:00",
+  "generatedAt": "2026-08-25T22:51:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46447,6 +46447,12 @@
     [
       "2026-08-24",
       274.670013,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      275.429993,
       0,
       null
     ]

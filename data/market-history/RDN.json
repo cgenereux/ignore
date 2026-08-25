@@ -1,7 +1,8 @@
 {
   "ticker": "RDN",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:16:55+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T23:19:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51073,6 +51074,12 @@
     [
       "2026-08-24",
       36.709999,
+      0.255,
+      null
+    ],
+    [
+      "2026-08-25",
+      36.830002,
       0,
       null
     ]

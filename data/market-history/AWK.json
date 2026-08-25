@@ -1,7 +1,7 @@
 {
   "ticker": "AWK",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:17:28+00:00",
+  "generatedAt": "2026-08-25T22:15:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27687,6 +27687,12 @@
       139.910004,
       0,
       27804173579
+    ],
+    [
+      "2026-08-25",
+      137.600006,
+      0,
+      27345110099
     ]
   ],
   "sharesOutstanding": [

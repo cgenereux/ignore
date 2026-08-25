@@ -1,7 +1,7 @@
 {
   "ticker": "RGLD",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:17:14+00:00",
+  "generatedAt": "2026-08-25T23:19:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -68371,6 +68371,12 @@
     [
       "2026-08-24",
       263.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      267.76001,
       0,
       null
     ]

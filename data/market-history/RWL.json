@@ -1,7 +1,7 @@
 {
   "ticker": "RWL",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:17:57+00:00",
+  "generatedAt": "2026-08-25T23:20:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27876,6 +27876,12 @@
     ],
     [
       "2026-08-24",
+      134.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
       134.440002,
       0,
       null

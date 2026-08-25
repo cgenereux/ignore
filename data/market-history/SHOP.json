@@ -1,7 +1,7 @@
 {
   "ticker": "SHOP",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:06:52+00:00",
+  "generatedAt": "2026-08-25T22:02:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17001,6 +17001,12 @@
       149.800003,
       0,
       194388664388
+    ],
+    [
+      "2026-08-25",
+      153.880005,
+      0,
+      199683097569
     ]
   ],
   "sharesOutstanding": [

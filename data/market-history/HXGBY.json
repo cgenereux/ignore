@@ -1,7 +1,7 @@
 {
   "ticker": "HXGBY",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:06:46+00:00",
+  "generatedAt": "2026-08-25T23:08:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19969,6 +19969,12 @@
     [
       "2026-08-24",
       10.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      10.61,
       0,
       null
     ]

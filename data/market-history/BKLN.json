@@ -1,7 +1,7 @@
 {
   "ticker": "BKLN",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:53:56+00:00",
+  "generatedAt": "2026-08-25T22:55:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23359,6 +23359,12 @@
     [
       "2026-08-24",
       20.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      20.51,
       0,
       null
     ]

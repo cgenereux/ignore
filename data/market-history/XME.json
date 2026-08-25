@@ -1,7 +1,8 @@
 {
   "ticker": "XME",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:28:46+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T23:32:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30451,6 +30452,12 @@
     [
       "2026-08-24",
       117.870003,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      120.940002,
       0,
       null
     ]

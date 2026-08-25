@@ -1,7 +1,7 @@
 {
   "ticker": "MU",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:07:17+00:00",
+  "generatedAt": "2026-08-25T22:03:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63843,6 +63843,12 @@
       910.429993,
       0,
       1028233398193
+    ],
+    [
+      "2026-08-25",
+      932.969971,
+      0,
+      1053689895001
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,8 @@
 {
   "ticker": "NNI",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:13:46+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T23:16:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34261,6 +34262,12 @@
     [
       "2026-08-24",
       127.709999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      128.759995,
       0,
       null
     ]

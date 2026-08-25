@@ -1,7 +1,7 @@
 {
   "ticker": "CRBG",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:32:22+00:00",
+  "generatedAt": "2026-08-25T22:31:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5925,6 +5925,12 @@
       31.959999,
       0,
       14246889395
+    ],
+    [
+      "2026-08-25",
+      31.83,
+      0,
+      14188939341
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "SDVKY",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:19:07+00:00",
+  "generatedAt": "2026-08-25T23:22:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31057,6 +31057,12 @@
     [
       "2026-08-24",
       40.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      41.650002,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "GTX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:47:53+00:00",
+  "generatedAt": "2026-08-25T22:48:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11974,6 +11974,12 @@
       25.84,
       0,
       4818989818
+    ],
+    [
+      "2026-08-25",
+      26.27,
+      0,
+      4899182071
     ]
   ],
   "sharesOutstanding": [

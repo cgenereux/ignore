@@ -2,7 +2,7 @@
   "ticker": "IESC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:07:40+00:00",
+  "generatedAt": "2026-08-25T23:09:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30464,6 +30464,12 @@
     [
       "2026-08-24",
       324.119995,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      313.230011,
       0,
       null
     ]

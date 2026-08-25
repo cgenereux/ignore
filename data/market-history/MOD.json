@@ -1,7 +1,7 @@
 {
   "ticker": "MOD",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:33:42+00:00",
+  "generatedAt": "2026-08-25T22:32:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -66429,6 +66429,12 @@
       188.369995,
       0,
       10004840547
+    ],
+    [
+      "2026-08-25",
+      188.009995,
+      0,
+      9985719939
     ]
   ],
   "sharesOutstanding": [

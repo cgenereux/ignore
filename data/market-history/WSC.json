@@ -2,7 +2,7 @@
   "ticker": "WSC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:27:55+00:00",
+  "generatedAt": "2026-08-25T23:31:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16274,6 +16274,12 @@
     [
       "2026-08-24",
       22.530001,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      21.27,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "PNGAY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:15:50+00:00",
+  "generatedAt": "2026-08-25T23:18:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28034,6 +28034,12 @@
     [
       "2026-08-24",
       14.58,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      14.52,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "IQV",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:22:57+00:00",
+  "generatedAt": "2026-08-25T22:21:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20067,6 +20067,12 @@
       260.23999,
       0,
       42835502393
+    ],
+    [
+      "2026-08-25",
+      259.420013,
+      0,
+      42700534210
     ]
   ],
   "sharesOutstanding": [

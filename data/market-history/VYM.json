@@ -1,7 +1,7 @@
 {
   "ticker": "VYM",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:27:21+00:00",
+  "generatedAt": "2026-08-25T23:30:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29833,6 +29833,12 @@
     [
       "2026-08-24",
       165.089996,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      164.839996,
       0,
       null
     ]

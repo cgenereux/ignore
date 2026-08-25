@@ -2,7 +2,7 @@
   "ticker": "GNTX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:40:09+00:00",
+  "generatedAt": "2026-08-25T22:40:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67552,6 +67552,12 @@
       23.59,
       0,
       4970019810
+    ],
+    [
+      "2026-08-25",
+      23.65,
+      0,
+      4982660698
     ]
   ],
   "sharesOutstanding": [

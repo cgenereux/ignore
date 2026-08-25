@@ -2,7 +2,7 @@
   "ticker": "ECG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:44:47+00:00",
+  "generatedAt": "2026-08-25T22:45:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2728,6 +2728,12 @@
       120.5,
       0,
       6150513523
+    ],
+    [
+      "2026-08-25",
+      118.07,
+      0,
+      6026482405
     ]
   ],
   "sharesOutstanding": [

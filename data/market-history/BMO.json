@@ -1,7 +1,7 @@
 {
   "ticker": "BMO",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:10:17+00:00",
+  "generatedAt": "2026-08-25T22:06:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48057,6 +48057,12 @@
       172.350006,
       0,
       120716808560
+    ],
+    [
+      "2026-08-25",
+      173.460007,
+      0,
+      121494271434
     ]
   ],
   "sharesOutstanding": [

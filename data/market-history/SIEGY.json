@@ -1,7 +1,7 @@
 {
   "ticker": "SIEGY",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:09:53+00:00",
+  "generatedAt": "2026-08-25T22:06:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44931,6 +44931,12 @@
       163.300003,
       0,
       251199238007
+    ],
+    [
+      "2026-08-25",
+      167.050003,
+      0,
+      256967744590
     ]
   ],
   "sharesOutstanding": [

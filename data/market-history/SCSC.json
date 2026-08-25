@@ -2,7 +2,7 @@
   "ticker": "SCSC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:37:14+00:00",
+  "generatedAt": "2026-08-25T22:37:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48982,6 +48982,12 @@
       54.130001,
       0,
       1100166776
+    ],
+    [
+      "2026-08-25",
+      56.189999,
+      0,
+      1142035257
     ]
   ],
   "sharesOutstanding": [

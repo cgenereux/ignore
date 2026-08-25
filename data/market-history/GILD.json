@@ -1,7 +1,7 @@
 {
   "ticker": "GILD",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:09:19+00:00",
+  "generatedAt": "2026-08-25T22:05:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52257,6 +52257,12 @@
       146.740005,
       0,
       181951026256
+    ],
+    [
+      "2026-08-25",
+      148.770004,
+      0,
+      184468133707
     ]
   ],
   "sharesOutstanding": [

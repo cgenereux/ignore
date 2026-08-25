@@ -1,7 +1,7 @@
 {
   "ticker": "USFD",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:41:32+00:00",
+  "generatedAt": "2026-08-25T22:41:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15457,6 +15457,12 @@
     [
       "2026-08-24",
       109.370003,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      108.889999,
       0,
       null
     ]

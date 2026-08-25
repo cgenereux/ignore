@@ -1,7 +1,7 @@
 {
   "ticker": "KEYS",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:23:18+00:00",
+  "generatedAt": "2026-08-25T22:21:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17877,6 +17877,12 @@
       310.660004,
       0,
       53090355649
+    ],
+    [
+      "2026-08-25",
+      320.119995,
+      0,
+      54707024370
     ]
   ],
   "sharesOutstanding": [

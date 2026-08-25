@@ -2,7 +2,7 @@
   "ticker": "BCE.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:53:12+00:00",
+  "generatedAt": "2026-08-25T22:54:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45668,6 +45668,12 @@
     [
       "2026-08-24",
       32.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      32.59,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "JNK",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:10:16+00:00",
+  "generatedAt": "2026-08-25T23:12:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28261,6 +28261,12 @@
     [
       "2026-08-24",
       95.949997,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      96.199997,
       0,
       null
     ]

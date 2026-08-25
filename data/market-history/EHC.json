@@ -1,7 +1,7 @@
 {
   "ticker": "EHC",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:30:59+00:00",
+  "generatedAt": "2026-08-25T22:30:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60339,6 +60339,12 @@
       120.919998,
       0,
       11929167013
+    ],
+    [
+      "2026-08-25",
+      120.139999,
+      0,
+      11852217494
     ]
   ],
   "sharesOutstanding": [

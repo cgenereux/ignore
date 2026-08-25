@@ -1,7 +1,7 @@
 {
   "ticker": "BNTX",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:54:28+00:00",
+  "generatedAt": "2026-08-25T22:55:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10363,6 +10363,12 @@
     [
       "2026-08-24",
       112.82,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      114.050003,
       0,
       null
     ]

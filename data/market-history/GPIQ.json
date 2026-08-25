@@ -1,7 +1,7 @@
 {
   "ticker": "GPIQ",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:05:41+00:00",
+  "generatedAt": "2026-08-25T23:07:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4249,6 +4249,12 @@
     [
       "2026-08-24",
       56.189999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      56.5,
       0,
       null
     ]

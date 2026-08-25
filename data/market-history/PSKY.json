@@ -1,7 +1,7 @@
 {
   "ticker": "PSKY",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:25:02+00:00",
+  "generatedAt": "2026-08-25T22:23:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31275,6 +31275,12 @@
       10.35,
       0,
       11583441577
+    ],
+    [
+      "2026-08-25",
+      10.67,
+      0,
+      11941576614
     ]
   ],
   "sharesOutstanding": [

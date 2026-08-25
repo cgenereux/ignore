@@ -1,7 +1,7 @@
 {
   "ticker": "AUB",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:51:59+00:00",
+  "generatedAt": "2026-08-25T22:53:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49645,6 +49645,12 @@
     [
       "2026-08-24",
       40.919998,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      40.52,
       0,
       null
     ]

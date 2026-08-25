@@ -2,7 +2,7 @@
   "ticker": "CQP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:40:49+00:00",
+  "generatedAt": "2026-08-25T22:40:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29326,6 +29326,12 @@
       68.050003,
       0,
       32940128234
+    ],
+    [
+      "2026-08-25",
+      67.949997,
+      0,
+      32891719510
     ]
   ],
   "sharesOutstanding": [

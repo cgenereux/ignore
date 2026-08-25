@@ -2,7 +2,7 @@
   "ticker": "BR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:18:28+00:00",
+  "generatedAt": "2026-08-25T22:16:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29332,6 +29332,12 @@
       185.449997,
       0,
       21145342091
+    ],
+    [
+      "2026-08-25",
+      184.820007,
+      0,
+      21073509541
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "QUU.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:29:51+00:00",
+  "generatedAt": "2026-08-25T23:33:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12908,6 +12908,12 @@
     [
       "2026-08-24",
       306.730011,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      307.049988,
       0,
       null
     ]

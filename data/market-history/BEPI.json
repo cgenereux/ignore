@@ -1,7 +1,7 @@
 {
   "ticker": "BEPI",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:53:28+00:00",
+  "generatedAt": "2026-08-25T22:54:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7069,6 +7069,12 @@
     [
       "2026-08-24",
       16.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      16.17,
       0,
       null
     ]

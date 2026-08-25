@@ -2,7 +2,7 @@
   "ticker": "EGP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:42:49+00:00",
+  "generatedAt": "2026-08-25T22:43:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80932,6 +80932,12 @@
       202.360001,
       0,
       10881568461
+    ],
+    [
+      "2026-08-25",
+      202.779999,
+      0,
+      10904153156
     ]
   ],
   "sharesOutstanding": [

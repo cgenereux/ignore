@@ -2,7 +2,7 @@
   "ticker": "TOL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:32:39+00:00",
+  "generatedAt": "2026-08-25T22:31:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60670,6 +60670,12 @@
       147.449997,
       0,
       13782298665
+    ],
+    [
+      "2026-08-25",
+      150.830002,
+      0,
+      14098231101
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "SYY",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:26:44+00:00",
+  "generatedAt": "2026-08-25T22:25:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80631,6 +80631,12 @@
       83.860001,
       0,
       40147164534
+    ],
+    [
+      "2026-08-25",
+      83.459999,
+      0,
+      39955667670
     ]
   ],
   "sharesOutstanding": [

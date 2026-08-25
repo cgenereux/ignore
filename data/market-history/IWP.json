@@ -2,7 +2,7 @@
   "ticker": "IWP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:09:25+00:00",
+  "generatedAt": "2026-08-25T23:11:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37814,6 +37814,12 @@
     [
       "2026-08-24",
       141.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      141.929993,
       0,
       null
     ]

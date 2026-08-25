@@ -1,7 +1,7 @@
 {
   "ticker": "HEI",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:31:05+00:00",
+  "generatedAt": "2026-08-25T22:30:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70233,6 +70233,12 @@
       352.670013,
       0,
       49281299357
+    ],
+    [
+      "2026-08-25",
+      351.049988,
+      0,
+      49054920688
     ]
   ],
   "sharesOutstanding": [

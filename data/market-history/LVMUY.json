@@ -2,7 +2,7 @@
   "ticker": "LVMUY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:10:46+00:00",
+  "generatedAt": "2026-08-25T22:07:03+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; MC.PA quoted in EUR, converted to USD at Federal Reserve DEXUSEU; ordinary-share closes scaled by 0.202677 to match the ADR series where it begins (2006-01-27)",
   "schema": [
     "date",
@@ -40564,6 +40564,12 @@
       107.18,
       0,
       264180065902
+    ],
+    [
+      "2026-08-25",
+      105.199997,
+      0,
+      259299701880
     ]
   ],
   "sharesOutstanding": [

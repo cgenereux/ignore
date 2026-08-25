@@ -2,7 +2,7 @@
   "ticker": "SAABY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:18:07+00:00",
+  "generatedAt": "2026-08-25T23:20:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3043,13 +3043,19 @@
     ],
     [
       "2026-08-21",
-      34.59,
+      34.580002,
       0,
       null
     ],
     [
       "2026-08-24",
-      33.759998,
+      33.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      33.630001,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DVY",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:59:22+00:00",
+  "generatedAt": "2026-08-25T23:00:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34405,6 +34405,12 @@
     [
       "2026-08-24",
       164.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      164.110001,
       0,
       null
     ]

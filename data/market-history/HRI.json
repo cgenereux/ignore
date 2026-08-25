@@ -1,7 +1,8 @@
 {
   "ticker": "HRI",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:06:37+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T23:08:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29833,6 +29834,12 @@
     [
       "2026-08-24",
       158.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      156.089996,
       0,
       null
     ]

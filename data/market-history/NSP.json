@@ -2,7 +2,7 @@
   "ticker": "NSP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:39:54+00:00",
+  "generatedAt": "2026-08-25T22:40:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44638,6 +44638,12 @@
       52.139999,
       0,
       1991501354
+    ],
+    [
+      "2026-08-25",
+      52.34,
+      0,
+      1999140438
     ]
   ],
   "sharesOutstanding": [

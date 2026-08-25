@@ -1,7 +1,7 @@
 {
   "ticker": "WAB",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:27:56+00:00",
+  "generatedAt": "2026-08-25T22:26:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47097,6 +47097,12 @@
       297.619995,
       0,
       50271246650
+    ],
+    [
+      "2026-08-25",
+      296.940002,
+      0,
+      50156388508
     ]
   ],
   "sharesOutstanding": [

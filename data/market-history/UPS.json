@@ -2,7 +2,7 @@
   "ticker": "UPS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:15:21+00:00",
+  "generatedAt": "2026-08-25T22:13:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40420,6 +40420,12 @@
       102.720001,
       0,
       87392285142
+    ],
+    [
+      "2026-08-25",
+      105.139999,
+      0,
+      89451175012
     ]
   ],
   "sharesOutstanding": [

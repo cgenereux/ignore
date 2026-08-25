@@ -1,7 +1,8 @@
 {
   "ticker": "CECO",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:55:37+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T22:56:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69151,6 +69152,12 @@
     [
       "2026-08-24",
       71.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      70.269997,
       0,
       null
     ]

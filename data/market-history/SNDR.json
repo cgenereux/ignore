@@ -1,7 +1,7 @@
 {
   "ticker": "SNDR",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:45:59+00:00",
+  "generatedAt": "2026-08-25T22:46:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14155,6 +14155,12 @@
     [
       "2026-08-24",
       34.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      34.709999,
       0,
       null
     ]

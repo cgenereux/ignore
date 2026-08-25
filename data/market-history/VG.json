@@ -1,7 +1,7 @@
 {
   "ticker": "VG",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:31:12+00:00",
+  "generatedAt": "2026-08-25T22:30:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2391,6 +2391,12 @@
       14.39,
       0,
       35976336984
+    ],
+    [
+      "2026-08-25",
+      14.07,
+      0,
+      35176305651
     ]
   ],
   "sharesOutstanding": [

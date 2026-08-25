@@ -2,7 +2,7 @@
   "ticker": "SO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:26:28+00:00",
+  "generatedAt": "2026-08-25T22:25:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67516,6 +67516,12 @@
       90.099998,
       0,
       103647701481
+    ],
+    [
+      "2026-08-25",
+      89.970001,
+      0,
+      103498157455
     ]
   ],
   "sharesOutstanding": [

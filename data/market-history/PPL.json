@@ -1,7 +1,7 @@
 {
   "ticker": "PPL",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:25:17+00:00",
+  "generatedAt": "2026-08-25T22:23:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70233,6 +70233,12 @@
       35.040001,
       0,
       26362357373
+    ],
+    [
+      "2026-08-25",
+      34.990002,
+      0,
+      26324740429
     ]
   ],
   "sharesOutstanding": [

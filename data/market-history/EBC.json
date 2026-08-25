@@ -1,7 +1,7 @@
 {
   "ticker": "EBC",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:47:51+00:00",
+  "generatedAt": "2026-08-25T22:48:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8827,6 +8827,12 @@
     [
       "2026-08-24",
       22.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      22.360001,
       0,
       null
     ]

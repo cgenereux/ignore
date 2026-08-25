@@ -2,7 +2,7 @@
   "ticker": "USIG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:24:41+00:00",
+  "generatedAt": "2026-08-25T23:28:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29618,6 +29618,12 @@
     [
       "2026-08-24",
       50.294998,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      50.540001,
       0,
       null
     ]

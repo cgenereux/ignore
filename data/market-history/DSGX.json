@@ -1,7 +1,7 @@
 {
   "ticker": "DSGX",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:59:10+00:00",
+  "generatedAt": "2026-08-25T23:00:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41623,6 +41623,12 @@
     [
       "2026-08-24",
       78.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      77.519997,
       0,
       null
     ]

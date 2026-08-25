@@ -1,7 +1,8 @@
 {
   "ticker": "PAAS",
   "currency": "USD",
-  "generatedAt": "2026-08-24T23:15:05+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T23:17:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47119,6 +47120,12 @@
     [
       "2026-08-24",
       53.630001,
+      0.184,
+      null
+    ],
+    [
+      "2026-08-25",
+      54.209999,
       0,
       null
     ]

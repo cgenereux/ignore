@@ -1,7 +1,7 @@
 {
   "ticker": "CSCO",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:07:06+00:00",
+  "generatedAt": "2026-08-25T22:03:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55179,6 +55179,12 @@
       110.230003,
       0,
       434464356354
+    ],
+    [
+      "2026-08-25",
+      111.110001,
+      0,
+      437932808034
     ]
   ],
   "sharesOutstanding": [

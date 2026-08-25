@@ -2,7 +2,7 @@
   "ticker": "SYM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:29:23+00:00",
+  "generatedAt": "2026-08-25T22:28:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8242,6 +8242,12 @@
       40.029999,
       0,
       5198831283
+    ],
+    [
+      "2026-08-25",
+      40.41,
+      0,
+      5248183306
     ]
   ],
   "sharesOutstanding": [

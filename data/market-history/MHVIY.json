@@ -2,7 +2,7 @@
   "ticker": "MHVIY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:12:33+00:00",
+  "generatedAt": "2026-08-25T23:15:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3187,6 +3187,12 @@
     ],
     [
       "2026-08-24",
+      12.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
       12.43,
       0,
       null

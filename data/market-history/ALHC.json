@@ -2,7 +2,7 @@
   "ticker": "ALHC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:34:35+00:00",
+  "generatedAt": "2026-08-25T22:33:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8158,6 +8158,12 @@
       13.43,
       0,
       2785854114
+    ],
+    [
+      "2026-08-25",
+      13.59,
+      0,
+      2819043707
     ]
   ],
   "sharesOutstanding": [

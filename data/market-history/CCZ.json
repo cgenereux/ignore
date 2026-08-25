@@ -1,7 +1,8 @@
 {
   "ticker": "CCZ",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:55:32+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-25T22:56:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9930,7 +9931,7 @@
     ],
     [
       "2026-08-19",
-      66.449898,
+      66.449997,
       0,
       null
     ],
@@ -9942,6 +9943,12 @@
     ],
     [
       "2026-08-21",
+      66.449997,
+      0,
+      null
+    ],
+    [
+      "2026-08-24",
       66.449997,
       0,
       null

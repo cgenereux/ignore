@@ -2,7 +2,7 @@
   "ticker": "LPX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:11:30+00:00",
+  "generatedAt": "2026-08-25T23:13:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70232,6 +70232,12 @@
     [
       "2026-08-24",
       72.620003,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      72.32,
       0,
       null
     ]

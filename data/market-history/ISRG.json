@@ -1,7 +1,7 @@
 {
   "ticker": "ISRG",
   "currency": "USD",
-  "generatedAt": "2026-08-24T22:14:45+00:00",
+  "generatedAt": "2026-08-25T22:12:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39519,6 +39519,12 @@
       373.570007,
       0,
       133841929280
+    ],
+    [
+      "2026-08-25",
+      371.839996,
+      0,
+      133222104338
     ]
   ],
   "sharesOutstanding": [

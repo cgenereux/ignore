@@ -2,7 +2,7 @@
   "ticker": "DFCF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T22:58:15+00:00",
+  "generatedAt": "2026-08-25T22:59:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7166,6 +7166,12 @@
     [
       "2026-08-24",
       41.549999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      41.75,
       0,
       null
     ]

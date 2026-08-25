@@ -2,7 +2,7 @@
   "ticker": "PEGA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-24T23:15:34+00:00",
+  "generatedAt": "2026-08-25T23:18:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45440,6 +45440,12 @@
     [
       "2026-08-24",
       34.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      34.0,
       0,
       null
     ]
