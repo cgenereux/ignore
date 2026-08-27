@@ -2,7 +2,7 @@
   "ticker": "AFL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:15:03+00:00",
+  "generatedAt": "2026-08-26T22:54:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70228,6 +70228,12 @@
       116.18,
       0,
       58246064515
+    ],
+    [
+      "2026-08-26",
+      117.449997,
+      0,
+      58882768820
     ]
   ],
   "sharesOutstanding": [

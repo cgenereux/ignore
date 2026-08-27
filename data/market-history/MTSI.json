@@ -1,7 +1,7 @@
 {
   "ticker": "MTSI",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:30:25+00:00",
+  "generatedAt": "2026-08-26T23:08:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21795,6 +21795,12 @@
       266.269989,
       0,
       20335286958
+    ],
+    [
+      "2026-08-26",
+      272.660004,
+      0,
+      20823298326
     ]
   ],
   "sharesOutstanding": [

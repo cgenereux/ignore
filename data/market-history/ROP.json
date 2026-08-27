@@ -1,7 +1,7 @@
 {
   "ticker": "ROP",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:24:35+00:00",
+  "generatedAt": "2026-08-26T23:03:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52167,6 +52167,12 @@
       413.369995,
       0,
       40882292517
+    ],
+    [
+      "2026-08-26",
+      413.279999,
+      0,
+      40873391879
     ]
   ],
   "sharesOutstanding": [

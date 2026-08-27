@@ -1,7 +1,7 @@
 {
   "ticker": "AAGIY",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:50:58+00:00",
+  "generatedAt": "2026-08-26T23:25:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23203,6 +23203,12 @@
     [
       "2026-08-25",
       37.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      37.790001,
       0,
       null
     ]

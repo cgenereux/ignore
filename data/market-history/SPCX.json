@@ -1,7 +1,7 @@
 {
   "ticker": "SPCX",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:05:47+00:00",
+  "generatedAt": "2026-08-26T22:46:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -315,6 +315,12 @@
       137.949997,
       0,
       1817379097555
+    ],
+    [
+      "2026-08-26",
+      139.630005,
+      0,
+      1839511836747
     ]
   ],
   "sharesOutstanding": [

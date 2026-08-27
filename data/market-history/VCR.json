@@ -2,7 +2,7 @@
   "ticker": "VCR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:28:27+00:00",
+  "generatedAt": "2026-08-26T23:58:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34076,6 +34076,12 @@
     [
       "2026-08-25",
       396.140015,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      394.040009,
       0,
       null
     ]

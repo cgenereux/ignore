@@ -2,7 +2,7 @@
   "ticker": "WCN.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:31:07+00:00",
+  "generatedAt": "2026-08-27T00:00:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36674,6 +36674,12 @@
     [
       "2026-08-25",
       230.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      232.070007,
       0,
       null
     ]

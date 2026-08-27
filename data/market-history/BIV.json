@@ -1,7 +1,7 @@
 {
   "ticker": "BIV",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:54:55+00:00",
+  "generatedAt": "2026-08-26T23:29:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29263,6 +29263,12 @@
     [
       "2026-08-25",
       75.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      75.769997,
       0,
       null
     ]

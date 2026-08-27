@@ -2,7 +2,7 @@
   "ticker": "MTZ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:30:28+00:00",
+  "generatedAt": "2026-08-26T23:08:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80956,6 +80956,12 @@
       246.850006,
       0,
       19823276896
+    ],
+    [
+      "2026-08-26",
+      248.729996,
+      0,
+      19974249373
     ]
   ],
   "sharesOutstanding": [

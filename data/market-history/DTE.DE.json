@@ -2,7 +2,7 @@
   "ticker": "DTE.DE",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:00:48+00:00",
+  "generatedAt": "2026-08-26T23:34:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45734,6 +45734,12 @@
     [
       "2026-08-24",
       29.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      29.1,
       0,
       null
     ]

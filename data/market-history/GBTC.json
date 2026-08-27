@@ -1,7 +1,7 @@
 {
   "ticker": "GBTC",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:06:50+00:00",
+  "generatedAt": "2026-08-26T23:39:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17047,6 +17047,12 @@
     [
       "2026-08-25",
       61.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      60.73,
       0,
       null
     ]

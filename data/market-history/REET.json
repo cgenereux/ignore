@@ -1,7 +1,8 @@
 {
   "ticker": "REET",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:19:46+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-26T23:50:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18307,6 +18308,12 @@
     [
       "2026-08-25",
       28.23,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      28.07,
       0,
       null
     ]

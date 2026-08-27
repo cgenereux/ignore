@@ -2,7 +2,7 @@
   "ticker": "PSMT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:38:07+00:00",
+  "generatedAt": "2026-08-26T23:14:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43750,6 +43750,12 @@
       177.210007,
       0,
       5468793665
+    ],
+    [
+      "2026-08-26",
+      175.419998,
+      0,
+      5413553064
     ]
   ],
   "sharesOutstanding": [

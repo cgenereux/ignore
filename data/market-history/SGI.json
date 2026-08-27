@@ -2,7 +2,7 @@
   "ticker": "SGI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:32:00+00:00",
+  "generatedAt": "2026-08-26T23:09:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34246,6 +34246,12 @@
       64.089996,
       0,
       13482323548
+    ],
+    [
+      "2026-08-26",
+      62.830002,
+      0,
+      13217264185
     ]
   ],
   "sharesOutstanding": [

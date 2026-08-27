@@ -2,7 +2,7 @@
   "ticker": "OXY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:05:45+00:00",
+  "generatedAt": "2026-08-26T22:46:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67522,6 +67522,12 @@
       58.41,
       0,
       58388818688
+    ],
+    [
+      "2026-08-26",
+      58.619999,
+      0,
+      58598741620
     ]
   ],
   "sharesOutstanding": [

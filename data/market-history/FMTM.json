@@ -2,7 +2,7 @@
   "ticker": "FMTM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:33:51+00:00",
+  "generatedAt": "2026-08-27T00:03:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2168,6 +2168,12 @@
     [
       "2026-08-25",
       38.585602,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      39.0401,
       0,
       null
     ]

@@ -1,7 +1,8 @@
 {
   "ticker": "STN",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:25:08+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-26T23:55:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31783,6 +31784,12 @@
     [
       "2026-08-25",
       73.489998,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      75.419998,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "COUR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:33:45+00:00",
+  "generatedAt": "2026-08-26T23:11:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8146,6 +8146,12 @@
       6.19,
       0,
       1772559948
+    ],
+    [
+      "2026-08-26",
+      6.06,
+      0,
+      1735333294
     ]
   ],
   "sharesOutstanding": [

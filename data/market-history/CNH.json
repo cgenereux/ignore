@@ -1,7 +1,7 @@
 {
   "ticker": "CNH",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:58:00+00:00",
+  "generatedAt": "2026-08-26T23:31:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19477,6 +19477,12 @@
     [
       "2026-08-25",
       11.56,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      11.62,
       0,
       null
     ]

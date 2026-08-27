@@ -2,7 +2,7 @@
   "ticker": "ROCK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:39:14+00:00",
+  "generatedAt": "2026-08-26T23:15:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49522,6 +49522,12 @@
       46.009998,
       0,
       1364744843
+    ],
+    [
+      "2026-08-26",
+      46.330002,
+      0,
+      1374236762
     ]
   ],
   "sharesOutstanding": [

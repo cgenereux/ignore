@@ -1,7 +1,8 @@
 {
   "ticker": "THG",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:26:13+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-26T23:56:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46615,6 +46616,12 @@
     [
       "2026-08-25",
       227.119995,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      228.410004,
       0,
       null
     ]

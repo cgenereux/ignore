@@ -2,7 +2,7 @@
   "ticker": "PSA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:24:06+00:00",
+  "generatedAt": "2026-08-26T23:02:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69214,6 +69214,12 @@
       322.670013,
       0,
       60257253015
+    ],
+    [
+      "2026-08-26",
+      317.369995,
+      0,
+      59267497131
     ]
   ],
   "sharesOutstanding": [

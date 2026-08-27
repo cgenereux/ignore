@@ -1,7 +1,7 @@
 {
   "ticker": "TREX",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:38:32+00:00",
+  "generatedAt": "2026-08-26T23:14:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41335,6 +41335,12 @@
     [
       "2026-08-25",
       46.84,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      46.68,
       0,
       null
     ]

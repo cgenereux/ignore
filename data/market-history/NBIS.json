@@ -1,7 +1,7 @@
 {
   "ticker": "NBIS",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:06:14+00:00",
+  "generatedAt": "2026-08-26T22:46:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2781,6 +2781,12 @@
       221.970001,
       0,
       56357782432
+    ],
+    [
+      "2026-08-26",
+      213.929993,
+      0,
+      54316438783
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "ENEL.MI",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:01:47+00:00",
+  "generatedAt": "2026-08-26T23:35:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41096,6 +41096,12 @@
     [
       "2026-08-24",
       9.52,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      9.552,
       0,
       null
     ]

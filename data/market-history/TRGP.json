@@ -1,7 +1,7 @@
 {
   "ticker": "TRGP",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:25:29+00:00",
+  "generatedAt": "2026-08-26T23:03:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23721,6 +23721,12 @@
       286.910004,
       0,
       61583482996
+    ],
+    [
+      "2026-08-26",
+      294.029999,
+      0,
+      63111746537
     ]
   ],
   "sharesOutstanding": [

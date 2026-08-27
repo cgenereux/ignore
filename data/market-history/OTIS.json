@@ -2,7 +2,7 @@
   "ticker": "OTIS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:23:28+00:00",
+  "generatedAt": "2026-08-26T23:02:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9700,6 +9700,12 @@
       71.459999,
       0,
       27202630616
+    ],
+    [
+      "2026-08-26",
+      72.360001,
+      0,
+      27545233602
     ]
   ],
   "sharesOutstanding": [

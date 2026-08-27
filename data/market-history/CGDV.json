@@ -2,7 +2,7 @@
   "ticker": "CGDV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:57:11+00:00",
+  "generatedAt": "2026-08-26T23:31:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6764,6 +6764,12 @@
     [
       "2026-08-25",
       50.130001,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      50.279999,
       0,
       null
     ]

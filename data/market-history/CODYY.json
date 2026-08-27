@@ -2,7 +2,7 @@
   "ticker": "CODYY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:58:17+00:00",
+  "generatedAt": "2026-08-26T23:32:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12812,6 +12812,12 @@
     [
       "2026-08-25",
       9.43,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      9.52,
       0,
       null
     ]

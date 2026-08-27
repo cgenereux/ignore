@@ -1,7 +1,7 @@
 {
   "ticker": "AFG",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:33:51+00:00",
+  "generatedAt": "2026-08-26T23:11:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70219,6 +70219,12 @@
     [
       "2026-08-25",
       143.660004,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      144.970001,
       0,
       null
     ]

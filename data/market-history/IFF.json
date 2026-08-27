@@ -2,7 +2,7 @@
   "ticker": "IFF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:21:09+00:00",
+  "generatedAt": "2026-08-26T23:00:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -78190,6 +78190,12 @@
       87.160004,
       0,
       22238871709
+    ],
+    [
+      "2026-08-26",
+      87.120003,
+      0,
+      22228665477
     ]
   ],
   "sharesOutstanding": [

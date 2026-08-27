@@ -1,7 +1,7 @@
 {
   "ticker": "MLI",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:31:32+00:00",
+  "generatedAt": "2026-08-26T23:09:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53643,6 +53643,12 @@
       61.509998,
       0,
       13604866805
+    ],
+    [
+      "2026-08-26",
+      64.080002,
+      0,
+      14173303748
     ]
   ],
   "sharesOutstanding": [

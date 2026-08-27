@@ -1,7 +1,7 @@
 {
   "ticker": "MPWR",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:22:44+00:00",
+  "generatedAt": "2026-08-26T23:01:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32853,6 +32853,12 @@
       1304.150024,
       0,
       64089844650
+    ],
+    [
+      "2026-08-26",
+      1303.880005,
+      0,
+      64076575080
     ]
   ],
   "sharesOutstanding": [

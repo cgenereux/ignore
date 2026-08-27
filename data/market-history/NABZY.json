@@ -2,7 +2,7 @@
   "ticker": "NABZY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:16:01+00:00",
+  "generatedAt": "2026-08-26T23:47:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -57686,6 +57686,12 @@
     [
       "2026-08-25",
       13.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      13.68,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FNDF",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:04:56+00:00",
+  "generatedAt": "2026-08-26T23:37:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19663,6 +19663,12 @@
     [
       "2026-08-25",
       55.939999,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      55.650002,
       0,
       null
     ]

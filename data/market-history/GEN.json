@@ -2,7 +2,7 @@
   "ticker": "GEN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:20:13+00:00",
+  "generatedAt": "2026-08-26T22:59:25+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -56164,6 +56164,12 @@
       29.309999,
       0,
       17544585588
+    ],
+    [
+      "2026-08-26",
+      29.639999,
+      0,
+      17742119263
     ]
   ],
   "sharesOutstanding": [

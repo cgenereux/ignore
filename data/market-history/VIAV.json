@@ -2,7 +2,7 @@
   "ticker": "VIAV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:33:18+00:00",
+  "generatedAt": "2026-08-26T23:10:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49492,6 +49492,12 @@
       37.709999,
       0,
       9304935788
+    ],
+    [
+      "2026-08-26",
+      38.779999,
+      0,
+      9568958029
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "PFIX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:33:29+00:00",
+  "generatedAt": "2026-08-27T00:03:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7982,6 +7982,12 @@
     [
       "2026-08-25",
       50.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      51.150002,
       0,
       null
     ]

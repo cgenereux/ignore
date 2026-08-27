@@ -2,7 +2,7 @@
   "ticker": "PD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:36:40+00:00",
+  "generatedAt": "2026-08-26T23:13:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11122,6 +11122,12 @@
       12.25,
       0,
       944751421
+    ],
+    [
+      "2026-08-26",
+      12.19,
+      0,
+      940124035
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "QSR.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:19:19+00:00",
+  "generatedAt": "2026-08-26T23:50:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17618,6 +17618,12 @@
     [
       "2026-08-25",
       112.879997,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      110.139999,
       0,
       null
     ]

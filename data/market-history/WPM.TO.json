@@ -2,7 +2,7 @@
   "ticker": "WPM.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:31:26+00:00",
+  "generatedAt": "2026-08-27T00:01:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32738,6 +32738,12 @@
     [
       "2026-08-25",
       226.179993,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      216.339996,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "CHGCY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:57:31+00:00",
+  "generatedAt": "2026-08-26T23:31:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21199,7 +21199,7 @@
     ],
     [
       "2026-08-21",
-      22.15,
+      22.190001,
       0,
       null
     ],
@@ -21212,6 +21212,12 @@
     [
       "2026-08-25",
       21.85,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      21.870001,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "KB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:12:47+00:00",
+  "generatedAt": "2026-08-26T23:44:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37412,6 +37412,12 @@
     [
       "2026-08-25",
       120.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      120.860001,
       0,
       null
     ]

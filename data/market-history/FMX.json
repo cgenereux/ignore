@@ -2,7 +2,7 @@
   "ticker": "FMX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:04:44+00:00",
+  "generatedAt": "2026-08-26T23:37:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42692,6 +42692,12 @@
     [
       "2026-08-25",
       123.709999,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      122.910004,
       0,
       null
     ]

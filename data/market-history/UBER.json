@@ -1,7 +1,7 @@
 {
   "ticker": "UBER",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:02:55+00:00",
+  "generatedAt": "2026-08-26T22:43:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11007,6 +11007,12 @@
       80.349998,
       0,
       164119702606
+    ],
+    [
+      "2026-08-26",
+      78.489998,
+      0,
+      160320539534
     ]
   ],
   "sharesOutstanding": [

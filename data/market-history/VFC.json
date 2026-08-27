@@ -1,7 +1,7 @@
 {
   "ticker": "VFC",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:47:57+00:00",
+  "generatedAt": "2026-08-26T23:23:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70237,6 +70237,12 @@
     [
       "2026-08-25",
       13.85,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      13.89,
       0,
       null
     ]

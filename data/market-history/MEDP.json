@@ -1,7 +1,7 @@
 {
   "ticker": "MEDP",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:31:07+00:00",
+  "generatedAt": "2026-08-26T23:08:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15141,6 +15141,12 @@
       614.059998,
       0,
       17139430801
+    ],
+    [
+      "2026-08-26",
+      619.049988,
+      0,
+      17278709687
     ]
   ],
   "sharesOutstanding": [

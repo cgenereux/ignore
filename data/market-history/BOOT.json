@@ -1,7 +1,7 @@
 {
   "ticker": "BOOT",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:38:01+00:00",
+  "generatedAt": "2026-08-26T23:14:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17833,6 +17833,12 @@
     [
       "2026-08-25",
       159.690002,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      159.720001,
       0,
       null
     ]

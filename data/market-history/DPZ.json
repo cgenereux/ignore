@@ -1,7 +1,7 @@
 {
   "ticker": "DPZ",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:18:27+00:00",
+  "generatedAt": "2026-08-26T22:57:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33405,6 +33405,12 @@
       349.910004,
       0,
       11575630015
+    ],
+    [
+      "2026-08-26",
+      344.559998,
+      0,
+      11398642531
     ]
   ],
   "sharesOutstanding": [

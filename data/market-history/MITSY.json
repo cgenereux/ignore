@@ -2,7 +2,7 @@
   "ticker": "MITSY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:15:12+00:00",
+  "generatedAt": "2026-08-26T23:46:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70238,6 +70238,12 @@
     [
       "2026-08-25",
       622.929993,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      612.200012,
       0,
       null
     ]

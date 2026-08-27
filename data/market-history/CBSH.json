@@ -2,7 +2,7 @@
   "ticker": "CBSH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:34:42+00:00",
+  "generatedAt": "2026-08-26T23:11:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70240,6 +70240,12 @@
       58.23,
       0,
       8352055725
+    ],
+    [
+      "2026-08-26",
+      58.5,
+      0,
+      8390782413
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "HWC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:46:36+00:00",
+  "generatedAt": "2026-08-26T23:21:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53230,6 +53230,12 @@
       74.660004,
       0,
       5989453804
+    ],
+    [
+      "2026-08-26",
+      75.230003,
+      0,
+      6035180923
     ]
   ],
   "sharesOutstanding": [

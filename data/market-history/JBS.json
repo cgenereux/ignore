@@ -1,7 +1,8 @@
 {
   "ticker": "JBS",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:12:06+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-26T23:44:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1813,6 +1814,12 @@
     [
       "2026-08-25",
       14.05,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      13.75,
       0,
       null
     ]

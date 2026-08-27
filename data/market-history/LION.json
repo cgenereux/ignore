@@ -1,7 +1,7 @@
 {
   "ticker": "LION",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:13:43+00:00",
+  "generatedAt": "2026-08-26T23:45:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6763,6 +6763,12 @@
     [
       "2026-08-25",
       11.78,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      11.52,
       0,
       null
     ]

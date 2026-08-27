@@ -1,7 +1,7 @@
 {
   "ticker": "MUFG",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:15:50+00:00",
+  "generatedAt": "2026-08-26T23:47:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38329,6 +38329,12 @@
     [
       "2026-08-25",
       22.23,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      22.440001,
       0,
       null
     ]

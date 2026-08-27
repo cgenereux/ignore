@@ -1,7 +1,7 @@
 {
   "ticker": "IJH",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:10:10+00:00",
+  "generatedAt": "2026-08-26T23:42:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39607,6 +39607,12 @@
     [
       "2026-08-25",
       76.139999,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      76.620003,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "AEG",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:51:26+00:00",
+  "generatedAt": "2026-08-26T23:26:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62214,6 +62214,12 @@
     ],
     [
       "2026-08-25",
+      9.21,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
       9.21,
       0,
       null

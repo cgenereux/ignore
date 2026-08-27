@@ -2,7 +2,7 @@
   "ticker": "EQH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:42:30+00:00",
+  "generatedAt": "2026-08-26T23:18:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12514,6 +12514,12 @@
       48.91,
       0,
       13340974601
+    ],
+    [
+      "2026-08-26",
+      49.869999,
+      0,
+      13602829506
     ]
   ],
   "sharesOutstanding": [

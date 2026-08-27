@@ -2,7 +2,7 @@
   "ticker": "GPI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:39:00+00:00",
+  "generatedAt": "2026-08-26T23:15:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43480,6 +43480,12 @@
       264.809998,
       0,
       3157124373
+    ],
+    [
+      "2026-08-26",
+      262.630005,
+      0,
+      3131134010
     ]
   ],
   "sharesOutstanding": [

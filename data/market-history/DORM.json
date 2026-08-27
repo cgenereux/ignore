@@ -1,7 +1,7 @@
 {
   "ticker": "DORM",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:40:11+00:00",
+  "generatedAt": "2026-08-26T23:16:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53575,6 +53575,12 @@
     [
       "2026-08-25",
       130.460007,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      129.399994,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "IFS",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:09:56+00:00",
+  "generatedAt": "2026-08-26T23:42:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10795,6 +10795,12 @@
     [
       "2026-08-25",
       54.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      54.869999,
       0,
       null
     ]

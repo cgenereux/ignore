@@ -1,7 +1,7 @@
 {
   "ticker": "GDX",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:06:56+00:00",
+  "generatedAt": "2026-08-26T23:39:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30589,6 +30589,12 @@
     [
       "2026-08-25",
       105.519997,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      102.419998,
       0,
       null
     ]

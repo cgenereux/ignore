@@ -1,7 +1,8 @@
 {
   "ticker": "COWZ",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:58:29+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-26T23:32:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14587,6 +14588,12 @@
     [
       "2026-08-25",
       72.080002,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      71.860001,
       0,
       null
     ]

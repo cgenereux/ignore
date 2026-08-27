@@ -2,7 +2,7 @@
   "ticker": "HSBA.L",
   "currency": "GBP",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:08:42+00:00",
+  "generatedAt": "2026-08-26T23:41:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58682,6 +58682,12 @@
     [
       "2026-08-24",
       15.29,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      15.17,
       0,
       null
     ]

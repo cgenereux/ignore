@@ -1,7 +1,7 @@
 {
   "ticker": "AYI",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:32:51+00:00",
+  "generatedAt": "2026-08-26T23:10:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37335,6 +37335,12 @@
       339.950012,
       0,
       10176589568
+    ],
+    [
+      "2026-08-26",
+      341.350006,
+      0,
+      10218499151
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "APO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:15:45+00:00",
+  "generatedAt": "2026-08-26T22:55:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23242,6 +23242,12 @@
       133.179993,
       0,
       78648533590
+    ],
+    [
+      "2026-08-26",
+      133.669998,
+      0,
+      78937902982
     ]
   ],
   "sharesOutstanding": [

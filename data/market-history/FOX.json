@@ -1,7 +1,7 @@
 {
   "ticker": "FOX",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:20:00+00:00",
+  "generatedAt": "2026-08-26T22:59:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11253,6 +11253,12 @@
       62.689999,
       0,
       26323571297
+    ],
+    [
+      "2026-08-26",
+      62.23,
+      0,
+      26130417382
     ]
   ],
   "sharesOutstanding": [

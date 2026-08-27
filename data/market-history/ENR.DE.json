@@ -2,7 +2,7 @@
   "ticker": "ENR.DE",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:02:01+00:00",
+  "generatedAt": "2026-08-26T23:35:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9026,6 +9026,12 @@
     [
       "2026-08-24",
       148.740005,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      152.759995,
       0,
       null
     ]

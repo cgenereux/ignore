@@ -2,7 +2,7 @@
   "ticker": "EMA.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:01:33+00:00",
+  "generatedAt": "2026-08-26T23:35:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47660,6 +47660,12 @@
     [
       "2026-08-25",
       69.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      70.330002,
       0,
       null
     ]

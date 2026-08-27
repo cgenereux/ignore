@@ -1,7 +1,7 @@
 {
   "ticker": "JETS",
   "currency": "USD",
-  "generatedAt": "2026-08-25T23:12:15+00:00",
+  "generatedAt": "2026-08-26T23:44:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17089,6 +17089,12 @@
     [
       "2026-08-25",
       30.09,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      29.76,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "PTCT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:47:05+00:00",
+  "generatedAt": "2026-08-26T23:22:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19900,6 +19900,12 @@
       73.470001,
       0,
       6131865225
+    ],
+    [
+      "2026-08-26",
+      72.690002,
+      0,
+      6066765901
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "ALNY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:41:28+00:00",
+  "generatedAt": "2026-08-26T23:17:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33574,6 +33574,12 @@
       240.080002,
       0,
       32124893317
+    ],
+    [
+      "2026-08-26",
+      239.0,
+      0,
+      31980379202
     ]
   ],
   "sharesOutstanding": [

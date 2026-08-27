@@ -1,7 +1,7 @@
 {
   "ticker": "VMC",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:26:35+00:00",
+  "generatedAt": "2026-08-26T23:04:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80955,6 +80955,12 @@
       274.089996,
       0,
       35516236098
+    ],
+    [
+      "2026-08-26",
+      273.73999,
+      0,
+      35470882748
     ]
   ],
   "sharesOutstanding": [

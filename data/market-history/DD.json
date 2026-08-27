@@ -1,7 +1,7 @@
 {
   "ticker": "DD",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:18:39+00:00",
+  "generatedAt": "2026-08-26T22:57:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82035,6 +82035,12 @@
       136.039993,
       0,
       18368038406
+    ],
+    [
+      "2026-08-26",
+      137.979996,
+      0,
+      18629976373
     ]
   ],
   "sharesOutstanding": [

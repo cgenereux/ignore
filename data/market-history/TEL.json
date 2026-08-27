@@ -2,7 +2,7 @@
   "ticker": "TEL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:25:31+00:00",
+  "generatedAt": "2026-08-26T23:03:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28990,6 +28990,12 @@
       201.410004,
       0,
       58310860312
+    ],
+    [
+      "2026-08-26",
+      205.029999,
+      0,
+      59358896783
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "YUM",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:05:17+00:00",
+  "generatedAt": "2026-08-26T22:45:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43683,6 +43683,12 @@
       156.270004,
       0,
       42661711166
+    ],
+    [
+      "2026-08-26",
+      154.410004,
+      0,
+      42153931000
     ]
   ],
   "sharesOutstanding": [

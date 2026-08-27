@@ -2,7 +2,7 @@
   "ticker": "JJSF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:40:35+00:00",
+  "generatedAt": "2026-08-26T23:16:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61294,6 +61294,12 @@
       89.349998,
       0,
       1669201646
+    ],
+    [
+      "2026-08-26",
+      88.705002,
+      0,
+      1657152072
     ]
   ],
   "sharesOutstanding": [

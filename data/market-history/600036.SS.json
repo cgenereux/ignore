@@ -2,7 +2,7 @@
   "ticker": "600036.SS",
   "currency": "CNY",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:49:59+00:00",
+  "generatedAt": "2026-08-26T23:24:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35948,6 +35948,12 @@
     [
       "2026-08-25",
       39.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      39.799999,
       0,
       null
     ]

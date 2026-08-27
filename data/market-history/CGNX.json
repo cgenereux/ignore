@@ -1,7 +1,7 @@
 {
   "ticker": "CGNX",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:33:14+00:00",
+  "generatedAt": "2026-08-26T23:10:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56067,6 +56067,12 @@
       59.82,
       0,
       10063150177
+    ],
+    [
+      "2026-08-26",
+      61.720001,
+      0,
+      10382775734
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "HKXCY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:08:27+00:00",
+  "generatedAt": "2026-08-26T23:41:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25117,7 +25117,13 @@
     ],
     [
       "2026-08-25",
-      53.540001,
+      53.66,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      53.639999,
       0,
       null
     ]

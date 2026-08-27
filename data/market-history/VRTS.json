@@ -2,7 +2,7 @@
   "ticker": "VRTS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:39:29+00:00",
+  "generatedAt": "2026-08-26T23:15:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26620,6 +26620,12 @@
       166.259995,
       0,
       1110969567
+    ],
+    [
+      "2026-08-26",
+      167.25,
+      0,
+      1117584904
     ]
   ],
   "sharesOutstanding": [

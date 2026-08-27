@@ -2,7 +2,7 @@
   "ticker": "RH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:37:00+00:00",
+  "generatedAt": "2026-08-26T23:13:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20824,6 +20824,12 @@
       141.300003,
       0,
       2674275085
+    ],
+    [
+      "2026-08-26",
+      148.570007,
+      0,
+      2811868793
     ]
   ],
   "sharesOutstanding": [

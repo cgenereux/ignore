@@ -1,7 +1,7 @@
 {
   "ticker": "GLXY",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:28:55+00:00",
+  "generatedAt": "2026-08-26T23:06:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1929,6 +1929,12 @@
       24.790001,
       0,
       4829066124
+    ],
+    [
+      "2026-08-26",
+      24.639999,
+      0,
+      4799845984
     ]
   ],
   "sharesOutstanding": [

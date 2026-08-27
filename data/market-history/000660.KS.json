@@ -2,7 +2,7 @@
   "ticker": "000660.KS",
   "currency": "KRW",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:49:34+00:00",
+  "generatedAt": "2026-08-26T23:24:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39968,6 +39968,12 @@
     [
       "2026-08-25",
       1678000.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      1688000.0,
       0,
       null
     ]

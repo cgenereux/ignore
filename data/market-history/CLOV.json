@@ -2,7 +2,7 @@
   "ticker": "CLOV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:34:56+00:00",
+  "generatedAt": "2026-08-26T23:11:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9358,6 +9358,12 @@
       4.13,
       0,
       2193675427
+    ],
+    [
+      "2026-08-26",
+      4.25,
+      0,
+      2257414118
     ]
   ],
   "sharesOutstanding": [

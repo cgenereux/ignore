@@ -1,7 +1,7 @@
 {
   "ticker": "BCPC",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:47:53+00:00",
+  "generatedAt": "2026-08-26T23:23:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60817,6 +60817,12 @@
     [
       "2026-08-25",
       179.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      179.789993,
       0,
       null
     ]

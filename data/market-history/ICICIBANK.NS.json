@@ -2,7 +2,7 @@
   "ticker": "ICICIBANK.NS",
   "currency": "INR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:09:19+00:00",
+  "generatedAt": "2026-08-26T23:41:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35990,6 +35990,18 @@
     [
       "2026-08-24",
       1415.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-25",
+      1422.699951,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      1430.0,
       0,
       null
     ]

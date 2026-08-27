@@ -2,7 +2,7 @@
   "ticker": "RELY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:48:08+00:00",
+  "generatedAt": "2026-08-26T23:23:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7420,6 +7420,12 @@
       26.219999,
       0,
       5550355684
+    ],
+    [
+      "2026-08-26",
+      25.75,
+      0,
+      5450864390
     ]
   ],
   "sharesOutstanding": [

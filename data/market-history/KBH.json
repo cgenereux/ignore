@@ -2,7 +2,7 @@
   "ticker": "KBH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:35:51+00:00",
+  "generatedAt": "2026-08-26T23:12:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60550,6 +60550,12 @@
       57.110001,
       0,
       3500843037
+    ],
+    [
+      "2026-08-26",
+      56.080002,
+      0,
+      3437704112
     ]
   ],
   "sharesOutstanding": [

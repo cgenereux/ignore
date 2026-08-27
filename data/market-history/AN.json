@@ -2,7 +2,7 @@
   "ticker": "AN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:34:20+00:00",
+  "generatedAt": "2026-08-26T23:11:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -54838,6 +54838,12 @@
       196.800003,
       0,
       6506366720
+    ],
+    [
+      "2026-08-26",
+      196.570007,
+      0,
+      6498762878
     ]
   ],
   "sharesOutstanding": [

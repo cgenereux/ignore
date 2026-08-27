@@ -2,7 +2,7 @@
   "ticker": "NHC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:39:50+00:00",
+  "generatedAt": "2026-08-26T23:16:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59932,6 +59932,12 @@
       224.729996,
       0,
       3519585231
+    ],
+    [
+      "2026-08-26",
+      225.089996,
+      0,
+      3525223343
     ]
   ],
   "sharesOutstanding": [

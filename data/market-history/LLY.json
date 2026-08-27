@@ -1,7 +1,7 @@
 {
   "ticker": "LLY",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:03:46+00:00",
+  "generatedAt": "2026-08-26T22:44:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82035,6 +82035,12 @@
       1233.660034,
       0,
       1100105733405
+    ],
+    [
+      "2026-08-26",
+      1189.410034,
+      0,
+      1060646176190
     ]
   ],
   "sharesOutstanding": [

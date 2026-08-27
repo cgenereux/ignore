@@ -1,7 +1,7 @@
 {
   "ticker": "MORN",
   "currency": "USD",
-  "generatedAt": "2026-08-25T22:44:48+00:00",
+  "generatedAt": "2026-08-26T23:20:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32179,6 +32179,12 @@
     [
       "2026-08-25",
       215.009995,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      212.440002,
       0,
       null
     ]

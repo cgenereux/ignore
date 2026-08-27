@@ -2,7 +2,7 @@
   "ticker": "UNCRY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T23:27:44+00:00",
+  "generatedAt": "2026-08-26T23:58:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13076,6 +13076,12 @@
     [
       "2026-08-25",
       49.34,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      49.990002,
       0,
       null
     ]
