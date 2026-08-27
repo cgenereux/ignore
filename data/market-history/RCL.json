@@ -2,7 +2,7 @@
   "ticker": "RCL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:03:12+00:00",
+  "generatedAt": "2026-08-27T06:23:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50343,7 +50343,7 @@
       "2026-08-25",
       292.290009,
       0,
-      78173571918
+      78173572039
     ],
     [
       "2026-08-26",

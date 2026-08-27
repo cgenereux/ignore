@@ -2,7 +2,7 @@
   "ticker": "TECH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T22:56:00+00:00",
+  "generatedAt": "2026-08-27T06:18:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56739,7 +56739,7 @@
       "2026-08-26",
       72.379997,
       0,
-      11277574564
+      11350503596
     ]
   ],
   "sharesOutstanding": [
@@ -59407,6 +59407,11 @@
       "2026-06-26",
       155810652,
       155810652
+    ],
+    [
+      "2026-08-26",
+      156818238,
+      156818238
     ]
   ]
 }

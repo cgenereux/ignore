@@ -2,7 +2,7 @@
   "ticker": "MCHP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:01:27+00:00",
+  "generatedAt": "2026-08-27T06:22:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50511,7 +50511,7 @@
       "2026-08-26",
       74.050003,
       0,
-      40209795226
+      40209795198
     ]
   ],
   "sharesOutstanding": [

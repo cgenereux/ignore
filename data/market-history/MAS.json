@@ -2,7 +2,7 @@
   "ticker": "MAS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:01:15+00:00",
+  "generatedAt": "2026-08-27T06:22:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70251,7 +70251,7 @@
   "sharesOutstanding": [
     [
       "2008-12-31",
-      351400000,
+      308787346,
       351400000
     ],
     [

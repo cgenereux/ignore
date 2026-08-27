@@ -2,7 +2,7 @@
   "ticker": "ECHO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T22:58:02+00:00",
+  "generatedAt": "2026-08-27T06:20:09+00:00",
   "source": "Yahoo Finance via yfinance; price history continued from SATS on 2026-06-24; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -28161,7 +28161,7 @@
       "2026-08-26",
       85.610001,
       0,
-      24838971187
+      24838971300
     ]
   ],
   "sharesOutstanding": [

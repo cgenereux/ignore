@@ -2,7 +2,7 @@
   "ticker": "TSCO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:04:11+00:00",
+  "generatedAt": "2026-08-27T06:23:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

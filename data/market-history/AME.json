@@ -2,7 +2,7 @@
   "ticker": "AME",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T22:55:18+00:00",
+  "generatedAt": "2026-08-27T06:18:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
