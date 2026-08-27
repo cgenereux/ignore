@@ -1097,18 +1097,14 @@ def fetch_market_history(
     # SEC Company Facts begins. These values remain on their contemporaneous
     # share basis, so merge them into the reported series here—before applying
     # the actual split events returned with the price history.
+    # These were once treated as contemporaneous and multiplied by the later
+    # splits, which was wrong: the legacy dataset is built by the same importer
+    # as the main one and states shares on the latest split basis already.
+    # Adjusting a second time gave NVDA 565 billion shares in 1999 against 24
+    # billion today, and a $23bn market capitalisation for a company then worth
+    # about a billion. They are handled below with the financial observations,
+    # which carry the same basis.
     legacy_shares = legacy_share_observations(ticker)
-    if legacy_shares:
-        earliest_reported = (
-            reported_by_date[0][0] if reported_by_date else None
-        )
-        backfill = [
-            (observed_date, value)
-            for observed_date, value in legacy_shares
-            if earliest_reported is None or observed_date < earliest_reported
-        ]
-        if backfill:
-            reported_by_date = sorted(backfill + reported_by_date)
 
     if reported_by_date:
         reported_by_date = apply_known_reported_share_multipliers(
@@ -1139,6 +1135,12 @@ def fetch_market_history(
     # to the latest split basis, so only use observations before the market
     # series and reverse the known later splits for the raw/reference column.
     financial_shares = financial_share_observations(ticker)
+    if legacy_shares:
+        merged = {observed: value for observed, value in legacy_shares}
+        # A date the financial dataset also covers keeps the financial value:
+        # it is the reconciled one.
+        merged.update({observed: value for observed, value in financial_shares})
+        financial_shares = sorted(merged.items())
     earliest_adjusted = (
         adjusted_shares_by_date[0][0] if adjusted_shares_by_date else None
     )
