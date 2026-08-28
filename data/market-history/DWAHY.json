@@ -2,7 +2,7 @@
   "ticker": "DWAHY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:36:42+00:00",
+  "generatedAt": "2026-08-28T06:42:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46087,19 +46087,19 @@
     ],
     [
       "2026-08-25",
-      29.620001,
+      29.629999,
       0,
       null
     ],
     [
       "2026-08-26",
-      29.48,
+      29.530001,
       0,
       null
     ],
     [
       "2026-08-27",
-      29.52,
+      29.450001,
       0,
       null
     ]

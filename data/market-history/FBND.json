@@ -1,7 +1,8 @@
 {
   "ticker": "FBND",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:38:46+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:44:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

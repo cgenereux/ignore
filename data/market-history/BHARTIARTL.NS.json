@@ -2,7 +2,7 @@
   "ticker": "BHARTIARTL.NS",
   "currency": "INR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:31:15+00:00",
+  "generatedAt": "2026-08-28T06:37:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36008,6 +36008,12 @@
     [
       "2026-08-27",
       1878.300049,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      1871.699951,
       0,
       null
     ]

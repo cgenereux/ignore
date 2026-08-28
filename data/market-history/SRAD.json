@@ -1,7 +1,8 @@
 {
   "ticker": "SRAD",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:57:38+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T07:03:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

@@ -1,7 +1,8 @@
 {
   "ticker": "FNDF",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:40:13+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:46:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

@@ -1,7 +1,8 @@
 {
   "ticker": "FOCPX",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:40:19+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:46:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62971,6 +62972,12 @@
     [
       "2026-08-26",
       30.34,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      30.91,
       0,
       null
     ]

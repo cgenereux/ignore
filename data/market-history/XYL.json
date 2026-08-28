@@ -2,7 +2,7 @@
   "ticker": "XYL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:07:00+00:00",
+  "generatedAt": "2026-08-28T06:14:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22442,8 +22442,8 @@
     [
       "2026-08-27",
       112.650002,
-      0,
-      26302289728
+      0.43,
+      26302289839
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "SLB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:04:54+00:00",
+  "generatedAt": "2026-08-28T06:12:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67533,7 +67533,7 @@
       "2026-08-27",
       55.009998,
       0,
-      81642716646
+      81642716169
     ]
   ],
   "sharesOutstanding": [

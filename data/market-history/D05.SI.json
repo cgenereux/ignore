@@ -2,7 +2,7 @@
   "ticker": "D05.SI",
   "currency": "SGD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:35:07+00:00",
+  "generatedAt": "2026-08-28T06:41:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40496,6 +40496,12 @@
     [
       "2026-08-27",
       75.650002,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      75.910004,
       0,
       null
     ]

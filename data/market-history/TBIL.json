@@ -2,7 +2,7 @@
   "ticker": "TBIL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:58:26+00:00",
+  "generatedAt": "2026-08-28T07:04:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6110,7 +6110,7 @@
     [
       "2026-08-27",
       49.860001,
-      0,
+      0.154,
       null
     ]
   ],

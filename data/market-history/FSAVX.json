@@ -2,7 +2,7 @@
   "ticker": "FSAVX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:40:37+00:00",
+  "generatedAt": "2026-08-28T06:46:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60692,6 +60692,12 @@
     [
       "2026-08-26",
       54.580002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      54.549999,
       0,
       null
     ]

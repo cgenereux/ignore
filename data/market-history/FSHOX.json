@@ -1,7 +1,7 @@
 {
   "ticker": "FSHOX",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:40:53+00:00",
+  "generatedAt": "2026-08-28T06:47:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60331,6 +60331,12 @@
     [
       "2026-08-26",
       120.150002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      118.660004,
       0,
       null
     ]

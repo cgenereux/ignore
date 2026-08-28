@@ -1,7 +1,8 @@
 {
   "ticker": "XLU",
   "currency": "USD",
-  "generatedAt": "2026-08-28T00:04:30+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T07:10:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

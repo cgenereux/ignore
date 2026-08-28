@@ -1,7 +1,8 @@
 {
   "ticker": "VOOG",
   "currency": "USD",
-  "generatedAt": "2026-08-28T00:02:24+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T07:08:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

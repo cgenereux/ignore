@@ -2,7 +2,7 @@
   "ticker": "GIL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:42:17+00:00",
+  "generatedAt": "2026-08-28T06:48:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

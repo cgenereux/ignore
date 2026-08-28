@@ -1,7 +1,8 @@
 {
   "ticker": "PHI",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:51:54+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:57:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80665,7 +80666,7 @@
     [
       "2026-08-27",
       17.879999,
-      0,
+      0.752,
       null
     ]
   ],

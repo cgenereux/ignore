@@ -1,7 +1,8 @@
 {
   "ticker": "JOYY",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:46:55+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:53:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20676,7 +20677,7 @@
     ],
     [
       "2026-08-05",
-      74.805,
+      74.809998,
       0,
       null
     ],

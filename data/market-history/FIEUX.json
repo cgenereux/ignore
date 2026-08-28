@@ -1,7 +1,8 @@
 {
   "ticker": "FIEUX",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:39:44+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:45:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60325,6 +60326,12 @@
     [
       "2026-08-26",
       51.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      51.060001,
       0,
       null
     ]

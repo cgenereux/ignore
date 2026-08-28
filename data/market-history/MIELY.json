@@ -2,7 +2,7 @@
   "ticker": "MIELY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:49:05+00:00",
+  "generatedAt": "2026-08-28T06:55:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44929,7 +44929,7 @@
     ],
     [
       "2026-08-24",
-      69.739998,
+      69.75,
       0,
       null
     ],
@@ -44941,13 +44941,13 @@
     ],
     [
       "2026-08-26",
-      70.230003,
+      70.269997,
       0,
       null
     ],
     [
       "2026-08-27",
-      69.900002,
+      70.050003,
       0,
       null
     ]

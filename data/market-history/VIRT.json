@@ -1,7 +1,8 @@
 {
   "ticker": "VIRT",
   "currency": "USD",
-  "generatedAt": "2026-08-28T00:01:47+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T07:07:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

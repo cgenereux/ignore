@@ -1,7 +1,8 @@
 {
   "ticker": "FLOT",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:39:51+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:45:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22920,7 +22921,7 @@
     ],
     [
       "2026-08-25",
-      51.014999,
+      51.02,
       0,
       null
     ],

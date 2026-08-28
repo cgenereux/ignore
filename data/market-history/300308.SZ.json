@@ -2,7 +2,7 @@
   "ticker": "300308.SZ",
   "currency": "CNY",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:27:01+00:00",
+  "generatedAt": "2026-08-28T06:33:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20978,6 +20978,12 @@
     [
       "2026-08-27",
       866.119995,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      866.359985,
       0,
       null
     ]

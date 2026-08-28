@@ -1,7 +1,8 @@
 {
   "ticker": "COLD",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:34:26+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:40:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

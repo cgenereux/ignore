@@ -1,7 +1,8 @@
 {
   "ticker": "RGLD",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:53:20+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-28T06:59:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
