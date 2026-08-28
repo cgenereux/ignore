@@ -2,7 +2,7 @@
   "ticker": "XPOF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:14:17+00:00",
+  "generatedAt": "2026-08-27T23:16:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7666,6 +7666,12 @@
       5.68,
       0,
       239803913
+    ],
+    [
+      "2026-08-27",
+      5.39,
+      0,
+      227560404
     ]
   ],
   "sharesOutstanding": [

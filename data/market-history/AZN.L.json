@@ -2,7 +2,7 @@
   "ticker": "AZN.L",
   "currency": "GBP",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-25T22:53:20+00:00",
+  "generatedAt": "2026-08-27T23:30:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51056,6 +51056,12 @@
     [
       "2026-08-25",
       124.76,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      122.34,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "DFAU",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:33:21+00:00",
+  "generatedAt": "2026-08-27T23:35:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8689,6 +8689,12 @@
     [
       "2026-08-26",
       53.049999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      53.310001,
       0,
       null
     ]

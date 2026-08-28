@@ -2,7 +2,7 @@
   "ticker": "MWA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:47:40+00:00",
+  "generatedAt": "2026-08-27T23:49:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30572,6 +30572,12 @@
     [
       "2026-08-26",
       25.27,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      24.719999,
       0,
       null
     ]

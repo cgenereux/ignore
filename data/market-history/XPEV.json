@@ -1,7 +1,7 @@
 {
   "ticker": "XPEV",
   "currency": "USD",
-  "generatedAt": "2026-08-27T00:02:20+00:00",
+  "generatedAt": "2026-08-28T00:04:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9045,6 +9045,12 @@
       11.71,
       0,
       11201711315
+    ],
+    [
+      "2026-08-27",
+      11.33,
+      0,
+      10838205630
     ]
   ],
   "sharesOutstanding": [

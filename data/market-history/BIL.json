@@ -1,7 +1,7 @@
 {
   "ticker": "BIL",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:29:06+00:00",
+  "generatedAt": "2026-08-27T23:31:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29058,6 +29058,12 @@
     ],
     [
       "2026-08-26",
+      91.629997,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
       91.629997,
       0,
       null

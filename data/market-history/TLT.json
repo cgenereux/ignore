@@ -2,7 +2,7 @@
   "ticker": "TLT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:57:03+00:00",
+  "generatedAt": "2026-08-27T23:59:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36356,6 +36356,12 @@
     [
       "2026-08-26",
       83.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      83.129997,
       0,
       null
     ]

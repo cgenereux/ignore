@@ -2,7 +2,7 @@
   "ticker": "AMRZ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:17:35+00:00",
+  "generatedAt": "2026-08-27T23:19:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1790,6 +1790,12 @@
     [
       "2026-08-26",
       44.740002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      44.290001,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "TXN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:17:04+00:00",
+  "generatedAt": "2026-08-27T22:54:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82042,6 +82042,12 @@
       261.769989,
       0,
       239060836718
+    ],
+    [
+      "2026-08-27",
+      266.540009,
+      0,
+      243417046030
     ]
   ],
   "sharesOutstanding": [

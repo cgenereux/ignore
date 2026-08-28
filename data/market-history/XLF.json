@@ -1,7 +1,7 @@
 {
   "ticker": "XLF",
   "currency": "USD",
-  "generatedAt": "2026-08-27T00:01:54+00:00",
+  "generatedAt": "2026-08-28T00:04:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41773,6 +41773,12 @@
     [
       "2026-08-26",
       58.259998,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      57.880001,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "XLI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T00:01:57+00:00",
+  "generatedAt": "2026-08-28T00:04:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41774,6 +41774,12 @@
     [
       "2026-08-26",
       180.339996,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      178.800003,
       0,
       null
     ]

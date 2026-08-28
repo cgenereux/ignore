@@ -2,7 +2,7 @@
   "ticker": "DUOL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:14:34+00:00",
+  "generatedAt": "2026-08-27T22:44:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7666,6 +7666,12 @@
       140.880005,
       0,
       6564038556
+    ],
+    [
+      "2026-08-27",
+      142.860001,
+      0,
+      6656292723
     ]
   ],
   "sharesOutstanding": [

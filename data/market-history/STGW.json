@@ -2,7 +2,7 @@
   "ticker": "STGW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:16:55+00:00",
+  "generatedAt": "2026-08-27T23:18:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47350,6 +47350,12 @@
       8.64,
       0,
       2112267981
+    ],
+    [
+      "2026-08-27",
+      8.88,
+      0,
+      2170942033
     ]
   ],
   "sharesOutstanding": [

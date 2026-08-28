@@ -2,7 +2,7 @@
   "ticker": "SMMT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:19:14+00:00",
+  "generatedAt": "2026-08-27T23:21:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17332,6 +17332,12 @@
       14.23,
       0,
       11351976836
+    ],
+    [
+      "2026-08-27",
+      14.33,
+      0,
+      11431751736
     ]
   ],
   "sharesOutstanding": [

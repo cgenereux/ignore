@@ -2,7 +2,7 @@
   "ticker": "PDD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:24:47+00:00",
+  "generatedAt": "2026-08-27T23:07:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12202,6 +12202,12 @@
       86.739998,
       0,
       123465406267
+    ],
+    [
+      "2026-08-27",
+      84.690002,
+      0,
+      120547449842
     ]
   ],
   "sharesOutstanding": [

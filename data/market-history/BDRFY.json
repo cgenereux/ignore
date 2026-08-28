@@ -2,7 +2,7 @@
   "ticker": "BDRFY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:28:47+00:00",
+  "generatedAt": "2026-08-27T23:31:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24650,6 +24650,12 @@
     [
       "2026-08-26",
       18.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      18.77,
       0,
       null
     ]

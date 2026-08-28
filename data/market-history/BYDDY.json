@@ -1,7 +1,7 @@
 {
   "ticker": "BYDDY",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:30:23+00:00",
+  "generatedAt": "2026-08-27T23:32:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25129,6 +25129,12 @@
     [
       "2026-08-26",
       11.65,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      11.51,
       0,
       null
     ]

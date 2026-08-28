@@ -1,7 +1,7 @@
 {
   "ticker": "FTRNX",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:39:13+00:00",
+  "generatedAt": "2026-08-27T23:41:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70549,6 +70549,12 @@
     [
       "2026-08-25",
       216.869995,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      217.220001,
       0,
       null
     ]

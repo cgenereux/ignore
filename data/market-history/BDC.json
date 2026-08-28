@@ -1,7 +1,7 @@
 {
   "ticker": "BDC",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:23:36+00:00",
+  "generatedAt": "2026-08-27T23:25:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49465,6 +49465,12 @@
     [
       "2026-08-26",
       118.089996,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      119.949997,
       0,
       null
     ]

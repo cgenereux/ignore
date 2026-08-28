@@ -2,7 +2,7 @@
   "ticker": "SCBFY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:52:27+00:00",
+  "generatedAt": "2026-08-27T23:54:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10381,13 +10381,19 @@
     ],
     [
       "2026-08-25",
-      58.73,
+      58.740002,
       0,
       null
     ],
     [
       "2026-08-26",
-      59.869999,
+      59.240002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      58.919998,
       0,
       null
     ]

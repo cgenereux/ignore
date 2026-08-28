@@ -1,7 +1,7 @@
 {
   "ticker": "DFAS",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:33:17+00:00",
+  "generatedAt": "2026-08-27T23:35:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7849,6 +7849,12 @@
     [
       "2026-08-26",
       82.769997,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      82.800003,
       0,
       null
     ]

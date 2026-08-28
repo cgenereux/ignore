@@ -2,7 +2,7 @@
   "ticker": "EXPD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:20:31+00:00",
+  "generatedAt": "2026-08-27T22:59:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63370,6 +63370,12 @@
       190.179993,
       0,
       24721615582
+    ],
+    [
+      "2026-08-27",
+      190.720001,
+      0,
+      24791811587
     ]
   ],
   "sharesOutstanding": [

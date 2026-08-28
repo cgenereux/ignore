@@ -2,7 +2,7 @@
   "ticker": "KEX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:12:33+00:00",
+  "generatedAt": "2026-08-27T23:14:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       139.020004,
       0,
       7340256226
+    ],
+    [
+      "2026-08-27",
+      139.860001,
+      0,
+      7384608032
     ]
   ],
   "sharesOutstanding": [

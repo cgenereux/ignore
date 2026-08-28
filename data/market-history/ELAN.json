@@ -2,7 +2,7 @@
   "ticker": "ELAN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:27:43+00:00",
+  "generatedAt": "2026-08-27T23:11:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11968,6 +11968,12 @@
       25.08,
       0,
       12526195542
+    ],
+    [
+      "2026-08-27",
+      24.49,
+      0,
+      12231520173
     ]
   ],
   "sharesOutstanding": [

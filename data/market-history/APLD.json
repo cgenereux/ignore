@@ -2,7 +2,7 @@
   "ticker": "APLD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:25:12+00:00",
+  "generatedAt": "2026-08-27T23:08:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6586,6 +6586,12 @@
       26.870001,
       0,
       7735432700
+    ],
+    [
+      "2026-08-27",
+      27.440001,
+      0,
+      7899526220
     ]
   ],
   "sharesOutstanding": [

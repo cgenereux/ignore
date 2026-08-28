@@ -2,7 +2,7 @@
   "ticker": "SNX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:26:14+00:00",
+  "generatedAt": "2026-08-27T23:10:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34348,6 +34348,12 @@
       255.169998,
       0,
       20403074588
+    ],
+    [
+      "2026-08-27",
+      260.130005,
+      0,
+      20799670548
     ]
   ],
   "sharesOutstanding": [

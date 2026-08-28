@@ -2,7 +2,7 @@
   "ticker": "SCHD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:52:33+00:00",
+  "generatedAt": "2026-08-27T23:54:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22406,6 +22406,12 @@
     [
       "2026-08-26",
       35.049999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      34.830002,
       0,
       null
     ]

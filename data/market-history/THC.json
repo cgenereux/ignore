@@ -2,7 +2,7 @@
   "ticker": "THC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:26:10+00:00",
+  "generatedAt": "2026-08-27T23:09:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       274.190002,
       0,
       22077504771
+    ],
+    [
+      "2026-08-27",
+      267.75,
+      0,
+      21558962250
     ]
   ],
   "sharesOutstanding": [

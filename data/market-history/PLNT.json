@@ -2,7 +2,7 @@
   "ticker": "PLNT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:14:16+00:00",
+  "generatedAt": "2026-08-27T23:16:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16690,6 +16690,12 @@
       53.290001,
       0,
       4025158595
+    ],
+    [
+      "2026-08-27",
+      51.700001,
+      0,
+      3905060966
     ]
   ],
   "sharesOutstanding": [

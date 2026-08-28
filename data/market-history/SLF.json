@@ -1,7 +1,8 @@
 {
   "ticker": "SLF",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:53:57+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-27T23:56:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39883,6 +39884,12 @@
     [
       "2026-08-26",
       79.050003,
+      0.694,
+      null
+    ],
+    [
+      "2026-08-27",
+      78.610001,
       0,
       null
     ]

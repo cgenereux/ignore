@@ -2,7 +2,7 @@
   "ticker": "UDR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:24:07+00:00",
+  "generatedAt": "2026-08-27T23:06:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       37.93,
       0,
       12185551940
+    ],
+    [
+      "2026-08-27",
+      37.080002,
+      0,
+      11912477940
     ]
   ],
   "sharesOutstanding": [

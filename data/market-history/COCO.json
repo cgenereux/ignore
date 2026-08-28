@@ -1,7 +1,7 @@
 {
   "ticker": "COCO",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:32:07+00:00",
+  "generatedAt": "2026-08-27T23:34:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7285,6 +7285,12 @@
     [
       "2026-08-26",
       62.799999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      61.630001,
       0,
       null
     ]

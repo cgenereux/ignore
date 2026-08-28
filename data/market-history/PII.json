@@ -1,7 +1,7 @@
 {
   "ticker": "PII",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:13:21+00:00",
+  "generatedAt": "2026-08-27T23:15:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58867,6 +58867,12 @@
     [
       "2026-08-26",
       63.740002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      63.849998,
       0,
       null
     ]

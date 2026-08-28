@@ -2,7 +2,7 @@
   "ticker": "WMG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:27:20+00:00",
+  "generatedAt": "2026-08-27T23:11:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9406,6 +9406,12 @@
       27.93,
       0,
       14610455848
+    ],
+    [
+      "2026-08-27",
+      28.190001,
+      0,
+      14746464667
     ]
   ],
   "sharesOutstanding": [

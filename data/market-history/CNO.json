@@ -1,7 +1,7 @@
 {
   "ticker": "CNO",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:32:00+00:00",
+  "generatedAt": "2026-08-27T23:34:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34669,6 +34669,12 @@
     [
       "2026-08-26",
       54.73,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      55.16,
       0,
       null
     ]

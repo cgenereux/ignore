@@ -1,7 +1,7 @@
 {
   "ticker": "ESLT",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:35:55+00:00",
+  "generatedAt": "2026-08-27T23:38:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44899,6 +44899,12 @@
     [
       "2026-08-26",
       722.47998,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      718.690002,
       0,
       null
     ]

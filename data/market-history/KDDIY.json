@@ -1,7 +1,7 @@
 {
   "ticker": "KDDIY",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:44:53+00:00",
+  "generatedAt": "2026-08-27T23:47:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26701,6 +26701,12 @@
     [
       "2026-08-26",
       18.120001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      18.040001,
       0,
       null
     ]

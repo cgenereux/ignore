@@ -2,7 +2,7 @@
   "ticker": "APG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:26:17+00:00",
+  "generatedAt": "2026-08-27T23:10:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9550,6 +9550,12 @@
       41.220001,
       0,
       17813647875
+    ],
+    [
+      "2026-08-27",
+      41.25,
+      0,
+      17826612251
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "MAR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:15:44+00:00",
+  "generatedAt": "2026-08-27T22:46:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42922,6 +42922,12 @@
       358.670013,
       0,
       93529047907
+    ],
+    [
+      "2026-08-27",
+      353.869995,
+      0,
+      92277365061
     ]
   ],
   "sharesOutstanding": [

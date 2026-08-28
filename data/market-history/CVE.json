@@ -1,7 +1,7 @@
 {
   "ticker": "CVE",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:32:40+00:00",
+  "generatedAt": "2026-08-27T23:34:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25315,6 +25315,12 @@
     [
       "2026-08-26",
       31.48,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      31.709999,
       0,
       null
     ]

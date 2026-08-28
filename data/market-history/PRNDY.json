@@ -2,7 +2,7 @@
   "ticker": "PRNDY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:50:07+00:00",
+  "generatedAt": "2026-08-27T23:52:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26132,6 +26132,12 @@
     [
       "2026-08-26",
       15.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      14.93,
       0,
       null
     ]

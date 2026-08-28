@@ -2,7 +2,7 @@
   "ticker": "CNXC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:11:45+00:00",
+  "generatedAt": "2026-08-27T23:13:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8662,6 +8662,12 @@
       27.860001,
       0,
       1699971268
+    ],
+    [
+      "2026-08-27",
+      28.129999,
+      0,
+      1716446134
     ]
   ],
   "sharesOutstanding": [

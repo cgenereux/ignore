@@ -1,7 +1,7 @@
 {
   "ticker": "CWB",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:32:45+00:00",
+  "generatedAt": "2026-08-27T23:35:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26215,6 +26215,12 @@
     [
       "2026-08-26",
       103.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      104.040001,
       0,
       null
     ]

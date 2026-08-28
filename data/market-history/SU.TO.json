@@ -2,7 +2,7 @@
   "ticker": "SU.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:55:53+00:00",
+  "generatedAt": "2026-08-27T23:58:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47672,6 +47672,12 @@
     [
       "2026-08-26",
       91.129997,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      92.089996,
       0,
       null
     ]

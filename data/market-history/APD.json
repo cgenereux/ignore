@@ -2,7 +2,7 @@
   "ticker": "APD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:18:18+00:00",
+  "generatedAt": "2026-08-27T22:56:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       306.660004,
       0,
       68288745521
+    ],
+    [
+      "2026-08-27",
+      305.470001,
+      0,
+      68023749121
     ]
   ],
   "sharesOutstanding": [

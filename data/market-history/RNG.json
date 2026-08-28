@@ -2,7 +2,7 @@
   "ticker": "RNG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:17:07+00:00",
+  "generatedAt": "2026-08-27T23:19:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19492,6 +19492,12 @@
       66.059998,
       0,
       5516416858
+    ],
+    [
+      "2026-08-27",
+      68.529999,
+      0,
+      5722677180
     ]
   ],
   "sharesOutstanding": [

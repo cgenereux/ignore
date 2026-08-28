@@ -2,7 +2,7 @@
   "ticker": "PLTR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:14:28+00:00",
+  "generatedAt": "2026-08-27T22:44:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8908,6 +8908,12 @@
       177.5,
       0,
       426542880200
+    ],
+    [
+      "2026-08-27",
+      185.929993,
+      0,
+      446800645586
     ]
   ],
   "sharesOutstanding": [

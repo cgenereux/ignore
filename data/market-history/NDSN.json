@@ -2,7 +2,7 @@
   "ticker": "NDSN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:22:28+00:00",
+  "generatedAt": "2026-08-27T23:03:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70240,6 +70240,12 @@
       334.579987,
       0,
       18642110318
+    ],
+    [
+      "2026-08-27",
+      330.839996,
+      0,
+      18433725712
     ]
   ],
   "sharesOutstanding": [

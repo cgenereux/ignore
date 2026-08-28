@@ -2,7 +2,7 @@
   "ticker": "VEQT.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:58:57+00:00",
+  "generatedAt": "2026-08-28T00:01:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11372,6 +11372,12 @@
     [
       "2026-08-26",
       62.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      62.599998,
       0,
       null
     ]

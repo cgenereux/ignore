@@ -1,7 +1,7 @@
 {
   "ticker": "FDVLX",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:36:58+00:00",
+  "generatedAt": "2026-08-27T23:39:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70531,6 +70531,12 @@
     [
       "2026-08-25",
       17.48,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      17.49,
       0,
       null
     ]

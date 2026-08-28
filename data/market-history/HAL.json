@@ -2,7 +2,7 @@
   "ticker": "HAL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:21:00+00:00",
+  "generatedAt": "2026-08-27T23:00:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82042,6 +82042,12 @@
       34.439999,
       0,
       28693009006
+    ],
+    [
+      "2026-08-27",
+      35.490002,
+      0,
+      29567798123
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "MGM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:22:08+00:00",
+  "generatedAt": "2026-08-27T23:03:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -57922,6 +57922,12 @@
       43.459999,
       0,
       11119294417
+    ],
+    [
+      "2026-08-27",
+      42.970001,
+      0,
+      10993927880
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "LH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:21:45+00:00",
+  "generatedAt": "2026-08-27T23:02:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55024,6 +55024,12 @@
       335.720001,
       0,
       27226892081
+    ],
+    [
+      "2026-08-27",
+      336.540009,
+      0,
+      27293394693
     ]
   ],
   "sharesOutstanding": [

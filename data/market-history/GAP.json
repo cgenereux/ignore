@@ -2,7 +2,7 @@
   "ticker": "GAP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:20:51+00:00",
+  "generatedAt": "2026-08-27T23:22:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       21.15,
       0,
       7613554296
+    ],
+    [
+      "2026-08-27",
+      20.790001,
+      0,
+      7483962347
     ]
   ],
   "sharesOutstanding": [

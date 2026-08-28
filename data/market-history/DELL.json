@@ -2,7 +2,7 @@
   "ticker": "DELL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:17:07+00:00",
+  "generatedAt": "2026-08-27T22:54:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15130,6 +15130,12 @@
       463.820007,
       0,
       299693785478
+    ],
+    [
+      "2026-08-27",
+      472.26001,
+      0,
+      305147229357
     ]
   ],
   "sharesOutstanding": [

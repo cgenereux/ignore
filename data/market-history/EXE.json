@@ -2,7 +2,7 @@
   "ticker": "EXE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:20:29+00:00",
+  "generatedAt": "2026-08-27T22:59:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8362,6 +8362,12 @@
       96.57,
       0,
       23102329948
+    ],
+    [
+      "2026-08-27",
+      98.0,
+      0,
+      23444427202
     ]
   ],
   "sharesOutstanding": [

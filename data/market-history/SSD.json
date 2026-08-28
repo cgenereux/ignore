@@ -1,7 +1,7 @@
 {
   "ticker": "SSD",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:15:28+00:00",
+  "generatedAt": "2026-08-27T23:17:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48709,6 +48709,12 @@
     [
       "2026-08-26",
       184.929993,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      182.479996,
       0,
       null
     ]

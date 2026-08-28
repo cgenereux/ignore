@@ -2,7 +2,7 @@
   "ticker": "MSEX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:15:14+00:00",
+  "generatedAt": "2026-08-27T23:17:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80944,6 +80944,12 @@
       58.509998,
       0,
       1102559249
+    ],
+    [
+      "2026-08-27",
+      57.860001,
+      0,
+      1090310727
     ]
   ],
   "sharesOutstanding": [

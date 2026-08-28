@@ -2,7 +2,7 @@
   "ticker": "DOCU",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:27:11+00:00",
+  "generatedAt": "2026-08-27T23:11:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12574,6 +12574,12 @@
       59.330002,
       0,
       11328743975
+    ],
+    [
+      "2026-08-27",
+      63.799999,
+      0,
+      12182265845
     ]
   ],
   "sharesOutstanding": [

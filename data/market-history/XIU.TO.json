@@ -2,7 +2,7 @@
   "ticker": "XIU.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T00:01:47+00:00",
+  "generatedAt": "2026-08-28T00:04:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40544,6 +40544,12 @@
     [
       "2026-08-26",
       54.41,
+      0.287,
+      null
+    ],
+    [
+      "2026-08-27",
+      54.330002,
       0,
       null
     ]

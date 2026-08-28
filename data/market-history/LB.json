@@ -1,7 +1,7 @@
 {
   "ticker": "LB",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:22:11+00:00",
+  "generatedAt": "2026-08-27T23:24:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3259,6 +3259,12 @@
     [
       "2026-08-26",
       88.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      89.220001,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "CFR.SW",
   "currency": "CHF",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:31:02+00:00",
+  "generatedAt": "2026-08-27T23:33:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48020,6 +48020,18 @@
     [
       "2026-08-25",
       187.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      191.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      191.050003,
       0,
       null
     ]

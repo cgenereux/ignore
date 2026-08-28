@@ -2,7 +2,7 @@
   "ticker": "ZBH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:24:43+00:00",
+  "generatedAt": "2026-08-27T23:07:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37864,6 +37864,12 @@
       101.379997,
       0,
       19336986339
+    ],
+    [
+      "2026-08-27",
+      99.480003,
+      0,
+      18974585942
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "INDB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:42:49+00:00",
+  "generatedAt": "2026-08-27T23:45:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60902,6 +60902,12 @@
     [
       "2026-08-26",
       82.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      82.419998,
       0,
       null
     ]

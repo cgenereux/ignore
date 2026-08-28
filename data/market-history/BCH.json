@@ -2,7 +2,7 @@
   "ticker": "BCH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:28:40+00:00",
+  "generatedAt": "2026-08-27T23:30:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36338,6 +36338,12 @@
     [
       "2026-08-26",
       41.630001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      41.599998,
       0,
       null
     ]

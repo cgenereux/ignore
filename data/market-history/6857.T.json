@@ -2,7 +2,7 @@
   "ticker": "6857.T",
   "currency": "JPY",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:25:21+00:00",
+  "generatedAt": "2026-08-27T23:27:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39902,6 +39902,12 @@
     [
       "2026-08-26",
       35700.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      34610.0,
       0,
       null
     ]

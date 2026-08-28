@@ -1,7 +1,7 @@
 {
   "ticker": "SNN",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:54:25+00:00",
+  "generatedAt": "2026-08-27T23:56:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40411,6 +40411,12 @@
     [
       "2026-08-26",
       29.299999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      29.129999,
       0,
       null
     ]

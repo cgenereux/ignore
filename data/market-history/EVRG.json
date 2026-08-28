@@ -2,7 +2,7 @@
   "ticker": "EVRG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:20:25+00:00",
+  "generatedAt": "2026-08-27T22:59:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80962,6 +80962,12 @@
       82.230003,
       0,
       18959539245
+    ],
+    [
+      "2026-08-27",
+      81.419998,
+      0,
+      18772778722
     ]
   ],
   "sharesOutstanding": [

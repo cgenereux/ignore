@@ -2,7 +2,7 @@
   "ticker": "ICLN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:41:49+00:00",
+  "generatedAt": "2026-08-27T23:44:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27434,6 +27434,12 @@
     [
       "2026-08-26",
       17.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      17.83,
       0,
       null
     ]

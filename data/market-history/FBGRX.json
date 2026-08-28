@@ -1,7 +1,7 @@
 {
   "ticker": "FBGRX",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:36:28+00:00",
+  "generatedAt": "2026-08-27T23:38:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58417,6 +58417,12 @@
     [
       "2026-08-25",
       305.940002,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      305.890015,
       0,
       null
     ]

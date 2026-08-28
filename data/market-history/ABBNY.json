@@ -1,7 +1,7 @@
 {
   "ticker": "ABBNY",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:25:49+00:00",
+  "generatedAt": "2026-08-27T23:28:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38311,6 +38311,12 @@
     [
       "2026-08-26",
       98.900002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      98.669998,
       0,
       null
     ]

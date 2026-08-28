@@ -2,7 +2,7 @@
   "ticker": "UBT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T00:03:00+00:00",
+  "generatedAt": "2026-08-28T00:05:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25058,6 +25058,12 @@
     [
       "2026-08-26",
       15.23,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      15.17,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "BBD",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:28:19+00:00",
+  "generatedAt": "2026-08-27T23:30:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36337,6 +36337,12 @@
     [
       "2026-08-26",
       3.26,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      3.23,
       0,
       null
     ]

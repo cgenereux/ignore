@@ -2,7 +2,7 @@
   "ticker": "EZU",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:36:19+00:00",
+  "generatedAt": "2026-08-27T23:38:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39350,6 +39350,12 @@
     [
       "2026-08-26",
       71.400002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      71.040001,
       0,
       null
     ]

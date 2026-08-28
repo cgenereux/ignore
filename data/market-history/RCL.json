@@ -2,7 +2,7 @@
   "ticker": "RCL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:23:18+00:00",
+  "generatedAt": "2026-08-27T23:04:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50350,6 +50350,12 @@
       290.0,
       0,
       77561104360
+    ],
+    [
+      "2026-08-27",
+      284.799988,
+      0,
+      76170350258
     ]
   ],
   "sharesOutstanding": [

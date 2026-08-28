@@ -2,7 +2,7 @@
   "ticker": "0981.HK",
   "currency": "HKD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:24:37+00:00",
+  "generatedAt": "2026-08-27T23:26:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33272,6 +33272,12 @@
     [
       "2026-08-26",
       69.699997,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      71.300003,
       0,
       null
     ]

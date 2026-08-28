@@ -2,7 +2,7 @@
   "ticker": "FJTSY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:37:35+00:00",
+  "generatedAt": "2026-08-27T23:39:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44942,6 +44942,12 @@
     [
       "2026-08-26",
       23.219999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      24.01,
       0,
       null
     ]

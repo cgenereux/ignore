@@ -2,7 +2,7 @@
   "ticker": "POST",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:16:50+00:00",
+  "generatedAt": "2026-08-27T23:18:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22006,6 +22006,12 @@
       81.970001,
       0,
       3715092430
+    ],
+    [
+      "2026-08-27",
+      81.489998,
+      0,
+      3693337436
     ]
   ],
   "sharesOutstanding": [

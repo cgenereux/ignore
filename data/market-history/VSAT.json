@@ -2,7 +2,7 @@
   "ticker": "VSAT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:27:32+00:00",
+  "generatedAt": "2026-08-27T23:11:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44884,6 +44884,12 @@
       71.510002,
       0,
       9850918249
+    ],
+    [
+      "2026-08-27",
+      72.730003,
+      0,
+      10018980524
     ]
   ],
   "sharesOutstanding": [

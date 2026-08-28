@@ -2,7 +2,7 @@
   "ticker": "RWEOY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:51:50+00:00",
+  "generatedAt": "2026-08-27T23:53:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44942,6 +44942,12 @@
     [
       "2026-08-26",
       67.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      67.410004,
       0,
       null
     ]

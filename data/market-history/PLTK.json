@@ -2,7 +2,7 @@
   "ticker": "PLTK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:13:24+00:00",
+  "generatedAt": "2026-08-27T23:15:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8446,6 +8446,12 @@
       2.41,
       0,
       919217861
+    ],
+    [
+      "2026-08-27",
+      2.3,
+      0,
+      877261810
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "EMXC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:35:10+00:00",
+  "generatedAt": "2026-08-27T23:37:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13712,6 +13712,12 @@
     [
       "2026-08-26",
       98.239998,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      99.099998,
       0,
       null
     ]

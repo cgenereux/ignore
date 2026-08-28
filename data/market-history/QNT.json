@@ -1,7 +1,7 @@
 {
   "ticker": "QNT",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:50:29+00:00",
+  "generatedAt": "2026-08-27T23:52:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -355,6 +355,12 @@
     [
       "2026-08-26",
       53.290001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      54.0,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "VZ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:17:27+00:00",
+  "generatedAt": "2026-08-27T22:54:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64654,6 +64654,12 @@
       50.189999,
       0,
       208528163234
+    ],
+    [
+      "2026-08-27",
+      49.43,
+      0,
+      205370539503
     ]
   ],
   "sharesOutstanding": [

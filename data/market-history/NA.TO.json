@@ -2,7 +2,7 @@
   "ticker": "NA.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:16:43+00:00",
+  "generatedAt": "2026-08-27T22:53:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47692,6 +47692,12 @@
       213.179993,
       0,
       82104694427
+    ],
+    [
+      "2026-08-27",
+      212.929993,
+      0,
+      82008408655
     ]
   ],
   "sharesOutstanding": [

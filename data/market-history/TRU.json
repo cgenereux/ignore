@@ -2,7 +2,7 @@
   "ticker": "TRU",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:26:47+00:00",
+  "generatedAt": "2026-08-27T23:10:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16864,6 +16864,12 @@
       84.5,
       0,
       16190200000
+    ],
+    [
+      "2026-08-27",
+      84.669998,
+      0,
+      16222771649
     ]
   ],
   "sharesOutstanding": [

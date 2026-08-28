@@ -2,7 +2,7 @@
   "ticker": "CHDN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:14:19+00:00",
+  "generatedAt": "2026-08-27T23:16:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50476,6 +50476,12 @@
       87.57,
       0,
       6103650258
+    ],
+    [
+      "2026-08-27",
+      86.510002,
+      0,
+      6029768171
     ]
   ],
   "sharesOutstanding": [

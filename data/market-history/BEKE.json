@@ -1,7 +1,7 @@
 {
   "ticker": "BEKE",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:28:48+00:00",
+  "generatedAt": "2026-08-27T23:31:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9103,6 +9103,12 @@
     [
       "2026-08-26",
       17.870001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      17.73,
       0,
       null
     ]

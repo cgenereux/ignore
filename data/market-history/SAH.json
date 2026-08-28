@@ -2,7 +2,7 @@
   "ticker": "SAH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:15:23+00:00",
+  "generatedAt": "2026-08-27T23:17:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43438,6 +43438,12 @@
       78.040001,
       0,
       2467219177
+    ],
+    [
+      "2026-08-27",
+      79.290001,
+      0,
+      2506737680
     ]
   ],
   "sharesOutstanding": [

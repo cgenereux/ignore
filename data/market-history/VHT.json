@@ -1,7 +1,7 @@
 {
   "ticker": "VHT",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:59:18+00:00",
+  "generatedAt": "2026-08-28T00:01:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34081,6 +34081,12 @@
     [
       "2026-08-26",
       326.269989,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      322.929993,
       0,
       null
     ]

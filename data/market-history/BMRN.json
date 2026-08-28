@@ -2,7 +2,7 @@
   "ticker": "BMRN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:27:06+00:00",
+  "generatedAt": "2026-08-27T23:11:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40894,6 +40894,12 @@
       65.610001,
       0,
       12700374522
+    ],
+    [
+      "2026-08-27",
+      65.290001,
+      0,
+      12638430902
     ]
   ],
   "sharesOutstanding": [

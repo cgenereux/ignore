@@ -2,7 +2,7 @@
   "ticker": "DFUV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:33:41+00:00",
+  "generatedAt": "2026-08-27T23:35:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6482,6 +6482,12 @@
     [
       "2026-08-26",
       57.450001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      57.119999,
       0,
       null
     ]

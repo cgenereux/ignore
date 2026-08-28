@@ -2,7 +2,7 @@
   "ticker": "GGG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:27:09+00:00",
+  "generatedAt": "2026-08-27T23:11:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       79.599998,
       0,
       12891524066
+    ],
+    [
+      "2026-08-27",
+      79.620003,
+      0,
+      12894763912
     ]
   ],
   "sharesOutstanding": [

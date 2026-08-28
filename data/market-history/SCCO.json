@@ -2,7 +2,7 @@
   "ticker": "SCCO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:25:30+00:00",
+  "generatedAt": "2026-08-27T23:08:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46264,6 +46264,12 @@
       213.75,
       0,
       180478462882
+    ],
+    [
+      "2026-08-27",
+      216.279999,
+      0,
+      182614651377
     ]
   ],
   "sharesOutstanding": [

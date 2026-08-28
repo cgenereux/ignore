@@ -2,7 +2,7 @@
   "ticker": "EG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:20:24+00:00",
+  "generatedAt": "2026-08-27T22:59:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46660,6 +46660,12 @@
       379.779999,
       0,
       14561803480
+    ],
+    [
+      "2026-08-27",
+      377.660004,
+      0,
+      14480517063
     ]
   ],
   "sharesOutstanding": [

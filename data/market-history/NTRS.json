@@ -2,7 +2,7 @@
   "ticker": "NTRS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:22:29+00:00",
+  "generatedAt": "2026-08-27T23:03:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       187.660004,
       0,
       34333458574
+    ],
+    [
+      "2026-08-27",
+      186.270004,
+      0,
+      34079150266
     ]
   ],
   "sharesOutstanding": [

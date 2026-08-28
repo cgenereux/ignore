@@ -2,7 +2,7 @@
   "ticker": "KLAR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:16:21+00:00",
+  "generatedAt": "2026-08-27T22:47:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1456,6 +1456,12 @@
       14.21,
       0,
       5372992636
+    ],
+    [
+      "2026-08-27",
+      14.01,
+      0,
+      5297370025
     ]
   ],
   "sharesOutstanding": [

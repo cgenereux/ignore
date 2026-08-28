@@ -2,7 +2,7 @@
   "ticker": "SNDK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:23:20+00:00",
+  "generatedAt": "2026-08-27T23:04:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2320,6 +2320,12 @@
       1499.369995,
       0,
       219536256797
+    ],
+    [
+      "2026-08-27",
+      1484.949951,
+      0,
+      217424888386
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "IWF",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:43:41+00:00",
+  "generatedAt": "2026-08-27T23:45:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39613,6 +39613,12 @@
     [
       "2026-08-26",
       121.75,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      123.889999,
       0,
       null
     ]

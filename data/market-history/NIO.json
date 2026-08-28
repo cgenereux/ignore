@@ -2,7 +2,7 @@
   "ticker": "NIO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:24:47+00:00",
+  "generatedAt": "2026-08-27T23:07:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12004,6 +12004,12 @@
       4.37,
       0,
       10949764886
+    ],
+    [
+      "2026-08-27",
+      4.36,
+      0,
+      10924708550
     ]
   ],
   "sharesOutstanding": [

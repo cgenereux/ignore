@@ -2,7 +2,7 @@
   "ticker": "ALLE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:18:23+00:00",
+  "generatedAt": "2026-08-27T22:56:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19276,6 +19276,12 @@
       160.279999,
       0,
       13629695975
+    ],
+    [
+      "2026-08-27",
+      159.720001,
+      0,
+      13582075545
     ]
   ],
   "sharesOutstanding": [

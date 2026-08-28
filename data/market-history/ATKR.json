@@ -2,7 +2,7 @@
   "ticker": "ATKR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:15:27+00:00",
+  "generatedAt": "2026-08-27T23:17:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15412,6 +15412,12 @@
       93.629997,
       0,
       3162123764
+    ],
+    [
+      "2026-08-27",
+      93.660004,
+      0,
+      3163137157
     ]
   ],
   "sharesOutstanding": [

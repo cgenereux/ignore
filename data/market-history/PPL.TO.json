@@ -2,7 +2,7 @@
   "ticker": "PPL.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:49:58+00:00",
+  "generatedAt": "2026-08-27T23:52:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34478,6 +34478,12 @@
     [
       "2026-08-26",
       67.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      67.07,
       0,
       null
     ]

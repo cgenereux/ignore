@@ -1,7 +1,7 @@
 {
   "ticker": "HALO",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:18:46+00:00",
+  "generatedAt": "2026-08-27T23:20:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33895,6 +33895,12 @@
     [
       "2026-08-26",
       107.059998,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      106.919998,
       0,
       null
     ]

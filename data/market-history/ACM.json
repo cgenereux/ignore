@@ -2,7 +2,7 @@
   "ticker": "ACM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:15:08+00:00",
+  "generatedAt": "2026-08-27T23:17:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29122,6 +29122,12 @@
       65.110001,
       0,
       8379424310
+    ],
+    [
+      "2026-08-27",
+      66.239998,
+      0,
+      8524850917
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "CHKP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:31:31+00:00",
+  "generatedAt": "2026-08-27T23:33:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45536,6 +45536,12 @@
     [
       "2026-08-26",
       129.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      133.229996,
       0,
       null
     ]

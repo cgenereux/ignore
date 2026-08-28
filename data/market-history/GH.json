@@ -2,7 +2,7 @@
   "ticker": "GH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:26:06+00:00",
+  "generatedAt": "2026-08-27T23:09:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11908,6 +11908,12 @@
       170.919998,
       0,
       22936809108
+    ],
+    [
+      "2026-08-27",
+      168.520004,
+      0,
+      22614739142
     ]
   ],
   "sharesOutstanding": [

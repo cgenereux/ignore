@@ -1,7 +1,7 @@
 {
   "ticker": "ENJ",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:35:18+00:00",
+  "generatedAt": "2026-08-27T23:37:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20713,6 +20713,12 @@
     [
       "2026-08-26",
       19.74,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      19.549999,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "OKE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:22:37+00:00",
+  "generatedAt": "2026-08-27T23:03:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69418,6 +69418,12 @@
       94.900002,
       0,
       59790118915
+    ],
+    [
+      "2026-08-27",
+      94.720001,
+      0,
+      59676712511
     ]
   ],
   "sharesOutstanding": [

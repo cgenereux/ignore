@@ -2,7 +2,7 @@
   "ticker": "IVE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:43:32+00:00",
+  "generatedAt": "2026-08-27T23:45:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39614,6 +39614,12 @@
     [
       "2026-08-26",
       237.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      237.050003,
       0,
       null
     ]

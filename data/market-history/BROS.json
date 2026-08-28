@@ -2,7 +2,7 @@
   "ticker": "BROS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:25:09+00:00",
+  "generatedAt": "2026-08-27T23:08:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7462,6 +7462,12 @@
       51.23,
       0,
       7066707082
+    ],
+    [
+      "2026-08-27",
+      50.709999,
+      0,
+      6994977740
     ]
   ],
   "sharesOutstanding": [

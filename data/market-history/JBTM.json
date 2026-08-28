@@ -1,7 +1,7 @@
 {
   "ticker": "JBTM",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:22:17+00:00",
+  "generatedAt": "2026-08-27T23:24:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27325,6 +27325,12 @@
     [
       "2026-08-26",
       119.93,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      117.989998,
       0,
       null
     ]

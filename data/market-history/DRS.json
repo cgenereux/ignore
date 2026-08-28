@@ -2,7 +2,7 @@
   "ticker": "DRS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:18:39+00:00",
+  "generatedAt": "2026-08-27T23:20:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62248,6 +62248,12 @@
       38.599998,
       0,
       10302012072
+    ],
+    [
+      "2026-08-27",
+      38.919998,
+      0,
+      10387417275
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "AWI",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:15:01+00:00",
+  "generatedAt": "2026-08-27T23:16:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29971,6 +29971,12 @@
     [
       "2026-08-26",
       177.779999,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      175.550003,
       0,
       null
     ]

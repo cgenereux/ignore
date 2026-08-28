@@ -2,7 +2,7 @@
   "ticker": "RY.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:51:54+00:00",
+  "generatedAt": "2026-08-27T23:54:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47666,6 +47666,12 @@
     [
       "2026-08-26",
       288.109985,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      283.470001,
       0,
       null
     ]

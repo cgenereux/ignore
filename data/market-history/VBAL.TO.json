@@ -2,7 +2,7 @@
   "ticker": "VBAL.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-26T23:58:25+00:00",
+  "generatedAt": "2026-08-28T00:00:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12908,6 +12908,12 @@
     [
       "2026-08-26",
       40.009998,
+      0,
+      null
+    ],
+    [
+      "2026-08-27",
+      40.029999,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "FSDPX",
   "currency": "USD",
-  "generatedAt": "2026-08-26T23:38:31+00:00",
+  "generatedAt": "2026-08-27T23:40:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60325,6 +60325,12 @@
     [
       "2026-08-25",
       105.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-26",
+      105.080002,
       0,
       null
     ]

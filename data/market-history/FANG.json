@@ -2,7 +2,7 @@
   "ticker": "FANG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T06:19:56+00:00",
+  "generatedAt": "2026-08-27T22:58:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20926,6 +20926,12 @@
       199.839996,
       0,
       55959154113
+    ],
+    [
+      "2026-08-27",
+      200.520004,
+      0,
+      56149569888
     ]
   ],
   "sharesOutstanding": [
