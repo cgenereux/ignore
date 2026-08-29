@@ -2,7 +2,7 @@
   "ticker": "ESGE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:38:02+00:00",
+  "generatedAt": "2026-08-28T23:35:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15254,6 +15254,12 @@
     [
       "2026-08-27",
       54.380001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      54.009998,
       0,
       null
     ]

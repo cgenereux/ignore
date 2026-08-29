@@ -2,7 +2,7 @@
   "ticker": "MIDD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:32:38+00:00",
+  "generatedAt": "2026-08-28T23:24:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59032,6 +59032,12 @@
       113.610001,
       0,
       5137711115
+    ],
+    [
+      "2026-08-28",
+      112.75,
+      0,
+      5098819850
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "AMLP",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:29:11+00:00",
+  "generatedAt": "2026-08-28T23:26:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24157,6 +24157,12 @@
     [
       "2026-08-27",
       55.310001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      55.240002,
       0,
       null
     ]

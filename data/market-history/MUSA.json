@@ -2,7 +2,7 @@
   "ticker": "MUSA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:12:25+00:00",
+  "generatedAt": "2026-08-28T23:10:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19666,6 +19666,12 @@
       509.079987,
       0,
       9357066804
+    ],
+    [
+      "2026-08-28",
+      503.190002,
+      0,
+      9248806852
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "WWD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:10:00+00:00",
+  "generatedAt": "2026-08-28T23:08:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48940,6 +48940,12 @@
       346.339996,
       0,
       20449929083
+    ],
+    [
+      "2026-08-28",
+      341.809998,
+      0,
+      20182451590
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "FOCPX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:46:28+00:00",
+  "generatedAt": "2026-08-28T23:38:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

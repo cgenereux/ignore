@@ -2,7 +2,7 @@
   "ticker": "AMT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:56:26+00:00",
+  "generatedAt": "2026-08-28T22:55:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43024,6 +43024,12 @@
       174.160004,
       0,
       81151603666
+    ],
+    [
+      "2026-08-28",
+      176.229996,
+      0,
+      82116137268
     ]
   ],
   "sharesOutstanding": [

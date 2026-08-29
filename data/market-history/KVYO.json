@@ -2,7 +2,7 @@
   "ticker": "KVYO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:32:30+00:00",
+  "generatedAt": "2026-08-28T23:24:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4432,6 +4432,12 @@
       19.610001,
       0,
       5868877432
+    ],
+    [
+      "2026-08-28",
+      20.15,
+      0,
+      6030488232
     ]
   ],
   "sharesOutstanding": [

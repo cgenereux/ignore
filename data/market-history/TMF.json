@@ -2,7 +2,7 @@
   "ticker": "TMF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T00:05:19+00:00",
+  "generatedAt": "2026-08-29T00:02:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26222,6 +26222,12 @@
     [
       "2026-08-27",
       31.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      31.33,
       0,
       null
     ]

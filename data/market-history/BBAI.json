@@ -2,7 +2,7 @@
   "ticker": "BBAI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:08:26+00:00",
+  "generatedAt": "2026-08-28T23:06:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8152,6 +8152,12 @@
       3.19,
       0,
       1529587460
+    ],
+    [
+      "2026-08-28",
+      3.05,
+      0,
+      1462458181
     ]
   ],
   "sharesOutstanding": [

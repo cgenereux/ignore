@@ -2,7 +2,7 @@
   "ticker": "Q",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:04:27+00:00",
+  "generatedAt": "2026-08-28T23:02:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1270,6 +1270,12 @@
       126.349998,
       0,
       26433499089
+    ],
+    [
+      "2026-08-28",
+      120.260002,
+      0,
+      25159419828
     ]
   ],
   "sharesOutstanding": [

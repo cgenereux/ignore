@@ -2,7 +2,7 @@
   "ticker": "PNC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:04:03+00:00",
+  "generatedAt": "2026-08-28T23:02:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -76810,6 +76810,12 @@
       243.509995,
       0,
       97160487808
+    ],
+    [
+      "2026-08-28",
+      242.220001,
+      0,
+      96645780487
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "BC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:13:08+00:00",
+  "generatedAt": "2026-08-28T23:11:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67534,6 +67534,12 @@
       77.599998,
       0,
       5028280314
+    ],
+    [
+      "2026-08-28",
+      76.639999,
+      0,
+      4966074842
     ]
   ],
   "sharesOutstanding": [

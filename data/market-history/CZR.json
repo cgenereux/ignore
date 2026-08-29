@@ -2,7 +2,7 @@
   "ticker": "CZR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:24:40+00:00",
+  "generatedAt": "2026-08-28T23:22:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18016,6 +18016,12 @@
       29.639999,
       0,
       6038271702
+    ],
+    [
+      "2026-08-28",
+      29.73,
+      0,
+      6056606566
     ]
   ],
   "sharesOutstanding": [

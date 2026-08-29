@@ -1,7 +1,7 @@
 {
   "ticker": "MTRN",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:49:33+00:00",
+  "generatedAt": "2026-08-28T23:47:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70249,6 +70249,12 @@
     [
       "2026-08-27",
       246.149994,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      237.740005,
       0,
       null
     ]

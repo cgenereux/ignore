@@ -2,7 +2,7 @@
   "ticker": "SUNB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:19:23+00:00",
+  "generatedAt": "2026-08-28T23:17:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -742,6 +742,12 @@
       73.660004,
       0,
       30196738476
+    ],
+    [
+      "2026-08-28",
+      73.199997,
+      0,
+      30008159848
     ]
   ],
   "sharesOutstanding": [

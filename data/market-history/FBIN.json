@@ -2,7 +2,7 @@
   "ticker": "FBIN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:25:28+00:00",
+  "generatedAt": "2026-08-28T23:23:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22558,6 +22558,12 @@
       45.310001,
       0,
       5405184888
+    ],
+    [
+      "2026-08-28",
+      45.5,
+      0,
+      5427850474
     ]
   ],
   "sharesOutstanding": [

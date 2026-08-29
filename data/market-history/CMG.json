@@ -2,7 +2,7 @@
   "ticker": "CMG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:02:01+00:00",
+  "generatedAt": "2026-08-28T22:53:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31084,6 +31084,12 @@
       37.220001,
       0,
       47098859225
+    ],
+    [
+      "2026-08-28",
+      38.029999,
+      0,
+      48123845275
     ]
   ],
   "sharesOutstanding": [

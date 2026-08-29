@@ -2,7 +2,7 @@
   "ticker": "HXT.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:43:40+00:00",
+  "generatedAt": "2026-08-28T23:41:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23786,6 +23786,12 @@
     [
       "2026-08-27",
       97.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      97.059998,
       0,
       null
     ]

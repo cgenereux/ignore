@@ -1,7 +1,7 @@
 {
   "ticker": "HUT",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:20:59+00:00",
+  "generatedAt": "2026-08-28T23:19:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12787,6 +12787,12 @@
     [
       "2026-08-27",
       87.129997,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      79.419998,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "MCY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:31:15+00:00",
+  "generatedAt": "2026-08-28T23:22:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61630,6 +61630,12 @@
       102.639999,
       0,
       5685088620
+    ],
+    [
+      "2026-08-28",
+      102.970001,
+      0,
+      5703366978
     ]
   ],
   "sharesOutstanding": [

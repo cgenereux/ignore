@@ -1,7 +1,7 @@
 {
   "ticker": "SMH",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:56:31+00:00",
+  "generatedAt": "2026-08-28T23:54:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39589,6 +39589,12 @@
     [
       "2026-08-27",
       573.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      553.109985,
       0,
       null
     ]

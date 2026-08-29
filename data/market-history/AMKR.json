@@ -2,7 +2,7 @@
   "ticker": "AMKR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:11:07+00:00",
+  "generatedAt": "2026-08-28T23:09:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42760,6 +42760,12 @@
       51.740002,
       0,
       12854931318
+    ],
+    [
+      "2026-08-28",
+      47.880001,
+      0,
+      11895904625
     ]
   ],
   "sharesOutstanding": [

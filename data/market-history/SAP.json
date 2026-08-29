@@ -2,7 +2,7 @@
   "ticker": "SAP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:48:23+00:00",
+  "generatedAt": "2026-08-28T22:47:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46732,6 +46732,12 @@
       221.169998,
       0,
       255275347878
+    ],
+    [
+      "2026-08-28",
+      221.539993,
+      0,
+      255702397808
     ]
   ],
   "sharesOutstanding": [

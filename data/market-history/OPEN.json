@@ -2,7 +2,7 @@
   "ticker": "OPEN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:08:43+00:00",
+  "generatedAt": "2026-08-28T23:07:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9346,6 +9346,12 @@
       3.38,
       0,
       3260809927
+    ],
+    [
+      "2026-08-28",
+      3.29,
+      0,
+      3173983482
     ]
   ],
   "sharesOutstanding": [

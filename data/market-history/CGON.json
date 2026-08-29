@@ -2,7 +2,7 @@
   "ticker": "CGON",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:23:28+00:00",
+  "generatedAt": "2026-08-28T23:21:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3908,6 +3908,12 @@
     [
       "2026-08-27",
       79.010002,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      74.339996,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "TALO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:19:04+00:00",
+  "generatedAt": "2026-08-28T23:17:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12508,6 +12508,12 @@
       16.73,
       0,
       2793332203
+    ],
+    [
+      "2026-08-28",
+      16.67,
+      0,
+      2783314364
     ]
   ],
   "sharesOutstanding": [

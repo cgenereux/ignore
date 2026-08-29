@@ -2,7 +2,7 @@
   "ticker": "XPO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:19:37+00:00",
+  "generatedAt": "2026-08-28T23:17:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34564,6 +34564,12 @@
       191.610001,
       0,
       22434937676
+    ],
+    [
+      "2026-08-28",
+      188.559998,
+      0,
+      22077823555
     ]
   ],
   "sharesOutstanding": [

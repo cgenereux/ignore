@@ -2,7 +2,7 @@
   "ticker": "TRI.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:59:30+00:00",
+  "generatedAt": "2026-08-28T23:56:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27458,6 +27458,12 @@
     [
       "2026-08-27",
       145.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      147.529999,
       0,
       null
     ]

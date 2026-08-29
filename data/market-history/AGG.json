@@ -1,7 +1,7 @@
 {
   "ticker": "AGG",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:28:33+00:00",
+  "generatedAt": "2026-08-28T23:26:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34597,6 +34597,12 @@
     [
       "2026-08-27",
       97.830002,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      97.489998,
       0,
       null
     ]

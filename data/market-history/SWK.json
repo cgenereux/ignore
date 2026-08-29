@@ -2,7 +2,7 @@
   "ticker": "SWK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:05:15+00:00",
+  "generatedAt": "2026-08-28T23:03:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       99.239998,
       0,
       14986891130
+    ],
+    [
+      "2026-08-28",
+      97.800003,
+      0,
+      14769427951
     ]
   ],
   "sharesOutstanding": [

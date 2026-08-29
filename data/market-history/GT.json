@@ -2,7 +2,7 @@
   "ticker": "GT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:18:32+00:00",
+  "generatedAt": "2026-08-28T23:16:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97642,6 +97642,12 @@
       6.15,
       0,
       1770577233
+    ],
+    [
+      "2026-08-28",
+      6.35,
+      0,
+      1828156952
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "CME",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:05:58+00:00",
+  "generatedAt": "2026-08-28T22:57:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35818,6 +35818,12 @@
       280.940002,
       0,
       101020198866
+    ],
+    [
+      "2026-08-28",
+      285.799988,
+      0,
+      102767749050
     ]
   ],
   "sharesOutstanding": [

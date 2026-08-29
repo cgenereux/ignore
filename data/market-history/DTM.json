@@ -2,7 +2,7 @@
   "ticker": "DTM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:11:04+00:00",
+  "generatedAt": "2026-08-28T23:09:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7780,6 +7780,12 @@
       131.679993,
       0,
       13433373430
+    ],
+    [
+      "2026-08-28",
+      129.529999,
+      0,
+      13214041166
     ]
   ],
   "sharesOutstanding": [

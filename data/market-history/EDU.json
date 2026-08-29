@@ -1,7 +1,7 @@
 {
   "ticker": "EDU",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:36:56+00:00",
+  "generatedAt": "2026-08-28T23:34:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30115,6 +30115,12 @@
     [
       "2026-08-27",
       57.939999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      58.830002,
       0,
       null
     ]

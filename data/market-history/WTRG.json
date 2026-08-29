@@ -2,7 +2,7 @@
   "ticker": "WTRG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:11:48+00:00",
+  "generatedAt": "2026-08-28T23:10:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       40.549999,
       0,
       11501317244
+    ],
+    [
+      "2026-08-28",
+      41.099998,
+      0,
+      11657315169
     ]
   ],
   "sharesOutstanding": [

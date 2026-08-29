@@ -2,7 +2,7 @@
   "ticker": "WSM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:06:51+00:00",
+  "generatedAt": "2026-08-28T23:05:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65236,6 +65236,12 @@
       238.399994,
       0,
       28075890481
+    ],
+    [
+      "2026-08-28",
+      235.089996,
+      0,
+      27686078689
     ]
   ],
   "sharesOutstanding": [

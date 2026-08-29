@@ -2,7 +2,7 @@
   "ticker": "INTC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:45:03+00:00",
+  "generatedAt": "2026-08-28T22:44:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       92.089996,
       0,
       486797414219
+    ],
+    [
+      "2026-08-28",
+      89.470001,
+      0,
+      472947844244
     ]
   ],
   "sharesOutstanding": [

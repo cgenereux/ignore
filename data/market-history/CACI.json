@@ -2,7 +2,7 @@
   "ticker": "CACI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:10:51+00:00",
+  "generatedAt": "2026-08-28T23:09:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       633.820007,
       0,
       14007129971
+    ],
+    [
+      "2026-08-28",
+      628.200012,
+      0,
+      13882930670
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "SE",
   "currency": "USD",
-  "generatedAt": "2026-08-27T22:47:51+00:00",
+  "generatedAt": "2026-08-28T22:46:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13353,6 +13353,12 @@
       118.32,
       0,
       72469168456
+    ],
+    [
+      "2026-08-28",
+      119.360001,
+      0,
+      73106152920
     ]
   ],
   "sharesOutstanding": [

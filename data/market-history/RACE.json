@@ -1,7 +1,7 @@
 {
   "ticker": "RACE",
   "currency": "USD",
-  "generatedAt": "2026-08-27T22:47:41+00:00",
+  "generatedAt": "2026-08-28T22:46:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16359,6 +16359,12 @@
       414.040009,
       0,
       72773672543
+    ],
+    [
+      "2026-08-28",
+      420.540009,
+      0,
+      73916143951
     ]
   ],
   "sharesOutstanding": [

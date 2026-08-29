@@ -2,7 +2,7 @@
   "ticker": "TM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:48:18+00:00",
+  "generatedAt": "2026-08-28T22:47:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       192.0,
       0,
       227348207616
+    ],
+    [
+      "2026-08-28",
+      194.479996,
+      0,
+      230284783572
     ]
   ],
   "sharesOutstanding": [

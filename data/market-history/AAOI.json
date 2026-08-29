@@ -2,7 +2,7 @@
   "ticker": "AAOI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:11:41+00:00",
+  "generatedAt": "2026-08-28T23:10:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19504,6 +19504,12 @@
       113.279999,
       0,
       9618184314
+    ],
+    [
+      "2026-08-28",
+      106.230003,
+      0,
+      9019595365
     ]
   ],
   "sharesOutstanding": [

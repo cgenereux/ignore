@@ -2,7 +2,7 @@
   "ticker": "HUBB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:01:12+00:00",
+  "generatedAt": "2026-08-28T23:00:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -81310,6 +81310,12 @@
       470.279999,
       0,
       24846101425
+    ],
+    [
+      "2026-08-28",
+      459.660004,
+      0,
+      24285019779
     ]
   ],
   "sharesOutstanding": [

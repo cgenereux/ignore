@@ -2,7 +2,7 @@
   "ticker": "RYAN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:22:17+00:00",
+  "generatedAt": "2026-08-28T23:13:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7696,6 +7696,12 @@
       43.5,
       0,
       11127943148
+    ],
+    [
+      "2026-08-28",
+      43.869999,
+      0,
+      11222594362
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "GATX",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:23:59+00:00",
+  "generatedAt": "2026-08-28T23:21:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80965,6 +80965,12 @@
     [
       "2026-08-27",
       178.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      177.600006,
       0,
       null
     ]

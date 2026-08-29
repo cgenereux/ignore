@@ -2,7 +2,7 @@
   "ticker": "XBB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T00:05:54+00:00",
+  "generatedAt": "2026-08-29T00:03:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6410,6 +6410,12 @@
     [
       "2026-08-27",
       40.860001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      40.755001,
       0,
       null
     ]

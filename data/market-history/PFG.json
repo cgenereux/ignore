@@ -2,7 +2,7 @@
   "ticker": "PFG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:04:09+00:00",
+  "generatedAt": "2026-08-28T23:02:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37516,6 +37516,12 @@
       112.169998,
       0,
       24016117189
+    ],
+    [
+      "2026-08-28",
+      111.410004,
+      0,
+      23853398838
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "ATAT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:29:36+00:00",
+  "generatedAt": "2026-08-28T23:27:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5708,6 +5708,12 @@
     [
       "2026-08-27",
       34.689999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      35.5,
       0,
       null
     ]

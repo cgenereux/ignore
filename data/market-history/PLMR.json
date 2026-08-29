@@ -2,7 +2,7 @@
   "ticker": "PLMR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:15:16+00:00",
+  "generatedAt": "2026-08-28T23:13:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11116,6 +11116,12 @@
       129.550003,
       0,
       3409455912
+    ],
+    [
+      "2026-08-28",
+      131.630005,
+      0,
+      3464196742
     ]
   ],
   "sharesOutstanding": [

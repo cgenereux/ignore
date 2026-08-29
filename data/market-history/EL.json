@@ -2,7 +2,7 @@
   "ticker": "EL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:59:44+00:00",
+  "generatedAt": "2026-08-28T22:58:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46468,6 +46468,12 @@
       106.209999,
       0,
       38426237591
+    ],
+    [
+      "2026-08-28",
+      103.389999,
+      0,
+      37405976041
     ]
   ],
   "sharesOutstanding": [

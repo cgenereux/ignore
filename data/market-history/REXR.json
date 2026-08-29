@@ -2,7 +2,7 @@
   "ticker": "REXR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:53:14+00:00",
+  "generatedAt": "2026-08-28T23:50:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19790,6 +19790,12 @@
     [
       "2026-08-27",
       37.119999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      37.130001,
       0,
       null
     ]

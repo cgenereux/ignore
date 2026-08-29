@@ -2,7 +2,7 @@
   "ticker": "DIOD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:13:41+00:00",
+  "generatedAt": "2026-08-28T23:12:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80950,6 +80950,12 @@
       90.860001,
       0,
       4184257944
+    ],
+    [
+      "2026-08-28",
+      88.0,
+      0,
+      4052550040
     ]
   ],
   "sharesOutstanding": [

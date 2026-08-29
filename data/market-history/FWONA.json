@@ -2,7 +2,7 @@
   "ticker": "FWONA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:47:50+00:00",
+  "generatedAt": "2026-08-28T23:39:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20576,6 +20576,12 @@
     [
       "2026-08-27",
       94.089996,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      93.419998,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "HESM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:22:12+00:00",
+  "generatedAt": "2026-08-28T23:20:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14182,6 +14182,12 @@
       39.830002,
       0,
       5112215825
+    ],
+    [
+      "2026-08-28",
+      39.560001,
+      0,
+      5077561029
     ]
   ],
   "sharesOutstanding": [

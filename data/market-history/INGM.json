@@ -2,7 +2,7 @@
   "ticker": "INGM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:23:54+00:00",
+  "generatedAt": "2026-08-28T23:21:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2776,6 +2776,12 @@
       29.290001,
       0,
       6756087379
+    ],
+    [
+      "2026-08-28",
+      28.700001,
+      0,
+      6619996821
     ]
   ],
   "sharesOutstanding": [

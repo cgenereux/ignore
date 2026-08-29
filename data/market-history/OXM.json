@@ -2,7 +2,7 @@
   "ticker": "OXM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:16:20+00:00",
+  "generatedAt": "2026-08-28T23:14:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70234,6 +70234,12 @@
       38.200001,
       0,
       570361614
+    ],
+    [
+      "2026-08-28",
+      38.310001,
+      0,
+      572004025
     ]
   ],
   "sharesOutstanding": [

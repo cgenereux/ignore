@@ -2,7 +2,7 @@
   "ticker": "LGRDY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:47:47+00:00",
+  "generatedAt": "2026-08-28T23:45:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12536,6 +12536,12 @@
     [
       "2026-08-27",
       31.719999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      32.200001,
       0,
       null
     ]

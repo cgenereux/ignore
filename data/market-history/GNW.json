@@ -2,7 +2,7 @@
   "ticker": "GNW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:48:41+00:00",
+  "generatedAt": "2026-08-28T23:40:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33608,6 +33608,12 @@
     [
       "2026-08-27",
       9.93,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      9.98,
       0,
       null
     ]

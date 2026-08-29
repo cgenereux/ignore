@@ -2,7 +2,7 @@
   "ticker": "VUSB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T00:02:57+00:00",
+  "generatedAt": "2026-08-29T00:00:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8138,6 +8138,12 @@
     [
       "2026-08-27",
       49.77,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      49.740002,
       0,
       null
     ]

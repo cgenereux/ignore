@@ -2,7 +2,7 @@
   "ticker": "IWN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:46:01+00:00",
+  "generatedAt": "2026-08-28T23:43:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39362,6 +39362,12 @@
     [
       "2026-08-27",
       224.740005,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      223.139999,
       0,
       null
     ]

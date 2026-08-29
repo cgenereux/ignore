@@ -2,7 +2,7 @@
   "ticker": "DFIV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:35:45+00:00",
+  "generatedAt": "2026-08-28T23:33:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7478,6 +7478,12 @@
     [
       "2026-08-27",
       58.009998,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      57.950001,
       0,
       null
     ]

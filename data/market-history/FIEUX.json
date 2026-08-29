@@ -2,7 +2,7 @@
   "ticker": "FIEUX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:45:51+00:00",
+  "generatedAt": "2026-08-28T23:37:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",

@@ -2,7 +2,7 @@
   "ticker": "DEO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:35:24+00:00",
+  "generatedAt": "2026-08-28T23:33:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53558,6 +53558,12 @@
     [
       "2026-08-27",
       92.089996,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      92.989998,
       0,
       null
     ]

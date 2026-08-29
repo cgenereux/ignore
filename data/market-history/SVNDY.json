@@ -2,7 +2,7 @@
   "ticker": "SVNDY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T07:03:59+00:00",
+  "generatedAt": "2026-08-28T23:55:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26336,6 +26336,12 @@
     [
       "2026-08-27",
       12.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      12.6,
       0,
       null
     ]

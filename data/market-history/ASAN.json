@@ -2,7 +2,7 @@
   "ticker": "ASAN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:13:01+00:00",
+  "generatedAt": "2026-08-28T23:11:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8902,6 +8902,12 @@
       10.17,
       0,
       2344284958
+    ],
+    [
+      "2026-08-28",
+      10.19,
+      0,
+      2348895040
     ]
   ],
   "sharesOutstanding": [

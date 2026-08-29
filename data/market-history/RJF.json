@@ -2,7 +2,7 @@
   "ticker": "RJF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:04:30+00:00",
+  "generatedAt": "2026-08-28T23:03:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65254,6 +65254,12 @@
       176.110001,
       0,
       33876821042
+    ],
+    [
+      "2026-08-28",
+      179.360001,
+      0,
+      34501996602
     ]
   ],
   "sharesOutstanding": [

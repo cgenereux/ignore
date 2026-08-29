@@ -2,7 +2,7 @@
   "ticker": "CKHUY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:33:56+00:00",
+  "generatedAt": "2026-08-28T23:31:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16939,6 +16939,12 @@
     ],
     [
       "2026-08-27",
+      8.9,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
       8.9,
       0,
       null

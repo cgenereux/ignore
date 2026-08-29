@@ -2,7 +2,7 @@
   "ticker": "LSRCY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:48:10+00:00",
+  "generatedAt": "2026-08-28T23:45:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8990,6 +8990,12 @@
     [
       "2026-08-27",
       43.209999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      42.299999,
       0,
       null
     ]

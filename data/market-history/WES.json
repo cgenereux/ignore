@@ -2,7 +2,7 @@
   "ticker": "WES",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:19:56+00:00",
+  "generatedAt": "2026-08-28T23:17:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20692,6 +20692,12 @@
       47.810001,
       0,
       19753877859
+    ],
+    [
+      "2026-08-28",
+      48.299999,
+      0,
+      19956332527
     ]
   ],
   "sharesOutstanding": [

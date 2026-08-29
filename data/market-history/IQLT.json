@@ -2,7 +2,7 @@
   "ticker": "IQLT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:51:29+00:00",
+  "generatedAt": "2026-08-28T23:43:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17516,6 +17516,12 @@
     [
       "2026-08-27",
       51.939999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      51.669998,
       0,
       null
     ]

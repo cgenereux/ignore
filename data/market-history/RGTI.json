@@ -2,7 +2,7 @@
   "ticker": "RGTI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:07:31+00:00",
+  "generatedAt": "2026-08-28T23:05:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8074,6 +8074,12 @@
       16.440001,
       0,
       5487158379
+    ],
+    [
+      "2026-08-28",
+      15.59,
+      0,
+      5203454817
     ]
   ],
   "sharesOutstanding": [

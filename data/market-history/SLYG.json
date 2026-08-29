@@ -1,7 +1,7 @@
 {
   "ticker": "SLYG",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:56:18+00:00",
+  "generatedAt": "2026-08-28T23:53:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39091,6 +39091,12 @@
     [
       "2026-08-27",
       115.529999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      114.129997,
       0,
       null
     ]

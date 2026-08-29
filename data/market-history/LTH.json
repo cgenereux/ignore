@@ -2,7 +2,7 @@
   "ticker": "LTH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:12:26+00:00",
+  "generatedAt": "2026-08-28T23:10:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7372,6 +7372,12 @@
       44.349998,
       0,
       9910537053
+    ],
+    [
+      "2026-08-28",
+      43.509998,
+      0,
+      9722828982
     ]
   ],
   "sharesOutstanding": [

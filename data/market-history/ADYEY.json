@@ -2,7 +2,7 @@
   "ticker": "ADYEY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:53:19+00:00",
+  "generatedAt": "2026-08-28T22:52:15+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; ADYEN.AS quoted in EUR, converted to USD at Federal Reserve DEXUSEU; ordinary-share closes scaled by 0.010064 to match the ADR series where it begins (2019-10-03)",
   "schema": [
     "date",
@@ -12424,6 +12424,12 @@
       12.59,
       0,
       39742446825
+    ],
+    [
+      "2026-08-28",
+      12.56,
+      0,
+      39647747637
     ]
   ],
   "sharesOutstanding": [

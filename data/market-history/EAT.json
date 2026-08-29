@@ -2,7 +2,7 @@
   "ticker": "EAT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:09:04+00:00",
+  "generatedAt": "2026-08-28T23:07:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64474,6 +64474,12 @@
       233.220001,
       0,
       10002290436
+    ],
+    [
+      "2026-08-28",
+      230.190002,
+      0,
+      9872340485
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "HIG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:08:27+00:00",
+  "generatedAt": "2026-08-28T22:59:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46354,6 +46354,12 @@
       137.800003,
       0,
       37326162688
+    ],
+    [
+      "2026-08-28",
+      138.550003,
+      0,
+      37529316690
     ]
   ],
   "sharesOutstanding": [

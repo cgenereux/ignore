@@ -2,7 +2,7 @@
   "ticker": "IWY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:46:12+00:00",
+  "generatedAt": "2026-08-28T23:43:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25538,6 +25538,12 @@
     [
       "2026-08-27",
       289.390015,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      287.200012,
       0,
       null
     ]

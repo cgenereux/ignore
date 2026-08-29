@@ -2,7 +2,7 @@
   "ticker": "YORW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:17:15+00:00",
+  "generatedAt": "2026-08-28T23:15:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41230,6 +41230,12 @@
       33.709999,
       0,
       547065451
+    ],
+    [
+      "2026-08-28",
+      34.119999,
+      0,
+      553719166
     ]
   ],
   "sharesOutstanding": [

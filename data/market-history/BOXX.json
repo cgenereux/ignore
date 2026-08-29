@@ -2,7 +2,7 @@
   "ticker": "BOXX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:32:10+00:00",
+  "generatedAt": "2026-08-28T23:29:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5522,6 +5522,12 @@
     [
       "2026-08-27",
       118.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      118.059998,
       0,
       null
     ]

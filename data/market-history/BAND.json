@@ -2,7 +2,7 @@
   "ticker": "BAND",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:19:09+00:00",
+  "generatedAt": "2026-08-28T23:17:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13270,6 +13270,12 @@
       51.849998,
       0,
       1668573809
+    ],
+    [
+      "2026-08-28",
+      49.0,
+      0,
+      1576858612
     ]
   ],
   "sharesOutstanding": [

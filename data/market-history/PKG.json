@@ -2,7 +2,7 @@
   "ticker": "PKG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:03:50+00:00",
+  "generatedAt": "2026-08-28T23:02:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40120,6 +40120,12 @@
       243.690002,
       0,
       21712364701
+    ],
+    [
+      "2026-08-28",
+      240.389999,
+      0,
+      21418340042
     ]
   ],
   "sharesOutstanding": [

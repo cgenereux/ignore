@@ -2,7 +2,7 @@
   "ticker": "POWI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:15:21+00:00",
+  "generatedAt": "2026-08-28T23:13:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43312,6 +43312,12 @@
       55.310001,
       0,
       3090352189
+    ],
+    [
+      "2026-08-28",
+      51.509998,
+      0,
+      2878033486
     ]
   ],
   "sharesOutstanding": [

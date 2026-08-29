@@ -2,7 +2,7 @@
   "ticker": "SYRE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:21:44+00:00",
+  "generatedAt": "2026-08-28T23:19:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15688,6 +15688,12 @@
       93.614998,
       0,
       8254386541
+    ],
+    [
+      "2026-08-28",
+      90.360001,
+      0,
+      7967381188
     ]
   ],
   "sharesOutstanding": [

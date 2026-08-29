@@ -2,7 +2,7 @@
   "ticker": "TSN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:06:02+00:00",
+  "generatedAt": "2026-08-28T23:04:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       55.349998,
       0,
       19472213152
+    ],
+    [
+      "2026-08-28",
+      55.400002,
+      0,
+      19489804302
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "DV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:13:46+00:00",
+  "generatedAt": "2026-08-28T23:12:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8068,6 +8068,12 @@
       13.34,
       0,
       2067534501
+    ],
+    [
+      "2026-08-28",
+      13.38,
+      0,
+      2073733999
     ]
   ],
   "sharesOutstanding": [

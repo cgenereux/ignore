@@ -2,7 +2,7 @@
   "ticker": "LMND",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:09:27+00:00",
+  "generatedAt": "2026-08-28T23:07:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9286,6 +9286,12 @@
       53.93,
       0,
       4173999471
+    ],
+    [
+      "2026-08-28",
+      52.959999,
+      0,
+      4098924660
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "PANW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:44:39+00:00",
+  "generatedAt": "2026-08-28T22:43:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21286,6 +21286,12 @@
       382.850006,
       0,
       312022754974
+    ],
+    [
+      "2026-08-28",
+      371.589996,
+      0,
+      302845847015
     ]
   ],
   "sharesOutstanding": [

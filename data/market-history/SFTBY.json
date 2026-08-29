@@ -2,7 +2,7 @@
   "ticker": "SFTBY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:53:12+00:00",
+  "generatedAt": "2026-08-28T22:52:08+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; 9984.T quoted in JPY, converted to USD at Federal Reserve DEXJPUS; ordinary-share closes scaled by 0.504458 to match the ADR series where it begins (2011-02-16)",
   "schema": [
     "date",
@@ -40414,6 +40414,12 @@
       16.4,
       0,
       186924693045
+    ],
+    [
+      "2026-08-28",
+      15.75,
+      0,
+      179516096582
     ]
   ],
   "sharesOutstanding": [

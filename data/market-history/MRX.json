@@ -2,7 +2,7 @@
   "ticker": "MRX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:49:28+00:00",
+  "generatedAt": "2026-08-28T23:47:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3530,6 +3530,12 @@
     [
       "2026-08-27",
       71.379997,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      72.839996,
       0,
       null
     ]

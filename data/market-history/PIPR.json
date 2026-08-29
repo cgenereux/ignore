@@ -1,7 +1,7 @@
 {
   "ticker": "PIPR",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:17:37+00:00",
+  "generatedAt": "2026-08-28T23:15:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34201,6 +34201,12 @@
     [
       "2026-08-27",
       74.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      75.610001,
       0,
       null
     ]

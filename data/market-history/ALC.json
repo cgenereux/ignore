@@ -2,7 +2,7 @@
   "ticker": "ALC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:28:53+00:00",
+  "generatedAt": "2026-08-28T23:26:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11132,6 +11132,12 @@
     [
       "2026-08-27",
       72.230003,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      72.010002,
       0,
       null
     ]

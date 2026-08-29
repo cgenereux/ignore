@@ -1,7 +1,7 @@
 {
   "ticker": "CNX",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:26:17+00:00",
+  "generatedAt": "2026-08-28T23:24:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41251,6 +41251,12 @@
     [
       "2026-08-27",
       36.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      36.200001,
       0,
       null
     ]

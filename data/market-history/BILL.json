@@ -2,7 +2,7 @@
   "ticker": "BILL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:12:36+00:00",
+  "generatedAt": "2026-08-28T23:11:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10120,6 +10120,12 @@
       48.869999,
       0,
       4867291942
+    ],
+    [
+      "2026-08-28",
+      50.310001,
+      0,
+      5010711472
     ]
   ],
   "sharesOutstanding": [

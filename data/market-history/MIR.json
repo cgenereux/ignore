@@ -2,7 +2,7 @@
   "ticker": "MIR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:49:09+00:00",
+  "generatedAt": "2026-08-28T23:46:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9080,6 +9080,12 @@
     [
       "2026-08-27",
       14.85,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      14.4,
       0,
       null
     ]

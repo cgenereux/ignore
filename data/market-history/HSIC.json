@@ -2,7 +2,7 @@
   "ticker": "HSIC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:01:01+00:00",
+  "generatedAt": "2026-08-28T22:59:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46528,6 +46528,12 @@
       90.279999,
       0,
       10284404683
+    ],
+    [
+      "2026-08-28",
+      89.519997,
+      0,
+      10197827704
     ]
   ],
   "sharesOutstanding": [

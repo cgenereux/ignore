@@ -2,7 +2,7 @@
   "ticker": "HR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:21:07+00:00",
+  "generatedAt": "2026-08-28T23:12:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50230,6 +50230,12 @@
       19.129999,
       0,
       6628957441
+    ],
+    [
+      "2026-08-28",
+      18.99,
+      0,
+      6580444766
     ]
   ],
   "sharesOutstanding": [

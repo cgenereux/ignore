@@ -2,7 +2,7 @@
   "ticker": "QSR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:09:06+00:00",
+  "generatedAt": "2026-08-28T23:07:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17674,6 +17674,12 @@
       78.07,
       0,
       27227542135
+    ],
+    [
+      "2026-08-28",
+      78.260002,
+      0,
+      27293806912
     ]
   ],
   "sharesOutstanding": [

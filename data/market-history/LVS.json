@@ -2,7 +2,7 @@
   "ticker": "LVS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:02:13+00:00",
+  "generatedAt": "2026-08-28T23:00:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32764,6 +32764,12 @@
       44.240002,
       0,
       28654301467
+    ],
+    [
+      "2026-08-28",
+      45.040001,
+      0,
+      29172461920
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "WULF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:08:36+00:00",
+  "generatedAt": "2026-08-28T23:07:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48934,6 +48934,12 @@
       16.49,
       0,
       8227993370
+    ],
+    [
+      "2026-08-28",
+      15.35,
+      0,
+      7659169382
     ]
   ],
   "sharesOutstanding": [

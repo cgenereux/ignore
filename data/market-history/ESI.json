@@ -2,7 +2,7 @@
   "ticker": "ESI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:27:53+00:00",
+  "generatedAt": "2026-08-28T23:19:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19396,6 +19396,12 @@
       36.52,
       0,
       8899415276
+    ],
+    [
+      "2026-08-28",
+      34.93,
+      0,
+      8511954425
     ]
   ],
   "sharesOutstanding": [

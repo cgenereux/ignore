@@ -2,7 +2,7 @@
   "ticker": "TDOC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:15:43+00:00",
+  "generatedAt": "2026-08-28T23:13:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16852,6 +16852,12 @@
       6.36,
       0,
       1155510398
+    ],
+    [
+      "2026-08-28",
+      6.5,
+      0,
+      1180946136
     ]
   ],
   "sharesOutstanding": [

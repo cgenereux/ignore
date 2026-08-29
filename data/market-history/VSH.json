@@ -2,7 +2,7 @@
   "ticker": "VSH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:25:33+00:00",
+  "generatedAt": "2026-08-28T23:23:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       31.74,
       0,
       4868254725
+    ],
+    [
+      "2026-08-28",
+      30.559999,
+      0,
+      4687267262
     ]
   ],
   "sharesOutstanding": [

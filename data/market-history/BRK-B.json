@@ -1,7 +1,7 @@
 {
   "ticker": "BRK-B",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:32:17+00:00",
+  "generatedAt": "2026-08-28T23:30:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45753,6 +45753,12 @@
       503.700012,
       0,
       1078275549370
+    ],
+    [
+      "2026-08-28",
+      505.0,
+      0,
+      1081058445970
     ]
   ],
   "sharesOutstanding": [

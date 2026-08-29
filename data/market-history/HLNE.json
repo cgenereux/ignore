@@ -2,7 +2,7 @@
   "ticker": "HLNE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:17:48+00:00",
+  "generatedAt": "2026-08-28T23:15:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14332,6 +14332,12 @@
       106.879997,
       0,
       4633158850
+    ],
+    [
+      "2026-08-28",
+      106.040001,
+      0,
+      4596745708
     ]
   ],
   "sharesOutstanding": [

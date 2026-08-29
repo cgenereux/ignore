@@ -2,7 +2,7 @@
   "ticker": "SCHF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:54:46+00:00",
+  "generatedAt": "2026-08-28T23:52:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25382,6 +25382,12 @@
     [
       "2026-08-27",
       28.42,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      28.299999,
       0,
       null
     ]

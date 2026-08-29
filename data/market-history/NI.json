@@ -2,7 +2,7 @@
   "ticker": "NI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:03:27+00:00",
+  "generatedAt": "2026-08-28T23:01:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80968,6 +80968,12 @@
       40.959999,
       0,
       19642781257
+    ],
+    [
+      "2026-08-28",
+      40.57,
+      0,
+      19455753111
     ]
   ],
   "sharesOutstanding": [

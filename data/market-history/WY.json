@@ -2,7 +2,7 @@
   "ticker": "WY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:06:49+00:00",
+  "generatedAt": "2026-08-28T23:05:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80668,6 +80668,12 @@
       23.700001,
       0,
       17088710554
+    ],
+    [
+      "2026-08-28",
+      23.639999,
+      0,
+      17045446837
     ]
   ],
   "sharesOutstanding": [

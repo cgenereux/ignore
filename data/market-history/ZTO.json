@@ -1,7 +1,7 @@
 {
   "ticker": "ZTO",
   "currency": "USD",
-  "generatedAt": "2026-08-28T00:05:12+00:00",
+  "generatedAt": "2026-08-29T00:02:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14833,6 +14833,12 @@
     [
       "2026-08-27",
       21.190001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      21.5,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "PSO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:52:23+00:00",
+  "generatedAt": "2026-08-28T23:50:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44930,6 +44930,12 @@
     [
       "2026-08-27",
       16.66,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      16.73,
       0,
       null
     ]

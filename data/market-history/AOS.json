@@ -2,7 +2,7 @@
   "ticker": "AOS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:55:52+00:00",
+  "generatedAt": "2026-08-28T22:54:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64876,6 +64876,12 @@
       61.950001,
       0,
       8419536201
+    ],
+    [
+      "2026-08-28",
+      60.380001,
+      0,
+      8206159783
     ]
   ],
   "sharesOutstanding": [

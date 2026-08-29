@@ -2,7 +2,7 @@
   "ticker": "MARUY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:54:34+00:00",
+  "generatedAt": "2026-08-28T23:46:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25070,6 +25070,12 @@
     [
       "2026-08-27",
       30.709999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      30.52,
       0,
       null
     ]

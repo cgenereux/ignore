@@ -2,7 +2,7 @@
   "ticker": "BOKF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:32:06+00:00",
+  "generatedAt": "2026-08-28T23:29:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52832,6 +52832,12 @@
     [
       "2026-08-27",
       138.289993,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      137.479996,
       0,
       null
     ]

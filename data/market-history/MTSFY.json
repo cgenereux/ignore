@@ -2,7 +2,7 @@
   "ticker": "MTSFY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:55:42+00:00",
+  "generatedAt": "2026-08-28T23:47:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26510,6 +26510,12 @@
     [
       "2026-08-27",
       28.48,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      28.719999,
       0,
       null
     ]

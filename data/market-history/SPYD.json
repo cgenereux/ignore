@@ -2,7 +2,7 @@
   "ticker": "SPYD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:57:25+00:00",
+  "generatedAt": "2026-08-28T23:55:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16370,6 +16370,12 @@
     [
       "2026-08-27",
       49.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      50.009998,
       0,
       null
     ]

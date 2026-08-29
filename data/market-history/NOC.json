@@ -2,7 +2,7 @@
   "ticker": "NOC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:55:37+00:00",
+  "generatedAt": "2026-08-28T22:54:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67534,6 +67534,12 @@
       545.130005,
       0,
       77442818057
+    ],
+    [
+      "2026-08-28",
+      545.570007,
+      0,
+      77505326135
     ]
   ],
   "sharesOutstanding": [

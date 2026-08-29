@@ -2,7 +2,7 @@
   "ticker": "CHGG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:25:10+00:00",
+  "generatedAt": "2026-08-28T23:16:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19300,6 +19300,12 @@
       0.8,
       0,
       88821986
+    ],
+    [
+      "2026-08-28",
+      0.8441,
+      0,
+      93718297
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ESGV",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:38:05+00:00",
+  "generatedAt": "2026-08-28T23:35:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11971,6 +11971,12 @@
     [
       "2026-08-27",
       136.889999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      136.539993,
       0,
       null
     ]

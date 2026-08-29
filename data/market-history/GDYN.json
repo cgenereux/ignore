@@ -2,7 +2,7 @@
   "ticker": "GDYN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:14:00+00:00",
+  "generatedAt": "2026-08-28T23:12:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11806,6 +11806,12 @@
       7.89,
       0,
       640091080
+    ],
+    [
+      "2026-08-28",
+      7.97,
+      0,
+      646581225
     ]
   ],
   "sharesOutstanding": [

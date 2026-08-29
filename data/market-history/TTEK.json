@@ -1,7 +1,7 @@
 {
   "ticker": "TTEK",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:17:04+00:00",
+  "generatedAt": "2026-08-28T23:15:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52417,6 +52417,12 @@
     [
       "2026-08-27",
       36.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      36.540001,
       0,
       null
     ]

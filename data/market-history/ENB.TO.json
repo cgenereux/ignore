@@ -2,7 +2,7 @@
   "ticker": "ENB.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:37:26+00:00",
+  "generatedAt": "2026-08-28T23:35:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47702,6 +47702,12 @@
     [
       "2026-08-27",
       69.279999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      69.760002,
       0,
       null
     ]

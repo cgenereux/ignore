@@ -2,7 +2,7 @@
   "ticker": "PRVA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:18:05+00:00",
+  "generatedAt": "2026-08-28T23:16:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8032,6 +8032,12 @@
       20.860001,
       0,
       2664535636
+    ],
+    [
+      "2026-08-28",
+      20.790001,
+      0,
+      2655594280
     ]
   ],
   "sharesOutstanding": [

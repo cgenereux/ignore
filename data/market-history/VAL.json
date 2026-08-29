@@ -1,7 +1,7 @@
 {
   "ticker": "VAL",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:24:44+00:00",
+  "generatedAt": "2026-08-28T23:22:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8023,6 +8023,12 @@
     [
       "2026-08-27",
       85.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      86.290001,
       0,
       null
     ]

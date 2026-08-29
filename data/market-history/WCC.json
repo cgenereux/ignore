@@ -2,7 +2,7 @@
   "ticker": "WCC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:10:16+00:00",
+  "generatedAt": "2026-08-28T23:08:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41206,6 +41206,12 @@
       350.660004,
       0,
       17088662762
+    ],
+    [
+      "2026-08-28",
+      336.420013,
+      0,
+      16394707397
     ]
   ],
   "sharesOutstanding": [

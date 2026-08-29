@@ -2,7 +2,7 @@
   "ticker": "GLPI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:11:36+00:00",
+  "generatedAt": "2026-08-28T23:09:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19432,6 +19432,12 @@
       42.310001,
       0,
       12308827419
+    ],
+    [
+      "2026-08-28",
+      42.560001,
+      0,
+      12381557430
     ]
   ],
   "sharesOutstanding": [

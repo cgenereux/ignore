@@ -2,7 +2,7 @@
   "ticker": "NSC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:47:17+00:00",
+  "generatedAt": "2026-08-28T22:46:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -66904,6 +66904,12 @@
       347.929993,
       0,
       78147989573
+    ],
+    [
+      "2026-08-28",
+      348.679993,
+      0,
+      78316445853
     ]
   ],
   "sharesOutstanding": [

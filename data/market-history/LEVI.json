@@ -1,7 +1,7 @@
 {
   "ticker": "LEVI",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:14:27+00:00",
+  "generatedAt": "2026-08-28T23:12:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11227,6 +11227,12 @@
     [
       "2026-08-27",
       21.049999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      21.290001,
       0,
       null
     ]

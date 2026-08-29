@@ -2,7 +2,7 @@
   "ticker": "CRWV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:53:37+00:00",
+  "generatedAt": "2026-08-28T22:52:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2146,6 +2146,12 @@
       86.800003,
       0,
       47873378737
+    ],
+    [
+      "2026-08-28",
+      84.230003,
+      0,
+      46455929838
     ]
   ],
   "sharesOutstanding": [

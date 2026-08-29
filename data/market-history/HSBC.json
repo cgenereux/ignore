@@ -2,7 +2,7 @@
   "ticker": "HSBC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:43:31+00:00",
+  "generatedAt": "2026-08-28T23:41:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40916,6 +40916,12 @@
     [
       "2026-08-27",
       102.849998,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      103.529999,
       0,
       null
     ]

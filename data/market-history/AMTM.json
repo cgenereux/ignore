@@ -2,7 +2,7 @@
   "ticker": "AMTM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:17:08+00:00",
+  "generatedAt": "2026-08-28T23:15:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2908,6 +2908,12 @@
       20.43,
       0,
       4991454454
+    ],
+    [
+      "2026-08-28",
+      20.309999,
+      0,
+      4962135942
     ]
   ],
   "sharesOutstanding": [

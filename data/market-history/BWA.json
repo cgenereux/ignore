@@ -2,7 +2,7 @@
   "ticker": "BWA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:11:02+00:00",
+  "generatedAt": "2026-08-28T23:09:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49906,6 +49906,12 @@
       64.800003,
       0,
       13197580361
+    ],
+    [
+      "2026-08-28",
+      64.089996,
+      0,
+      13052975882
     ]
   ],
   "sharesOutstanding": [

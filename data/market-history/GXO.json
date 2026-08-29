@@ -2,7 +2,7 @@
   "ticker": "GXO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:25:36+00:00",
+  "generatedAt": "2026-08-28T23:23:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7696,6 +7696,12 @@
       47.98,
       0,
       5502566100
+    ],
+    [
+      "2026-08-28",
+      47.599998,
+      0,
+      5458985785
     ]
   ],
   "sharesOutstanding": [

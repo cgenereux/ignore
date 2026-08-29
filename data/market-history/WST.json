@@ -2,7 +2,7 @@
   "ticker": "WST",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:06:46+00:00",
+  "generatedAt": "2026-08-28T23:05:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       346.089996,
       0,
       24356347213
+    ],
+    [
+      "2026-08-28",
+      337.470001,
+      0,
+      23749708488
     ]
   ],
   "sharesOutstanding": [

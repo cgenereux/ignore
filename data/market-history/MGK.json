@@ -1,7 +1,7 @@
 {
   "ticker": "MGK",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:48:55+00:00",
+  "generatedAt": "2026-08-28T23:46:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28183,6 +28183,12 @@
     [
       "2026-08-27",
       90.480003,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      90.120003,
       0,
       null
     ]

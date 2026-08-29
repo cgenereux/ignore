@@ -2,7 +2,7 @@
   "ticker": "GALDY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:47:59+00:00",
+  "generatedAt": "2026-08-28T23:39:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3068,6 +3068,12 @@
     [
       "2026-08-27",
       42.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      42.23,
       0,
       null
     ]

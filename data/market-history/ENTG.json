@@ -2,7 +2,7 @@
   "ticker": "ENTG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:09:48+00:00",
+  "generatedAt": "2026-08-28T23:08:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39442,6 +39442,12 @@
       145.309998,
       0,
       22130712628
+    ],
+    [
+      "2026-08-28",
+      134.919998,
+      0,
+      20548315721
     ]
   ],
   "sharesOutstanding": [

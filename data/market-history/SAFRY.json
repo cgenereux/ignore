@@ -2,7 +2,7 @@
   "ticker": "SAFRY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:54:14+00:00",
+  "generatedAt": "2026-08-28T23:51:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25070,6 +25070,12 @@
     [
       "2026-08-27",
       99.800003,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      99.580002,
       0,
       null
     ]

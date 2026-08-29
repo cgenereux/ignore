@@ -1,7 +1,7 @@
 {
   "ticker": "OTF",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:51:13+00:00",
+  "generatedAt": "2026-08-28T23:48:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1825,6 +1825,12 @@
     [
       "2026-08-27",
       11.3,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      11.38,
       0,
       null
     ]

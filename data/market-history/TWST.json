@@ -2,7 +2,7 @@
   "ticker": "TWST",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:22:32+00:00",
+  "generatedAt": "2026-08-28T23:20:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11800,6 +11800,12 @@
       153.100006,
       0,
       9600506997
+    ],
+    [
+      "2026-08-28",
+      141.380005,
+      0,
+      8865575911
     ]
   ],
   "sharesOutstanding": [

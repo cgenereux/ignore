@@ -2,7 +2,7 @@
   "ticker": "IVZ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:01:35+00:00",
+  "generatedAt": "2026-08-28T23:00:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46822,6 +46822,12 @@
       33.310001,
       0,
       14706358278
+    ],
+    [
+      "2026-08-28",
+      32.860001,
+      0,
+      14507683040
     ]
   ],
   "sharesOutstanding": [

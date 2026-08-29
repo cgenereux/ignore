@@ -2,7 +2,7 @@
   "ticker": "LKQ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:18:19+00:00",
+  "generatedAt": "2026-08-28T23:16:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34570,6 +34570,12 @@
       25.360001,
       0,
       6416133055
+    ],
+    [
+      "2026-08-28",
+      25.530001,
+      0,
+      6459143429
     ]
   ],
   "sharesOutstanding": [

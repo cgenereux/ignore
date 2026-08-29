@@ -2,7 +2,7 @@
   "ticker": "VFC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:31:34+00:00",
+  "generatedAt": "2026-08-28T23:23:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70252,6 +70252,12 @@
       13.64,
       0,
       5362355535
+    ],
+    [
+      "2026-08-28",
+      13.67,
+      0,
+      5374149572
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "SW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:05:06+00:00",
+  "generatedAt": "2026-08-28T23:03:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27478,6 +27478,12 @@
       48.630001,
       0,
       25507549576
+    ],
+    [
+      "2026-08-28",
+      48.290001,
+      0,
+      25329211708
     ]
   ],
   "sharesOutstanding": [

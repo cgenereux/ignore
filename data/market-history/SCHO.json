@@ -1,7 +1,7 @@
 {
   "ticker": "SCHO",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:54:56+00:00",
+  "generatedAt": "2026-08-28T23:52:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24247,6 +24247,12 @@
     [
       "2026-08-27",
       24.110001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      24.07,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "IRM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:01:40+00:00",
+  "generatedAt": "2026-08-28T23:00:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46162,6 +46162,12 @@
       122.690002,
       0,
       36525158731
+    ],
+    [
+      "2026-08-28",
+      117.400002,
+      0,
+      34950310583
     ]
   ],
   "sharesOutstanding": [

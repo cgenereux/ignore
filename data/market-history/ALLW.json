@@ -2,7 +2,7 @@
   "ticker": "ALLW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T00:05:29+00:00",
+  "generatedAt": "2026-08-29T00:02:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2222,6 +2222,12 @@
     [
       "2026-08-27",
       30.379999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      30.16,
       0,
       null
     ]

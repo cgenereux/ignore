@@ -2,7 +2,7 @@
   "ticker": "SOLS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:21:22+00:00",
+  "generatedAt": "2026-08-28T23:19:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1300,6 +1300,12 @@
       56.34,
       0,
       8949460794
+    ],
+    [
+      "2026-08-28",
+      63.529999,
+      0,
+      10091573159
     ]
   ],
   "sharesOutstanding": [

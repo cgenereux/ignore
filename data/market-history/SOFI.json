@@ -2,7 +2,7 @@
   "ticker": "SOFI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:07:07+00:00",
+  "generatedAt": "2026-08-28T23:05:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8524,6 +8524,12 @@
       19.18,
       0,
       24772319208
+    ],
+    [
+      "2026-08-28",
+      18.059999,
+      0,
+      23325759362
     ]
   ],
   "sharesOutstanding": [

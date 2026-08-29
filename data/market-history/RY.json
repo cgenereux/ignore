@@ -2,7 +2,7 @@
   "ticker": "RY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:47:56+00:00",
+  "generatedAt": "2026-08-28T22:46:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46612,6 +46612,12 @@
       204.539993,
       0,
       284241524671
+    ],
+    [
+      "2026-08-28",
+      204.229996,
+      0,
+      283810732740
     ]
   ],
   "sharesOutstanding": [

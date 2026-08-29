@@ -2,7 +2,7 @@
   "ticker": "IT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:00:34+00:00",
+  "generatedAt": "2026-08-28T22:59:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49690,6 +49690,12 @@
       196.600006,
       0,
       12415089067
+    ],
+    [
+      "2026-08-28",
+      198.389999,
+      0,
+      12528125310
     ]
   ],
   "sharesOutstanding": [

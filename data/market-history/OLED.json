@@ -2,7 +2,7 @@
   "ticker": "OLED",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:15:01+00:00",
+  "generatedAt": "2026-08-28T23:13:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45874,6 +45874,12 @@
       84.849998,
       0,
       3900285858
+    ],
+    [
+      "2026-08-28",
+      82.980003,
+      0,
+      3814328123
     ]
   ],
   "sharesOutstanding": [

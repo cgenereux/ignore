@@ -2,7 +2,7 @@
   "ticker": "GGB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:42:12+00:00",
+  "generatedAt": "2026-08-28T23:39:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41468,6 +41468,12 @@
     [
       "2026-08-27",
       4.7,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      4.59,
       0,
       null
     ]

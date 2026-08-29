@@ -1,7 +1,7 @@
 {
   "ticker": "VBIL",
   "currency": "USD",
-  "generatedAt": "2026-08-28T00:00:47+00:00",
+  "generatedAt": "2026-08-28T23:58:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2329,6 +2329,12 @@
     [
       "2026-08-27",
       75.68,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      75.699997,
       0,
       null
     ]

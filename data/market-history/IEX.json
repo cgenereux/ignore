@@ -2,7 +2,7 @@
   "ticker": "IEX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:01:19+00:00",
+  "generatedAt": "2026-08-28T23:00:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56278,6 +56278,12 @@
       233.979996,
       0,
       17248980951
+    ],
+    [
+      "2026-08-28",
+      230.279999,
+      0,
+      16976217561
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "XE",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:25:05+00:00",
+  "generatedAt": "2026-08-28T23:23:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -529,6 +529,12 @@
     [
       "2026-08-27",
       18.469999,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      17.219999,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "YUMC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:26:33+00:00",
+  "generatedAt": "2026-08-28T23:18:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14884,6 +14884,12 @@
       44.91,
       0.29,
       15326823318
+    ],
+    [
+      "2026-08-28",
+      45.02,
+      0,
+      15346666492
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "SDVY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T07:01:07+00:00",
+  "generatedAt": "2026-08-28T23:52:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13292,6 +13292,12 @@
     [
       "2026-08-27",
       43.82,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      43.639999,
       0,
       null
     ]

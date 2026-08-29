@@ -2,7 +2,7 @@
   "ticker": "ZD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:18:58+00:00",
+  "generatedAt": "2026-08-28T23:17:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -40885,6 +40885,12 @@
     ],
     [
       "2026-08-27",
+      55.82,
+      0,
+      1913911940
+    ],
+    [
+      "2026-08-28",
       55.82,
       0,
       1913911940

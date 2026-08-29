@@ -2,7 +2,7 @@
   "ticker": "MSGS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:21:24+00:00",
+  "generatedAt": "2026-08-28T23:19:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16502,6 +16502,12 @@
     [
       "2026-08-27",
       393.649994,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      389.339996,
       0,
       null
     ]

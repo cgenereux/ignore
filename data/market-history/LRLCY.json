@@ -2,7 +2,7 @@
   "ticker": "LRLCY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:54:13+00:00",
+  "generatedAt": "2026-08-28T23:45:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29240,6 +29240,12 @@
     [
       "2026-08-27",
       89.370003,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      90.169998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "TSM",
   "currency": "USD",
-  "generatedAt": "2026-08-27T22:47:27+00:00",
+  "generatedAt": "2026-08-28T22:46:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43599,6 +43599,12 @@
       427.299988,
       0,
       2216180282443
+    ],
+    [
+      "2026-08-28",
+      417.519989,
+      0,
+      2165456572927
     ]
   ],
   "sharesOutstanding": [

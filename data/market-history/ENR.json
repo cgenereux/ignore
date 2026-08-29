@@ -2,7 +2,7 @@
   "ticker": "ENR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:16:40+00:00",
+  "generatedAt": "2026-08-28T23:14:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16906,6 +16906,12 @@
       22.110001,
       0,
       1514173256
+    ],
+    [
+      "2026-08-28",
+      22.27,
+      0,
+      1525130627
     ]
   ],
   "sharesOutstanding": [

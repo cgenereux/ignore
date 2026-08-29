@@ -2,7 +2,7 @@
   "ticker": "EQIX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:59:37+00:00",
+  "generatedAt": "2026-08-28T22:58:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39304,6 +39304,12 @@
       1076.449951,
       0,
       106215131577
+    ],
+    [
+      "2026-08-28",
+      1044.410034,
+      0,
+      103053698948
     ]
   ],
   "sharesOutstanding": [

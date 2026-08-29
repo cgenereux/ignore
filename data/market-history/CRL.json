@@ -2,7 +2,7 @@
   "ticker": "CRL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:57:59+00:00",
+  "generatedAt": "2026-08-28T22:56:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39508,6 +39508,12 @@
       296.410004,
       0,
       14150279224
+    ],
+    [
+      "2026-08-28",
+      291.5,
+      0,
+      13915881188
     ]
   ],
   "sharesOutstanding": [

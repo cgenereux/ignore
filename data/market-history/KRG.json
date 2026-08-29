@@ -2,7 +2,7 @@
   "ticker": "KRG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:32:01+00:00",
+  "generatedAt": "2026-08-28T23:23:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33286,6 +33286,12 @@
       26.01,
       0,
       5281760992
+    ],
+    [
+      "2026-08-28",
+      26.0,
+      0,
+      5279730326
     ]
   ],
   "sharesOutstanding": [

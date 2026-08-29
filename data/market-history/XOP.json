@@ -1,7 +1,7 @@
 {
   "ticker": "XOP",
   "currency": "USD",
-  "generatedAt": "2026-08-28T00:04:42+00:00",
+  "generatedAt": "2026-08-29T00:01:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30469,6 +30469,12 @@
     [
       "2026-08-27",
       185.470001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      185.940002,
       0,
       null
     ]

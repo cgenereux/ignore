@@ -2,7 +2,7 @@
   "ticker": "MWH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:24:13+00:00",
+  "generatedAt": "2026-08-28T23:22:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -826,6 +826,12 @@
       28.139999,
       0,
       5695162155
+    ],
+    [
+      "2026-08-28",
+      26.290001,
+      0,
+      5320747107
     ]
   ],
   "sharesOutstanding": [

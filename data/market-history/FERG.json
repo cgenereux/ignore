@@ -2,7 +2,7 @@
   "ticker": "FERG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:19:16+00:00",
+  "generatedAt": "2026-08-28T23:17:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25132,6 +25132,12 @@
       233.259995,
       0,
       45124779705
+    ],
+    [
+      "2026-08-28",
+      228.490005,
+      0,
+      44202012370
     ]
   ],
   "sharesOutstanding": [

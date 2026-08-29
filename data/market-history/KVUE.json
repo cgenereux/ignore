@@ -2,7 +2,7 @@
   "ticker": "KVUE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:01:52+00:00",
+  "generatedAt": "2026-08-28T23:00:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5002,6 +5002,12 @@
       19.200001,
       0,
       36878852032
+    ],
+    [
+      "2026-08-28",
+      19.17,
+      0,
+      36821227509
     ]
   ],
   "sharesOutstanding": [

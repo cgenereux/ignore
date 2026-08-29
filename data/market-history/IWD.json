@@ -1,7 +1,7 @@
 {
   "ticker": "IWD",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:45:56+00:00",
+  "generatedAt": "2026-08-28T23:43:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39619,6 +39619,12 @@
     [
       "2026-08-27",
       257.579987,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      258.329987,
       0,
       null
     ]

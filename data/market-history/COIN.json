@@ -2,7 +2,7 @@
   "ticker": "COIN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T22:54:02+00:00",
+  "generatedAt": "2026-08-28T22:52:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8110,6 +8110,12 @@
       190.720001,
       0,
       50318978277
+    ],
+    [
+      "2026-08-28",
+      178.639999,
+      0,
+      47131827764
     ]
   ],
   "sharesOutstanding": [

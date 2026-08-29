@@ -2,7 +2,7 @@
   "ticker": "EQX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:37:53+00:00",
+  "generatedAt": "2026-08-28T23:35:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11552,6 +11552,12 @@
     [
       "2026-08-27",
       13.45,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      12.99,
       0,
       null
     ]

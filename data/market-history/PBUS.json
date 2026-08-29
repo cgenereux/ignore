@@ -1,7 +1,7 @@
 {
   "ticker": "PBUS",
   "currency": "USD",
-  "generatedAt": "2026-08-27T23:51:37+00:00",
+  "generatedAt": "2026-08-28T23:49:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13465,6 +13465,12 @@
     [
       "2026-08-27",
       77.379997,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      77.190002,
       0,
       null
     ]

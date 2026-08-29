@@ -2,7 +2,7 @@
   "ticker": "SRPT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-27T23:15:41+00:00",
+  "generatedAt": "2026-08-28T23:13:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44134,6 +44134,12 @@
       21.59,
       0,
       2280487400
+    ],
+    [
+      "2026-08-28",
+      20.860001,
+      0,
+      2203379723
     ]
   ],
   "sharesOutstanding": [
