@@ -2,7 +2,7 @@
   "ticker": "DOC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:59:49+00:00",
+  "generatedAt": "2026-08-31T23:00:11+00:00",
   "source": "Yahoo Finance via yfinance; shares outstanding from SEC filings",
   "schema": [
     "date",
@@ -62386,6 +62386,12 @@
       20.959999,
       0,
       14450236323
+    ],
+    [
+      "2026-08-31",
+      20.82,
+      0,
+      14353717985
     ]
   ],
   "sharesOutstanding": [

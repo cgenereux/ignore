@@ -2,7 +2,7 @@
   "ticker": "APH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:55:31+00:00",
+  "generatedAt": "2026-08-31T22:55:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52582,6 +52582,12 @@
       157.740005,
       0,
       194490817280
+    ],
+    [
+      "2026-08-31",
+      158.550003,
+      0,
+      195489530870
     ]
   ],
   "sharesOutstanding": [

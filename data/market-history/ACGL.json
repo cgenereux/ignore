@@ -2,7 +2,7 @@
   "ticker": "ACGL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:55:40+00:00",
+  "generatedAt": "2026-08-31T22:55:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46750,6 +46750,12 @@
       98.839996,
       0,
       33727085564
+    ],
+    [
+      "2026-08-31",
+      98.07,
+      0,
+      33464340283
     ]
   ],
   "sharesOutstanding": [

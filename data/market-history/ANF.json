@@ -2,7 +2,7 @@
   "ticker": "ANF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:07:35+00:00",
+  "generatedAt": "2026-08-31T23:08:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45178,6 +45178,12 @@
       148.419998,
       0,
       6594554317
+    ],
+    [
+      "2026-08-31",
+      143.080002,
+      0,
+      6357289148
     ]
   ],
   "sharesOutstanding": [

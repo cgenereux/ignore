@@ -2,7 +2,7 @@
   "ticker": "FRT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:59:00+00:00",
+  "generatedAt": "2026-08-31T22:59:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80674,6 +80674,12 @@
       116.75,
       0,
       10085938750
+    ],
+    [
+      "2026-08-31",
+      116.029999,
+      0,
+      10023738422
     ]
   ],
   "sharesOutstanding": [

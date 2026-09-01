@@ -1,7 +1,7 @@
 {
   "ticker": "VXF",
   "currency": "USD",
-  "generatedAt": "2026-08-29T00:00:30+00:00",
+  "generatedAt": "2026-09-01T00:03:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37219,6 +37219,12 @@
     [
       "2026-08-28",
       242.389999,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      241.419998,
       0,
       null
     ]

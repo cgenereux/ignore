@@ -1,7 +1,7 @@
 {
   "ticker": "CRC",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:32:27+00:00",
+  "generatedAt": "2026-08-31T23:34:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8797,6 +8797,12 @@
     [
       "2026-08-28",
       52.23,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      53.029999,
       0,
       null
     ]

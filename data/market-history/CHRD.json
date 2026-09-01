@@ -2,7 +2,7 @@
   "ticker": "CHRD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:20:27+00:00",
+  "generatedAt": "2026-08-31T23:21:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24460,6 +24460,12 @@
       146.0,
       0,
       7985889312
+    ],
+    [
+      "2026-08-31",
+      147.110001,
+      0,
+      8046603983
     ]
   ],
   "sharesOutstanding": [

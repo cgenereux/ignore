@@ -1,7 +1,8 @@
 {
   "ticker": "UMC",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:57:43+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T00:00:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39151,6 +39152,12 @@
     [
       "2026-08-28",
       19.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      19.879999,
       0,
       null
     ]

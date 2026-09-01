@@ -2,7 +2,7 @@
   "ticker": "VWO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:00:26+00:00",
+  "generatedAt": "2026-09-01T00:03:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32408,6 +32408,12 @@
     [
       "2026-08-28",
       60.790001,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      60.52,
       0,
       null
     ]

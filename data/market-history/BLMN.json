@@ -2,7 +2,7 @@
   "ticker": "BLMN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:14:18+00:00",
+  "generatedAt": "2026-08-31T23:15:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21214,6 +21214,12 @@
       10.58,
       0,
       905869295
+    ],
+    [
+      "2026-08-31",
+      10.3,
+      0,
+      881895461
     ]
   ],
   "sharesOutstanding": [

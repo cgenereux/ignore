@@ -2,7 +2,7 @@
   "ticker": "ODFL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:02:13+00:00",
+  "generatedAt": "2026-08-31T23:02:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -52648,6 +52648,12 @@
       198.630005,
       0,
       41187246865
+    ],
+    [
+      "2026-08-31",
+      199.960007,
+      0,
+      41463031527
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "DFAT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:33:19+00:00",
+  "generatedAt": "2026-08-31T23:35:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7862,6 +7862,12 @@
     [
       "2026-08-28",
       71.169998,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      70.860001,
       0,
       null
     ]

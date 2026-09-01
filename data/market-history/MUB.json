@@ -1,7 +1,7 @@
 {
   "ticker": "MUB",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:47:26+00:00",
+  "generatedAt": "2026-08-31T23:49:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28645,6 +28645,12 @@
     [
       "2026-08-28",
       105.220001,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      105.099998,
       0,
       null
     ]

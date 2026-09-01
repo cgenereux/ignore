@@ -1,7 +1,8 @@
 {
   "ticker": "FELE",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:37:00+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-31T23:39:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70255,6 +70256,12 @@
     [
       "2026-08-28",
       100.559998,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      100.089996,
       0,
       null
     ]

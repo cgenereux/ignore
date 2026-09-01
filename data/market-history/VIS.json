@@ -1,7 +1,7 @@
 {
   "ticker": "VIS",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:59:11+00:00",
+  "generatedAt": "2026-09-01T00:01:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33073,6 +33073,12 @@
     [
       "2026-08-28",
       339.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      335.75,
       0,
       null
     ]

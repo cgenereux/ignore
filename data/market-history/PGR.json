@@ -2,7 +2,7 @@
   "ticker": "PGR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:02:42+00:00",
+  "generatedAt": "2026-08-31T23:03:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70258,6 +70258,12 @@
       218.639999,
       0,
       127051703645
+    ],
+    [
+      "2026-08-31",
+      218.080002,
+      0,
+      126726289064
     ]
   ],
   "sharesOutstanding": [

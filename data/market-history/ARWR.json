@@ -2,7 +2,7 @@
   "ticker": "ARWR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:18:38+00:00",
+  "generatedAt": "2026-08-31T23:19:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49390,6 +49390,12 @@
       84.910004,
       0,
       11993917310
+    ],
+    [
+      "2026-08-31",
+      82.389999,
+      0,
+      11637955450
     ]
   ],
   "sharesOutstanding": [

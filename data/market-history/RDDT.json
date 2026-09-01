@@ -2,7 +2,7 @@
   "ticker": "RDDT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:44:42+00:00",
+  "generatedAt": "2026-08-31T22:44:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3682,6 +3682,12 @@
       153.0,
       0,
       29436666030
+    ],
+    [
+      "2026-08-31",
+      147.809998,
+      0,
+      28438127673
     ]
   ],
   "sharesOutstanding": [

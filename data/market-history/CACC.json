@@ -2,7 +2,7 @@
   "ticker": "CACC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:22:48+00:00",
+  "generatedAt": "2026-08-31T23:24:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51718,6 +51718,12 @@
       594.890015,
       0,
       6222591794
+    ],
+    [
+      "2026-08-31",
+      599.73999,
+      0,
+      6273322879
     ]
   ],
   "sharesOutstanding": [

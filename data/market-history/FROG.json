@@ -2,7 +2,7 @@
   "ticker": "FROG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:18:50+00:00",
+  "generatedAt": "2026-08-31T23:19:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8980,6 +8980,12 @@
       98.739998,
       0,
       12174771185
+    ],
+    [
+      "2026-08-31",
+      100.07,
+      0,
+      12338762154
     ]
   ],
   "sharesOutstanding": [

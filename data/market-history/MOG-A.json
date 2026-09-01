@@ -2,7 +2,7 @@
   "ticker": "MOG-A",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:13:00+00:00",
+  "generatedAt": "2026-08-31T23:13:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69934,6 +69934,12 @@
       374.660004,
       0,
       11865920294
+    ],
+    [
+      "2026-08-31",
+      371.5,
+      0,
+      11765839284
     ]
   ],
   "sharesOutstanding": [

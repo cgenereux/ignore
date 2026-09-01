@@ -1,7 +1,7 @@
 {
   "ticker": "UNG",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:57:47+00:00",
+  "generatedAt": "2026-09-01T00:00:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29245,6 +29245,12 @@
     [
       "2026-08-28",
       10.33,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      10.54,
       0,
       null
     ]

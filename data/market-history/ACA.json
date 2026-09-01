@@ -2,7 +2,7 @@
   "ticker": "ACA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:21:04+00:00",
+  "generatedAt": "2026-08-31T23:22:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11788,6 +11788,12 @@
       145.279999,
       0,
       7134237152
+    ],
+    [
+      "2026-08-31",
+      145.300003,
+      0,
+      7135219498
     ]
   ],
   "sharesOutstanding": [

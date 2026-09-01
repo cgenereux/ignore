@@ -2,7 +2,7 @@
   "ticker": "MSCI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:01:48+00:00",
+  "generatedAt": "2026-08-31T23:02:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28360,6 +28360,12 @@
       570.76001,
       0,
       41494252727
+    ],
+    [
+      "2026-08-31",
+      570.640015,
+      0,
+      41485529065
     ]
   ],
   "sharesOutstanding": [

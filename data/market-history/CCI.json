@@ -2,7 +2,7 @@
   "ticker": "CCI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:57:40+00:00",
+  "generatedAt": "2026-08-31T22:58:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42313,6 +42313,12 @@
     ],
     [
       "2026-08-28",
+      76.139999,
+      0,
+      32394176866
+    ],
+    [
+      "2026-08-31",
       76.139999,
       0,
       32394176866

@@ -2,7 +2,7 @@
   "ticker": "FSPTX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:47:15+00:00",
+  "generatedAt": "2026-08-31T23:40:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -68246,6 +68246,12 @@
     [
       "2026-08-27",
       55.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-28",
+      54.66,
       0,
       null
     ]

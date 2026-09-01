@@ -1,7 +1,7 @@
 {
   "ticker": "VGT",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:58:59+00:00",
+  "generatedAt": "2026-09-01T00:01:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34093,6 +34093,12 @@
     [
       "2026-08-28",
       120.07,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      120.489998,
       0,
       null
     ]

@@ -1,7 +1,8 @@
 {
   "ticker": "TAN",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:55:56+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-31T23:58:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27745,6 +27746,12 @@
     [
       "2026-08-28",
       48.650002,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      47.57,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "FLS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:10:36+00:00",
+  "generatedAt": "2026-08-31T23:11:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70258,6 +70258,12 @@
       80.330002,
       0,
       10210969850
+    ],
+    [
+      "2026-08-31",
+      79.089996,
+      0,
+      10053349305
     ]
   ],
   "sharesOutstanding": [

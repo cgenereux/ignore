@@ -1,7 +1,7 @@
 {
   "ticker": "XMHQ",
   "currency": "USD",
-  "generatedAt": "2026-08-29T00:01:54+00:00",
+  "generatedAt": "2026-09-01T00:04:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29797,6 +29797,12 @@
     [
       "2026-08-28",
       118.029999,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      117.529999,
       0,
       null
     ]

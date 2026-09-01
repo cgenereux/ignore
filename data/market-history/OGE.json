@@ -2,7 +2,7 @@
   "ticker": "OGE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:13:14+00:00",
+  "generatedAt": "2026-08-31T23:14:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80974,6 +80974,12 @@
       45.740002,
       0,
       9449028414
+    ],
+    [
+      "2026-08-31",
+      45.630001,
+      0,
+      9426304346
     ]
   ],
   "sharesOutstanding": [

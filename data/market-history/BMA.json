@@ -1,7 +1,8 @@
 {
   "ticker": "BMA",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:29:29+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-08-31T23:31:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30841,6 +30842,12 @@
     [
       "2026-08-28",
       76.050003,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      78.68,
       0,
       null
     ]

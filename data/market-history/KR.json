@@ -2,7 +2,7 @@
   "ticker": "KR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:00:52+00:00",
+  "generatedAt": "2026-08-31T23:01:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97648,6 +97648,12 @@
       57.720001,
       0,
       35362001865
+    ],
+    [
+      "2026-08-31",
+      57.540001,
+      0,
+      35251725167
     ]
   ],
   "sharesOutstanding": [

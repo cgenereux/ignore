@@ -1,7 +1,7 @@
 {
   "ticker": "TFII",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:56:14+00:00",
+  "generatedAt": "2026-08-31T23:58:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31375,6 +31375,12 @@
     [
       "2026-08-28",
       133.309998,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      134.190002,
       0,
       null
     ]

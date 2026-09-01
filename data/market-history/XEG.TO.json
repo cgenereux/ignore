@@ -2,7 +2,7 @@
   "ticker": "XEG.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:03:10+00:00",
+  "generatedAt": "2026-09-01T00:05:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38330,6 +38330,12 @@
     [
       "2026-08-28",
       28.02,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      28.43,
       0,
       null
     ]

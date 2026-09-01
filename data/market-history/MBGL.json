@@ -2,7 +2,7 @@
   "ticker": "MBGL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:22:03+00:00",
+  "generatedAt": "2026-08-31T23:23:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -280,6 +280,12 @@
       20.24,
       0,
       5972361651
+    ],
+    [
+      "2026-08-31",
+      20.299999,
+      0,
+      5990066123
     ]
   ],
   "sharesOutstanding": [

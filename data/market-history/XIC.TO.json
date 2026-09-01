@@ -2,7 +2,7 @@
   "ticker": "XIC.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:01:27+00:00",
+  "generatedAt": "2026-09-01T00:04:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38456,6 +38456,12 @@
     [
       "2026-08-28",
       58.459999,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      58.02,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "TTD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:04:17+00:00",
+  "generatedAt": "2026-08-31T23:04:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14998,6 +14998,12 @@
       13.57,
       0,
       6376274089
+    ],
+    [
+      "2026-08-31",
+      13.72,
+      0,
+      6446756387
     ]
   ],
   "sharesOutstanding": [

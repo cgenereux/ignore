@@ -2,7 +2,7 @@
   "ticker": "GLW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:57:31+00:00",
+  "generatedAt": "2026-08-31T22:57:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67540,6 +67540,12 @@
       148.979996,
       0,
       128068839496
+    ],
+    [
+      "2026-08-31",
+      148.729996,
+      0,
+      127853930039
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,8 @@
 {
   "ticker": "VDE",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:58:32+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T00:01:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33091,6 +33092,12 @@
     [
       "2026-08-28",
       176.559998,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      180.169998,
       0,
       null
     ]

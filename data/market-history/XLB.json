@@ -2,7 +2,7 @@
   "ticker": "XLB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:01:30+00:00",
+  "generatedAt": "2026-09-01T00:04:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41774,6 +41774,12 @@
     [
       "2026-08-28",
       53.18,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      52.689999,
       0,
       null
     ]

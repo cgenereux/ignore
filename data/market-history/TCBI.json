@@ -1,7 +1,7 @@
 {
   "ticker": "TCBI",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:56:02+00:00",
+  "generatedAt": "2026-08-31T23:58:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34795,6 +34795,12 @@
     [
       "2026-08-28",
       98.639999,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      97.18,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "ZS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:53:42+00:00",
+  "generatedAt": "2026-08-31T22:53:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12760,6 +12760,12 @@
       184.229996,
       0,
       29791745100
+    ],
+    [
+      "2026-08-31",
+      188.384995,
+      0,
+      30463647979
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "KRE",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:45:09+00:00",
+  "generatedAt": "2026-08-31T23:47:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30475,6 +30475,12 @@
     [
       "2026-08-28",
       74.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      73.559998,
       0,
       null
     ]

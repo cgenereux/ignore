@@ -2,7 +2,7 @@
   "ticker": "WTS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:09:52+00:00",
+  "generatedAt": "2026-08-31T23:10:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60502,6 +60502,12 @@
       366.339996,
       0,
       12229546403
+    ],
+    [
+      "2026-08-31",
+      365.75,
+      0,
+      12209850538
     ]
   ],
   "sharesOutstanding": [

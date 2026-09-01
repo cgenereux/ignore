@@ -2,7 +2,7 @@
   "ticker": "ALK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:11:19+00:00",
+  "generatedAt": "2026-08-31T23:12:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70258,6 +70258,12 @@
       42.32,
       0,
       4723044004
+    ],
+    [
+      "2026-08-31",
+      41.330002,
+      0,
+      4612557154
     ]
   ],
   "sharesOutstanding": [

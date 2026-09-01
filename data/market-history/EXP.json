@@ -2,7 +2,7 @@
   "ticker": "EXP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:12:17+00:00",
+  "generatedAt": "2026-08-31T23:13:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48910,6 +48910,12 @@
       197.559998,
       0,
       6060217132
+    ],
+    [
+      "2026-08-31",
+      194.259995,
+      0,
+      5958988466
     ]
   ],
   "sharesOutstanding": [

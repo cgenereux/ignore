@@ -2,7 +2,7 @@
   "ticker": "HCC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:24:23+00:00",
+  "generatedAt": "2026-08-31T23:25:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14152,6 +14152,12 @@
       107.07,
       0,
       5653519455
+    ],
+    [
+      "2026-08-31",
+      108.239998,
+      0,
+      5715297784
     ]
   ],
   "sharesOutstanding": [

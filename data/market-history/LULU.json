@@ -2,7 +2,7 @@
   "ticker": "LULU",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:45:47+00:00",
+  "generatedAt": "2026-08-31T22:45:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28828,6 +28828,12 @@
       120.809998,
       0,
       13718448556
+    ],
+    [
+      "2026-08-31",
+      120.260002,
+      0,
+      13655994421
     ]
   ],
   "sharesOutstanding": [

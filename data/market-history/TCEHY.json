@@ -2,7 +2,7 @@
   "ticker": "TCEHY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:46:32+00:00",
+  "generatedAt": "2026-08-31T22:46:38+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; 0700.HK quoted in HKD, converted to USD at Federal Reserve DEXHKUS; ordinary-share closes scaled by 1.091797 to match the ADR series where it begins (2010-01-05)",
   "schema": [
     "date",
@@ -33411,13 +33411,19 @@
       "2026-08-27",
       56.889999,
       0,
-      512295610180
+      512295606671
     ],
     [
       "2026-08-28",
-      57.900002,
+      57.959999,
       0,
-      521390700112
+      521814678554
+    ],
+    [
+      "2026-08-31",
+      57.209999,
+      0,
+      515622767160
     ]
   ],
   "sharesOutstanding": [
@@ -41925,6 +41931,16 @@
       "2026-08-27",
       9005020490,
       9005020490
+    ],
+    [
+      "2026-08-28",
+      9003013933,
+      9003013933
+    ],
+    [
+      "2026-08-29",
+      9012808533,
+      9012808533
     ]
   ]
 }

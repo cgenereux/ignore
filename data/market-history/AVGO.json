@@ -2,7 +2,7 @@
   "ticker": "AVGO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:52:34+00:00",
+  "generatedAt": "2026-08-31T22:52:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25762,6 +25762,12 @@
       368.790009,
       0,
       1754548041874
+    ],
+    [
+      "2026-08-31",
+      370.339996,
+      0,
+      1761922233105
     ]
   ],
   "sharesOutstanding": [

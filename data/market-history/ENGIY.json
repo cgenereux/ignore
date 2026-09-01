@@ -2,7 +2,7 @@
   "ticker": "ENGIY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:35:14+00:00",
+  "generatedAt": "2026-08-31T23:37:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27302,6 +27302,12 @@
     [
       "2026-08-28",
       28.219999,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      28.58,
       0,
       null
     ]

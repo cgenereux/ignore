@@ -2,7 +2,7 @@
   "ticker": "VOO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:59:45+00:00",
+  "generatedAt": "2026-09-01T00:02:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24110,6 +24110,12 @@
     [
       "2026-08-28",
       707.23999,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      704.890015,
       0,
       null
     ]

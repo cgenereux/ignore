@@ -1,7 +1,7 @@
 {
   "ticker": "CRNX",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:19:49+00:00",
+  "generatedAt": "2026-08-31T23:21:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12247,6 +12247,12 @@
     [
       "2026-08-28",
       84.839996,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      84.949997,
       0,
       null
     ]

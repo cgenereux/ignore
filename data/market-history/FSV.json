@@ -1,7 +1,7 @@
 {
   "ticker": "FSV",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:39:03+00:00",
+  "generatedAt": "2026-08-31T23:41:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16969,6 +16969,12 @@
     [
       "2026-08-28",
       141.539993,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      139.339996,
       0,
       null
     ]

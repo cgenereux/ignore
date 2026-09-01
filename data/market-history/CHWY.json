@@ -2,7 +2,7 @@
   "ticker": "CHWY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:07:39+00:00",
+  "generatedAt": "2026-08-31T23:08:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10882,6 +10882,12 @@
       23.26,
       0,
       9523207149
+    ],
+    [
+      "2026-08-31",
+      23.799999,
+      0,
+      9744295814
     ]
   ],
   "sharesOutstanding": [

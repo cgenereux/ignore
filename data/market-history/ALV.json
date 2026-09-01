@@ -2,7 +2,7 @@
   "ticker": "ALV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:26:49+00:00",
+  "generatedAt": "2026-08-31T23:28:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44294,6 +44294,12 @@
     [
       "2026-08-28",
       122.07,
+      0.87,
+      null
+    ],
+    [
+      "2026-08-31",
+      121.209999,
       0,
       null
     ]

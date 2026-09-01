@@ -2,7 +2,7 @@
   "ticker": "FLR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:37:39+00:00",
+  "generatedAt": "2026-08-31T23:39:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38840,6 +38840,12 @@
     [
       "2026-08-28",
       53.27,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      54.509998,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "CPT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:56:32+00:00",
+  "generatedAt": "2026-08-31T22:56:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50008,6 +50008,12 @@
       106.349998,
       0,
       12308159494
+    ],
+    [
+      "2026-08-31",
+      105.800003,
+      0,
+      12244507106
     ]
   ],
   "sharesOutstanding": [

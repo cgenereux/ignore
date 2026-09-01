@@ -2,7 +2,7 @@
   "ticker": "ITOCY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:43:21+00:00",
+  "generatedAt": "2026-08-31T23:45:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31081,7 +31081,13 @@
     ],
     [
       "2026-08-28",
-      13.12,
+      13.15,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      13.13,
       0,
       null
     ]

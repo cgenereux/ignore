@@ -2,7 +2,7 @@
   "ticker": "VICI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:04:56+00:00",
+  "generatedAt": "2026-08-31T23:05:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13066,6 +13066,12 @@
       25.870001,
       0,
       28484877453
+    ],
+    [
+      "2026-08-31",
+      25.65,
+      0,
+      28242639045
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "PAC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:49:04+00:00",
+  "generatedAt": "2026-08-31T23:51:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30962,6 +30962,12 @@
     [
       "2026-08-28",
       207.559998,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      206.039993,
       0,
       null
     ]

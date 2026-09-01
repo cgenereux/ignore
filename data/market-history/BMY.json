@@ -2,7 +2,7 @@
   "ticker": "BMY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:54:17+00:00",
+  "generatedAt": "2026-08-31T22:54:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82054,6 +82054,12 @@
       66.580002,
       0,
       136003945537
+    ],
+    [
+      "2026-08-31",
+      66.809998,
+      0,
+      136473761180
     ]
   ],
   "sharesOutstanding": [

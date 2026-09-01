@@ -2,7 +2,7 @@
   "ticker": "VTV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:00:12+00:00",
+  "generatedAt": "2026-09-01T00:02:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34094,6 +34094,12 @@
     [
       "2026-08-28",
       225.289993,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      224.850006,
       0,
       null
     ]

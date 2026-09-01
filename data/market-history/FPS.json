@@ -2,7 +2,7 @@
   "ticker": "FPS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:18:43+00:00",
+  "generatedAt": "2026-08-31T23:19:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -862,6 +862,12 @@
       30.4,
       0,
       7903123438
+    ],
+    [
+      "2026-08-31",
+      30.540001,
+      0,
+      7939519739
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "TEX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:20:28+00:00",
+  "generatedAt": "2026-08-31T23:21:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70246,6 +70246,12 @@
       63.73,
       0,
       7284338948
+    ],
+    [
+      "2026-08-31",
+      63.509998,
+      0,
+      7259192808
     ]
   ],
   "sharesOutstanding": [

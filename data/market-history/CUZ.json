@@ -1,7 +1,7 @@
 {
   "ticker": "CUZ",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:32:37+00:00",
+  "generatedAt": "2026-08-31T23:34:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70255,6 +70255,12 @@
     [
       "2026-08-28",
       29.440001,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      28.99,
       0,
       null
     ]

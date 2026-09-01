@@ -2,7 +2,7 @@
   "ticker": "WH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:23:33+00:00",
+  "generatedAt": "2026-08-31T23:24:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12472,6 +12472,12 @@
       76.019997,
       0,
       5641529245
+    ],
+    [
+      "2026-08-31",
+      73.660004,
+      0,
+      5466391518
     ]
   ],
   "sharesOutstanding": [

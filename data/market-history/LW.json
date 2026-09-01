@@ -1,7 +1,7 @@
 {
   "ticker": "LW",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:16:53+00:00",
+  "generatedAt": "2026-08-31T23:17:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14779,6 +14779,12 @@
     [
       "2026-08-28",
       54.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      54.529999,
       0,
       null
     ]

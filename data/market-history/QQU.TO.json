@@ -2,7 +2,7 @@
   "ticker": "QQU.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:02:53+00:00",
+  "generatedAt": "2026-09-01T00:05:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26720,6 +26720,12 @@
     [
       "2026-08-28",
       37.91,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      37.990002,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "ALB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:55:03+00:00",
+  "generatedAt": "2026-08-31T22:55:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49114,6 +49114,12 @@
       137.360001,
       0,
       16209174702
+    ],
+    [
+      "2026-08-31",
+      134.970001,
+      0,
+      15927142687
     ]
   ],
   "sharesOutstanding": [

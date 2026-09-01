@@ -2,7 +2,7 @@
   "ticker": "FSLY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:07:50+00:00",
+  "generatedAt": "2026-08-31T23:08:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10996,6 +10996,12 @@
       23.040001,
       0,
       3670272146
+    ],
+    [
+      "2026-08-31",
+      22.790001,
+      0,
+      3630447146
     ]
   ],
   "sharesOutstanding": [

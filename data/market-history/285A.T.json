@@ -2,7 +2,7 @@
   "ticker": "285A.T",
   "currency": "JPY",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:33:20+00:00",
+  "generatedAt": "2026-08-31T23:26:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2479,7 +2479,7 @@
     ],
     [
       "2026-08-28",
-      48070.0,
+      47900.0,
       0,
       null
     ]

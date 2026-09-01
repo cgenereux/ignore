@@ -2,7 +2,7 @@
   "ticker": "CSTM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:32:35+00:00",
+  "generatedAt": "2026-08-31T23:34:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20030,6 +20030,12 @@
     [
       "2026-08-28",
       26.98,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      26.43,
       0,
       null
     ]

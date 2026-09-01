@@ -2,7 +2,7 @@
   "ticker": "TREX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:15:01+00:00",
+  "generatedAt": "2026-08-31T23:16:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41356,6 +41356,12 @@
       45.77,
       0,
       4662369793
+    ],
+    [
+      "2026-08-31",
+      45.580002,
+      0,
+      4643015547
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "BE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:06:41+00:00",
+  "generatedAt": "2026-08-31T23:07:26+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12220,6 +12220,12 @@
       210.770004,
       0,
       62077529975
+    ],
+    [
+      "2026-08-31",
+      206.300003,
+      0,
+      60760992379
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "PAYO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:16:20+00:00",
+  "generatedAt": "2026-08-31T23:17:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8845,6 +8845,12 @@
     ],
     [
       "2026-08-28",
+      7.11,
+      0,
+      2409229489
+    ],
+    [
+      "2026-08-31",
       7.11,
       0,
       2409229489

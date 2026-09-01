@@ -2,7 +2,7 @@
   "ticker": "MKL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:17:48+00:00",
+  "generatedAt": "2026-08-31T23:18:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60028,6 +60028,12 @@
       1818.689941,
       0,
       22533491989
+    ],
+    [
+      "2026-08-31",
+      1802.910034,
+      0,
+      22337979601
     ]
   ],
   "sharesOutstanding": [

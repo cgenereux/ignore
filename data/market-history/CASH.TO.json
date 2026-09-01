@@ -2,7 +2,7 @@
   "ticker": "CASH.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:03:05+00:00",
+  "generatedAt": "2026-09-01T00:05:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7250,6 +7250,12 @@
     [
       "2026-08-28",
       50.084999,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      50.009998,
       0,
       null
     ]

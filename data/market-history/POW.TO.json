@@ -2,7 +2,7 @@
   "ticker": "POW.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:49:46+00:00",
+  "generatedAt": "2026-08-31T23:52:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47702,6 +47702,12 @@
     [
       "2026-08-28",
       92.269997,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      91.839996,
       0,
       null
     ]

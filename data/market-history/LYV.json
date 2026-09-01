@@ -2,7 +2,7 @@
   "ticker": "LYV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:01:08+00:00",
+  "generatedAt": "2026-08-31T23:01:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31228,6 +31228,12 @@
       181.649994,
       0,
       42317092661
+    ],
+    [
+      "2026-08-31",
+      179.889999,
+      0,
+      41907085212
     ]
   ],
   "sharesOutstanding": [

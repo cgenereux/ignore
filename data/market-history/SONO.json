@@ -2,7 +2,7 @@
   "ticker": "SONO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:13:52+00:00",
+  "generatedAt": "2026-08-31T23:14:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12184,6 +12184,12 @@
       15.3,
       0,
       1809897901
+    ],
+    [
+      "2026-08-31",
+      15.6,
+      0,
+      1845386118
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "MRP",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:47:11+00:00",
+  "generatedAt": "2026-08-31T23:49:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2365,6 +2365,12 @@
     [
       "2026-08-28",
       30.610001,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      30.42,
       0,
       null
     ]

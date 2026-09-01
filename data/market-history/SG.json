@@ -2,7 +2,7 @@
   "ticker": "SG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:10:56+00:00",
+  "generatedAt": "2026-08-31T23:11:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7191,13 +7191,19 @@
       "2026-08-27",
       6.79,
       0,
-      808290524
+      808290529
     ],
     [
       "2026-08-28",
       6.97,
       0,
-      829717941
+      829717966
+    ],
+    [
+      "2026-08-31",
+      6.96,
+      0,
+      828527552
     ]
   ],
   "sharesOutstanding": [

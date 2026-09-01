@@ -1,7 +1,7 @@
 {
   "ticker": "SAN",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:52:00+00:00",
+  "generatedAt": "2026-08-31T23:54:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59059,6 +59059,12 @@
     [
       "2026-08-28",
       14.67,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      14.56,
       0,
       null
     ]

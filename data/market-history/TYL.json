@@ -2,7 +2,7 @@
   "ticker": "TYL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:04:29+00:00",
+  "generatedAt": "2026-08-31T23:05:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70258,6 +70258,12 @@
       377.940002,
       0,
       15477502536
+    ],
+    [
+      "2026-08-31",
+      372.220001,
+      0,
+      15243255478
     ]
   ],
   "sharesOutstanding": [

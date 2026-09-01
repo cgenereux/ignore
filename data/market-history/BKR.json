@@ -2,7 +2,7 @@
   "ticker": "BKR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:56:01+00:00",
+  "generatedAt": "2026-08-31T22:56:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59560,6 +59560,12 @@
       62.41,
       0,
       61952788620
+    ],
+    [
+      "2026-08-31",
+      63.549999,
+      0,
+      63084436455
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "URA",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:57:54+00:00",
+  "generatedAt": "2026-09-01T00:00:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23863,6 +23863,12 @@
     [
       "2026-08-28",
       45.57,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      45.509998,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "TRMB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:04:26+00:00",
+  "generatedAt": "2026-08-31T23:05:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -54568,6 +54568,12 @@
       61.009998,
       0,
       14222133383
+    ],
+    [
+      "2026-08-31",
+      59.939999,
+      0,
+      13972704129
     ]
   ],
   "sharesOutstanding": [

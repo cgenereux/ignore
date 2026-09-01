@@ -2,7 +2,7 @@
   "ticker": "RRC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:13:43+00:00",
+  "generatedAt": "2026-08-31T23:14:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69856,6 +69856,12 @@
       41.459999,
       0,
       9688352478
+    ],
+    [
+      "2026-08-31",
+      41.32,
+      0,
+      9655637488
     ]
   ],
   "sharesOutstanding": [

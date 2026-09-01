@@ -2,7 +2,7 @@
   "ticker": "NKE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:44:40+00:00",
+  "generatedAt": "2026-08-31T22:44:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -69178,6 +69178,12 @@
       39.599998,
       0,
       58643124247
+    ],
+    [
+      "2026-08-31",
+      39.060001,
+      0,
+      57843449543
     ]
   ],
   "sharesOutstanding": [

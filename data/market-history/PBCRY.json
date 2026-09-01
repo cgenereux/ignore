@@ -2,7 +2,7 @@
   "ticker": "PBCRY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:49:18+00:00",
+  "generatedAt": "2026-08-31T23:51:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21985,7 +21985,7 @@
     ],
     [
       "2026-08-26",
-      8.91,
+      8.92,
       0,
       null
     ],
@@ -21997,7 +21997,13 @@
     ],
     [
       "2026-08-28",
-      9.0,
+      9.04,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      9.08,
       0,
       null
     ]

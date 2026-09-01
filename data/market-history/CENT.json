@@ -2,7 +2,7 @@
   "ticker": "CENT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:14:42+00:00",
+  "generatedAt": "2026-08-31T23:15:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51538,6 +51538,12 @@
       43.799999,
       0,
       2741555745
+    ],
+    [
+      "2026-08-31",
+      42.98,
+      0,
+      2690229833
     ]
   ],
   "sharesOutstanding": [

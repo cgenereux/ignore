@@ -2,7 +2,7 @@
   "ticker": "RELIANCE.NS",
   "currency": "INR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:59:11+00:00",
+  "generatedAt": "2026-08-31T23:53:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46183,7 +46183,7 @@
     ],
     [
       "2026-08-28",
-      1281.699951,
+      1287.0,
       0,
       null
     ]

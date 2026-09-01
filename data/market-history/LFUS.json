@@ -1,7 +1,7 @@
 {
   "ticker": "LFUS",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:45:31+00:00",
+  "generatedAt": "2026-08-31T23:47:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51265,6 +51265,12 @@
     [
       "2026-08-28",
       405.415009,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      412.179993,
       0,
       null
     ]

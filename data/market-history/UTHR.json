@@ -2,7 +2,7 @@
   "ticker": "UTHR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:17:50+00:00",
+  "generatedAt": "2026-08-31T23:18:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41062,6 +41062,12 @@
       515.460022,
       0,
       22108437041
+    ],
+    [
+      "2026-08-31",
+      510.380005,
+      0,
+      21890551592
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "EADSY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:47:24+00:00",
+  "generatedAt": "2026-08-31T22:47:34+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; AIR.PA quoted in EUR, converted to USD at Federal Reserve DEXUSEU; ordinary-share closes scaled by 0.249746 to match the ADR series where it begins (2007-01-09)",
   "schema": [
     "date",
@@ -37996,6 +37996,12 @@
       58.849998,
       0,
       186314502280
+    ],
+    [
+      "2026-08-31",
+      56.860001,
+      0,
+      180014324350
     ]
   ],
   "sharesOutstanding": [

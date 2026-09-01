@@ -2,7 +2,7 @@
   "ticker": "VDY.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:58:33+00:00",
+  "generatedAt": "2026-09-01T00:01:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20792,6 +20792,12 @@
     [
       "2026-08-28",
       76.599998,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      76.550003,
       0,
       null
     ]

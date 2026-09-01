@@ -2,7 +2,7 @@
   "ticker": "CRUS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:11:56+00:00",
+  "generatedAt": "2026-08-31T23:12:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -56254,6 +56254,12 @@
       108.480003,
       0,
       5436753168
+    ],
+    [
+      "2026-08-31",
+      109.510002,
+      0,
+      5488374212
     ]
   ],
   "sharesOutstanding": [

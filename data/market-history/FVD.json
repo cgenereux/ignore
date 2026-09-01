@@ -2,7 +2,7 @@
   "ticker": "FVD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:39:23+00:00",
+  "generatedAt": "2026-08-31T23:41:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34736,6 +34736,12 @@
     [
       "2026-08-28",
       50.5,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      50.189999,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "ZWS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:20:05+00:00",
+  "generatedAt": "2026-08-31T23:21:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21760,6 +21760,12 @@
       48.049999,
       0,
       7969769734
+    ],
+    [
+      "2026-08-31",
+      47.799999,
+      0,
+      7928303710
     ]
   ],
   "sharesOutstanding": [

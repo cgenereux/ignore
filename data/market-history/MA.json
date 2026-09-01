@@ -2,7 +2,7 @@
   "ticker": "MA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:45:00+00:00",
+  "generatedAt": "2026-08-31T22:44:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30592,6 +30592,12 @@
       595.299988,
       0,
       521488706589
+    ],
+    [
+      "2026-08-31",
+      589.309998,
+      0,
+      516241415603
     ]
   ],
   "sharesOutstanding": [

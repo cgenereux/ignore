@@ -2,7 +2,7 @@
   "ticker": "GNRC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:59:32+00:00",
+  "generatedAt": "2026-08-31T22:59:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24982,6 +24982,12 @@
       183.800003,
       0,
       10845236628
+    ],
+    [
+      "2026-08-31",
+      185.380005,
+      0,
+      10938465646
     ]
   ],
   "sharesOutstanding": [

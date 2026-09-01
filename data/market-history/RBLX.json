@@ -2,7 +2,7 @@
   "ticker": "RBLX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:52:31+00:00",
+  "generatedAt": "2026-08-31T22:52:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8260,6 +8260,12 @@
       38.529999,
       0,
       27524904292
+    ],
+    [
+      "2026-08-31",
+      41.290001,
+      0,
+      29496583258
     ]
   ],
   "sharesOutstanding": [

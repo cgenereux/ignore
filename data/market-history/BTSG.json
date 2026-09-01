@@ -2,7 +2,7 @@
   "ticker": "BTSG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:18:45+00:00",
+  "generatedAt": "2026-08-31T23:19:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3910,6 +3910,12 @@
       59.130001,
       0,
       11699712782
+    ],
+    [
+      "2026-08-31",
+      58.400002,
+      0,
+      11555271976
     ]
   ],
   "sharesOutstanding": [

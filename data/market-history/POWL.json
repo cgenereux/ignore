@@ -2,7 +2,7 @@
   "ticker": "POWL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:20:15+00:00",
+  "generatedAt": "2026-08-31T23:21:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70258,6 +70258,12 @@
       182.710007,
       0,
       6656594013
+    ],
+    [
+      "2026-08-31",
+      179.729996,
+      0,
+      6548024572
     ]
   ],
   "sharesOutstanding": [

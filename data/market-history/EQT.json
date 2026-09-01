@@ -2,7 +2,7 @@
   "ticker": "EQT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:58:25+00:00",
+  "generatedAt": "2026-08-31T22:58:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70258,6 +70258,12 @@
       54.57,
       0,
       34134407929
+    ],
+    [
+      "2026-08-31",
+      54.18,
+      0,
+      33890457071
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "DRI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:45:54+00:00",
+  "generatedAt": "2026-08-31T22:45:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47284,6 +47284,12 @@
       215.630005,
       0,
       24483009401
+    ],
+    [
+      "2026-08-31",
+      214.259995,
+      0,
+      24327456017
     ]
   ],
   "sharesOutstanding": [

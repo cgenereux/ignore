@@ -2,7 +2,7 @@
   "ticker": "FOX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:59:20+00:00",
+  "generatedAt": "2026-08-31T22:59:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11272,6 +11272,12 @@
       61.32,
       0,
       25781225900
+    ],
+    [
+      "2026-08-31",
+      60.220001,
+      0,
+      25318745318
     ]
   ],
   "sharesOutstanding": [

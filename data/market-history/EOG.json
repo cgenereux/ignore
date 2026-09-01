@@ -2,7 +2,7 @@
   "ticker": "EOG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:54:45+00:00",
+  "generatedAt": "2026-08-31T22:55:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55768,6 +55768,12 @@
       143.350006,
       0,
       76352303026
+    ],
+    [
+      "2026-08-31",
+      144.960007,
+      0,
+      77209835285
     ]
   ],
   "sharesOutstanding": [

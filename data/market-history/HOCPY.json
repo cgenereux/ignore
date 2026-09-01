@@ -2,7 +2,7 @@
   "ticker": "HOCPY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:41:11+00:00",
+  "generatedAt": "2026-08-31T23:43:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28784,6 +28784,12 @@
     [
       "2026-08-28",
       151.300003,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      153.320007,
       0,
       null
     ]

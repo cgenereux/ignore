@@ -1,7 +1,7 @@
 {
   "ticker": "ARKK",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:27:10+00:00",
+  "generatedAt": "2026-08-31T23:28:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17845,6 +17845,12 @@
     [
       "2026-08-28",
       84.589996,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      85.57,
       0,
       null
     ]

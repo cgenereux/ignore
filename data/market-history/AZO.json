@@ -2,7 +2,7 @@
   "ticker": "AZO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:54:01+00:00",
+  "generatedAt": "2026-08-31T22:54:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53512,6 +53512,12 @@
       2961.959961,
       0,
       48355047858
+    ],
+    [
+      "2026-08-31",
+      2991.23999,
+      0,
+      48833054731
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "CYH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:12:00+00:00",
+  "generatedAt": "2026-08-31T23:12:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39562,6 +39562,12 @@
       2.93,
       0,
       413157425
+    ],
+    [
+      "2026-08-31",
+      2.92,
+      0,
+      411747333
     ]
   ],
   "sharesOutstanding": [

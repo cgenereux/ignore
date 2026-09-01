@@ -2,7 +2,7 @@
   "ticker": "NWSA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:01:55+00:00",
+  "generatedAt": "2026-08-31T23:02:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19924,6 +19924,12 @@
       30.969999,
       0,
       16638100779
+    ],
+    [
+      "2026-08-31",
+      30.709999,
+      0,
+      16498420117
     ]
   ],
   "sharesOutstanding": [

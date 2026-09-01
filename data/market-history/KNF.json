@@ -1,7 +1,7 @@
 {
   "ticker": "KNF",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:45:03+00:00",
+  "generatedAt": "2026-08-31T23:47:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4867,6 +4867,12 @@
     [
       "2026-08-28",
       64.239998,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      62.700001,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "GRMN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:59:25+00:00",
+  "generatedAt": "2026-08-31T22:59:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38812,6 +38812,12 @@
       285.190002,
       0,
       54999615213
+    ],
+    [
+      "2026-08-31",
+      284.109985,
+      0,
+      54791331178
     ]
   ],
   "sharesOutstanding": [

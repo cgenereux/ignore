@@ -2,7 +2,7 @@
   "ticker": "KLIC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:23:58+00:00",
+  "generatedAt": "2026-08-31T23:25:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80974,6 +80974,12 @@
       81.029999,
       0,
       4240228136
+    ],
+    [
+      "2026-08-31",
+      80.059998,
+      0,
+      4189468819
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "XIACY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:52:10+00:00",
+  "generatedAt": "2026-08-31T22:52:21+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; 1810.HK quoted in HKD, converted to USD at Federal Reserve DEXHKUS; ordinary-share closes scaled by 4.973794 to match the ADR series where it begins (2024-08-15)",
   "schema": [
     "date",
@@ -12100,6 +12100,12 @@
       17.799999,
       0,
       91623005087
+    ],
+    [
+      "2026-08-31",
+      17.459999,
+      0,
+      89872901883
     ]
   ],
   "sharesOutstanding": [

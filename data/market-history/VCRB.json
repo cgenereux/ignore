@@ -1,7 +1,7 @@
 {
   "ticker": "VCRB",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:58:25+00:00",
+  "generatedAt": "2026-09-01T00:01:08+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4075,6 +4075,12 @@
     [
       "2026-08-28",
       76.055099,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      75.900002,
       0,
       null
     ]

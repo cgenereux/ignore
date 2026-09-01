@@ -2,7 +2,7 @@
   "ticker": "MAIR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:18:21+00:00",
+  "generatedAt": "2026-08-31T23:19:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -574,6 +574,12 @@
       26.33,
       0,
       13210356374
+    ],
+    [
+      "2026-08-31",
+      26.4,
+      0,
+      13245476765
     ]
   ],
   "sharesOutstanding": [

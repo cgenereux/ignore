@@ -2,7 +2,7 @@
   "ticker": "FRSH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:12:21+00:00",
+  "generatedAt": "2026-08-31T23:13:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7432,6 +7432,12 @@
       13.86,
       0,
       3616361810
+    ],
+    [
+      "2026-08-31",
+      13.92,
+      0,
+      3632017166
     ]
   ],
   "sharesOutstanding": [

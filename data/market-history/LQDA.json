@@ -1,7 +1,7 @@
 {
   "ticker": "LQDA",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:21:15+00:00",
+  "generatedAt": "2026-08-31T23:22:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12205,6 +12205,12 @@
     [
       "2026-08-28",
       67.690002,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      68.169998,
       0,
       null
     ]

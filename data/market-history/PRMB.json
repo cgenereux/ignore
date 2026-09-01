@@ -2,7 +2,7 @@
   "ticker": "PRMB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:16:46+00:00",
+  "generatedAt": "2026-08-31T23:17:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51676,6 +51676,12 @@
       23.0,
       0,
       8324705215
+    ],
+    [
+      "2026-08-31",
+      22.82,
+      0,
+      8259555238
     ]
   ],
   "sharesOutstanding": [

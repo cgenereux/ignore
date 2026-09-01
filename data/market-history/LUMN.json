@@ -2,7 +2,7 @@
   "ticker": "LUMN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:17:17+00:00",
+  "generatedAt": "2026-08-31T23:18:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70258,6 +70258,12 @@
       6.04,
       0,
       6223078823
+    ],
+    [
+      "2026-08-31",
+      6.25,
+      0,
+      6439444188
     ]
   ],
   "sharesOutstanding": [

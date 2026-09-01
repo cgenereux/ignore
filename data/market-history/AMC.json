@@ -2,7 +2,7 @@
   "ticker": "AMC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:06:43+00:00",
+  "generatedAt": "2026-08-31T23:07:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19162,6 +19162,12 @@
       2.59,
       0,
       2311845936
+    ],
+    [
+      "2026-08-31",
+      2.64,
+      0,
+      2356476338
     ]
   ],
   "sharesOutstanding": [

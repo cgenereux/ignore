@@ -2,7 +2,7 @@
   "ticker": "BRBR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:16:57+00:00",
+  "generatedAt": "2026-08-31T23:18:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10354,6 +10354,12 @@
       10.69,
       0,
       1243013894
+    ],
+    [
+      "2026-08-31",
+      10.77,
+      0,
+      1252316203
     ]
   ],
   "sharesOutstanding": [

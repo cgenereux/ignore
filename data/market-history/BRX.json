@@ -2,7 +2,7 @@
   "ticker": "BRX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:11:38+00:00",
+  "generatedAt": "2026-08-31T23:12:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19366,6 +19366,12 @@
       29.17,
       0,
       8951465458
+    ],
+    [
+      "2026-08-31",
+      28.889999,
+      0,
+      8865541022
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "VPU",
   "currency": "USD",
-  "generatedAt": "2026-08-28T23:59:58+00:00",
+  "generatedAt": "2026-09-01T00:02:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34093,6 +34093,12 @@
     [
       "2026-08-28",
       184.759995,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      182.860001,
       0,
       null
     ]

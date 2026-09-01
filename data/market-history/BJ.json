@@ -2,7 +2,7 @@
   "ticker": "BJ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:10:03+00:00",
+  "generatedAt": "2026-08-31T23:10:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12328,6 +12328,12 @@
       90.599998,
       0,
       11444110902
+    ],
+    [
+      "2026-08-31",
+      90.650002,
+      0,
+      11450427023
     ]
   ],
   "sharesOutstanding": [

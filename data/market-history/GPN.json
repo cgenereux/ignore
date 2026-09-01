@@ -2,7 +2,7 @@
   "ticker": "GPN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:59:37+00:00",
+  "generatedAt": "2026-08-31T22:59:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -38668,6 +38668,12 @@
       91.82,
       0,
       24297260489
+    ],
+    [
+      "2026-08-31",
+      91.050003,
+      0,
+      24093505217
     ]
   ],
   "sharesOutstanding": [

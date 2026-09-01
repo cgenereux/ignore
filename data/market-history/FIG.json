@@ -2,7 +2,7 @@
   "ticker": "FIG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:52:27+00:00",
+  "generatedAt": "2026-08-31T22:52:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1642,6 +1642,12 @@
       28.82,
       0,
       15361344204
+    ],
+    [
+      "2026-08-31",
+      27.49,
+      0,
+      14652441122
     ]
   ],
   "sharesOutstanding": [

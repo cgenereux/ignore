@@ -2,7 +2,7 @@
   "ticker": "META.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-29T00:03:15+00:00",
+  "generatedAt": "2026-09-01T00:06:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5330,6 +5330,12 @@
     [
       "2026-08-28",
       30.67,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      30.389999,
       0,
       null
     ]

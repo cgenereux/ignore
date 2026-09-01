@@ -2,7 +2,7 @@
   "ticker": "NTES",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T23:48:09+00:00",
+  "generatedAt": "2026-08-31T23:50:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39482,6 +39482,12 @@
     [
       "2026-08-28",
       122.760002,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      121.779999,
       0,
       null
     ]

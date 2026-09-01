@@ -2,7 +2,7 @@
   "ticker": "AES",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T22:54:54+00:00",
+  "generatedAt": "2026-08-31T22:55:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53152,6 +53152,12 @@
       14.73,
       0,
       10504812786
+    ],
+    [
+      "2026-08-31",
+      14.74,
+      0,
+      10511944526
     ]
   ],
   "sharesOutstanding": [
