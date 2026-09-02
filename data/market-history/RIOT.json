@@ -2,7 +2,7 @@
   "ticker": "RIOT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:06:55+00:00",
+  "generatedAt": "2026-09-01T23:06:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15730,6 +15730,12 @@
       18.995001,
       0,
       7128043785
+    ],
+    [
+      "2026-09-01",
+      17.790001,
+      0,
+      6675856797
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "UBSI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:00:06+00:00",
+  "generatedAt": "2026-09-01T23:56:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59318,6 +59318,12 @@
     [
       "2026-08-31",
       47.130001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      46.5,
       0,
       null
     ]

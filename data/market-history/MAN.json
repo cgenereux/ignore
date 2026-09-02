@@ -2,7 +2,7 @@
   "ticker": "MAN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:17:19+00:00",
+  "generatedAt": "2026-09-01T23:16:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -57280,6 +57280,12 @@
       62.950001,
       0,
       2927637214
+    ],
+    [
+      "2026-09-01",
+      61.189999,
+      0,
+      2845784193
     ]
   ],
   "sharesOutstanding": [

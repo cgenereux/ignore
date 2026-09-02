@@ -1,7 +1,7 @@
 {
   "ticker": "MT",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:49:32+00:00",
+  "generatedAt": "2026-09-01T23:46:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43873,6 +43873,12 @@
     [
       "2026-08-31",
       74.599998,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      73.309998,
       0,
       null
     ]

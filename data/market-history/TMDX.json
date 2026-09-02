@@ -2,7 +2,7 @@
   "ticker": "TMDX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:11:52+00:00",
+  "generatedAt": "2026-09-01T23:11:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11068,6 +11068,12 @@
       84.870003,
       0,
       2942879651
+    ],
+    [
+      "2026-09-01",
+      82.239998,
+      0,
+      2851683851
     ]
   ],
   "sharesOutstanding": [

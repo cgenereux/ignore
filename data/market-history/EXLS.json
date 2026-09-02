@@ -2,7 +2,7 @@
   "ticker": "EXLS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:25:28+00:00",
+  "generatedAt": "2026-09-01T23:23:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29980,6 +29980,12 @@
       38.080002,
       0,
       5773404240
+    ],
+    [
+      "2026-09-01",
+      37.419998,
+      0,
+      5673339435
     ]
   ],
   "sharesOutstanding": [

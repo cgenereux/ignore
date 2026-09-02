@@ -2,7 +2,7 @@
   "ticker": "CI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:54:42+00:00",
+  "generatedAt": "2026-09-01T22:54:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67174,6 +67174,12 @@
       276.079987,
       0,
       72951509827
+    ],
+    [
+      "2026-09-01",
+      283.059998,
+      0,
+      74795911322
     ]
   ],
   "sharesOutstanding": [

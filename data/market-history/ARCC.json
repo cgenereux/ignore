@@ -1,7 +1,7 @@
 {
   "ticker": "ARCC",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:28:44+00:00",
+  "generatedAt": "2026-09-01T23:26:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33073,6 +33073,12 @@
     [
       "2026-08-31",
       20.07,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      19.91,
       0,
       null
     ]

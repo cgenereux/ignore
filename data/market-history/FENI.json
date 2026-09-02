@@ -2,7 +2,7 @@
   "ticker": "FENI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:39:11+00:00",
+  "generatedAt": "2026-09-01T23:36:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4184,6 +4184,12 @@
     [
       "2026-08-31",
       41.310001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      40.98,
       0,
       null
     ]

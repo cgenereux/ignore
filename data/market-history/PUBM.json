@@ -2,7 +2,7 @@
   "ticker": "PUBM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:14:30+00:00",
+  "generatedAt": "2026-09-01T23:13:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8614,6 +8614,12 @@
       16.629999,
       0,
       757497476
+    ],
+    [
+      "2026-09-01",
+      16.27,
+      0,
+      741099513
     ]
   ],
   "sharesOutstanding": [

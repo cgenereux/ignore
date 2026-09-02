@@ -2,7 +2,7 @@
   "ticker": "SIZE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:56:06+00:00",
+  "generatedAt": "2026-09-01T23:52:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20186,6 +20186,12 @@
     [
       "2026-08-31",
       182.759995,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      180.800003,
       0,
       null
     ]

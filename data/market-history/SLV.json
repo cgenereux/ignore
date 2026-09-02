@@ -1,7 +1,7 @@
 {
   "ticker": "SLV",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:56:24+00:00",
+  "generatedAt": "2026-09-01T23:53:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30709,6 +30709,12 @@
     [
       "2026-08-31",
       60.130001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      57.919998,
       0,
       null
     ]

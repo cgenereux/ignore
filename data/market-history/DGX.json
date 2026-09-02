@@ -2,7 +2,7 @@
   "ticker": "DGX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:03:34+00:00",
+  "generatedAt": "2026-09-01T23:03:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44842,6 +44842,12 @@
       240.300003,
       0,
       26522718745
+    ],
+    [
+      "2026-09-01",
+      236.220001,
+      0,
+      26072395234
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "MC.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:48:36+00:00",
+  "generatedAt": "2026-09-01T23:45:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41102,6 +41102,12 @@
     [
       "2026-08-28",
       458.149994,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      453.299988,
       0,
       null
     ]

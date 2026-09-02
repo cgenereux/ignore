@@ -2,7 +2,7 @@
   "ticker": "AI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:08:00+00:00",
+  "generatedAt": "2026-09-01T23:07:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8632,6 +8632,12 @@
       10.82,
       0,
       1681961130
+    ],
+    [
+      "2026-09-01",
+      10.34,
+      0,
+      1607345548
     ]
   ],
   "sharesOutstanding": [

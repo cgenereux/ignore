@@ -2,7 +2,7 @@
   "ticker": "FTNT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:59:37+00:00",
+  "generatedAt": "2026-09-01T22:59:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25330,6 +25330,12 @@
       170.929993,
       0,
       125413669333
+    ],
+    [
+      "2026-09-01",
+      161.850006,
+      0,
+      118751559216
     ]
   ],
   "sharesOutstanding": [

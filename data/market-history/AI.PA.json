@@ -2,7 +2,7 @@
   "ticker": "AI.PA",
   "currency": "EUR",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:28:05+00:00",
+  "generatedAt": "2026-09-01T23:26:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41102,6 +41102,12 @@
     [
       "2026-08-28",
       169.800003,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      169.539993,
       0,
       null
     ]

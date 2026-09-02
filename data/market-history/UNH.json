@@ -2,7 +2,7 @@
   "ticker": "UNH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:44:29+00:00",
+  "generatedAt": "2026-09-01T22:44:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -63298,6 +63298,12 @@
       389.410004,
       0,
       349532412657
+    ],
+    [
+      "2026-09-01",
+      396.299988,
+      0,
+      355716826909
     ]
   ],
   "sharesOutstanding": [

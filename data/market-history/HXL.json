@@ -2,7 +2,7 @@
   "ticker": "HXL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:21:34+00:00",
+  "generatedAt": "2026-09-01T23:20:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       92.669998,
       0,
       7008025158
+    ],
+    [
+      "2026-09-01",
+      92.080002,
+      0,
+      6963407599
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "TW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:09:03+00:00",
+  "generatedAt": "2026-09-01T23:08:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11182,6 +11182,12 @@
       107.699997,
       0,
       22936777128
+    ],
+    [
+      "2026-09-01",
+      106.709999,
+      0,
+      22725938122
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "BYD",
   "currency": "HKD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:46:26+00:00",
+  "generatedAt": "2026-09-01T22:46:35+00:00",
   "source": "Yahoo Finance via yfinance; 1211.HK quoted in HKD",
   "schema": [
     "date",
@@ -35842,6 +35842,18 @@
       91.949997,
       0,
       106949835906
+    ],
+    [
+      "2026-08-31",
+      87.199997,
+      0,
+      101409441668
+    ],
+    [
+      "2026-09-01",
+      88.25,
+      0,
+      102617455726
     ]
   ],
   "sharesOutstanding": [

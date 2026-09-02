@@ -2,7 +2,7 @@
   "ticker": "ROK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:03:51+00:00",
+  "generatedAt": "2026-09-01T23:03:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67546,6 +67546,12 @@
       424.429993,
       0,
       47132388741
+    ],
+    [
+      "2026-09-01",
+      417.529999,
+      0,
+      46366153555
     ]
   ],
   "sharesOutstanding": [

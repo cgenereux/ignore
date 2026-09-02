@@ -2,7 +2,7 @@
   "ticker": "MBLY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:21:32+00:00",
+  "generatedAt": "2026-09-01T23:20:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5794,6 +5794,12 @@
       8.53,
       0,
       7252099984
+    ],
+    [
+      "2026-09-01",
+      8.36,
+      0,
+      7107568027
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "MPNGY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:52:23+00:00",
+  "generatedAt": "2026-09-01T22:52:28+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; 3690.HK quoted in HKD, converted to USD at Federal Reserve DEXHKUS; ordinary-share closes scaled by 2.030220 to match the ADR series where it begins (2019-11-04)",
   "schema": [
     "date",
@@ -11923,21 +11923,21 @@
     ],
     [
       "2026-08-27",
-      19.610001,
+      19.639999,
       0,
-      60514905679
-    ],
-    [
-      "2026-08-28",
-      20.01,
-      0,
-      61749271532
+      60607477125
     ],
     [
       "2026-08-31",
-      20.07,
+      19.98,
       0,
-      61934425119
+      61656693208
+    ],
+    [
+      "2026-09-01",
+      19.33,
+      0,
+      54053331221
     ]
   ],
   "sharesOutstanding": [
@@ -18135,6 +18135,11 @@
       "2026-07-02",
       3085920581,
       3085920581
+    ],
+    [
+      "2026-09-01",
+      2796344088,
+      2796344088
     ]
   ]
 }

@@ -2,7 +2,7 @@
   "ticker": "DANOY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:34:49+00:00",
+  "generatedAt": "2026-09-01T23:32:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44960,6 +44960,12 @@
     [
       "2026-08-31",
       14.86,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      14.87,
       0,
       null
     ]

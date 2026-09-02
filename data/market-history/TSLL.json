@@ -2,7 +2,7 @@
   "ticker": "TSLL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:05:28+00:00",
+  "generatedAt": "2026-09-02T00:01:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6122,6 +6122,12 @@
     [
       "2026-08-31",
       9.97,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      9.33,
       0,
       null
     ]

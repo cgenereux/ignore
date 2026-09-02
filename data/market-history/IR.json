@@ -2,7 +2,7 @@
   "ticker": "IR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:00:39+00:00",
+  "generatedAt": "2026-09-01T23:00:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14038,6 +14038,12 @@
       77.050003,
       0,
       29895357189
+    ],
+    [
+      "2026-09-01",
+      74.639999,
+      0,
+      28960277144
     ]
   ],
   "sharesOutstanding": [

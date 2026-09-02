@@ -1,7 +1,7 @@
 {
   "ticker": "FCNCA",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:38:45+00:00",
+  "generatedAt": "2026-09-01T23:36:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60247,6 +60247,12 @@
     [
       "2026-08-31",
       2164.399902,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      2141.159912,
       0,
       null
     ]

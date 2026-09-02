@@ -2,7 +2,7 @@
   "ticker": "MMM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:54:47+00:00",
+  "generatedAt": "2026-09-01T22:54:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97654,6 +97654,12 @@
       171.830002,
       0,
       88616583857
+    ],
+    [
+      "2026-09-01",
+      170.240005,
+      0,
+      87796587103
     ]
   ],
   "sharesOutstanding": [

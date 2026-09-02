@@ -1,7 +1,7 @@
 {
   "ticker": "WBI",
   "currency": "USD",
-  "generatedAt": "2026-09-01T00:03:23+00:00",
+  "generatedAt": "2026-09-01T23:59:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1447,6 +1447,12 @@
     [
       "2026-08-31",
       31.799999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      32.630001,
       0,
       null
     ]

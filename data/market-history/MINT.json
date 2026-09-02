@@ -2,7 +2,7 @@
   "ticker": "MINT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:49:08+00:00",
+  "generatedAt": "2026-09-01T23:46:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25334,6 +25334,12 @@
     [
       "2026-08-31",
       100.769997,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      100.459999,
       0,
       null
     ]

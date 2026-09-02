@@ -2,7 +2,7 @@
   "ticker": "RMD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:03:47+00:00",
+  "generatedAt": "2026-09-01T23:03:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47188,6 +47188,12 @@
       240.100006,
       0,
       34634979536
+    ],
+    [
+      "2026-09-01",
+      231.360001,
+      0,
+      33374213604
     ]
   ],
   "sharesOutstanding": [

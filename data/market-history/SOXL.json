@@ -2,7 +2,7 @@
   "ticker": "SOXL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:56:51+00:00",
+  "generatedAt": "2026-09-01T23:53:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24872,6 +24872,12 @@
     [
       "2026-08-31",
       112.790001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      105.910004,
       0,
       null
     ]

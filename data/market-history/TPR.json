@@ -2,7 +2,7 @@
   "ticker": "TPR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:54:31+00:00",
+  "generatedAt": "2026-09-01T22:54:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39082,6 +39082,12 @@
       123.389999,
       0,
       24602939027
+    ],
+    [
+      "2026-09-01",
+      122.139999,
+      0,
+      24353699429
     ]
   ],
   "sharesOutstanding": [

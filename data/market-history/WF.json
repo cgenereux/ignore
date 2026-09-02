@@ -2,7 +2,7 @@
   "ticker": "WF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:03:32+00:00",
+  "generatedAt": "2026-09-02T00:00:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34598,6 +34598,12 @@
     [
       "2026-08-31",
       73.139999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      74.349998,
       0,
       null
     ]

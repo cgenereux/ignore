@@ -1,7 +1,7 @@
 {
   "ticker": "FDCPX",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:38:48+00:00",
+  "generatedAt": "2026-09-01T23:36:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -62113,6 +62113,12 @@
     [
       "2026-08-28",
       212.440002,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      213.960007,
       0,
       null
     ]

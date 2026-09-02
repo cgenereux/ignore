@@ -2,7 +2,7 @@
   "ticker": "PEP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:53:45+00:00",
+  "generatedAt": "2026-09-01T22:53:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -82060,6 +82060,12 @@
       140.339996,
       0,
       191548875790
+    ],
+    [
+      "2026-09-01",
+      139.789993,
+      0,
+      190798181729
     ]
   ],
   "sharesOutstanding": [

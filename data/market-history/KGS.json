@@ -2,7 +2,7 @@
   "ticker": "KGS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:22:44+00:00",
+  "generatedAt": "2026-09-01T23:21:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4786,6 +4786,12 @@
       58.77,
       0,
       5941883902
+    ],
+    [
+      "2026-09-01",
+      59.549999,
+      0,
+      6020744969
     ]
   ],
   "sharesOutstanding": [

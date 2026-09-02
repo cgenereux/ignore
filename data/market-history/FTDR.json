@@ -2,7 +2,7 @@
   "ticker": "FTDR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:24:20+00:00",
+  "generatedAt": "2026-09-01T23:22:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12016,6 +12016,12 @@
       80.870003,
       0,
       5571402672
+    ],
+    [
+      "2026-09-01",
+      79.510002,
+      0,
+      5477707702
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "GIB-A.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:42:07+00:00",
+  "generatedAt": "2026-09-01T23:39:34+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45290,6 +45290,12 @@
     [
       "2026-08-31",
       104.360001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      102.470001,
       0,
       null
     ]

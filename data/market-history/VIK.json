@@ -1,7 +1,7 @@
 {
   "ticker": "VIK",
   "currency": "USD",
-  "generatedAt": "2026-09-01T00:01:51+00:00",
+  "generatedAt": "2026-09-01T23:58:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3517,6 +3517,12 @@
     [
       "2026-08-31",
       86.139999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      85.029999,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "LPLA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:08:59+00:00",
+  "generatedAt": "2026-09-01T23:08:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -23818,6 +23818,12 @@
       370.13501,
       0,
       29145278278
+    ],
+    [
+      "2026-09-01",
+      357.630005,
+      0,
+      28160605557
     ]
   ],
   "sharesOutstanding": [

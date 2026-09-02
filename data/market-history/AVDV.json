@@ -1,7 +1,8 @@
 {
   "ticker": "AVDV",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:29:17+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T23:27:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10445,14 +10446,14 @@
       null
     ],
     [
-      "2026-08-28",
-      112.419998,
+      "2026-08-31",
+      112.459999,
       0,
       null
     ],
     [
-      "2026-08-31",
-      112.459999,
+      "2026-09-01",
+      111.459999,
       0,
       null
     ]

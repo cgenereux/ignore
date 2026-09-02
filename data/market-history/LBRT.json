@@ -2,7 +2,7 @@
   "ticker": "LBRT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:13:42+00:00",
+  "generatedAt": "2026-09-01T23:12:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13030,6 +13030,12 @@
       19.709999,
       0,
       3216502660
+    ],
+    [
+      "2026-09-01",
+      20.1,
+      0,
+      3280147524
     ]
   ],
   "sharesOutstanding": [

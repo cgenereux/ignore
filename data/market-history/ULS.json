@@ -2,7 +2,7 @@
   "ticker": "ULS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:09:58+00:00",
+  "generatedAt": "2026-09-01T23:09:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3598,6 +3598,12 @@
       74.519997,
       0,
       15045451174
+    ],
+    [
+      "2026-09-01",
+      73.459999,
+      0,
+      14831439604
     ]
   ],
   "sharesOutstanding": [

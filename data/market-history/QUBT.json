@@ -2,7 +2,7 @@
   "ticker": "QUBT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:08:02+00:00",
+  "generatedAt": "2026-09-01T23:07:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29566,6 +29566,12 @@
       8.23,
       0,
       1862834562
+    ],
+    [
+      "2026-09-01",
+      7.9,
+      0,
+      1788140223
     ]
   ],
   "sharesOutstanding": [

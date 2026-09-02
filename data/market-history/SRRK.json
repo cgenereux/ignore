@@ -2,7 +2,7 @@
   "ticker": "SRRK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:23:18+00:00",
+  "generatedAt": "2026-09-01T23:21:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12472,6 +12472,12 @@
       56.799999,
       0,
       6917403925
+    ],
+    [
+      "2026-09-01",
+      55.889999,
+      0,
+      6806579337
     ]
   ],
   "sharesOutstanding": [

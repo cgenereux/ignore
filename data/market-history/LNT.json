@@ -2,7 +2,7 @@
   "ticker": "LNT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:55:27+00:00",
+  "generatedAt": "2026-09-01T22:55:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80980,6 +80980,12 @@
       67.980003,
       0,
       17626174708
+    ],
+    [
+      "2026-09-01",
+      67.919998,
+      0,
+      17610616281
     ]
   ],
   "sharesOutstanding": [

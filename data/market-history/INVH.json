@@ -2,7 +2,7 @@
   "ticker": "INVH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:00:52+00:00",
+  "generatedAt": "2026-09-01T23:00:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14458,6 +14458,12 @@
       29.139999,
       0,
       17310382235
+    ],
+    [
+      "2026-09-01",
+      29.129999,
+      0,
+      17304441680
     ]
   ],
   "sharesOutstanding": [

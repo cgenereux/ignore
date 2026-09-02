@@ -2,7 +2,7 @@
   "ticker": "NYT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:11:30+00:00",
+  "generatedAt": "2026-09-01T23:10:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80680,6 +80680,12 @@
       67.269997,
       0,
       10849546289
+    ],
+    [
+      "2026-09-01",
+      67.730003,
+      0,
+      10923737821
     ]
   ],
   "sharesOutstanding": [

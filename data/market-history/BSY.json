@@ -2,7 +2,7 @@
   "ticker": "BSY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:11:12+00:00",
+  "generatedAt": "2026-09-01T23:10:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8956,6 +8956,12 @@
       36.75,
       0,
       11101913671
+    ],
+    [
+      "2026-09-01",
+      35.619999,
+      0,
+      10760548384
     ]
   ],
   "sharesOutstanding": [

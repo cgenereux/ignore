@@ -2,7 +2,7 @@
   "ticker": "SRAD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:57:46+00:00",
+  "generatedAt": "2026-09-01T23:54:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7484,6 +7484,12 @@
     [
       "2026-08-31",
       12.43,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      12.31,
       0,
       null
     ]

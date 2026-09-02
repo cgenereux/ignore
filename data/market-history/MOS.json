@@ -2,7 +2,7 @@
   "ticker": "MOS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:02:19+00:00",
+  "generatedAt": "2026-09-01T23:01:49+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58342,6 +58342,12 @@
       24.120001,
       0,
       7667643248
+    ],
+    [
+      "2026-09-01",
+      24.780001,
+      0,
+      7877454326
     ]
   ],
   "sharesOutstanding": [

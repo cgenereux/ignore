@@ -1,7 +1,7 @@
 {
   "ticker": "BNDX",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:31:21+00:00",
+  "generatedAt": "2026-09-01T23:29:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19993,6 +19993,12 @@
     [
       "2026-08-31",
       47.549999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      47.27,
       0,
       null
     ]

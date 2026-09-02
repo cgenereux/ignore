@@ -1,7 +1,7 @@
 {
   "ticker": "TLH",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:59:20+00:00",
+  "generatedAt": "2026-09-01T23:56:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29629,6 +29629,12 @@
     [
       "2026-08-31",
       97.0,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      96.230003,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "IDEV",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:44:11+00:00",
+  "generatedAt": "2026-09-01T23:41:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14215,6 +14215,12 @@
     [
       "2026-08-31",
       92.629997,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      91.709999,
       0,
       null
     ]

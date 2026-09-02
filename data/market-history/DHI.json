@@ -2,7 +2,7 @@
   "ticker": "DHI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:58:24+00:00",
+  "generatedAt": "2026-09-01T22:58:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51724,6 +51724,12 @@
       144.559998,
       0,
       40433614475
+    ],
+    [
+      "2026-09-01",
+      141.369995,
+      0,
+      39541366750
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ENO",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:37:23+00:00",
+  "generatedAt": "2026-09-01T23:35:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15751,6 +15751,12 @@
     [
       "2026-08-31",
       20.84,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      20.855,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "NWS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:02:33+00:00",
+  "generatedAt": "2026-09-01T23:02:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19930,6 +19930,12 @@
       34.41,
       0,
       18483673157
+    ],
+    [
+      "2026-09-01",
+      34.23,
+      0,
+      18386984124
     ]
   ],
   "sharesOutstanding": [

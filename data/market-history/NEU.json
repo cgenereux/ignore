@@ -2,7 +2,7 @@
   "ticker": "NEU",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:21:06+00:00",
+  "generatedAt": "2026-09-01T23:19:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       897.700012,
       0,
       8255613778
+    ],
+    [
+      "2026-09-01",
+      903.119995,
+      0,
+      8305458142
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "IEI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:44:20+00:00",
+  "generatedAt": "2026-09-01T23:41:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29648,6 +29648,12 @@
     [
       "2026-08-31",
       116.169998,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      115.529999,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "ALSN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:11:32+00:00",
+  "generatedAt": "2026-09-01T23:10:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21826,6 +21826,12 @@
       125.709999,
       0,
       10380885081
+    ],
+    [
+      "2026-09-01",
+      122.709999,
+      0,
+      10133150967
     ]
   ],
   "sharesOutstanding": [

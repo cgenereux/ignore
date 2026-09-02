@@ -2,7 +2,7 @@
   "ticker": "AGL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:17:15+00:00",
+  "generatedAt": "2026-09-01T23:16:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8098,6 +8098,12 @@
       87.889999,
       0,
       1475779437
+    ],
+    [
+      "2026-09-01",
+      87.470001,
+      0,
+      1468727159
     ]
   ],
   "sharesOutstanding": [

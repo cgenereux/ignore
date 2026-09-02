@@ -2,7 +2,7 @@
   "ticker": "CMS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:57:35+00:00",
+  "generatedAt": "2026-09-01T22:57:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80980,6 +80980,12 @@
       68.059998,
       0,
       21025067358
+    ],
+    [
+      "2026-09-01",
+      67.959999,
+      0,
+      20994175869
     ]
   ],
   "sharesOutstanding": [

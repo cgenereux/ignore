@@ -2,7 +2,7 @@
   "ticker": "VSS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:02:48+00:00",
+  "generatedAt": "2026-09-01T23:59:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -26276,6 +26276,12 @@
     [
       "2026-08-31",
       160.100006,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      158.529999,
       0,
       null
     ]

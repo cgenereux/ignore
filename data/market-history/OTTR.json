@@ -2,7 +2,7 @@
   "ticker": "OTTR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:51:16+00:00",
+  "generatedAt": "2026-09-01T23:48:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80978,6 +80978,12 @@
     [
       "2026-08-31",
       90.470001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      89.589996,
       0,
       null
     ]

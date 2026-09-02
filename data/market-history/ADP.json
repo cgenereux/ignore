@@ -2,7 +2,7 @@
   "ticker": "ADP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:56:11+00:00",
+  "generatedAt": "2026-09-01T22:56:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       286.160004,
       0,
       113680706275
+    ],
+    [
+      "2026-09-01",
+      283.48999,
+      0,
+      112620009433
     ]
   ],
   "sharesOutstanding": [

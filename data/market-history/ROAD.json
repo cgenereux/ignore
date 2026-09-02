@@ -1,7 +1,7 @@
 {
   "ticker": "ROAD",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:16:10+00:00",
+  "generatedAt": "2026-09-01T23:15:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12559,6 +12559,12 @@
     [
       "2026-08-31",
       106.199997,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      100.559998,
       0,
       null
     ]

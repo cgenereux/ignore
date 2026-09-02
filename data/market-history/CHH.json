@@ -2,7 +2,7 @@
   "ticker": "CHH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:12:39+00:00",
+  "generatedAt": "2026-09-01T23:11:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45100,6 +45100,12 @@
       103.360001,
       0,
       4652091197
+    ],
+    [
+      "2026-09-01",
+      98.120003,
+      0,
+      4416246114
     ]
   ],
   "sharesOutstanding": [

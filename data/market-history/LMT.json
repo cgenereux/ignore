@@ -2,7 +2,7 @@
   "ticker": "LMT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:45:07+00:00",
+  "generatedAt": "2026-09-01T22:45:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -97648,6 +97648,12 @@
       561.22998,
       0,
       129526689690
+    ],
+    [
+      "2026-09-01",
+      544.5,
+      0,
+      125665565008
     ]
   ],
   "sharesOutstanding": [

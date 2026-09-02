@@ -2,7 +2,7 @@
   "ticker": "TRV",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:05:03+00:00",
+  "generatedAt": "2026-09-01T23:04:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -76822,6 +76822,12 @@
       365.929993,
       0,
       76323856273
+    ],
+    [
+      "2026-09-01",
+      363.920013,
+      0,
+      75904624807
     ]
   ],
   "sharesOutstanding": [

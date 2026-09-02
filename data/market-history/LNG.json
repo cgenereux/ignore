@@ -2,7 +2,7 @@
   "ticker": "LNG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:08:47+00:00",
+  "generatedAt": "2026-09-01T23:08:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48952,6 +48952,12 @@
       291.690002,
       0,
       60243949051
+    ],
+    [
+      "2026-09-01",
+      294.130005,
+      0,
+      60747892901
     ]
   ],
   "sharesOutstanding": [

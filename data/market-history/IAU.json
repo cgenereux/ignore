@@ -1,7 +1,8 @@
 {
   "ticker": "IAU",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:43:43+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T23:41:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32585,14 +32586,14 @@
       null
     ],
     [
-      "2026-08-28",
-      83.82,
+      "2026-08-31",
+      83.709999,
       0,
       null
     ],
     [
-      "2026-08-31",
-      83.709999,
+      "2026-09-01",
+      81.349998,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "ARGX",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:28:46+00:00",
+  "generatedAt": "2026-09-01T23:26:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14011,6 +14011,12 @@
     [
       "2026-08-31",
       1031.660034,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      1028.51001,
       0,
       null
     ]

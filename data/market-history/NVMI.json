@@ -1,7 +1,7 @@
 {
   "ticker": "NVMI",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:50:36+00:00",
+  "generatedAt": "2026-09-01T23:47:44+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39823,6 +39823,12 @@
     [
       "2026-08-31",
       348.450012,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      337.640015,
       0,
       null
     ]

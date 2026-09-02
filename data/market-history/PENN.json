@@ -2,7 +2,7 @@
   "ticker": "PENN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:14:20+00:00",
+  "generatedAt": "2026-09-01T23:13:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48718,6 +48718,12 @@
       16.709999,
       0,
       2241905566
+    ],
+    [
+      "2026-09-01",
+      16.4,
+      0,
+      2200314329
     ]
   ],
   "sharesOutstanding": [

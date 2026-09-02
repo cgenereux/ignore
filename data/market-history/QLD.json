@@ -2,7 +2,7 @@
   "ticker": "QLD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:52:43+00:00",
+  "generatedAt": "2026-09-01T23:49:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30488,6 +30488,12 @@
     [
       "2026-08-31",
       90.239998,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      87.919998,
       0,
       null
     ]

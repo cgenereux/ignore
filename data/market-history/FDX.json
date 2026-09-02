@@ -2,7 +2,7 @@
   "ticker": "FDX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:53:38+00:00",
+  "generatedAt": "2026-09-01T22:53:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -73192,6 +73192,12 @@
       327.399994,
       0,
       77485898974
+    ],
+    [
+      "2026-09-01",
+      324.880005,
+      0,
+      76889492078
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "RNMBY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:52:25+00:00",
+  "generatedAt": "2026-09-01T22:52:30+00:00",
   "source": "Yahoo Finance via yfinance; earlier closes from Yahoo Finance via yfinance; RHM.DE quoted in EUR, converted to USD at Federal Reserve DEXUSEU; ordinary-share closes scaled by 0.186188 to match the ADR series where it begins (2012-11-26)",
   "schema": [
     "date",
@@ -42274,6 +42274,12 @@
       258.230011,
       0,
       60255472106
+    ],
+    [
+      "2026-09-01",
+      249.0,
+      0,
+      58101738435
     ]
   ],
   "sharesOutstanding": [

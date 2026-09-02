@@ -2,7 +2,7 @@
   "ticker": "PYLD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:52:39+00:00",
+  "generatedAt": "2026-09-01T23:49:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4814,6 +4814,12 @@
     [
       "2026-08-31",
       26.17,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      25.950001,
       0,
       null
     ]

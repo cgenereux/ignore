@@ -2,7 +2,7 @@
   "ticker": "CFG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:57:29+00:00",
+  "generatedAt": "2026-09-01T22:57:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18016,6 +18016,12 @@
       68.870003,
       0,
       29006446546
+    ],
+    [
+      "2026-09-01",
+      68.160004,
+      0,
+      28707411412
     ]
   ],
   "sharesOutstanding": [

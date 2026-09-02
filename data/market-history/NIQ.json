@@ -2,7 +2,7 @@
   "ticker": "NIQ",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:25:52+00:00",
+  "generatedAt": "2026-09-01T23:24:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1666,6 +1666,12 @@
       19.059999,
       0,
       5621858610
+    ],
+    [
+      "2026-09-01",
+      18.719999,
+      0,
+      5521573572
     ]
   ],
   "sharesOutstanding": [

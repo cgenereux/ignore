@@ -2,7 +2,7 @@
   "ticker": "HMC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:47:27+00:00",
+  "generatedAt": "2026-09-01T22:47:32+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       31.959999,
       0,
       41468955788
+    ],
+    [
+      "2026-09-01",
+      32.029999,
+      0,
+      41559782269
     ]
   ],
   "sharesOutstanding": [

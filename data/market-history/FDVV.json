@@ -1,7 +1,7 @@
 {
   "ticker": "FDVV",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:39:01+00:00",
+  "generatedAt": "2026-09-01T23:36:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15025,6 +15025,12 @@
     [
       "2026-08-31",
       62.759998,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      62.450001,
       0,
       null
     ]

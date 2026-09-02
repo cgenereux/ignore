@@ -2,7 +2,7 @@
   "ticker": "AMTM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:16:17+00:00",
+  "generatedAt": "2026-09-01T23:15:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -2917,6 +2917,12 @@
     ],
     [
       "2026-08-31",
+      19.99,
+      0,
+      4883953666
+    ],
+    [
+      "2026-09-01",
       19.99,
       0,
       4883953666

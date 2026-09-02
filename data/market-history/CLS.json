@@ -2,7 +2,7 @@
   "ticker": "CLS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:47:12+00:00",
+  "generatedAt": "2026-09-01T22:47:20+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42526,6 +42526,12 @@
       299.399994,
       0,
       37757667660
+    ],
+    [
+      "2026-09-01",
+      292.589996,
+      0,
+      36898851261
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "NXPI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:02:47+00:00",
+  "generatedAt": "2026-09-01T23:02:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -24256,6 +24256,12 @@
       224.639999,
       0,
       56646159893
+    ],
+    [
+      "2026-09-01",
+      222.399994,
+      0,
+      56081310759
     ]
   ],
   "sharesOutstanding": [

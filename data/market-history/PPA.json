@@ -2,7 +2,7 @@
   "ticker": "PPA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:52:10+00:00",
+  "generatedAt": "2026-09-01T23:49:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31466,6 +31466,12 @@
     [
       "2026-08-31",
       167.389999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      165.119995,
       0,
       null
     ]

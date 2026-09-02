@@ -2,7 +2,7 @@
   "ticker": "MPLX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:13:55+00:00",
+  "generatedAt": "2026-09-01T23:12:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20884,6 +20884,12 @@
       59.169998,
       0,
       59989990855
+    ],
+    [
+      "2026-09-01",
+      59.09,
+      0,
+      59908884206
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "LOCO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:15:18+00:00",
+  "generatedAt": "2026-09-01T23:14:16+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18250,6 +18250,12 @@
       15.27,
       0,
       465052414
+    ],
+    [
+      "2026-09-01",
+      14.99,
+      0,
+      456524910
     ]
   ],
   "sharesOutstanding": [

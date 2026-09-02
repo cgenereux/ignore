@@ -2,7 +2,7 @@
   "ticker": "PIPR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:16:50+00:00",
+  "generatedAt": "2026-09-01T23:15:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34216,6 +34216,12 @@
       75.059998,
       0,
       5304511901
+    ],
+    [
+      "2026-09-01",
+      74.489998,
+      0,
+      5264229826
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "AHT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:17:08+00:00",
+  "generatedAt": "2026-09-01T23:15:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34732,6 +34732,12 @@
       3.2,
       0,
       20703405
+    ],
+    [
+      "2026-09-01",
+      3.13,
+      0,
+      20250519
     ]
   ],
   "sharesOutstanding": [

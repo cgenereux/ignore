@@ -2,7 +2,7 @@
   "ticker": "CAI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:23:40+00:00",
+  "generatedAt": "2026-09-01T23:22:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1822,6 +1822,12 @@
       25.49,
       0,
       7205530916
+    ],
+    [
+      "2026-09-01",
+      24.780001,
+      0,
+      7004827816
     ]
   ],
   "sharesOutstanding": [

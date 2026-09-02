@@ -1,7 +1,8 @@
 {
   "ticker": "ITRI",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:45:35+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T23:42:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -49553,14 +49554,14 @@
       null
     ],
     [
-      "2026-08-28",
-      97.529999,
+      "2026-08-31",
+      97.010002,
       0,
       null
     ],
     [
-      "2026-08-31",
-      97.010002,
+      "2026-09-01",
+      95.099998,
       0,
       null
     ]

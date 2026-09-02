@@ -2,7 +2,7 @@
   "ticker": "FIGR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:21:31+00:00",
+  "generatedAt": "2026-09-01T23:20:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1474,6 +1474,12 @@
       36.689999,
       0,
       8232423816
+    ],
+    [
+      "2026-09-01",
+      33.700001,
+      0,
+      7561534458
     ]
   ],
   "sharesOutstanding": [

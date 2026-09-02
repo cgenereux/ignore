@@ -1,7 +1,8 @@
 {
   "ticker": "GDS",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:41:47+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T23:39:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14813,14 +14814,14 @@
       null
     ],
     [
-      "2026-08-28",
-      33.41,
+      "2026-08-31",
+      31.85,
       0,
       null
     ],
     [
-      "2026-08-31",
-      31.85,
+      "2026-09-01",
+      31.24,
       0,
       null
     ]

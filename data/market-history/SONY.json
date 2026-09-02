@@ -2,7 +2,7 @@
   "ticker": "SONY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:52:32+00:00",
+  "generatedAt": "2026-09-01T22:52:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80980,6 +80980,12 @@
       24.559999,
       0,
       143769469164
+    ],
+    [
+      "2026-09-01",
+      24.809999,
+      0,
+      145232920632
     ]
   ],
   "sharesOutstanding": [

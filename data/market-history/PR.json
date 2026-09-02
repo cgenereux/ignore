@@ -2,7 +2,7 @@
   "ticker": "PR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:09:29+00:00",
+  "generatedAt": "2026-09-01T23:08:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -15664,6 +15664,12 @@
       23.290001,
       0,
       19506703972
+    ],
+    [
+      "2026-09-01",
+      23.790001,
+      0,
+      19925482487
     ]
   ],
   "sharesOutstanding": [

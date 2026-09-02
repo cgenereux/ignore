@@ -1,7 +1,7 @@
 {
   "ticker": "FUTU",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:41:28+00:00",
+  "generatedAt": "2026-09-01T23:38:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11293,6 +11293,12 @@
     [
       "2026-08-31",
       122.139999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      119.279999,
       0,
       null
     ]

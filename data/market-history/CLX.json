@@ -2,7 +2,7 @@
   "ticker": "CLX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:57:31+00:00",
+  "generatedAt": "2026-09-01T22:57:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80980,6 +80980,12 @@
       97.68,
       0,
       11812540605
+    ],
+    [
+      "2026-09-01",
+      94.970001,
+      0,
+      11484817692
     ]
   ],
   "sharesOutstanding": [

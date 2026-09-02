@@ -2,7 +2,7 @@
   "ticker": "VWOB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:03:13+00:00",
+  "generatedAt": "2026-09-01T23:59:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19976,6 +19976,12 @@
     [
       "2026-08-31",
       65.940002,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      65.43,
       0,
       null
     ]

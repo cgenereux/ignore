@@ -1,7 +1,7 @@
 {
   "ticker": "THRO",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:59:09+00:00",
+  "generatedAt": "2026-09-01T23:55:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7087,6 +7087,12 @@
     [
       "2026-08-31",
       43.84,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      43.549999,
       0,
       null
     ]

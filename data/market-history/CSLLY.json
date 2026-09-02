@@ -2,7 +2,7 @@
   "ticker": "CSLLY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:34:25+00:00",
+  "generatedAt": "2026-09-01T23:32:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25153,19 +25153,19 @@
     ],
     [
       "2026-08-27",
-      31.33,
-      0,
-      null
-    ],
-    [
-      "2026-08-28",
-      30.92,
+      31.34,
       0,
       null
     ],
     [
       "2026-08-31",
-      30.65,
+      30.559999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      30.629999,
       0,
       null
     ]

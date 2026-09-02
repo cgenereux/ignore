@@ -2,7 +2,7 @@
   "ticker": "L.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:47:32+00:00",
+  "generatedAt": "2026-09-01T23:44:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -47708,6 +47708,12 @@
     [
       "2026-08-31",
       60.639999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      62.099998,
       0,
       null
     ]

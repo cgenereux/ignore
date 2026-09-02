@@ -2,7 +2,7 @@
   "ticker": "SANM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:11:06+00:00",
+  "generatedAt": "2026-09-01T23:10:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50428,6 +50428,12 @@
       196.720001,
       0,
       10543671938
+    ],
+    [
+      "2026-09-01",
+      187.300003,
+      0,
+      10038784942
     ]
   ],
   "sharesOutstanding": [

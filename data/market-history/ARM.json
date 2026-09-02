@@ -2,7 +2,7 @@
   "ticker": "ARM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:46:47+00:00",
+  "generatedAt": "2026-09-01T22:46:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4468,6 +4468,12 @@
       241.910004,
       0,
       258359537738
+    ],
+    [
+      "2026-09-01",
+      234.820007,
+      0,
+      250787431795
     ]
   ],
   "sharesOutstanding": [

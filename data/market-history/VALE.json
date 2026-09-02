@@ -2,7 +2,7 @@
   "ticker": "VALE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:00:48+00:00",
+  "generatedAt": "2026-09-01T23:57:30+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36914,6 +36914,12 @@
     [
       "2026-08-31",
       15.09,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      15.12,
       0,
       null
     ]

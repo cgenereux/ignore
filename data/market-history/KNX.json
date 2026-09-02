@@ -2,7 +2,7 @@
   "ticker": "KNX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:10:57+00:00",
+  "generatedAt": "2026-09-01T23:10:05+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -48100,6 +48100,12 @@
       68.510002,
       0,
       11150413908
+    ],
+    [
+      "2026-09-01",
+      66.730003,
+      0,
+      10860708426
     ]
   ],
   "sharesOutstanding": [

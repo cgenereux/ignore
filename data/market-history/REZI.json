@@ -2,7 +2,7 @@
   "ticker": "REZI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:53:23+00:00",
+  "generatedAt": "2026-09-01T23:50:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -11822,6 +11822,12 @@
     [
       "2026-08-31",
       19.360001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      19.24,
       0,
       null
     ]

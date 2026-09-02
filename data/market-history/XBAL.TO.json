@@ -2,7 +2,7 @@
   "ticker": "XBAL.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:04:05+00:00",
+  "generatedAt": "2026-09-02T00:00:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28904,6 +28904,12 @@
     [
       "2026-08-31",
       36.139999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      35.849998,
       0,
       null
     ]

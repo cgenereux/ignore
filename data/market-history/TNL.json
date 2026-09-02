@@ -2,7 +2,7 @@
   "ticker": "TNL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:17:04+00:00",
+  "generatedAt": "2026-09-01T23:15:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30376,6 +30376,12 @@
       68.760002,
       0,
       4213756296
+    ],
+    [
+      "2026-09-01",
+      66.160004,
+      0,
+      4054422968
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "DUK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:58:27+00:00",
+  "generatedAt": "2026-09-01T22:58:14+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       119.910004,
       0,
       93494092818
+    ],
+    [
+      "2026-09-01",
+      120.389999,
+      0,
+      93868346539
     ]
   ],
   "sharesOutstanding": [

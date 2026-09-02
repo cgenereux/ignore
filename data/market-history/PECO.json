@@ -2,7 +2,7 @@
   "ticker": "PECO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:24:36+00:00",
+  "generatedAt": "2026-09-01T23:23:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8320,6 +8320,12 @@
       38.650002,
       0,
       4974255196
+    ],
+    [
+      "2026-09-01",
+      38.919998,
+      0,
+      5009003764
     ]
   ],
   "sharesOutstanding": [

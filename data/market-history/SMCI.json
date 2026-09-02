@@ -2,7 +2,7 @@
   "ticker": "SMCI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:54:00+00:00",
+  "generatedAt": "2026-09-01T22:53:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29332,6 +29332,12 @@
       37.279999,
       0,
       24115425800
+    ],
+    [
+      "2026-09-01",
+      36.709999,
+      0,
+      23746708229
     ]
   ],
   "sharesOutstanding": [

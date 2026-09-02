@@ -2,7 +2,7 @@
   "ticker": "MHK",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:16:05+00:00",
+  "generatedAt": "2026-09-01T23:14:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -51994,6 +51994,12 @@
       128.25,
       0,
       8687417096
+    ],
+    [
+      "2026-09-01",
+      125.040001,
+      0,
+      8469977713
     ]
   ],
   "sharesOutstanding": [

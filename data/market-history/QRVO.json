@@ -2,7 +2,7 @@
   "ticker": "QRVO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:14:34+00:00",
+  "generatedAt": "2026-09-01T23:13:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17584,6 +17584,12 @@
       96.080002,
       0,
       8476334660
+    ],
+    [
+      "2026-09-01",
+      96.400002,
+      0,
+      8504565556
     ]
   ],
   "sharesOutstanding": [

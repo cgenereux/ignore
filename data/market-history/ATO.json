@@ -2,7 +2,7 @@
   "ticker": "ATO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:56:08+00:00",
+  "generatedAt": "2026-09-01T22:56:03+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64522,6 +64522,12 @@
       166.130005,
       0,
       28074069135
+    ],
+    [
+      "2026-09-01",
+      167.699997,
+      0,
+      28339379822
     ]
   ],
   "sharesOutstanding": [

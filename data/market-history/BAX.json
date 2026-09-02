@@ -2,7 +2,7 @@
   "ticker": "BAX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:56:22+00:00",
+  "generatedAt": "2026-09-01T22:56:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -67816,6 +67816,12 @@
       26.0,
       0,
       13441895974
+    ],
+    [
+      "2026-09-01",
+      25.48,
+      0,
+      13173057818
     ]
   ],
   "sharesOutstanding": [

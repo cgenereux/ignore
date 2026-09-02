@@ -2,7 +2,7 @@
   "ticker": "SGHC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:55:36+00:00",
+  "generatedAt": "2026-09-01T23:52:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8696,6 +8696,12 @@
     [
       "2026-08-31",
       13.54,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      13.46,
       0,
       null
     ]

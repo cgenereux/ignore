@@ -2,7 +2,7 @@
   "ticker": "DFAC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:35:08+00:00",
+  "generatedAt": "2026-09-01T23:32:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7868,6 +7868,12 @@
     [
       "2026-08-31",
       45.380001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      45.07,
       0,
       null
     ]

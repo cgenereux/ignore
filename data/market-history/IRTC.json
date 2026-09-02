@@ -2,7 +2,7 @@
   "ticker": "IRTC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:45:24+00:00",
+  "generatedAt": "2026-09-01T23:42:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14876,6 +14876,12 @@
     [
       "2026-08-31",
       118.940002,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      122.349998,
       0,
       null
     ]

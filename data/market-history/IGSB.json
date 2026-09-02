@@ -1,7 +1,7 @@
 {
   "ticker": "IGSB",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:44:37+00:00",
+  "generatedAt": "2026-09-01T23:41:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29647,6 +29647,12 @@
     [
       "2026-08-31",
       52.09,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      51.77,
       0,
       null
     ]

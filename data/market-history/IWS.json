@@ -1,7 +1,8 @@
 {
   "ticker": "IWS",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:46:06+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T23:43:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -37835,14 +37836,14 @@
       null
     ],
     [
-      "2026-08-28",
-      170.75,
+      "2026-08-31",
+      169.770004,
       0,
       null
     ],
     [
-      "2026-08-31",
-      169.770004,
+      "2026-09-01",
+      168.380005,
       0,
       null
     ]

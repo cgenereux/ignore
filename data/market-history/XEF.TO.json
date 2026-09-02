@@ -2,7 +2,7 @@
   "ticker": "XEF.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:05:37+00:00",
+  "generatedAt": "2026-09-02T00:02:07+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20138,6 +20138,12 @@
     [
       "2026-08-31",
       52.369999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      52.09,
       0,
       null
     ]

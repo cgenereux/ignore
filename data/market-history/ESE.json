@@ -1,7 +1,7 @@
 {
   "ticker": "ESE",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:37:45+00:00",
+  "generatedAt": "2026-09-01T23:35:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -54271,6 +54271,12 @@
     [
       "2026-08-31",
       273.029999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      267.630005,
       0,
       null
     ]

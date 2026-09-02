@@ -2,7 +2,7 @@
   "ticker": "GEHC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:59:51+00:00",
+  "generatedAt": "2026-09-01T22:59:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5584,6 +5584,12 @@
       71.230003,
       0,
       32173613246
+    ],
+    [
+      "2026-09-01",
+      70.419998,
+      0,
+      31807745039
     ]
   ],
   "sharesOutstanding": [

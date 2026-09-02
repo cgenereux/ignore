@@ -2,7 +2,7 @@
   "ticker": "RSP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:53:58+00:00",
+  "generatedAt": "2026-09-01T23:50:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -35234,6 +35234,12 @@
     [
       "2026-08-31",
       219.389999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      217.589996,
       0,
       null
     ]

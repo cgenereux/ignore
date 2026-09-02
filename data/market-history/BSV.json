@@ -1,7 +1,7 @@
 {
   "ticker": "BSV",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:31:52+00:00",
+  "generatedAt": "2026-09-01T23:29:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29287,6 +29287,12 @@
     [
       "2026-08-31",
       77.5,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      77.110001,
       0,
       null
     ]

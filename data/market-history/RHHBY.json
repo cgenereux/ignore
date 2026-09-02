@@ -2,7 +2,7 @@
   "ticker": "RHHBY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:53:28+00:00",
+  "generatedAt": "2026-09-01T23:50:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34772,6 +34772,12 @@
     [
       "2026-08-31",
       53.639999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      53.150002,
       0,
       null
     ]

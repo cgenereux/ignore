@@ -2,7 +2,7 @@
   "ticker": "CNS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:16:59+00:00",
+  "generatedAt": "2026-09-01T23:15:48+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33286,6 +33286,12 @@
       80.669998,
       0,
       4148174973
+    ],
+    [
+      "2026-09-01",
+      77.489998,
+      0,
+      3984654482
     ]
   ],
   "sharesOutstanding": [

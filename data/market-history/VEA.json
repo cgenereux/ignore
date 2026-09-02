@@ -1,7 +1,7 @@
 {
   "ticker": "VEA",
   "currency": "USD",
-  "generatedAt": "2026-09-01T00:01:19+00:00",
+  "generatedAt": "2026-09-01T23:57:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28837,6 +28837,12 @@
     [
       "2026-08-31",
       72.919998,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      72.110001,
       0,
       null
     ]

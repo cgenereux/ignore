@@ -2,7 +2,7 @@
   "ticker": "XSP.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:04:53+00:00",
+  "generatedAt": "2026-09-02T00:01:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36686,6 +36686,12 @@
     [
       "2026-08-31",
       77.139999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      76.580002,
       0,
       null
     ]

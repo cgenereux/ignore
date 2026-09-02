@@ -2,7 +2,7 @@
   "ticker": "ALL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:55:29+00:00",
+  "generatedAt": "2026-09-01T22:55:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50218,6 +50218,12 @@
       257.799988,
       0,
       65186776423
+    ],
+    [
+      "2026-09-01",
+      257.869995,
+      0,
+      65204478332
     ]
   ],
   "sharesOutstanding": [

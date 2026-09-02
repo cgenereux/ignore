@@ -2,7 +2,7 @@
   "ticker": "CBA.AX",
   "currency": "AUD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:39:06+00:00",
+  "generatedAt": "2026-09-01T23:30:27+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53630,6 +53630,18 @@
     [
       "2026-08-28",
       157.25,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      159.899994,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      159.149994,
       0,
       null
     ]

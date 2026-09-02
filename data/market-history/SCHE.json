@@ -1,7 +1,7 @@
 {
   "ticker": "SCHE",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:54:52+00:00",
+  "generatedAt": "2026-09-01T23:51:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25099,6 +25099,12 @@
     [
       "2026-08-31",
       37.0,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      37.09,
       0,
       null
     ]

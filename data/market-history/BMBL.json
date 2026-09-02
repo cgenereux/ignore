@@ -2,7 +2,7 @@
   "ticker": "BMBL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:43:56+00:00",
+  "generatedAt": "2026-09-01T22:44:13+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8374,6 +8374,12 @@
       2.74,
       0,
       361593182
+    ],
+    [
+      "2026-09-01",
+      2.68,
+      0,
+      353675090
     ]
   ],
   "sharesOutstanding": [

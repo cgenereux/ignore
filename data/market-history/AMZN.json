@@ -2,7 +2,7 @@
   "ticker": "AMZN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:43:18+00:00",
+  "generatedAt": "2026-09-01T22:43:36+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44224,6 +44224,12 @@
       259.769989,
       0,
       2801960558096
+    ],
+    [
+      "2026-09-01",
+      254.919998,
+      0,
+      2749647036024
     ]
   ],
   "sharesOutstanding": [

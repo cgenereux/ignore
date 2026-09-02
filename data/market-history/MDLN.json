@@ -2,7 +2,7 @@
   "ticker": "MDLN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:08:51+00:00",
+  "generatedAt": "2026-09-01T23:08:04+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1066,6 +1066,12 @@
       35.029999,
       0,
       30733612096
+    ],
+    [
+      "2026-09-01",
+      35.110001,
+      0,
+      30803801799
     ]
   ],
   "sharesOutstanding": [

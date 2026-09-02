@@ -2,7 +2,7 @@
   "ticker": "QBTS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:06:43+00:00",
+  "generatedAt": "2026-09-01T23:06:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8620,6 +8620,12 @@
       17.200001,
       0,
       6405967132
+    ],
+    [
+      "2026-09-01",
+      16.540001,
+      0,
+      6160156833
     ]
   ],
   "sharesOutstanding": [

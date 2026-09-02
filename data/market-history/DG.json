@@ -2,7 +2,7 @@
   "ticker": "DG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:54:16+00:00",
+  "generatedAt": "2026-09-01T22:54:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -25348,6 +25348,12 @@
       126.75,
       0,
       27963178132
+    ],
+    [
+      "2026-09-01",
+      131.089996,
+      0,
+      28920654193
     ]
   ],
   "sharesOutstanding": [

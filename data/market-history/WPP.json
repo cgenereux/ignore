@@ -2,7 +2,7 @@
   "ticker": "WPP",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:03:46+00:00",
+  "generatedAt": "2026-09-02T00:00:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -58454,6 +58454,12 @@
     [
       "2026-08-31",
       25.58,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      24.77,
       0,
       null
     ]

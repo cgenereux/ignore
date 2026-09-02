@@ -2,7 +2,7 @@
   "ticker": "GLBE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:42:12+00:00",
+  "generatedAt": "2026-09-01T23:39:39+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8000,6 +8000,12 @@
     [
       "2026-08-31",
       37.349998,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      36.990002,
       0,
       null
     ]

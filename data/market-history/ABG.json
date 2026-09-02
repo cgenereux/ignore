@@ -2,7 +2,7 @@
   "ticker": "ABG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:16:28+00:00",
+  "generatedAt": "2026-09-01T23:15:21+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -36898,6 +36898,12 @@
       211.399994,
       0,
       3795035144
+    ],
+    [
+      "2026-09-01",
+      209.360001,
+      0,
+      3758413354
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,7 @@
 {
   "ticker": "FELC",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:39:03+00:00",
+  "generatedAt": "2026-09-01T23:36:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -4183,6 +4183,12 @@
     [
       "2026-08-31",
       43.610001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      43.41,
       0,
       null
     ]

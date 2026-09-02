@@ -1,7 +1,7 @@
 {
   "ticker": "BIDU",
   "currency": "USD",
-  "generatedAt": "2026-08-31T22:46:34+00:00",
+  "generatedAt": "2026-09-01T22:46:42+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -31809,6 +31809,12 @@
       95.279999,
       0,
       32317692260
+    ],
+    [
+      "2026-09-01",
+      94.860001,
+      0,
+      32175234538
     ]
   ],
   "sharesOutstanding": [

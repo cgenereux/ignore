@@ -2,7 +2,7 @@
   "ticker": "LSTR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:13:47+00:00",
+  "generatedAt": "2026-09-01T23:12:52+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50590,6 +50590,12 @@
       180.630005,
       0,
       6130026928
+    ],
+    [
+      "2026-09-01",
+      175.410004,
+      0,
+      5952876139
     ]
   ],
   "sharesOutstanding": [

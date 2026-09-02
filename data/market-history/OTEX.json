@@ -1,7 +1,7 @@
 {
   "ticker": "OTEX",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:24:15+00:00",
+  "generatedAt": "2026-09-01T23:22:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46207,6 +46207,12 @@
     [
       "2026-08-31",
       24.93,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      23.84,
       0,
       null
     ]

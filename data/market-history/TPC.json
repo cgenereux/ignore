@@ -2,7 +2,7 @@
   "ticker": "TPC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:25:47+00:00",
+  "generatedAt": "2026-09-01T23:24:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80680,6 +80680,12 @@
       88.519997,
       0,
       4657453333
+    ],
+    [
+      "2026-09-01",
+      86.540001,
+      0,
+      4553276446
     ]
   ],
   "sharesOutstanding": [

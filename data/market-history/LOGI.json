@@ -2,7 +2,7 @@
   "ticker": "LOGI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:13:45+00:00",
+  "generatedAt": "2026-09-01T23:12:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44428,6 +44428,12 @@
       98.690002,
       0,
       14131256835
+    ],
+    [
+      "2026-09-01",
+      98.07,
+      0,
+      14042479676
     ]
   ],
   "sharesOutstanding": [

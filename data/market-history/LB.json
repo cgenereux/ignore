@@ -2,7 +2,7 @@
   "ticker": "LB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:23:31+00:00",
+  "generatedAt": "2026-09-01T23:22:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -3280,6 +3280,12 @@
       87.580002,
       0,
       2487664766
+    ],
+    [
+      "2026-09-01",
+      85.839996,
+      0,
+      2438240803
     ]
   ],
   "sharesOutstanding": [

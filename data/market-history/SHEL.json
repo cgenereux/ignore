@@ -2,7 +2,7 @@
   "ticker": "SHEL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:47:38+00:00",
+  "generatedAt": "2026-09-01T22:47:43+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -64216,6 +64216,12 @@
       91.449997,
       0,
       251790463161
+    ],
+    [
+      "2026-09-01",
+      93.510002,
+      0,
+      257462302174
     ]
   ],
   "sharesOutstanding": [

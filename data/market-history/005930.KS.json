@@ -2,7 +2,7 @@
   "ticker": "005930.KS",
   "currency": "KRW",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-28T06:33:06+00:00",
+  "generatedAt": "2026-09-01T23:24:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39986,6 +39986,18 @@
     [
       "2026-08-28",
       257250.0,
+      0,
+      null
+    ],
+    [
+      "2026-08-31",
+      260000.0,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      261000.0,
       0,
       null
     ]

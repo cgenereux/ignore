@@ -2,7 +2,7 @@
   "ticker": "CBRE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:57:03+00:00",
+  "generatedAt": "2026-09-01T22:56:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -33556,6 +33556,12 @@
       145.809998,
       0,
       42222973494
+    ],
+    [
+      "2026-09-01",
+      144.460007,
+      0,
+      41832049493
     ]
   ],
   "sharesOutstanding": [

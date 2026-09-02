@@ -2,7 +2,7 @@
   "ticker": "PZZA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:15:13+00:00",
+  "generatedAt": "2026-09-01T23:14:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50182,6 +50182,12 @@
       23.48,
       0,
       772539274
+    ],
+    [
+      "2026-09-01",
+      22.709999,
+      0,
+      747204708
     ]
   ],
   "sharesOutstanding": [

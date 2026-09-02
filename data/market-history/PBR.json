@@ -2,7 +2,7 @@
   "ticker": "PBR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:47:42+00:00",
+  "generatedAt": "2026-09-01T22:47:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -39322,6 +39322,12 @@
       19.35,
       0,
       124698491931
+    ],
+    [
+      "2026-09-01",
+      20.33,
+      0,
+      131013968034
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "DOCN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:08:32+00:00",
+  "generatedAt": "2026-09-01T23:07:47+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8206,6 +8206,12 @@
       110.690002,
       0,
       12940557432
+    ],
+    [
+      "2026-09-01",
+      108.919998,
+      0,
+      12733629602
     ]
   ],
   "sharesOutstanding": [

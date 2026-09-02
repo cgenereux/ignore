@@ -1,7 +1,7 @@
 {
   "ticker": "VBK",
   "currency": "USD",
-  "generatedAt": "2026-09-01T00:00:55+00:00",
+  "generatedAt": "2026-09-01T23:57:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -34099,6 +34099,12 @@
     [
       "2026-08-31",
       350.23999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      344.630005,
       0,
       null
     ]

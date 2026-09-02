@@ -2,7 +2,7 @@
   "ticker": "IGIB",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:44:34+00:00",
+  "generatedAt": "2026-09-01T23:41:53+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29648,6 +29648,12 @@
     [
       "2026-08-31",
       52.189999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      51.73,
       0,
       null
     ]

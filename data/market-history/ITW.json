@@ -2,7 +2,7 @@
   "ticker": "ITW",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:54:55+00:00",
+  "generatedAt": "2026-09-01T22:54:50+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -80896,6 +80896,12 @@
       275.369995,
       0,
       78425374609
+    ],
+    [
+      "2026-09-01",
+      269.880005,
+      0,
+      76861825391
     ]
   ],
   "sharesOutstanding": [

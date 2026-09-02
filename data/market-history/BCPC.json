@@ -2,7 +2,7 @@
   "ticker": "BCPC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:24:27+00:00",
+  "generatedAt": "2026-09-01T23:22:55+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60844,6 +60844,12 @@
       175.889999,
       0,
       5607025082
+    ],
+    [
+      "2026-09-01",
+      173.309998,
+      0,
+      5524779742
     ]
   ],
   "sharesOutstanding": [

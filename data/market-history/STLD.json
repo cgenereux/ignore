@@ -2,7 +2,7 @@
   "ticker": "STLD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:04:30+00:00",
+  "generatedAt": "2026-09-01T23:03:56+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -44938,6 +44938,12 @@
       232.619995,
       0,
       33340979131
+    ],
+    [
+      "2026-09-01",
+      234.089996,
+      0,
+      33551671595
     ]
   ],
   "sharesOutstanding": [

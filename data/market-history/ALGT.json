@@ -2,7 +2,7 @@
   "ticker": "ALGT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:12:09+00:00",
+  "generatedAt": "2026-09-01T23:11:17+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -29758,6 +29758,12 @@
       76.050003,
       0,
       2079036351
+    ],
+    [
+      "2026-09-01",
+      72.410004,
+      0,
+      1979526940
     ]
   ],
   "sharesOutstanding": [

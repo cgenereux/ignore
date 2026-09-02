@@ -2,7 +2,7 @@
   "ticker": "CSU.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:47:11+00:00",
+  "generatedAt": "2026-09-01T22:47:18+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -28390,6 +28390,12 @@
       3138.719971,
       0,
       66514278421
+    ],
+    [
+      "2026-09-01",
+      3050.0,
+      0,
+      64634166500
     ]
   ],
   "sharesOutstanding": [

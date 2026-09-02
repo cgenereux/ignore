@@ -2,7 +2,7 @@
   "ticker": "USAC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:15:00+00:00",
+  "generatedAt": "2026-09-01T23:14:00+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -20572,6 +20572,12 @@
       27.059999,
       0,
       3922166771
+    ],
+    [
+      "2026-09-01",
+      27.200001,
+      0,
+      3942459095
     ]
   ],
   "sharesOutstanding": [

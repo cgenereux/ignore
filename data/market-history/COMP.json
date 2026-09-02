@@ -1,7 +1,7 @@
 {
   "ticker": "COMP",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:20:50+00:00",
+  "generatedAt": "2026-09-01T23:19:29+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8167,6 +8167,12 @@
     [
       "2026-08-31",
       10.56,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      10.33,
       0,
       null
     ]

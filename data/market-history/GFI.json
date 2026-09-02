@@ -1,7 +1,7 @@
 {
   "ticker": "GFI",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:41:58+00:00",
+  "generatedAt": "2026-09-01T23:39:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70261,6 +70261,12 @@
     [
       "2026-08-31",
       46.369999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      44.66,
       0,
       null
     ]

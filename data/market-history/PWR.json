@@ -2,7 +2,7 @@
   "ticker": "PWR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:03:32+00:00",
+  "generatedAt": "2026-09-01T23:02:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -43096,6 +43096,12 @@
       607.090027,
       0,
       91271974494
+    ],
+    [
+      "2026-09-01",
+      611.390015,
+      0,
+      91918449249
     ]
   ],
   "sharesOutstanding": [

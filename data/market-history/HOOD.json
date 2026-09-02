@@ -2,7 +2,7 @@
   "ticker": "HOOD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:44:42+00:00",
+  "generatedAt": "2026-09-01T22:44:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7678,6 +7678,12 @@
       104.809998,
       0,
       94232810838
+    ],
+    [
+      "2026-09-01",
+      103.510002,
+      0,
+      93064007999
     ]
   ],
   "sharesOutstanding": [

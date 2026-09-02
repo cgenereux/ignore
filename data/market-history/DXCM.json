@@ -2,7 +2,7 @@
   "ticker": "DXCM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:58:09+00:00",
+  "generatedAt": "2026-09-01T22:57:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -32284,6 +32284,12 @@
       91.059998,
       0,
       34362470340
+    ],
+    [
+      "2026-09-01",
+      90.139999,
+      0,
+      34015299127
     ]
   ],
   "sharesOutstanding": [

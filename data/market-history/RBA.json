@@ -2,7 +2,7 @@
   "ticker": "RBA",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:19:24+00:00",
+  "generatedAt": "2026-09-01T23:18:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -42994,6 +42994,12 @@
       84.580002,
       0,
       15664216339
+    ],
+    [
+      "2026-09-01",
+      82.75,
+      0,
+      15325300000
     ]
   ],
   "sharesOutstanding": [

@@ -1,7 +1,8 @@
 {
   "ticker": "BLLN",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:31:05+00:00",
+  "marketCapCurrency": "USD",
+  "generatedAt": "2026-09-01T23:29:10+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1223,14 +1224,14 @@
       null
     ],
     [
-      "2026-08-28",
-      93.239998,
+      "2026-08-31",
+      90.669998,
       0,
       null
     ],
     [
-      "2026-08-31",
-      90.669998,
+      "2026-09-01",
+      92.32,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "RF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:03:45+00:00",
+  "generatedAt": "2026-09-01T23:03:11+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       29.879999,
       0,
       25455652924
+    ],
+    [
+      "2026-09-01",
+      29.290001,
+      0,
+      24953016011
     ]
   ],
   "sharesOutstanding": [

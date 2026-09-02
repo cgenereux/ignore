@@ -1,7 +1,7 @@
 {
   "ticker": "FJIKY",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:39:34+00:00",
+  "generatedAt": "2026-09-01T23:37:06+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -1759,6 +1759,12 @@
     [
       "2026-08-31",
       17.15,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      15.95,
       0,
       null
     ]

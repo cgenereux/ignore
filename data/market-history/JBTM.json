@@ -2,7 +2,7 @@
   "ticker": "JBTM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:23:38+00:00",
+  "generatedAt": "2026-09-01T23:22:09+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -27346,6 +27346,12 @@
       116.870003,
       0,
       6062843758
+    ],
+    [
+      "2026-09-01",
+      116.400002,
+      0,
+      6038461578
     ]
   ],
   "sharesOutstanding": [

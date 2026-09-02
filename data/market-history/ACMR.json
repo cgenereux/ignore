@@ -1,7 +1,7 @@
 {
   "ticker": "ACMR",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:24:04+00:00",
+  "generatedAt": "2026-09-01T23:22:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13309,6 +13309,12 @@
     [
       "2026-08-31",
       72.82,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      70.040001,
       0,
       null
     ]

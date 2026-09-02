@@ -2,7 +2,7 @@
   "ticker": "PAG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:10:15+00:00",
+  "generatedAt": "2026-09-01T23:09:24+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -45070,6 +45070,12 @@
       216.589996,
       0,
       14221921423
+    ],
+    [
+      "2026-09-01",
+      216.919998,
+      0,
+      14243590291
     ]
   ],
   "sharesOutstanding": [

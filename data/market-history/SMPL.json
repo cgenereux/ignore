@@ -2,7 +2,7 @@
   "ticker": "SMPL",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:18:04+00:00",
+  "generatedAt": "2026-09-01T23:16:51+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -13804,6 +13804,12 @@
       11.45,
       0,
       1012651803
+    ],
+    [
+      "2026-09-01",
+      11.38,
+      0,
+      1006460946
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "TJX",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:45:15+00:00",
+  "generatedAt": "2026-09-01T22:45:28+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -59224,6 +59224,12 @@
       133.910004,
       0,
       147930976409
+    ],
+    [
+      "2026-09-01",
+      133.270004,
+      0,
+      147223966238
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "JELD",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:16:02+00:00",
+  "generatedAt": "2026-09-01T23:14:57+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -14458,6 +14458,12 @@
       2.39,
       0,
       207364492
+    ],
+    [
+      "2026-09-01",
+      2.17,
+      0,
+      188276546
     ]
   ],
   "sharesOutstanding": [

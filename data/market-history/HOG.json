@@ -2,7 +2,7 @@
   "ticker": "HOG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:13:26+00:00",
+  "generatedAt": "2026-09-01T23:12:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -60700,6 +60700,12 @@
       27.6,
       0,
       2872401233
+    ],
+    [
+      "2026-09-01",
+      27.15,
+      0,
+      2825568525
     ]
   ],
   "sharesOutstanding": [

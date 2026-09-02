@@ -2,7 +2,7 @@
   "ticker": "GIS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:54:27+00:00",
+  "generatedAt": "2026-09-01T22:54:23+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       41.200001,
       0,
       22026734654
+    ],
+    [
+      "2026-09-01",
+      41.09,
+      0,
+      21967925086
     ]
   ],
   "sharesOutstanding": [

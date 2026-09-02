@@ -1,7 +1,7 @@
 {
   "ticker": "XAR",
   "currency": "USD",
-  "generatedAt": "2026-09-01T00:04:01+00:00",
+  "generatedAt": "2026-09-02T00:00:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -22513,6 +22513,12 @@
     [
       "2026-08-31",
       256.519989,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      252.039993,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "FCFS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:20:45+00:00",
+  "generatedAt": "2026-09-01T23:19:25+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -53230,6 +53230,12 @@
       214.470001,
       0,
       9301949989
+    ],
+    [
+      "2026-09-01",
+      215.559998,
+      0,
+      9349225102
     ]
   ],
   "sharesOutstanding": [

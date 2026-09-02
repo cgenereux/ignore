@@ -2,7 +2,7 @@
   "ticker": "GEF",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:41:53+00:00",
+  "generatedAt": "2026-09-01T23:39:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -46064,6 +46064,12 @@
     [
       "2026-08-31",
       82.75,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      83.089996,
       0,
       null
     ]

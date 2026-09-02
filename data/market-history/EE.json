@@ -2,7 +2,7 @@
   "ticker": "EE",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:36:41+00:00",
+  "generatedAt": "2026-09-01T23:34:22+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -6584,6 +6584,12 @@
     [
       "2026-08-31",
       39.619999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      39.009998,
       0,
       null
     ]

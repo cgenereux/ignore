@@ -2,7 +2,7 @@
   "ticker": "PTC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:03:26+00:00",
+  "generatedAt": "2026-09-01T23:02:54+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -55498,6 +55498,12 @@
       155.740005,
       0,
       16898765684
+    ],
+    [
+      "2026-09-01",
+      152.809998,
+      0,
+      16580841479
     ]
   ],
   "sharesOutstanding": [

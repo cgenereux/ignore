@@ -1,7 +1,7 @@
 {
   "ticker": "CNM",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:33:50+00:00",
+  "generatedAt": "2026-09-01T23:31:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -7705,6 +7705,12 @@
     [
       "2026-08-31",
       42.959999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      42.07,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "WEN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:06:09+00:00",
+  "generatedAt": "2026-09-02T00:02:37+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70052,6 +70052,12 @@
     [
       "2026-08-31",
       8.3,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      8.27,
       0,
       null
     ]

@@ -2,7 +2,7 @@
   "ticker": "MTCH",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:46:32+00:00",
+  "generatedAt": "2026-09-01T22:46:40+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -50782,6 +50782,12 @@
       40.650002,
       0,
       9482284638
+    ],
+    [
+      "2026-09-01",
+      41.91,
+      0,
+      9776200069
     ]
   ],
   "sharesOutstanding": [

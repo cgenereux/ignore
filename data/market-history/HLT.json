@@ -2,7 +2,7 @@
   "ticker": "HLT",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:45:33+00:00",
+  "generatedAt": "2026-09-01T22:45:46+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -19192,6 +19192,12 @@
       316.279999,
       0,
       71183529460
+    ],
+    [
+      "2026-09-01",
+      311.98999,
+      0,
+      70217999073
     ]
   ],
   "sharesOutstanding": [

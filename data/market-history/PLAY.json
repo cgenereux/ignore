@@ -2,7 +2,7 @@
   "ticker": "PLAY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:15:16+00:00",
+  "generatedAt": "2026-09-01T23:14:15+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -17932,6 +17932,12 @@
       8.97,
       0,
       312054594
+    ],
+    [
+      "2026-09-01",
+      8.45,
+      0,
+      293964458
     ]
   ],
   "sharesOutstanding": [

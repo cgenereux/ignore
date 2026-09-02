@@ -2,7 +2,7 @@
   "ticker": "AXSM",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:11:05+00:00",
+  "generatedAt": "2026-09-01T23:10:12+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -16264,6 +16264,12 @@
       198.520004,
       0,
       10398640213
+    ],
+    [
+      "2026-09-01",
+      202.830002,
+      0,
+      10624401411
     ]
   ],
   "sharesOutstanding": [

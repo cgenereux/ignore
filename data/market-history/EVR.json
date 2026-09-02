@@ -2,7 +2,7 @@
   "ticker": "EVR",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:16:42+00:00",
+  "generatedAt": "2026-09-01T23:15:33+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -30268,6 +30268,12 @@
       286.429993,
       0,
       11015461083
+    ],
+    [
+      "2026-09-01",
+      286.230011,
+      0,
+      11007770219
     ]
   ],
   "sharesOutstanding": [

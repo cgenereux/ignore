@@ -2,7 +2,7 @@
   "ticker": "QXO",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:52:57+00:00",
+  "generatedAt": "2026-09-01T23:49:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21692,6 +21692,12 @@
     [
       "2026-08-31",
       13.28,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      12.88,
       0,
       null
     ]

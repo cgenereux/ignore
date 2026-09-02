@@ -2,7 +2,7 @@
   "ticker": "DDOG",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:52:42+00:00",
+  "generatedAt": "2026-09-01T22:52:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10486,6 +10486,12 @@
       237.039993,
       0,
       85115141278
+    ],
+    [
+      "2026-09-01",
+      223.839996,
+      0,
+      80375352057
     ]
   ],
   "sharesOutstanding": [

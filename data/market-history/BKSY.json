@@ -2,7 +2,7 @@
   "ticker": "BKSY",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:12:27+00:00",
+  "generatedAt": "2026-09-01T23:11:35+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -10090,6 +10090,12 @@
       23.1,
       0,
       945363958
+    ],
+    [
+      "2026-09-01",
+      21.450001,
+      0,
+      877837978
     ]
   ],
   "sharesOutstanding": [

@@ -2,7 +2,7 @@
   "ticker": "AMGN",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T22:52:59+00:00",
+  "generatedAt": "2026-09-01T22:53:02+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -65326,6 +65326,12 @@
       429.880005,
       0,
       232406888949
+    ],
+    [
+      "2026-09-01",
+      438.119995,
+      0,
+      236861691391
     ]
   ],
   "sharesOutstanding": [

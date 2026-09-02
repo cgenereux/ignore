@@ -2,7 +2,7 @@
   "ticker": "RSI",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:14:40+00:00",
+  "generatedAt": "2026-09-01T23:13:41+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -9580,6 +9580,12 @@
       25.76,
       0,
       2978534699
+    ],
+    [
+      "2026-09-01",
+      25.75,
+      0,
+      2977378435
     ]
   ],
   "sharesOutstanding": [

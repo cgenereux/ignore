@@ -2,7 +2,7 @@
   "ticker": "VGRO.TO",
   "currency": "CAD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:01:40+00:00",
+  "generatedAt": "2026-09-01T23:58:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -12926,6 +12926,12 @@
     [
       "2026-08-31",
       47.799999,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      47.52,
       0,
       null
     ]

@@ -1,7 +1,7 @@
 {
   "ticker": "PRAX",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:20:14+00:00",
+  "generatedAt": "2026-09-01T23:18:58+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -8851,6 +8851,12 @@
     [
       "2026-08-31",
       350.299988,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      353.440002,
       0,
       null
     ]

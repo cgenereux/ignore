@@ -1,7 +1,7 @@
 {
   "ticker": "ENLT",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:37:21+00:00",
+  "generatedAt": "2026-09-01T23:34:59+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -5515,6 +5515,12 @@
     [
       "2026-08-31",
       78.135002,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      74.93,
       0,
       null
     ]

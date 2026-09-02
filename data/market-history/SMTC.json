@@ -2,7 +2,7 @@
   "ticker": "SMTC",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:10:38+00:00",
+  "generatedAt": "2026-09-01T23:09:45+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -70264,6 +70264,12 @@
       132.960007,
       0,
       12385379923
+    ],
+    [
+      "2026-09-01",
+      132.270004,
+      0,
+      12321105389
     ]
   ],
   "sharesOutstanding": [

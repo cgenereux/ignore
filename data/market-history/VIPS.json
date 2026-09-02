@@ -2,7 +2,7 @@
   "ticker": "VIPS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-09-01T00:01:53+00:00",
+  "generatedAt": "2026-09-01T23:58:31+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -21787,6 +21787,12 @@
     ],
     [
       "2026-08-31",
+      13.1,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
       13.1,
       0,
       null

@@ -2,7 +2,7 @@
   "ticker": "PLXS",
   "currency": "USD",
   "marketCapCurrency": "USD",
-  "generatedAt": "2026-08-31T23:22:03+00:00",
+  "generatedAt": "2026-09-01T23:20:38+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -61330,6 +61330,12 @@
       239.470001,
       0,
       6382378180
+    ],
+    [
+      "2026-09-01",
+      238.570007,
+      0,
+      6358391454
     ]
   ],
   "sharesOutstanding": [

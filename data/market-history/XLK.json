@@ -1,7 +1,7 @@
 {
   "ticker": "XLK",
   "currency": "USD",
-  "generatedAt": "2026-09-01T00:04:28+00:00",
+  "generatedAt": "2026-09-02T00:01:01+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -41791,6 +41791,12 @@
     [
       "2026-08-31",
       186.5,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      183.639999,
       0,
       null
     ]

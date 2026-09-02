@@ -1,7 +1,7 @@
 {
   "ticker": "PCTY",
   "currency": "USD",
-  "generatedAt": "2026-08-31T23:14:16+00:00",
+  "generatedAt": "2026-09-01T23:13:19+00:00",
   "source": "Yahoo Finance via yfinance",
   "schema": [
     "date",
@@ -18799,6 +18799,12 @@
     [
       "2026-08-31",
       160.220001,
+      0,
+      null
+    ],
+    [
+      "2026-09-01",
+      156.020004,
       0,
       null
     ]
